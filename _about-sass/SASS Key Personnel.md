@@ -186,6 +186,41 @@ description: ""
     <td>Subject Head / PE & CCA</td>
   </tr>
   <tr>
+		  <tr>			  <tr>
+    <td>Mr Mohamed Osman</td>
+    <td>Senior Teacher / PE & CCA</td>
+  </tr>
+  <tr>
+		  <tr>			  <tr>
+    <td>Mr Jimmy Gan</td>
+    <td>Head of Department / Discipline</td>
+  </tr>
+  <tr>
+		  <tr>			  <tr>
+    <td>Mr Udayakumar</td>
+    <td>Subject Head / Discipline & Staff Development</td>
+  </tr>
+  <tr>
+		  <tr>			  <tr>
+    <td>Mr Daniel Thiam</td>
+    <td>Subject Head / Discipline (Covering)</td>
+  </tr>
+  <tr>
+		  <tr>			  <tr>
+    <td>Mr Lim Huey Min</td>
+    <td>Administration Manager</td>
+  </tr>
+  <tr>
+		  <tr>			  <tr>
+    <td>Ms Chan Ying Xian</td>
+    <td>Administration Manager</td>
+  </tr>
+  <tr>
+		  <tr>
+		  <tr>			  <tr>
+    <td>Mr C Bhonesveran</td>
+    <td>Operations Manager</td>
+  </tr>
 		
 	</tbody>
 </table>
