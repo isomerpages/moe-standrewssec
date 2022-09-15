@@ -2,6 +2,7 @@ collections:
   general-informaition:
     output: true
     order:
+      - For Students.md
       - Blended Learning/2022 NPLP Parents Slides.md
       - Blended Learning/Resources For Parents.md
       - Blended Learning/.keep
