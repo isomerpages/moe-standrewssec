@@ -61,3 +61,33 @@ Play the game! Keep the flame
 Burning brightly ever!  
   
 \- John Oxenham -
+
+### School Hymn
+![](/images/hymn.jpg)
+
+Our Father, by whose servants,  
+Our School was built of old,  
+Whose hand has crowned Thy children,  
+With blessings manifold;  
+For Thine unfailing mercies,  
+Far strewn along our way,  
+With all who passed before us,  
+We praise Thy name today.  
+  
+They reaped not where they laboured,  
+We reap what they have sown;  
+Our harvest may be garnered,  
+By ages yet unknown.  
+The days of old have dowered us  
+With gifts beyond all praise,  
+Our Father make us faithful  
+To serve the coming days.  
+  
+Before us and beside us,  
+Still holden by Thy hand,  
+A cloud of unseen witness,  
+Our elder comrades stand;  
+One family unbroken,  
+We join with one acclaim;  
+One heart, one voice uplifting  
+To glorify Thy Name.
