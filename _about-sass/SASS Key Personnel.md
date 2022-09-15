@@ -221,7 +221,5 @@ description: ""
     <td>Mr C Bhonesveran</td>
     <td>Operations Manager</td>
   </tr>
-		
-	</tbody>
 </table>
 <br>
