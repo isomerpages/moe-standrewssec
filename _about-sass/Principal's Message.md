@@ -30,4 +30,3 @@ Regards,
 **Mr Lee Han Hwa**
 
 **Principal of St Andrew’s Secondary School**
-	
