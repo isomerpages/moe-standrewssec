@@ -2,6 +2,7 @@ collections:
   about-sass:
     output: true
     order:
+      - Our School/Our School.md
       - Our School/.keep
       - School History.md
       - Our School Badge.md
