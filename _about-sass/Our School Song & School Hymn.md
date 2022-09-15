@@ -52,3 +52,12 @@ Up and On!
   </tr>
 </tbody>
 </table>
+
+**CHORUS**
+
+Up Boys! Truest fame  
+Lies in high endeavour;  
+Play the game! Keep the flame  
+Burning brightly ever!  
+  
+\- John Oxenham -
