@@ -2,6 +2,7 @@ collections:
   about-sass:
     output: true
     order:
+      - SASS Corporate Video.md
       - Privacy Policy.md
       - Achievements.md
       - Our School.md
