@@ -137,42 +137,56 @@ description: ""
     <td>Senior Teacher / Social Studies</td>
   </tr>
   <tr>
-				  <tr>
     <td>Mdm Josephine Phua</td>
-    <td>Senior Teacher / Literature</td>
-  </tr>
-  <tr>			  <tr>
-    <td>Ms Theeba Thayalan</td>
     <td>Head of Department / Information Communications Technology</td>
   </tr>
   <tr>
 				  <tr>
-    <td>Mr Liang Sea Fong</td>
-    <td>Senior Teacher / Literature</td>
+    <td>Ms Janice Koh</td>
+    <td>Head of Department / Mathematics (Covering)</td>
   </tr>
   <tr>			  <tr>
-    <td>Ms Theeba Thayalan</td>
-    <td>Subject Head / Mother Tongue Languages</td>
+    <td>Ms Angel Lee</td>
+    <td>Subject Head / Mathematics</td>
   </tr>
   <tr>
 				  <tr>
-    <td>Mr Liang Sea Fong</td>
-    <td>Senior Teacher / Literature</td>
+    <td>Mrs Low Geok Peng</td>
+    <td>Head of Department / Science</td>
   </tr>
   <tr>			  <tr>
-    <td>Ms Theeba Thayalan</td>
-    <td>Subject Head / Mother Tongue Languages</td>
+    <td>Mr Gene Yeo</td>
+    <td>Subject Head / Applied Learning & Innovation</td>
   </tr>
   <tr>
 				  <tr>
-    <td>Mr Liang Sea Fong</td>
-    <td>Senior Teacher / Literature</td>
+    <td>Ms Angeline Ler</td>
+    <td>Subject Head / Science</td>
   </tr>
   <tr>			  <tr>
-    <td>Ms Theeba Thayalan</td>
-    <td>Subject Head / Mother Tongue Languages</td>
+    <td>Mrs Carol Yap</td>
+    <td>Year Head / Sec 2 & 3</td>
   </tr>
   <tr>
+			  <tr>
+    <td>Mr Chuah Chongxian</td>
+    <td>Year Head / Sec 1, 4 & 5</td>
+  </tr>
+  <tr>			  <tr>
+    <td>Ms Keh Hui Hui</td>
+    <td>Assistant Year Head / Sec 2</td>
+  </tr>
+  <tr>
+			  <tr>
+    <td>Mr Prinya Lovajana</td>
+    <td>Assistant Year Head / Sec 4 & 5</td>
+  </tr>
+  <tr>			  <tr>
+    <td>Mr Aaron Kong</td>
+    <td>Subject Head / PE & CCA</td>
+  </tr>
+  <tr>
+		
 	</tbody>
 </table>
 <br>
