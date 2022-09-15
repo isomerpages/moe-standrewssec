@@ -2,4 +2,5 @@ collections:
   about-sass:
     output: true
     order:
+      - Our School/Example Title.md
       - Our School/.keep
