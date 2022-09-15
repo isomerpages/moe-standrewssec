@@ -7,7 +7,7 @@ description: ""
 
 <div style="float: left">
 
-![](/images/principal.jpg)
+<img src="/images/principal.jpg"/>
 
 </div><div>
 
