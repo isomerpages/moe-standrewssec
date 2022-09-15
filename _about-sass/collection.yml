@@ -2,7 +2,6 @@ collections:
   about-sass:
     output: true
     order:
-      - Mission, Vision, Values.md
       - Our School.md
       - School History.md
       - Our School Badge.md
@@ -11,3 +10,4 @@ collections:
       - Principal's Message.md
       - SASS Key Personnel.md
       - Form Teachers.md
+      - Mission, Vision, Values.md
