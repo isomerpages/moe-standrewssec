@@ -3,6 +3,8 @@ title: Our School
 permalink: /about-sass/our-school/
 description: ""
 ---
+![](/images/About%20SASS%20-_%20Our%20School.jpg)
+
 St Andrew’s School was the first Anglican school for boys to be founded in Singapore in 1862 by Rev Edward Sherman Venn. The humble, small, semi-private institution has gone from strength to strength ever since.   
 
 Our school has moved 5 times to better provide for the growing number of students we serve. The most significant would be the move to our current premises in 2006, which has brought all the schools in the St Andrew’s family under one roof at St Andrew’s Village (SAV). Since then, campus enhancements include the construction of a swimming pool, artificial grass pitch for rugby and artificial turf for hockey. To support the growth of our athletes, we also have an in-house physiotherapy clinic and gym. As of 2019, the school boasts an Indoor Sports Hall double the capacity of a regular hall, to cater to the schools in the SAV.   
