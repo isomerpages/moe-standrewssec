@@ -4,7 +4,7 @@ permalink: /general-informaition/Resources-For-Parents/
 description: ""
 third_nav_title: Blended Learning
 ---
-[Parents Handbook (I)](d%20Learning/Resources%20for%20Parents/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
+[Parents Handbook (I)](https://standrewssec.moe.edu.sg/qql/slot/u181/Blend%20Learning/Resources%20for%20Parents/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
 
 [Parents Handbook (II)](https://standrewssec.moe.edu.sg/qql/slot/u181/Blend%20Learning/Resources%20for%20Parents/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
 
