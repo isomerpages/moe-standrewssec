@@ -1,5 +1,4 @@
 collections:
   about-sass:
     output: true
-    order:
-      - Our School/.keep
+    order: []
