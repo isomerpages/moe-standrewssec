@@ -48,3 +48,15 @@ If your child/ward is eligible for Higher Mother Tongue or Third Language, our s
 
 **10\. How can my child/ward purchase his textbooks and uniform?  
 **Your child/ward is encourage to make these purchases online through the vendor's website **[here](https://www.printpak.com.sg/)**. If he needs to patronise the bookshop, the time schedule for Sec 1s is:
+
+![](/images/download.png)
+
+Note that your child/ward should be accompanied by at most one parent/guardian, and SafeEntry and temperature screening will be conducted at the security post. **  
+11\. Which PE T-shirt does my child/ward buy?**
+
+Ex-SAJS students will remain in their respective houses allocated when they were in the Junior School. Non-SAJS students will be allocated as follows:
+
+![](/images/peshirt.jpg)
+
+**12\. How can I contact the school for further enquiries?  
+**You may email us at sass@moe.edu.sg or submit your enquiries **[](https://standrewssec.moe.edu.sg/goog_236794786)** [**here**](https://tinyurl.com/Sass2022S1Enquiry) via this link to FormSG (from 23 to 30 Dec 2021).
