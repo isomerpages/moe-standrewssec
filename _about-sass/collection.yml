@@ -2,6 +2,7 @@ collections:
   about-sass:
     output: true
     order:
+      - Our People.md
       - Our School Badge.md
       - Our School Song & School Hymn.md
       - School History.md
