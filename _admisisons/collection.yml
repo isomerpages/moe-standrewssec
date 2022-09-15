@@ -2,4 +2,5 @@ collections:
   admisisons:
     output: true
     order:
+      - 2022 Sec One Admissions.md
       - Direct School Admissions 2022.md
