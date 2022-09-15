@@ -1,4 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About sass
+  - title: About SASS
     collection: about-sass
+  - title: Menu Title
+    collection: the-saints-experience
