@@ -2,8 +2,6 @@ collections:
   about-sass:
     output: true
     order:
-      - SASS Corporate Video.md
-      - Privacy Policy.md
       - Achievements.md
       - Our School.md
       - School History.md
@@ -15,3 +13,5 @@ collections:
       - Form Teachers.md
       - Mission, Vision, Values.md
       - School Magazines.md
+      - Privacy Policy.md
+      - SASS Corporate Video.md
