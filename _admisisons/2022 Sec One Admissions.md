@@ -157,3 +157,49 @@ Parents seeking transfer for Secondary 1 are to email the following documents in
 ·   Sec 1 Posting Results
 
 Any other relevant documents (e.g.: PACT Result Slip)
+
+****PSLE Score Range of 2022 Secondary 1****
+
+
+
+| | Affiliation | Non-Affiliation |
+| -------- | -------- | -------- |
+| Express     | 22     | 10     |
+| Normal (Academic)     | 25  | 22   |
+| Normal (Technical)    | 28     | 27    |
+
+**Affiliated School: St Andrew’s Junior School**
+
+First day of school
+-------------------
+
+(Finalised info will be provided in  on school website & parents will receive PG announce-ment during last week of Dec)  
+  
+
+The academic year will commence on 4 Jan 2022, Tues.
+
+Reporting venue:
+
+Sec 1s:
+
+*   Ex-SAJS students are to report to their Sec 1 Form Teachers at 7.20am at the SAJS Hall and
+*   non SAJS students are to report to their other Sec 1 Form Teachers at 7.20am at the Secondary School Hall
+
+Sec 2s to 5s:
+
+*   Students are to report to their Form Teachers at 7.20am at the 2022 classrooms
+
+Attire:
+
+*   School Uniform (bring along the school tie)
+
+Things to bring:
+
+*   Thermometer
+*   Saints Companion
+*   A book to read
+*   Stationery (pen and paper)
+
+ Dismissal time:
+
+*   1pm
