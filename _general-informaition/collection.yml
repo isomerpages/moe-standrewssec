@@ -2,4 +2,5 @@ collections:
   general-informaition:
     output: true
     order:
+      - e Open House.md
       - School Calendar.md
