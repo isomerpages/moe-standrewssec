@@ -2,11 +2,11 @@ collections:
   about-sass:
     output: true
     order:
-      - Our People/Form Teachers.md
-      - Our People/SASS Key Personnel.md
-      - Our People/Principal's Message.md
-      - Our People/Our People.md
       - Our People/.keep
+      - Our People/Our People.md
+      - Our People/Principal's Message.md
+      - Our People/SASS Key Personnel.md
+      - Our People/Form Teachers.md
       - Our School/.keep
       - Our School/Our School.md
       - Our School/School History.md
