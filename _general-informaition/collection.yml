@@ -2,5 +2,6 @@ collections:
   general-informaition:
     output: true
     order:
+      - Blended Learning/.keep
       - e Open House.md
       - School Calendar.md
