@@ -2,8 +2,8 @@ collections:
   about-sass:
     output: true
     order:
-      - Our School/Our School Badge.md
-      - Our School/Our School Song & School Hymn.md
-      - Our School/School History.md
-      - Our School/Our School.md
       - Our School/.keep
+      - Our School/Our School.md
+      - Our School/School History.md
+      - Our School/Our School Song & School Hymn.md
+      - Our School/Our School Badge.md
