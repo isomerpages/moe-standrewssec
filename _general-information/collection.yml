@@ -1,5 +1,5 @@
 collections:
-  general-informaition:
+  general-information:
     output: true
     order:
       - For Students.md
