@@ -1,0 +1,4 @@
+collections:
+  about-sass:
+    output: true
+    order: []
