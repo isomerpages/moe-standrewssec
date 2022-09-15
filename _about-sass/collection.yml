@@ -2,7 +2,6 @@ collections:
   about-sass:
     output: true
     order:
-      - Form Teachers.md
       - Our School.md
       - School History.md
       - Our School Badge.md
@@ -10,3 +9,4 @@ collections:
       - Our People.md
       - Principal's Message.md
       - SASS Key Personnel.md
+      - Form Teachers.md
