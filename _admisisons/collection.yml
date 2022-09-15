@@ -1,4 +1,5 @@
 collections:
   admisisons:
     output: true
-    order: []
+    order:
+      - Direct School Admissions 2022.md
