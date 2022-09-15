@@ -2,4 +2,5 @@ collections:
   about-sass:
     output: true
     order:
+      - School History.md
       - Our School.md
