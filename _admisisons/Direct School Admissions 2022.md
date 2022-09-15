@@ -3,7 +3,6 @@ title: Direct School Admissions 2022
 permalink: /admisisons/Direct-School-Admissions-2022/
 description: ""
 ---
-  
 Admission Criteria for DSA (LLP and ALP)
 -------------------------------------------
 
@@ -16,4 +15,3 @@ For shortlisted international students, you are required to take and fulfil the 
   
 
 Other applicants not studying in MOE mainstream primary schools are required to apply for a Registration Number (RGxxxxxxx) before they can apply through the DSA-sec Portal. You may refer to MOE website at: [http://go.gov.sg/nmsdsa-sec-application](http://go.gov.sg/nmsdsa-sec-application)
-
