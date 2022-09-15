@@ -2,10 +2,10 @@ collections:
   about-sass:
     output: true
     order:
-      - SASS Key Personnel.md
       - Our School.md
       - School History.md
       - Our School Badge.md
       - Our School Song & School Hymn.md
       - Our People.md
       - Principal's Message.md
+      - SASS Key Personnel.md
