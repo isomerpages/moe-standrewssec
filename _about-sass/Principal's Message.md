@@ -3,13 +3,7 @@ title: Principal's Message
 permalink: /about-sass/Principal-Message/
 description: ""
 ---
-<div>
-
-<div style="float: left">
-
 <img src="/images/principal.jpg"/>
-
-</div><div>
 
 Welcome to the Saints Family!
 
@@ -37,4 +31,3 @@ Regards,
 
 **Principal of St Andrew’s Secondary School**
 	
-</div></div>
