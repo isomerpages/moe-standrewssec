@@ -2,5 +2,6 @@ collections:
   about-sass:
     output: true
     order:
+      - Our School Song & School Hymn.md
       - Our School.md
       - School History.md
