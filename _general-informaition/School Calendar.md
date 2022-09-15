@@ -7,4 +7,4 @@ description: ""
 
 [](/files/2022%20Sem%202%20Saints%20Calender.pdf)
 
-# **School requires own embed school calendar.**
+# **School requires own embed Google calendar.**
