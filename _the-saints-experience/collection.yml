@@ -1,4 +1,5 @@
 collections:
   the-saints-experience:
     output: true
-    order: []
+    order:
+      - The Saints' Experience.md
