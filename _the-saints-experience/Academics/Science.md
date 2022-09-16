@@ -4,6 +4,8 @@ permalink: /the-saints-experience/Academics/Science/
 description: ""
 third_nav_title: Academics
 ---
+## Science
+
 Our Science department adopts F.A.M.E. Framework, which stands for Foundation and Mastery For Excellence. In their foundational years, in Lower Secondary, students are guided in
 
 exploring Science as a field of study and developing a passion for Science via activities that build their:
