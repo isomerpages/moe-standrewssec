@@ -7,6 +7,7 @@ third_nav_title: Our People
 ## SASS Key Personnel 
 
 #### School Leaders
+
 <table>
 <thead>
   <tr>
@@ -32,7 +33,7 @@ third_nav_title: Our People
 </table>
 
 
-#### Key Personnel
+#### Key Personnel 
 
 <table>
 <thead>
