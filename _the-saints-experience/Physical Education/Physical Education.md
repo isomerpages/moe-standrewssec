@@ -116,4 +116,9 @@ At least **six** different physical activities should be offered, (of which at
 	</tr>
 </table>
 
+#### 21st Century Competencies in Physical Education
 
+
+Physical education has a natural affordance for students to clarify and act on their personal values and demonstrate positive emotions and social behaviours. It is an authentic setting which allows for social interactions to emerge frequently. Furthermore, the interactive and problem-solving nature of many physical activities means that students have numerous instances to communicate positively with others, source for information, as well as to think critically and creatively – all necessary for 21st century living. Through carefully designed learning tasks and activities, changes to student’s attainment of values, social development, and higher order thinking skills can be achieved.
+
+In this syllabus, ELOs for the social and affective development of students are identified for different learning areas across specific levels. However, teachers and schools should appropriately include other affective outcomes which are deemed consistent with their school’s mission, values and Character and Citizenship Education efforts. The teaching of social emotional skills and values must be well conceived and taught through physical education to bring about the total development of our students.
