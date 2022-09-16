@@ -2,7 +2,6 @@ collections:
   the-saints-experience:
     output: true
     order:
-      - Academics/Physical Education.md
       - Academics/Mathematics.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
