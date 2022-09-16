@@ -2,7 +2,7 @@ collections:
   the-saints-experience:
     output: true
     order:
-      - Full Subject Based Banding.md
+      - The Saints' Experience.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
       - Academics/English Language and Literature.md
@@ -13,4 +13,4 @@ collections:
       - Academics/Science.md
       - Academics/Applied Learning Programme.md
       - Academics/Learning For Life Programme.md
-      - The Saints' Experience.md
+      - Full Subject Based Banding.md
