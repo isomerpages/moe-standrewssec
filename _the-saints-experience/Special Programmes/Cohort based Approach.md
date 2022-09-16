@@ -4,6 +4,8 @@ permalink: /the-saints-experience/Cohort-based-Approach/
 description: ""
 third_nav_title: Special Programmes
 ---
+## Cohort Based Approach
+
 ### Learning the St Andrew’s Way: Every Student Can Shine, Lead and Succeed!  
 
   
