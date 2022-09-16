@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Feedback Form.md
-      - Location Map.md
       - For Students.md
       - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
