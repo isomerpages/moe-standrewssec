@@ -77,10 +77,16 @@ In 1946, the Continuation School was started by Dr D.D. Chelliah. The Junior Sch
     <td>As the School population grew, the need for more classrooms became more pressing. This resulted in the addition of another floor so that the 2-storey building became a 3-storey School in 1952. The Lim Teck Kin Tower was also added in that year.
 <br>
 <br>
-Immediately after the war, St. Andrew's School was the first to re-open. Until the arrival of Adams who had just been released from internment, Dr D.D. Chelliah acted as Principal.
-</td>
+In 1955, the Junior School was divided into Junior I and Junior II headed by Mr Goh Soo Toon and Mr Kiong Woon Kew respectively. Kiong was succeeded by Mr S.K. Bandara.
 <br>
 <br>
-In 1946, the Continuation School was started by Dr D.D. Chelliah. The Junior School grew rapidly and in 1950, Mr Dong Chiu Sing was made Principal of the Junior School. He was succeeded by Miss Beeston four years later.
-	</tr>
+Adams continued to serve the School after the war, leading the School from glory to glory. In 1956, he retired and was succeeded by Mr Tan Lye Whatt.
+<br>
+<br>
+The school community had grown so big that upon Lye Whatt's shoulders was the heavy responsibility of the overall charge of the Senior School, the Junior School, the Continuation School and the Boarding House.
+<br>
+<br>
+He was therefore appointed Warden of St. Andrew's in addition to being Principal of the Senior School. It was during the Wardenship of Lye Whatt that the Church of Ascension and the Science Block were added to the campus.
+</tr>
+	
 </table>
