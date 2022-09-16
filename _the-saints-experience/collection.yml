@@ -2,9 +2,9 @@ collections:
   the-saints-experience:
     output: true
     order:
-      - Academics/Mother Tongue & Languages.md
-      - Academics/Humanities.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
       - Academics/English Language and Literature.md
+      - Academics/Mother Tongue & Languages.md
+      - Academics/Humanities.md
       - The Saints' Experience.md
