@@ -103,7 +103,7 @@ Parents seeking transfer for Secondary 1 are to email the following documents in
 
 Any other relevant documents (e.g.: PACT Result Slip)
 
-****PSLE Score Range of 2022 Secondary 1****
+**PSLE Score Range of 2022 Secondary 1**
 
 |  | Affiliation | Non- Affiliation |
 | -------- | -------- | -------- |
