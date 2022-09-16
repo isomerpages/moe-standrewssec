@@ -50,3 +50,72 @@ These lessons are supported by the following approaches:
 
 ● National Schools Literature Festival
 
+![](/images/2018_07Jul12_SASS_English(2nd%20Photog)-4.jpeg)
+
+Literature in English  
+
+------------------------
+
+Through the Literature, we hope to inculcate in our boys a respect for the importance of reading widely and deeply, and to develop their ability to appreciate the subtle nuances that texts carry.
+
+  
+
+As teachers of English Literature, we believe in acting as role models displaying love for the creative play of language found in literary texts. We hope to open our students’ eyes to the value of reading as an experience that enhances our understanding of others and ourselves.
+
+  
+
+Our Literature lessons are designed around two areas of focus:
+
+  
+
+*   **5 Areas of Study in Literature:**  
+
+*   Plot: Elements of Plot; Conflict; Relationship between Scenes and text; Plot and Subplots; Narrative Structure; and Plot Devices
+*   Character: Roles and Purposes of Character; Characterisation; Character Traits; Character Development; and Relationships
+*   Theme: Central Ideas; and Main Concerns
+*   Style: Diction; Sound; Point of View; Irony; Tone; Form; and Figurative Language
+*   Setting & Atmosphere: Time; Place; Physical Details; Situations; and Mood
+
+*   **3 Principles of Literature Teaching and Learning:** 
+
+1.  Personal Engagement
+
+*   Engage with texts; develop individual responses to texts; and share and evaluate different viewpoints and perspectives
+
+3.  Critical Appreciation
+
+*   Use of key literary skills to analyse texts; and develop critical responses that are substantiated by textual evidence  
+
+5.  Meaningful Connections  
+
+*   Explore connections between literary texts and students’ own lives or the rest of the world via texts set and written in different contexts and from various parts of the world 
+
+  
+
+### Lower Secondary Programme
+
+Lower Secondary students go through a two-year programme where they are introduced to a wide variety of literary devices and themes through a study of texts in the three genres: prose, poetry and drama. They are also equipped with essay writing skills to respond to unseen prose and poetry.    
+
+  
+
+Texts:
+
+*   _Wonder_ by R. J. Palacio
+*   _A Monster Calls_ by Patrick Ness
+*   _Something Old, Somethinallg New, Something Borrowed: An Anthology of Singapore Plays_ by Ken Mizusawa
+*   _The Play of George Orwell's Animal Farm_ adapted by Peter Hall
+
+  
+
+### Upper Secondary Elective
+
+The Upper Secondary Literature Elective is a two-year course where students prepare for the two main components of the 'N' and 'O' level Literature Paper:
+
+  
+
+Texts:
+
+*   _Fahrenheit 451_ by Ray Bradbury
+*   _Fiela's Child_ by Dalene Matthee
+*   _A View from the Bridge_ by Arthur Miller
+*   _Off Centre_ by Haresh Sharma
