@@ -2,13 +2,13 @@ collections:
   general-information:
     output: true
     order:
-      - Contact Us/.keep
       - Feedback Form.md
       - Location Map.md
       - For Students.md
+      - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
       - Blended Learning/2022 NPLP Parents Slides.md
       - Blended Learning/Resources For Parents.md
-      - Blended Learning/.keep
       - e Open House.md
       - School Calendar.md
+      - Contact Us/.keep
