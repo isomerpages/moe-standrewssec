@@ -1,5 +1,4 @@
 collections:
   the-saints-family:
     output: true
-    order:
-      - The Saint's Family/.keep
+    order: []
