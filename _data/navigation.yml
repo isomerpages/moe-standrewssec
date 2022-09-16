@@ -4,6 +4,21 @@ links:
     collection: about-sass
   - title: The Saint's Experience
     collection: the-saints-experience
+  - title: The Saint's Family
+    url: the-saints-family/permalink
+    sublinks:
+      - title: Diocese of Singapore
+        url: https://anglican.org.sg/
+      - title: "St Andrew's Cathedral "
+        url: https://cathedral.org.sg/
+      - title: "Church of Ascension "
+        url: https://ascension.org.sg/
+      - title: "Chapel of Holy Spirit "
+        url: https://www.chs.org.sg/
+      - title: "Chapel of Resurrection "
+        url: https://www.cor.org.sg/
+      - title: Submenu Title
+        url: /permalink
   - title: Admissions
     collection: admisisons
   - title: General Information
