@@ -9,4 +9,6 @@ sections:
   - hero:
       title: Wise & True
       background: /images/Homepage/banner.gif
+  - resources:
+      title: News Of The Term
 ---
