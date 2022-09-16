@@ -33,3 +33,26 @@ Lower secondary students and parents participate in this event to construct mode
 
 ![](/images/Saints%20Race%202.jpeg)
 
+**3\. River Studies Programme**
+
+Secondary One students are taught basic water testing techniques and through the experience, discover the importance of keeping our water resources clean so that we can enjoy the diversity of ecological life in our river waters.
+
+![](/images/river%20studies%201.jpeg)
+
+![](/images/river%20studies%202.jpeg)
+
+**4.Compost Fertiliser Project**
+
+Our school’s Operation Manager leads a team of staff to cultivate compost fertiliser for the plants in the school compound.
+
+![](/images/compost%20fertilizer%201.jpeg)
+
+![](/images/compost%20fertilizer%202.jpeg)
+
+**5\. Go Green VIA Project**
+
+In this project, Secondary three students did their part in protecting the environment by collecting old newspapers,magazines and clothing from Potong Pasir residents for recycling.
+
+![](/images/Go%20green%201.jpeg) ![](/images/Go%20green%202.jpeg)
+
+**6. Partnership with PUB in the construction of ABC project along the Kallang River.**
