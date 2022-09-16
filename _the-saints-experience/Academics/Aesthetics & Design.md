@@ -95,3 +95,28 @@ In addition to the standard curriculum, students’ learning experience is enhan
 *   Solidworks Program
 *   Bridge Building Competition 
 *   Wheelchair Ramp Fabrication for Tan Tock Seng Hospital Rehabilitation Programme![](/images/image010.jpeg) ![](/images/image008.jpeg)
+
+**Food and Consumer Education**
+-------------------------------
+
+The Home Economics Unit aims to enrich students’ experience in equipping themselves with the basic skills for independent living through the principles of nutrition, food management, textiles cum clothing design and consumer education. 
+
+  
+
+Programmes include:
+
+   
+
+**Cooking Assessment**
+
+Practical cooking assessments are conducted during lessons for all lower secondary students. This is a good channel of assessment where students are assessed on their cooking skills. This is a student-centered lesson as students learn from their own mistakes. They also learn about the importance of good hygiene in the kitchen, simple housekeeping procedures and also time management skills.
+
+**Coursework Modules** 
+
+Students will need to go through weeks of research, planning and decision making before proceeding to buy the necessary ingredients that they have planned to cook a meal based on an assigned case study (e.g. for a person with diabetes). The cooking is assessed during their practical lessons.  
+
+**‘Recycling’ Projects** 
+
+The ‘Recycling’ project aims to encourage students to utilize ready/ used materials in innovative ways. Students are tasked to use discarded materials and make them into aesthetically pleasing flower holders.
+
+![](/images/2018_07Jul12_SASS_Fce-9.jpeg)
