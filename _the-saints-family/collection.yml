@@ -1,4 +1,5 @@
 collections:
   the-saints-family:
     output: true
-    order: []
+    order:
+      - The Saint's Family.md
