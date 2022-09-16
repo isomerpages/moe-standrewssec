@@ -2,5 +2,4 @@ collections:
   contact-us:
     output: true
     order:
-      - Location Map.md
       - Feedback Form.md
