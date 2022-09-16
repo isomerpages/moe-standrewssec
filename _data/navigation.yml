@@ -17,8 +17,18 @@ links:
         url: https://www.chs.org.sg/
       - title: "Chapel of Resurrection "
         url: https://www.cor.org.sg/
-      - title: Submenu Title
-        url: /permalink
+      - title: "Ascension Kindergarten "
+        url: https://akg.edu.sg/
+      - title: St Andrew's Junior School
+        url: https://www.saintandrewsjunior.moe.edu.sg/
+      - title: St Andrew's Junior College
+        url: https://standrewsjc.moe.edu.sg/
+      - title: St Andrew's Parent-Teacher
+        url: https://www.saintandrewsjunior.moe.edu.sg/general-information/sapta
+      - title: St Andrew's Alumni
+        url: https://www.saints.org.sg/
+      - title: St Andrew's Secondary Facebook
+        url: https://www.facebook.com/standrewssec
   - title: Admissions
     collection: admisisons
   - title: General Information
