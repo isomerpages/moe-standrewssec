@@ -5,7 +5,7 @@ links:
   - title: The Saint's Experience
     collection: the-saints-experience
   - title: The Saint's Family
-    url: the-saints-family/permalink
+    url: /the-saints-family/permalink
     sublinks:
       - title: Diocese of Singapore
         url: https://anglican.org.sg/
