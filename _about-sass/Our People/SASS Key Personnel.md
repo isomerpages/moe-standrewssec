@@ -221,4 +221,3 @@ third_nav_title: Our People
     <td>Mr C Bhonesveran</td>
     <td>Operations Manager</td>
   </tr>
-</table>
