@@ -47,10 +47,29 @@ Even as early as 1873, both Hose and Gomes knew that the growth of the School wo
 		Ponniah was succeeded by the Rev J. Romanis Lee as Principal in 1912. Romanis ranks as one of the greatest benefactors of the School for his time saw many significant changes. In fact, it can be said that St. Andrew's School acquired many of its modern characteristics during his period as Principal. He set about expanding the premises of the School. Next, he proceeded to raise the status of the School from a second grade school to top grade in 1914. He helped to establish another tradition when he started sports and games in the School. Our 1st Athletic Sports Meet was held in 1913.
 </td>
 	</tr>
-		<tr>
+	<tr>
 	<th>1920s</th>
     <td> Because of ill health, Romanis was forced to resign in 1921. He was succeeded by Mr H.A. L. Orchard in 1922, then Rev V. Clough soon after and Mr Joseph Lee in 1924.
-
+<br>
+<br>
 With Joseph Lee as Principal, the enrolment increased to 800 and the School progressed along the lines started by his predecessor. He successfully instilled into the boys the sense of belonging to the School. It was Joseph who establish John Oxenham's poem "Up and On" as the School Song. The first issue of the School Magazine aptly called "Up and On" made its appearance, fittingly enough on St. Andrew's Day in 1928. Interest in sports, games and societies grew by leaps and bounds during this period. </td>
+	</tr>
+	<tr>
+	<th>1930s</th>
+    <td>The Rev R.K.S. Adams succeeded Joseph as the next Principal on 1 October 1934. That same year, together with the Rev A.C. Parr, they instituted the Prefectorial System. By that time, St. Andrew's became famous for its boxing and rugby. St. Andrew's School owes Adams most for the part he played in the building of the School at the Woodsville site. He was assisted by Archdeacon Graham White.
+<br>
+<br>
+The need for a bigger area than the cramped site at Stamford Road had become a pressing problem by the early 1930s. There were scarcely enough classrooms and there was no playing field for the School which showed so much enthusiasm and aptitude for outdoor games. </td>
+	</tr>
+		<tr>
+	<th>1940s</th>
+    <td>The new two-storey building with its sprawling campus was officially opened on 29 July 1940. Then followed the war years.
+<br>
+<br>
+Immediately after the war, St. Andrew's School was the first to re-open. Until the arrival of Adams who had just been released from internment, Dr D.D. Chelliah acted as Principal.
+</td>
+<br>
+<br>
+In 1946, the Continuation School was started by Dr D.D. Chelliah. The Junior School grew rapidly and in 1950, Mr Dong Chiu Sing was made Principal of the Junior School. He was succeeded by Miss Beeston four years later.
 	</tr>
 </table>
