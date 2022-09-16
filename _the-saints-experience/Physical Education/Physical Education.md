@@ -8,7 +8,6 @@ third_nav_title: Physical Education
 
 ### **Goals of Physical Education**  
 
-### 
 
 Goal 1:
 
