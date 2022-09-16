@@ -72,4 +72,15 @@ Immediately after the war, St. Andrew's School was the first to re-open. Until t
 <br>
 In 1946, the Continuation School was started by Dr D.D. Chelliah. The Junior School grew rapidly and in 1950, Mr Dong Chiu Sing was made Principal of the Junior School. He was succeeded by Miss Beeston four years later.
 	</tr>
+	<tr>
+	<th>1950s</th>
+    <td>As the School population grew, the need for more classrooms became more pressing. This resulted in the addition of another floor so that the 2-storey building became a 3-storey School in 1952. The Lim Teck Kin Tower was also added in that year.
+<br>
+<br>
+Immediately after the war, St. Andrew's School was the first to re-open. Until the arrival of Adams who had just been released from internment, Dr D.D. Chelliah acted as Principal.
+</td>
+<br>
+<br>
+In 1946, the Continuation School was started by Dr D.D. Chelliah. The Junior School grew rapidly and in 1950, Mr Dong Chiu Sing was made Principal of the Junior School. He was succeeded by Miss Beeston four years later.
+	</tr>
 </table>
