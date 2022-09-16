@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Feedback Form.md
       - For Students.md
       - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
