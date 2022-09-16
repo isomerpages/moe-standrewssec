@@ -222,4 +222,3 @@ third_nav_title: Our People
     <td>Operations Manager</td>
   </tr>
 </table>
-<br>
