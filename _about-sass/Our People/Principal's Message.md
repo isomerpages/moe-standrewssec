@@ -4,8 +4,9 @@ permalink: /about-sass/Principal-Message/
 description: ""
 third_nav_title: Our People
 ---
-
-<img src="/images/principal.jpg"/>
+<img src="/images/principal.jpg" 
+     style="width:50%">
+<center>Mr Wilbur Wong, Principal</center>
 
 Welcome to the Saints Family!
 
