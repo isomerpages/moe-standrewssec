@@ -2,4 +2,5 @@ collections:
   the-saints-experience:
     output: true
     order:
+      - Academics/.keep
       - The Saints' Experience.md
