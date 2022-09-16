@@ -4,6 +4,9 @@ permalink: /the-saints-experience/Mother-Tongue/
 description: ""
 third_nav_title: Academics
 ---
+## Mother Tongue Languages
+
+
 To support the school's strategic thrusts, the Mother Tongue Languages (MTL) Department aims to progress by keeping up with changes in society and in MOE policies while exploring creative teaching so as to raise students' interest in learning their MTL.
 
   
