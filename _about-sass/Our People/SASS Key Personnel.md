@@ -4,7 +4,6 @@ permalink: /about-sass/SASS-Key-Personnel/
 description: ""
 third_nav_title: Our People
 ---
-
 #### School Leaders
 <table>
 <thead>
@@ -13,7 +12,6 @@ third_nav_title: Our People
     <th>Designation</th>
   </tr>
 </thead>
-<tbody>
 	  <tr>
     <td>Mr Lee Han Hwa</td>
     <td>Principal</td>
@@ -29,7 +27,6 @@ third_nav_title: Our People
     <td>Vice- Principal (Administration)</td>
   </tr>
   <tr>
-	</tbody>
 </table>
 
 
@@ -42,7 +39,6 @@ third_nav_title: Our People
     <th>Designation</th>
   </tr>
 </thead>
-<tbody>
 		  <tr>
     <td>Ms Lee Bin Choo</td>
     <td>School Staff Developer</td>
