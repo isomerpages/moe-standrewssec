@@ -88,5 +88,46 @@ The school community had grown so big that upon Lye Whatt's shoulders was the he
 <br>
 He was therefore appointed Warden of St. Andrew's in addition to being Principal of the Senior School. It was during the Wardenship of Lye Whatt that the Church of Ascension and the Science Block were added to the campus.
 </tr>
-	
+	<tr>
+	<th>1960s</th>
+    <td> In 1960, after the tragic death of Bandara, the two Junior Schools came under one Principal - Mr Goh Soon Toon. He was succeeded by Mr Quahe Beng Chuan on 1 September 1964.
+<br>
+<br>
+Lye Whatt retired in 1963 and he was succeeded by his Senior Assistant, Mr Francis Thomas whose love for community service was second to none. The Clinic Club which later evolved into the Social Work Group bears testimony of Thomas's genuine feeling for the needy and the less fortunate. </td>
+	</tr>
+	<tr>
+	<th>1970s</th>
+    <td> Thomas retired on 14 March 1974 and he was succeeded by Mr C.D. Jansen whose stay was short.
+<br>
+<br>
+Upon Jansen's resignation in June 1976, his Senior Assistant Mr Ong Soo Kiong acted as Principal while a search began for a new Warden for St. Andrew's and a Principal for the Senior School.
+<br>
+<br>
+Fortunately, the Ministry of Education was prepared to loan to St. Andrew's the services of Mr Harry Tan Ho Swee, an Old Boy but nevertheless a civil servant, to head the St. Andrew's Family with effect from 15 December 1976.  
+The School continued to grow and we would have suffered a split at the seams in 1978 if it had not been for the establishment of the St. Andrew's Junior College and the subsequent removal of our Pre-University classes in Woodsville.
+  </td>
+	</tr>
+	<tr>
+	<th>1980s</th>
+    <td> As a school that stubbornly refused to stop growing, we were breaking at the seams again by the late 1980s. Fortunately for the School, Potong Pasir was being developed and a 4.18 hectare site across the Kallang River was earmarked for education. With the prompting of the Lord, the nudging of the School Supervisor Mr David Chelliah and the blessings of Bishop Chiu Ban It, the School went in faith in 1981 to the Director of Education to request that the site for education be the Senior Wing of the School with the subsequent plan to upgrade the Woodsville site with full facilities for a growing and vibrant Junior School.
+<br>
+<br>
+Upon Jansen's resignation in June 1976, his Senior Assistant Mr Ong Soo Kiong acted as Principal while a search began for a new Warden for St. Andrew's and a Principal for the Senior School.
+<br>
+<br>
+Upon Beng Chuan's retirement in 1981, another Old Boy - Mr Chin Wai Fah became the Principal of the Junior School. He was succeeded by Mr Tan Cheng Lim as Principal of the Junior School in January 1985.
+<br>
+<br>
+Physical work on the new Secondary School together with a Chapel-cum-Counselling Centre started on 3 Nov 1984
+<br>
+<br>
+The new Secondary School opened its doors in July 1986.
+<br>
+<br>
+With a service of blessing on Friday 1st August1986, the new buildings were taken possession of.
+<br>
+<br>
+The new school was officially declared opened by the Minister for Education on 17th September 1988 in conjunction with the 126th Founder's Day Celebrations.
+  </td>
+	</tr>
 </table>
