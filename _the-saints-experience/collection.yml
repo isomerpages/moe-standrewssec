@@ -2,8 +2,6 @@ collections:
   the-saints-experience:
     output: true
     order:
-      - Physical Education/.keep
-      - Physical Education/Haze Contingency.md
       - Academics/Physical Education.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
