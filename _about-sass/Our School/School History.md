@@ -130,4 +130,46 @@ With a service of blessing on Friday 1st August1986, the new buildings were take
 The new school was officially declared opened by the Minister for Education on 17th September 1988 in conjunction with the 126th Founder's Day Celebrations.
   </td>
 	</tr>
+<tr>
+	<th>1990s</th>
+    <td> Two blocks were extended in 1994 to make it possible for the Secondary School to go single session; hitherto the School had been operating as a double session school. The blocks so extended were the Chapel View Block and the Technical Block and allowed the School to have an increase of 17 classrooms, special rooms including a Band Room, and a lecture theatre.
+<br>
+<br>
+Mr. Harry Tan left St. Andrew's on 31 December 1994 to become the Principal of Whitley Secondary School. He was succeeded by Ms Priscilla Krempl on 1 January 1995.
+<br>
+<br>
+In 1997, Mr David Lau joined the school as vice principal. He left in 1999 to become principal of Queenstown Secondary School.
+	</td>
+	</tr>
+<tr>
+	<th>2000s</th>
+<br>
+<br>
+<td>In 2000, Mr Ang Chee Seng joined the school as vice - principal.  
+Mrs Krempl was primarily responsible for the Saints Charter that saw an explicit verbalisation of what a St. Andrew's boy should be. She also initiated the strategies for moving the secondary school forward. During her term, she oversaw the initial planning of facilities for the secondary school in St. Andrew's Village.
+<br>
+<br>
+In December 2001, Mrs Krempl was moved to head Bedok Town Secondary School as part of MOE's rotation of principals. She was succeeded by Mrs Belinda Charles on 15 December 2001.
+<br>
+<br>
+Mrs Charles, formerly principal of St. Andrew's Junior College was requested by the Board of Governors to head St. Andrew's Secondary School as part of the larger vision of setting up St. Andrew's Village, bringing back the junior college to Woodsville and living out the dearest wish of many former students for one family unbroken.
+<br>
+<br>
+Mr Ang Chee Seng left to become principal of Christ Church Secondary School in October 2002.
+<br>
+<br>
+In June 2003, the school moved to a temporary holding site in Geylang Bahru. While there, Mr Francis Foo joined the school as vice principal.  
+In December 2004, the school moved back to Woodsville as part of St. Andrew's Village at 15 Francis Thomas Drive.
+<br>
+<br>
+On 14 February 2006, the Swimming Pool was declared open by Old Boy Mr Wee Kok Wah of Stamford Tyres, a former school swimmer. In the same year, the Minister for Education, Mr Tharman Shanmugaratnam officially declared open St Andrew’s Village on 26 August and laid the Time Capsule at the Jacob Ballas Bridge.
+<br>
+<br>
+In 2006, Mr Goh Boon Pin, then Larger HOD, was appointed Vice Principal. He was joined by Mrs Joyce Ang, as the second vice principal, in 2007. This is the first time that the Secondary School has been given two vice principals.  
+In 2007, the CCA Complex moved from the Boarding House to its more permanent home next to the field, below the cafeteria.
+<br>
+<br>
+In 2008, the school field was laid with synthetic turf to become one of the first of its kind for competitive rugby in Singapore. It was declared open by Old Boy Mr Leow Kim Liat, a former rugby captain who became the first Asian to lead a Singapore rugby team
+	</td>
+	</tr>
 </table>
