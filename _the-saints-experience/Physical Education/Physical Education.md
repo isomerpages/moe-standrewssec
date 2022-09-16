@@ -86,3 +86,34 @@ At least **six** different physical activities should be offered, (of which at
 	<td>In line skating, martial arts</td>
 	</tr>
 </table>
+
+**In Saints**
+
+<table>
+	<tr>
+	<td>Striking and Fielding</td>
+	<td>Softball (Modified)</td>
+	</tr>
+  <tr>
+	<td>Net Barrier</td>
+	<td>Badminton, Volleyball</td>
+	</tr>
+  <tr>
+	<td>Territorial Invasion</td>
+	<td>Rugby, Football, Basketball, Floorball, Ultimate, Tag Rugby, Captain's Ball</td>
+	</tr>
+	 <tr>
+	<td>Outdoor Education</td>
+	<td>River Studies, Outdoor, First Aid & CPR</td>
+	</tr>
+	 <tr>
+	<td>Physical Health and Fitness</td>
+	<td>NAPFA Training & Health Education.</td>
+	</tr>
+	 <tr>
+	<td>Others</td>
+	<td>Swim Safer, Cross Country, Inter Class Games, Sports Day</td>
+	</tr>
+</table>
+
+
