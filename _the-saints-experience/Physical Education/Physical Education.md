@@ -55,3 +55,34 @@ At least **six** different physical activities should be offered, (of which at
 
 **From MOE**
 
+
+<table>
+	<tr>
+	<td>Athletics</td>
+	<td>Distance running, field events</td>
+	</tr>
+  <tr>
+	<td>Dance</td>
+	<td>Social Dancing, modern dance, hip hop</td>
+	</tr>
+  <tr>
+	<td>Games and Sports</td>
+	<td>Basketball, bowling, golf, handball, tennis, archery </td>
+	</tr>
+	 <tr>
+	<td>Gymnastics</td>
+	<td></td>
+	</tr>
+	 <tr>
+	<td>Outdoor Education</td>
+	<td>Kayaking, rock climbing</td>
+	</tr>
+	 <tr>
+	<td>Physical Health and Fitness</td>
+	<td>Aerobics, yoga weight Training</td>
+	</tr>
+	 <tr>
+	<td>Others</td>
+	<td>In line skating, martial arts</td>
+	</tr>
+</table>
