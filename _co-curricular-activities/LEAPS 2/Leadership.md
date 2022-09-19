@@ -54,3 +54,22 @@ The level of attainment in this domain is determined by the highest level attain
 |      | Lower Sec Sports Leader  | Upper Sec Sports Leader  |    |    |
 |      |   | Committee for school-wide events | Chairperson for school-wide events <br><br>  Vice-Chairperson for school-wide events   |    |
 |      | Committee for student-initiated projects, approved by school <br><br> Committee for student-led projects, approved by school  | Chairperson for student-initiated projects, approved by school <br><br>  Vice-Chairperson for student-initiated projects, approved by school <br><br> Chairperson for student-led projects, approved by school |   |    |
+|      |  | Vice-Chairperson for student-led projects, approved by school |   |    |
+
+**_National Youth Achievement Award_**
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| -------- | -------- | -------- |  -------- |  -------- |
+|      | Bronze     | Silver and above     |     |      |
+
+
+**_Clubs and Societies CCA_**
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|     |   Lower Sec CCA Committee Member   |   Lower Sec CCA Chairperson <br><br> Lower Sec CCA Vice-Chairperson <br><br> Lower Sec CCA Executive Committee <br><br> Upper Sec CCA Committee Member     |   Upper Sec CCA Executive Committee  |  CCA Chair <br><br> CCA Vice-Chair   |
+
+
+
+
+
