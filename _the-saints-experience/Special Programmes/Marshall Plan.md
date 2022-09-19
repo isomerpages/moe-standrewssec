@@ -20,4 +20,4 @@ _**Focused on one’s craft:**_ leveraging on strengths and interests to build 
 
 ![](/images/MP4.jpeg)
 
-**_Flexing our caring ‘muscles_**’: giving back to the community, and from the heart!
+**_Flexing our caring ‘muscles_'**: giving back to the community, and from the heart!
