@@ -55,3 +55,33 @@ In particular we strongly encourage those with good academic results and outstan
 | Guitar Ensemble | Achievement/Awards in Singapore Youth Festival Arts Presentation <br><br> Preferably at least a Sectional Leader in Guitar Ensemble<br><br> Pass selection trial and/or interviews
 | Badminton<br>Basketball<br>Canoeing<br>Football<br>Hockey<br>Rugby<br>Netball<br>Tennis<br>Ten-Pin Bowling<br>Track and Field<br>Water Polo |   Achievement/Awards in National Schools'/international competitions <br><br> Representation at national and zonal schools' competitions, national or club level<br><br> Pass selection trial and/or interviews<br><br>(Water Polo Girls - Swimmers who have represented their schools will be considered)
 
+Please do not submit applications for CCAs other than the ones listed above as they will not be considered.   
+  
+Interested applicants who do not meet the criteria may still be invited to apply based on ability and potential.   
+  
+**APPLICATION PROCEDURE**   
+Applicants must complete the application form and attach photocopies of the following documents:
+
+*   Result slips - Secondary 3 Final Exams & Secondary 4 Mid - Year Exams
+*   Testimonial or Recommendation letter from school teacher/coach/instructor
+*   CCA Records
+*   Other supporting documents - certificates of musical exams, certificates of participation in international competitions.
+
+Incomplete application forms will not be considered.
+
+  
+Application form must be submitted via post or by hand to the SAJC General Office by the following dates:   
+**DSA Phase 1:      1 July 2016 - 3pm   
+DSA Phase 2:      5  Aug 2016 - 3pm**   
+  
+Applicants are to ensure that they meet the deadlines for submission of application forms in order to be eligible for the exercise.   
+  
+**[DOWNLOAD APPLICATION FORM](http://www.standrewsjc.moe.edu.sg/qql/slot/u674/Admissions/DSA/DSA_form2016_1.pdf)**   
+  
+Applicants who have submitted applications during Phase 1 but are not offered a place need not submit new applications for Phase 2 as all applications will automatically be considered for both phases.   
+  
+Only successful applicants will be informed via email and/or phone.   
+  
+Successful applicants, upon acceptance, must join and contribute actively in the CCA throughout their stay in SAJC.   
+  
+**TRIALS  &  AUDITION DATES**  ( will be updated on 18 May 2016, 3pm)
