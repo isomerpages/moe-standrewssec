@@ -68,6 +68,12 @@ The level of attainment in this domain is determined by the highest level attain
 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 | -------- | -------- | -------- | -------- | -------- |
 |     |   Lower Sec CCA Committee Member   |   Lower Sec CCA Chairperson <br><br> Lower Sec CCA Vice-Chairperson <br><br> Lower Sec CCA Executive Committee <br><br> Upper Sec CCA Committee Member     |   Upper Sec CCA Executive Committee  |  CCA Chair <br><br> CCA Vice-Chair   |
+<center>(Applicable to Singapore Flying Club Only)</center>
+
+
+|  |  |  | | | 
+| -------- | -------- | -------- | -------- | -------- |
+| Junior Cadet Aeromodeller     |  Senior Cadet Aeromodeller     |  Senior Cadet Aeromodeller     | Senior Cadet Pilot     | Junior Pilot     |
 
 
 
