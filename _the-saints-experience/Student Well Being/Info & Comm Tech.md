@@ -28,8 +28,6 @@ The programme offers the following schemes: 
 | Applicant Type | Criteria | PC Bundle Scheme |
 | -------- | -------- | -------- |
 | Household Income     | Household Income or Per Capita Income (PCI)    | Monthly Household Income ≤ $3,000 or PCI ≤ $800 (or ≤ $875 if there is a permanently disabled family member)    |
-| Household Income     | Household Income or Per Capita Income (PCI)    | Monthly Household Income ≤ $3,000 or PCI ≤ $800 (or ≤ $875 if there is a permanently disabled family member)    |
-| Household Income     | Household Income or Per Capita Income (PCI)    | Monthly Household Income ≤ $3,000 or PCI ≤ $800 (or ≤ $875 if there is a permanently disabled family member)    |
-| Household Income     | Household Income or Per Capita Income (PCI)    | Monthly Household Income ≤ $3,000 or PCI ≤ $800 (or ≤ $875 if there is a permanently disabled family member)    |
-| Household Income     | Household Income or Per Capita Income (PCI)    | Monthly Household Income ≤ $3,000 or PCI ≤ $800 (or ≤ $875 if there is a permanently disabled family member)    |
-
+| Subsidy Level     |  **Tier 1**   PCI ≤ $600 OR MOE-FAS Recipients   | **Tier 2**   PCI > $600
+| Singapore Citizen     |   Up to 75% subsidy   | Up to 50% subsidy
+| Permanent Resident     |   NA   | Up to 50% subsidy
