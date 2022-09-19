@@ -41,3 +41,5 @@ ECG Plans 2022
 [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html): 
 
 [Parent guide](https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html)
+
+![](/images/Nur%20ECG%20Poster_SASS.png)
