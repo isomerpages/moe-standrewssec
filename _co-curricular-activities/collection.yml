@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - SOP for Opening and Closure of CCAs.md
       - Direct Admissions (Tertiary)/.keep
       - Secondary 1 CCA allocation.md
       - Leaps Ver 2/.keep
