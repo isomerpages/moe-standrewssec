@@ -63,5 +63,13 @@ b.    Character and Citizenship Education (CCE)
 
   
 
-At St Andrew’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:
----------------------------------------------------------------------------------------------------------------------
+### At St Andrew’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:
+
+
+**<center> Secondary 1 </center>**
+
+| Unit | Lessons | Column 3 | Column 4 |
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text     |
+
+
