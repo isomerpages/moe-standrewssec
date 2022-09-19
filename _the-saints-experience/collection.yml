@@ -2,6 +2,7 @@ collections:
   the-saints-experience:
     output: true
     order:
+      - Student Well Being/Education and Career Guidance (ECG).md
       - Student Well Being/.keep
       - Student Well Being/Restorative Practice.md
       - Student Well Being/Information & Communication Technology.md
