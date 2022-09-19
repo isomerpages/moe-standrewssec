@@ -76,3 +76,10 @@ For students in Uniformed Groups CCA, the level of attainment for the Achievemen
 
 **_Achievement Badges for Uniformed Groups_**
 
+
+
+|  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Boys Brigade      |  Leadership Award     | Leadership Award Stage 2    |  Intermediary Proficiency Award     | Senior Proficiency Award    | Founder’s Award     |
+| Girls Brigade      |  Leadership Award     | Leadership Award Stage 2    |  Intermediary Proficiency Award     | Senior Proficiency Award    | Founder’s Award     |
+
