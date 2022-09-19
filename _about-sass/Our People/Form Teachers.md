@@ -38,7 +38,7 @@ third_nav_title: Our People
 | Ms Kevina Jerrine | kevina_jerrine_ronald_joe@moe.edu.sg
 
 
-| 1 Integrity |  |
+| 1 Resilience |  |
 |:---:|:---:|
-| Mr Liang Soon Fong | liang_soon_fong@moe.edu.sg
-| Ms Ng Li Yan | ng_li_yan@moe.edu.sg
+| Mr Jimmy Koh | koh_tze_ping@moe.edu.sg
+| Ms Angel Lee | lee_song_tiang@moe.edu.sg
