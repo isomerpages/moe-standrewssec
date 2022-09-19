@@ -4,6 +4,8 @@ permalink: /the-saints-experience/Student-Well-Being/Restorative-Practice/
 description: ""
 third_nav_title: Student Well Being
 ---
+## Restorative Practice 
+
 ### Discipline Policy
 
 It is the School's responsibility to provide an all-rounded general as well as Christian education for every child who comes into our care. Every child has the right to expect an environment that is conducive to learning and is free of disruption. Likewise, every student has the responsibility to contribute to that safe learning environment. 
