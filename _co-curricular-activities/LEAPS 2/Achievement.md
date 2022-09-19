@@ -81,5 +81,5 @@ For students in Uniformed Groups CCA, the level of attainment for the Achievemen
 |  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | Boys Brigade      |  Leadership Award     | Leadership Award Stage 2    |  Intermediary Proficiency Award     | Senior Proficiency Award    | Founder’s Award     |
-| Girls Brigade      |  Leadership Award     | Leadership Award Stage 2    |  Intermediary Proficiency Award     | Senior Proficiency Award    | Founder’s Award     |
-
+| Girls Brigade      |  Brigade Knowledge & Healthy Attitudes 1 badge     |  Senior Pin    |  Senior Pin, GB International, & Healthy Attitudes 2 Badge    |  Pioneer Pin    | Pioneer Brigadier's Brooch   |
+| Girls Guide      |   Bronze Badge   |  Silver Badge    |  Gold Badge   |  Baden-Powell Award    |    President's Guide Award  |
