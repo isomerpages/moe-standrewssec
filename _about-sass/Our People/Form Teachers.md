@@ -12,14 +12,14 @@ third_nav_title: Our People
 
 | 1 Wonder  |  |
 |:---:|:---:|
-| Mr Daniel Thiam | thiam_siong_oon_daniel@moe.edu.sg
-| Ms Wong Limin | wong_limin@moe.edu.sg 
-| Mr Tee Shi En | sass@moe.edu.sg
+| Mr Daniel Thiam | thiam_siong_oon_daniel@moe.edu.sg |
+| Ms Wong Limin | wong_limin@moe.edu.sg |
+| Mr Tee Shi En | sass@moe.edu.sg |
 
 | 1 Integrity |  |
 |:---:|:---:|
-| Mr Liang Soon Fong | liang_soon_fong@moe.edu.sg
-| Ms Ng Li Yan | ng_li_yan@moe.edu.sg
+| Mr Liang Soon Fong | liang_soon_fong@moe.edu.sg |
+| Ms Ng Li Yan | ng_li_yan@moe.edu.sg |
 
 | 1 Self- Discipline  |  |
 |:---:|:---:|
