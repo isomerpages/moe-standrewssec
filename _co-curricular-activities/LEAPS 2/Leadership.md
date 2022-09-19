@@ -43,3 +43,11 @@ Levels 4 and 5 recognise the student who holds top leadership positions in scho
 _Leadership Criterion_
 
 The level of attainment in this domain is determined by the highest level attained in either of the rows of the Leadership tables below.
+
+
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| -------- | -------- | -------- | -------- | -------- |
+| Completed 2 modules on leadership     | Class Committee   | Class Committee <br><br> Class Vice-Chairperson <br><br> Class Monitor  <br><br> Assistant Class Monitor     |     |     |
+|      | Junior Councillor <br><br> Junior Prefect <br><br> Junior Peer Support Leader   | Class Committee <br><br> Class Vice-Chairperson <br><br> Class Monitor  <br><br> Assistant Class Monitor     |     |     |
+
