@@ -31,3 +31,18 @@ The programme offers the following schemes: 
 | Subsidy Level     |  **Tier 1**   PCI ≤ $600 OR MOE-FAS Recipients   | **Tier 2**   PCI > $600
 | Singapore Citizen     |   Up to 75% subsidy   | Up to 50% subsidy
 | Permanent Resident     |   NA   | Up to 50% subsidy
+
+*Every qualified household is entitled for ONE PC regardless of the number of school going children.
+
+**iNSPIRE Fund Scheme**
+
+
+
+| Criteria | iNSPIRE Fund Scheme | Broadband-only Scheme |
+| -------- | -------- | -------- |
+| Applicant Type     | Criteria     | PC Bundle Scheme     |
+| Household Income    | Monthly Household Income ≤$2,300 or PCI ≤$600     | Monthly Household Income ≤$1,800 or PCI ≤$500     |
+| Singapore Citizen     | Eligible    | Eligible     |
+|  Permanent Resident     | Eligible  | NA     |
+
+Students who are interested in applying for this can approach the General Office for more details.
