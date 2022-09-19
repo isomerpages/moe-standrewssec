@@ -30,7 +30,7 @@ third_nav_title: Our People
     <td>Vice- Principal (Administration)</td>
   </tr>
   <tr>
-</table>
+<table>
 
 
 #### Key Personnel 
@@ -204,4 +204,4 @@ third_nav_title: Our People
     <td>Mr C Bhonesveran</td>
     <td>Operations Manager</td>
   </tr>
- </table>
+ <table>
