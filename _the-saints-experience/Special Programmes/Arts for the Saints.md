@@ -40,4 +40,3 @@ _**Angklung Workshop**_
 ![](/images/Arts%20Fest%202.jpg)
 
 _**Sun Painting**_
-		 
