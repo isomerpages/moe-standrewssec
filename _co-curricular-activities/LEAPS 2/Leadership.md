@@ -75,7 +75,11 @@ The level of attainment in this domain is determined by the highest level attain
 | -------- | -------- | -------- | -------- | -------- |
 | Junior Cadet Aeromodeller     |  Senior Cadet Aeromodeller     |  Senior Cadet Aeromodeller     | Senior Cadet Pilot     | Junior Pilot     |
 
+**_Physical Sports CCA_**
 
 
 
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|  Young Team Singapore Ambassador     | Lower Sec CCA Committee Member     |  Lower Sec CCA Captain <br><br>Lower Sec CCA Vice-Captain<br><br> Lower Sec CCA Executive Committee<br><br> Upper Sec CCA Committee Member    | Upper Sec CCA Executive Committee    | CCA Captain<br><br>CCA Vice-Captain     |
 
