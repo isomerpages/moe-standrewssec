@@ -7,8 +7,6 @@ third_nav_title: Our People
 ## Form Teachers
 
 #### Secondary 1 Form Teachers
-<br>
-
 
 | 1 Wonder  |  |
 |:---:|:---:|
