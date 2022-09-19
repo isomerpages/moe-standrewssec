@@ -97,11 +97,10 @@ The level of attainment in this domain is determined by the highest level attain
 | -------- | -------- | -------- |  -------- |  -------- |
 | Lance Corporal     | Corporal     | Sergeant    | Staff Sergeant    | Senior Staff Sergeant    |
 
+**_Uniformed Groups CCA_**
 
 
-
-
-
-
-
+| | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |  
+| -------- | -------- | -------- | -------- | -------- | -------- |
+|   **Boys Brigade**   | Lance Corporal     | Lower Sec CCA Committee Member     | Lower Sec CCA Chairperson<br><br>Lower Sec CCA Vice-Chairperson<br><br>Lower Sec CCA Executive Committee<br><br>Upper Sec CCA Committee Member     |  CCA Executive Committee     |  CCA Chair<br><br> CCA Vice-Chair     |
 
