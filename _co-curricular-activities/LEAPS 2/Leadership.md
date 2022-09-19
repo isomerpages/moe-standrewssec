@@ -83,3 +83,25 @@ The level of attainment in this domain is determined by the highest level attain
 | -------- | -------- | -------- | -------- | -------- |
 |  Young Team Singapore Ambassador     | Lower Sec CCA Committee Member     |  Lower Sec CCA Captain <br><br>Lower Sec CCA Vice-Captain<br><br> Lower Sec CCA Executive Committee<br><br> Upper Sec CCA Committee Member    | Upper Sec CCA Executive Committee    | CCA Captain<br><br>CCA Vice-Captain     | 
 |      |     |     |  |  Singapore Schools Team Captain <br><br> Singapore Schools Team Vice-Captain <br><br>  National Team Captain<br><br> National Team Vice-Captain   |
+
+**_Visual and Performing Arts CCA_**
+
+| Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
+| -------- | -------- | -------- | -------- | -------- |
+|      | Lower Sec Committee Member     |  Lower Sec CCA Chairperson <br><br> Lower Sec CCA Vice-Chairperson <br><br>Lower Sec CCA Executive Committee<br><br>Lower Sec Section / Group Leader<br><br>Upper Sec Section / Group Leader<br><br>Upper Sec CCA Committee Member  | Upper Sec CCA Executive Committee     |  CCA Chairperson<br><br>CCA Vice-Chairperson<br><br>CCA Vice-Chairperson<br><br>Drum Major (for Band only)     | 
+|      |   |  National Project of Excellence Section Leader <br><br> National Project of Excellence Principal Player  | National Project of Excellence Executive Committee <br><br>  National Project of Excellence Concert Master   |  National Project of Excellence Chairperson <br><br>  National Project of Excellence Vice-Chairperson| 
+
+<center> (Applicable to Military and Display Band only) </center> 
+
+|  |  |  |  |  |
+| -------- | -------- | -------- |  -------- |  -------- |
+| Lance Corporal     | Corporal     | Sergeant    | Staff Sergeant    | Senior Staff Sergeant    |
+
+
+
+
+
+
+
+
+
