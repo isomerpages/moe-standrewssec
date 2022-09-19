@@ -50,3 +50,7 @@ The level of attainment in this domain is determined by the highest level attain
 | -------- | -------- | -------- | -------- | -------- |
 | Completed 2 modules on leadership     | Class Committee   | Class Committee <br><br> Class Vice-Chairperson <br><br> Class Monitor  <br><br> Assistant Class Monitor     |     |     |
 |      | Junior Councillor <br><br> Junior Prefect <br><br> Junior Peer Support Leader   | Councillor <br><br> Prefect <br><br> Peer Support Leader   |   Senior Councillor <br><br> Senior Prefect <br><br> Senior Peer Support Leader  |   Student Council Executive Committee <br><br>  Prefectorial Board Executive Committee <br><br> Peer Support Leader Executive Committee <br><br>  Student Council President <br><br> Student Council Vice-President <br><br> Prefectorial Board President <br><br> Prefectorial Board Vice- President <br><br> Peer Support Leader President <br><br> Peer Support Leader Vice- President  |
+|      | Lower Sec House Committee  | Lower Sec House Captain <br><br>  Lower Sec House Vice-Captain<br><br> Upper Sec House Committee   |   House Executive Committee <br><br> Upper Sec House Captain<br><br> Upper Sec House Vice-Captain  |    |
+
+
+
