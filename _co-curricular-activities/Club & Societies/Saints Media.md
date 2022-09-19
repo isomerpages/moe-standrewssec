@@ -44,6 +44,10 @@ Participated in the 7th National Youth Film Awards
 
 Participated in “Our Schools, Our Stories” Photo & Video Contest
 
+![](/images/2013-08-28%20Saints%20TV%20Training%20Program.jpg)
+
+![](/images/2014-03-10%20Intro%20to%20Jazz%20Concert.jpg)
+
 
 Public Address
 --------------
