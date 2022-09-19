@@ -29,4 +29,6 @@ ECG Plans 2022
 | Sec 1     |  Grooming and Personal Hygiene Workshop <br> <br>Learning Journey related to the theme of Water Sustainability     | 
 | Sec 2    |  Study Skills and Time Management Workshop <br> <br> Learning Journey related to Food Sustainability     | 
 | Sec 3    |   Sharing on Urban Farming by industrial experts<br> <br>StrengthsFinder sessions<br><br> Pre-Sec 4 Interview and Portfolio Preparation Workshops <br><br> Poly Open Houses <br><br> ITE Open Houses <br> <br> Careers Day
+| Sec 4/5    | EAE Interview and Portfolio Preparation Workshops<br> <br>Effective Communication Workshop<br><br> Careers Days <br><br> Parent engagement talks
+| For all levels    | ECG Counselling with Ms Nur, Every Tuesday, Wednesday, Even Fridays (0800hrs-1700hrs)<br> <br>Booking link:  Email: Nurkhadijah_Mustafa_Bamadhaj@schools.gov.sg]
 
