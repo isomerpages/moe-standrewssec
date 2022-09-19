@@ -28,7 +28,7 @@ third_nav_title: Our People
     <td>Vice- Principal (Administration)</td>
   </tr>
 </table>
-<br>
+
 
 #### Key Personnel 
 
