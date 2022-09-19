@@ -27,8 +27,6 @@ ECG Plans 2022
 | Level | Plans | 
 | -------- | -------- | 
 | Sec 1     |  Grooming and Personal Hygiene Workshop <br> <br>Learning Journey related to the theme of Water Sustainability     | 
-| Sec 2    |  Grooming and Personal Hygiene Workshop <br> <br>Learning Journey related to the theme of Water Sustainability     | 
-| Sec 3    |  Grooming and Personal Hygiene Workshop <br> <br>Learning Journey related to the theme of Water Sustainability     | 
-
-
+| Sec 2    |  Study Skills and Time Management Workshop <br> <br> Learning Journey related to Food Sustainability     | 
+| Sec 3    |   Sharing on Urban Farming by industrial experts<br> <br>StrengthsFinder sessions<br><br> Pre-Sec 4 Interview and Portfolio Preparation Workshops <br><br> Poly Open Houses <br><br> ITE Open Houses <br> <br> Careers Day
 
