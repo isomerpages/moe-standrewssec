@@ -40,3 +40,18 @@ The student has attained a minimum of Level 1 in all domains with at least Level
 | Achievement  | Represented school at local competition / conference / festival / exhibition for 1 year   | 2    |
 | Leadership     | Lance Corporal (NCC)  | 1  |
 | Service    | Completed at least 24 to less than 30 hours of service   | 1 |
+
+The student has attained a minimum of Level 1 in all domains, with at least Level 2 in one domain (Achievement) and Level 3 for another domain (Participation). Hence, the student’s co-curricular attainment is recognised as Good.
+
+**Example D: Fair co-curricular attainment**
+
+| Domain | Description of Attainment | Level |
+| -------- | -------- | -------- |
+| Participation     | Participated in any CCA for 4 years with at least 75% attendance for each year   | 3  |
+| Achievement  | Did not represent class / house / CCA / school in any event   | 0    |
+| Leadership     | Completed 2 modules on leadership  | 1  |
+| Service    | Completed at least 24 to less than 30 hours of service   | 1 |
+
+The student has attained a minimum of Level 1 in all domains, with at least Level 2 in one domain (Achievement) and Level 3 for another domain (Participation). Hence, the student’s co-curricular attainment is recognised as Good.
+
+
