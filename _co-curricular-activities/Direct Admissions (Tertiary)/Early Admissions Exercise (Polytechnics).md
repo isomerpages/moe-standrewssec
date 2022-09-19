@@ -6,7 +6,6 @@ third_nav_title: Direct Admissions (Tertiary)
 ---
 ## Early Admissions Exercise - Polytechnics
 
-####   
 EAE IS AN ADMISSIONS EXERCISE THAT ALLOWS STUDENTS TO APPLY FOR ADMISSION TO POLYTECHNIC BASED ON THEIR INTERESTS AND APTITUDES, AND SECURE A PLACE IN A POLYTECHNIC DIPLOMA COURSE PRIOR TO THEIR GCE O-LEVEL EXAMINATIONS.
 
 It allows the polytechnics greater flexibility to select students on a broader measure of aptitude beyond just academic grades, thus allowing a wider range of talents to be recognised.
