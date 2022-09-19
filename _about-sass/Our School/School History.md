@@ -172,4 +172,3 @@ In 2007, the CCA Complex moved from the Boarding House to its more permanent hom
 In 2008, the school field was laid with synthetic turf to become one of the first of its kind for competitive rugby in Singapore. It was declared open by Old Boy Mr Leow Kim Liat, a former rugby captain who became the first Asian to lead a Singapore rugby team
 	</td>
 	</tr>
-</table>
