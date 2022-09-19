@@ -68,8 +68,6 @@ b.    Character and Citizenship Education (CCE)
 
 **<center> Secondary 1 </center>**
 
-| Unit | Lessons | Column 3 | Column 4 |
+| Unit | Lessons/Durations | Lessons Objectives <br> **At the end of the lesson, pupils will be able to:**| **TIME PERIOD** |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
-
-
+| Respectful Relationships & Safety     |      | Text     | Text     |
