@@ -53,3 +53,4 @@ The level of attainment in this domain is determined by the highest level attain
 |      | Lower Sec House Committee  | Lower Sec House Captain <br><br>  Lower Sec House Vice-Captain<br><br> Upper Sec House Committee   |   House Executive Committee <br><br> Upper Sec House Captain<br><br> Upper Sec House Vice-Captain  |    |
 |      | Lower Sec Sports Leader  | Upper Sec Sports Leader  |    |    |
 |      |   | Committee for school-wide events | Chairperson for school-wide events <br><br>  Vice-Chairperson for school-wide events   |    |
+|      | Committee for student-initiated projects, approved by school <br><br> Committee for student-led projects, approved by school  | Chairperson for student-initiated projects, approved by school <br><br>  Vice-Chairperson for student-initiated projects, approved by school <br><br> Chairperson for student-led projects, approved by school |   |    |
