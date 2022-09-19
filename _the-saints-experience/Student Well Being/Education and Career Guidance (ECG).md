@@ -32,3 +32,12 @@ ECG Plans 2022
 | Sec 4/5    | EAE Interview and Portfolio Preparation Workshops<br> <br>Effective Communication Workshop<br><br> Careers Days <br><br> Parent engagement talks
 | For all levels    | ECG Counselling with Ms Nur, Every Tuesday, Wednesday, Even Fridays (0800hrs-1700hrs)<br> <br>Booking link:  Email: Nurkhadijah_Mustafa_Bamadhaj@schools.gov.sg]
 
+**Links for Students and Parents for Further Exploration** 
+
+[Where to go after O levels:](https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html) 
+
+[Digital brochure from MySkillsFuture](https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf?la=en&hash=CD3B2E8DED37E7B383339007D960CF161F03F789): 
+
+[MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html): 
+
+[Parent guide](https://www.moe.gov.sg/microsites/ecg-parent-guide/index.html)
