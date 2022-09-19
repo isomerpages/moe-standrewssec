@@ -32,15 +32,13 @@ third_nav_title: Our People
 | Ms Vanessa Poh | poh_jin_yu_vanessa@moe.edu.sg
 | Mr Lin Daoxing | lin_daoxing@moe.edu.sg
 
-| 1 Wonder  |  |
+| 1 Thanksgiving  |  |
 |:---:|:---:|
-| Mr Daniel Thiam | thiam_siong_oon_daniel@moe.edu.sg
-| Ms Wong Limin | wong_limin@moe.edu.sg 
-| Mr Tee Shi En | sass@moe.edu.sg
+| Mr Tan Yan Ho | tan_yan_ho@moe.edu.sg
+| Ms Kevina Jerrine | kevina_jerrine_ronald_joe@moe.edu.sg
+
 
 | 1 Integrity |  |
 |:---:|:---:|
 | Mr Liang Soon Fong | liang_soon_fong@moe.edu.sg
 | Ms Ng Li Yan | ng_li_yan@moe.edu.sg
-
-
