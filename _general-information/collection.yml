@@ -2,8 +2,8 @@ collections:
   general-information:
     output: true
     order:
-      - For Parents.md
       - For Staff.md
+      - For Parents.md
       - For Students.md
       - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
@@ -11,6 +11,6 @@ collections:
       - Blended Learning/Resources For Parents.md
       - e Open House.md
       - School Calendar.md
+      - Contact Us/.keep
       - Contact Us/Feedback Form.md
       - Contact Us/Location Map.md
-      - Contact Us/.keep
