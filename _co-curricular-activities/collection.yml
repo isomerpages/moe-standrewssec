@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - CCA Policy at St Andrew's.md
       - SOP for Opening and Closure of CCAs.md
       - Direct Admissions (Tertiary)/.keep
       - Secondary 1 CCA allocation.md
