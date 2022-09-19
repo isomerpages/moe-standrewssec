@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Admissions/2022 Sec One Admissions.md
       - Admissions/.keep
       - Direct School Admissions 2022.md
       - For Staff.md
