@@ -63,6 +63,9 @@ The level of attainment in this domain is determined by the highest level attain
 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 | -------- | -------- | -------- | -------- | -------- |
 | Completed at least 24 to less than 30 hours of service  | Completed at least 30 to less than 36 hours of service      |  Completed at least 36 hours of service    |  |  |
+|  |  Completed at least one VIA project that impacts the school or community      |  Completed at least two VIA projects that impact the school or community   |  |  |
+|  |    |  Completed at least 24 hours of service and at least one VIA project that impacts the school or community   | Completed at least 24 hours of service and at least two VIA projects that impact the school or community | Completed at least 24 hours of service and at least one student-initiated VIA project that impact the community beyond the school and at least one other VIA project |
 
+**Note**
 
-
+One example of an approach to VIA is Service-Learning. Time spent on VIA projects, including the planning, service and reflection components, will count towards the minimum hours of service stated in the above criterion.
