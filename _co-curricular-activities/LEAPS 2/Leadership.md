@@ -81,5 +81,5 @@ The level of attainment in this domain is determined by the highest level attain
 
 | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |
 | -------- | -------- | -------- | -------- | -------- |
-|  Young Team Singapore Ambassador     | Lower Sec CCA Committee Member     |  Lower Sec CCA Captain <br><br>Lower Sec CCA Vice-Captain<br><br> Lower Sec CCA Executive Committee<br><br> Upper Sec CCA Committee Member    | Upper Sec CCA Executive Committee    | CCA Captain<br><br>CCA Vice-Captain     |
-
+|  Young Team Singapore Ambassador     | Lower Sec CCA Committee Member     |  Lower Sec CCA Captain <br><br>Lower Sec CCA Vice-Captain<br><br> Lower Sec CCA Executive Committee<br><br> Upper Sec CCA Committee Member    | Upper Sec CCA Executive Committee    | CCA Captain<br><br>CCA Vice-Captain     | 
+|      |     |     |  |  Singapore Schools Team Captain <br><br> Singapore Schools Team Vice-Captain <br><br>  National Team Captain<br><br> National Team Vice-Captain   |
