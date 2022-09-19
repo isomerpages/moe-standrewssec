@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Direct Admissions (Tertiary)/.keep
       - Secondary 1 CCA allocation.md
       - Leaps Ver 2/.keep
       - Club & Societies/.keep
