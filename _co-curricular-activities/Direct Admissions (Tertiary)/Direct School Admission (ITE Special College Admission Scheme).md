@@ -33,5 +33,24 @@ The key dates for SCAS are as follows:
 | -------- | -------- | 
 | Application Dates     | Usually Month of July    | 
 | Interview Dates     | Usually Month of August     | 
-| Notification/Acceptance of Application Outcome    | Month of October   | 
+| Notification/Acceptance of Application Outcome    | Month of October   |
 
+#### APPLICATION
+
+Application is open to final-year secondary school students from the Normal (Technical), Normal (Academic) and ‘O’ level streams, as well as past-year secondary school leavers.  Applicants are advised to submit their online application to be considered for admission into the following year's intakes.
+
+  
+
+Current ITE students are not eligible for this scheme. Students can apply up to a maximum of 3 choices of courses online.  Each ITE College will notify short-listed applicants on the interview dates. 
+
+#### SELECTION AND OFFER
+
+In selecting the students, ITE Colleges will take into account, their suitability and motivation for admission to the course applied for, based on their CCA records, personal portfolio of achievements and performance at interview.
+
+  
+
+Final-year secondary school students without their GCE ‘N’ or ‘O’ level examination results, and who are selected, will be given a conditional offer of a place in ITE.  Confirmation of admission will be based on students meeting the minimum entry requirements (where applicable) for the selected courses, when the final GCE ‘N’ or ‘O’ level examination results are released.  Students, who have applied to more than one ITE College, may receive only 1 offer based on the order of choice.
+
+  
+
+For more information, please click [here](https://www.ite.edu.sg/wps/wcm/connect/1b4db5804bca7ff2b1d0b15b11ba44f7/SCAS+2014+FAQ_Apr13_Final.pdf?MOD=AJPERES) for FAQs on the ITE SCAS
