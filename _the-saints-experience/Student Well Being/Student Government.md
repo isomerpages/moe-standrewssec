@@ -80,4 +80,7 @@ The SG committee hand-holds the Prefects and Junior Leaders in their execution o
 Student Leadership Centre (SLC)
 -------------------------------
 
-There are also plans for seamless leadership development and training for student leaders starting from the Primary School level in SAJS to Junior College level in SAJC.
+There are also plans for seamless leadership development and training for student leaders starting from the Primary School level in SAJS to Junior College level in SAJC
+
+<img src="/images/IMG_8021.jpeg" > 
+<img src="/images/SG1.jpeg" style="width:50%">  <img src="/images/studentleadership03.jpeg" style="width:50%"> 
