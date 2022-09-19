@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Secondary 1 CCA allocation/.keep
       - Leaps Ver 2/.keep
       - Club & Societies/.keep
       - Performing Arts/.keep
