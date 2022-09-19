@@ -42,3 +42,14 @@ third_nav_title: Our People
 |:---:|:---:|
 | Mr Jimmy Koh | koh_tze_ping@moe.edu.sg
 | Ms Angel Lee | lee_song_tiang@moe.edu.sg
+
+| 1 Unity |  |
+|:---:|:---:|
+| Ms Shanthini | shanthini_rathakrishnan@moe.edu.sg
+| Mr Gary Ding | ding_chi_ying_gary@moe.edu.sg
+
+| 1 Empathy  |  |
+|:---:|:---:|
+| Mr Winston Soo | soo_lik_lern_winston@moe.edu.sg
+| Ms Charlene Tan|tan_siew_hon_charlene@moe.edu.sg
+| Ms Wang Kai Qi | wang_kai_qi@moe.edu.sg
