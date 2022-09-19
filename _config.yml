@@ -3,7 +3,7 @@ url: https://standrewssec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#05057a"
-  secondary-color: "#ffec00"
+  secondary-color: "#5c04ab"
   media-colors:
     - title: media-color-one
       color: "#49759a"
