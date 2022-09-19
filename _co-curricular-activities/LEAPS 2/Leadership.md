@@ -102,5 +102,9 @@ The level of attainment in this domain is determined by the highest level attain
 
 | | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 |  
 | -------- | -------- | -------- | -------- | -------- | -------- |
-|   **Boys Brigade**   | Lance Corporal     | Lower Sec CCA Committee Member     | Lower Sec CCA Chairperson<br><br>Lower Sec CCA Vice-Chairperson<br><br>Lower Sec CCA Executive Committee<br><br>Upper Sec CCA Committee Member     |  CCA Executive Committee     |  CCA Chair<br><br> CCA Vice-Chair     |
-
+|   |   | Lower Sec CCA Committee Member     | Lower Sec CCA Chairperson<br><br>Lower Sec CCA Vice-Chairperson<br><br>Lower Sec CCA Executive Committee<br><br>Upper Sec CCA Committee Member     |  CCA Executive Committee     |  CCA Chair<br><br> CCA Vice-Chair     |
+| **Boys Brigade**  | Lance Corporal     | Corporal    | Sergeant     |  Staff Sergeant     |  Warrant Officer    |
+| **National Cadet Corps** | Lance Corporal     | Corporal    | Sergeant     |  Staff Sergeant     |  Master Sergeant    |
+| **National Police Cadet Corps** | Lance Corporal     | Corporal    | Sergeant     |  Staff Sergeant     |  Station Inspector    |
+| **St. John Ambulance Brigade** | Lance Corporal     | Corporal    | Sergeant     |  Staff Sergeant     |   Senior Staff Sergeant    |
+| **Scouts** |    | Assistant Patrol Leader   | Patrol Leader     |   Senior Patrol Leader    |   Troop Leader    |
