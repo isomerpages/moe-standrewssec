@@ -77,24 +77,35 @@ third_nav_title: Our People
     <td>kevina_jerrine_ronald_joe@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">1 Goodness</td>
+    <td rowspan="2">1 Resilience</td>
     <td>Mr </td>
-    <td>Md Noornizar Bin Amirnoordin</td>
-    <td><a href="mailto:md_noornizar_amirnoordin@moe.edu.sg">md_noornizar_amirnoordin@moe.edu.sg</a></td>
+    <td>Jimmy Koh</td>
+    <td>koh_tze_ping@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm</td>
-    <td>Sandy Teo Jiajia (Mrs Tan)</td>
-    <td><a href="mailto:teo_jiajia_sandy@moe.edu.sg">teo_jiajia_sandy@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">1 Faithfulness</td>
     <td>Ms</td>
-    <td>Deng Lan</td>
-    <td><a href="mailto:deng_lan@moe.edu.sg">deng_lan@moe.edu.sg</a></td>
+    <td>Angel Lee</td>
+    <td>lee_song_tiang@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Unity</td>
+    <td>Ms</td>
+    <td>Shantini</td>
+    <td>shanthini_rathakrishnan@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Mr </td>
-    <td>Kenneth Kwok Yong Koon</td>
-    <td><a href="mailto:kwok_yong_koon_kenneth@moe.edu.sg">kwok_yong_koon_kenneth@moe.edu.sg</a></td>
+    <td>Gary Ding</td>
+    <td>ding_chi_ying_gary@moe.edu.sg</td>
+  </tr>
+	  <tr>
+    <td rowspan="3">1 Empathy</td>
+    <td>Mr</td>
+    <td>Winston Soo</td>
+    <td>soo_lik_lern_winston@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td>Ms </td>
+    <td>Charlene Tan</td>
+    <td>tan_siew_hon_charlene@moe.edu.sg</td>
   </tr>
