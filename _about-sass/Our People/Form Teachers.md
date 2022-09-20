@@ -55,15 +55,15 @@ third_nav_title: Our People
     <td>kong_lai_ling@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">1 Patience</td>
-    <td>Mdm</td>
-    <td>Nur Khairiani Binte Jamal</td>
-    <td><a href="mailto:nur_khairiani_jamal@moe.edu.sg">nur_khairiani_jamal@moe.edu.sg</a></td>
+    <td rowspan="2">1 Excellence</td>
+    <td>Ms</td>
+    <td>Vanessa Poh</td>
+    <td>poh_jin_yu_vanessa@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mdm</td>
-    <td>Rosanne Tan Zi Jun (Mrs Jung)</td>
-    <td><a href="mailto:tan_zi_jun_rosanne@moe.edu.sg">tan_zi_jun_rosanne@moe.edu.sg</a></td>
+    <td>Mr</td>
+    <td>Lin Daoxing</td>
+    <td>lin_daoxing@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">1 Kindness</td>
