@@ -10,7 +10,7 @@ third_nav_title: Physical Education
 
 ![](/images/PE%20Logo%203.jpeg)
 
-| Secondary 1 - Outdoor Education|  |  |
+| **Secondary 1 - Physical Health & Fitness**|  |  |
 | -------- | -------- | -------- |
 | **Goal 1: Acquire a range of motor skills to participate in a variety of physical activities.**    |      |   N.A.|
 | **Goal 2: Understand and apply movement concepts, principles and strategies in a range of physical activities.**   |   Health and Fitness Management   | Identify the main muscle groups which are required for physical activities and their corresponding stretches  |
