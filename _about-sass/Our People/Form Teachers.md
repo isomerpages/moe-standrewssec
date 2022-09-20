@@ -109,3 +109,8 @@ third_nav_title: Our People
     <td>Charlene Tan</td>
     <td>tan_siew_hon_charlene@moe.edu.sg</td>
   </tr>
+	<tr>
+    <td>Ms </td>
+    <td>Wang Kai Qi</td>
+    <td>wang_kai_qi@moe.edu.sg</td>
+  </tr>
