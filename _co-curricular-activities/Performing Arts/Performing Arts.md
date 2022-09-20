@@ -17,3 +17,19 @@ third_nav_title: Performing Arts
 
 _Prior to major weighted assessments, in Week 6 of Term 2 and Week 1 of Term 4, all CCAs will **stand down** unless there are important competitions._
 
+### Our Accomplishments
+
+
+**Band** 
+
+Certificate of Distinction **–** 2011, 2013, 2015, 2017, 2019  
+
+**Choir**
+
+Certificate of Distinction – 2011, 2013, 2015, 2017, 2019
+
+**Drama (English)**
+
+Certificate of Distinction – 2011, 2013, 2015, 2017 
+
+Certificate of Accomplishment – 2019
