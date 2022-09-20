@@ -2,14 +2,6 @@ collections:
   the-saints-experience:
     output: true
     order:
-      - Physical Education/.keep
-      - Student Well Being/.keep
-      - Student Well Being/Restorative Practice.md
-      - Student Well Being/Information & Communication Technology.md
-      - Student Well Being/Character and Citizenship Education (CCE).md
-      - Student Well Being/Student Government.md
-      - Student Well Being/Sexuality Education.md
-      - Student Well Being/Education and Career Guidance (ECG).md
       - The Saints' Experience.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
@@ -21,6 +13,14 @@ collections:
       - Academics/Science.md
       - Academics/Applied Learning Programme.md
       - Academics/Learning For Life Programme.md
+      - Physical Education/.keep
+      - Student Well Being/.keep
+      - Student Well Being/Restorative Practice.md
+      - Student Well Being/Information & Communication Technology.md
+      - Student Well Being/Character and Citizenship Education (CCE).md
+      - Student Well Being/Student Government.md
+      - Student Well Being/Sexuality Education.md
+      - Student Well Being/Education and Career Guidance (ECG).md
       - Special Programmes/.keep
       - Special Programmes/Cohort based Approach.md
       - Special Programmes/RKS Adams.md
