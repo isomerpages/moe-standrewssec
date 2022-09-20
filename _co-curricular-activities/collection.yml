@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Sports & Games/Swimming.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Basketball.md
@@ -16,6 +15,7 @@ collections:
       - Sports & Games/Squash.md
       - Sports & Games/Football.md
       - Sports & Games/Track & Field.md
+      - Sports & Games/Swimming.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Boys Brigade.md
