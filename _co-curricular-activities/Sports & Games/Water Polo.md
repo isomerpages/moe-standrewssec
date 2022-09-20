@@ -21,11 +21,15 @@ Training Venue:     SAV Swimming Pool 
 
 **Teachers-in-Charge**
 
-1.  Mr Ng Eu Khim           [ng\_eu\_khim@moe.edu.sg](mailto:ng_eu_khim@moe.edu.sg)
-2.  Ms Carmen Chan       [chan\_jiamin\_carmen@moe.edu.sg](mailto:chan_jiamin_carmen@moe.edu.sg)  
-3.  Ms Veronica Lye         [lye\_shi-mei@moe.edu.sg](mailto:lye_shi-mei@moe.edu.sg)
+1.  Mr Ng Eu Khim   [ng\_eu\_khim@moe.edu.sg](mailto:ng_eu_khim@moe.edu.sg)
+2.  Ms Carmen Chan [chan\_jiamin\_carmen@moe.edu.sg](mailto:chan_jiamin_carmen@moe.edu.sg)  
+3.  Ms Veronica Lye  [lye\_shi-mei@moe.edu.sg](mailto:lye_shi-mei@moe.edu.sg)
 
   
-**Achievements  
-**2022  
+### Achievements  
+2022  
 Participated in National Schools Games, Waterpolo, B Division Participated in National Schools Games, Waterpolo, C Division
+
+![](/images/2022_04_14_NSG%202022%20Water%20Polo_Photo%20By%20Colin%20ONG-04443.jpeg)
+
+![](/images/2022_04_14_NSG%202022%20Water%20Polo_Photo%20By%20Colin%20ONG-04594.jpeg)
