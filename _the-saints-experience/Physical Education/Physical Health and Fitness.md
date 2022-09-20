@@ -9,4 +9,3 @@ third_nav_title: Physical Education
 ![](/images/PE%20Logo%206.jpeg)
 
 ![](/images/PE%20Logo%203.jpeg)
-
