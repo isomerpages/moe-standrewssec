@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
-      - Sports & Games/Cricket.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Basketball.md
       - Sports & Games/Boxing (Enrichment).md
+      - Sports & Games/Cricket.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Boys Brigade.md
