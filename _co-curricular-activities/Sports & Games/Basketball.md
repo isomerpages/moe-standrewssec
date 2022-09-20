@@ -9,11 +9,11 @@ third_nav_title: Sports & Games
 
 ### CCA Schedule
 
-Training Days:        Tuesday, Thursday 
+Training Days:  Tuesday, Thursday 
 
 Training Time:   3.30 - 6.00 PM
 
-Training Venue:      SASS Indoor Sports Hall (ISH) 
+Training Venue: SASS Indoor Sports Hall (ISH) 
 
   
 
