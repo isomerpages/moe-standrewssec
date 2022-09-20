@@ -36,8 +36,7 @@ SAFMC Finalists (Cat B)
 <img src="/images/2017-04-11-PHOTO-00000079.jpg" 
      style="width:50%">
 
-<img src="/images/10402550_10152203775338589_3008603238557385093_n.jpg">
+<img src="/images/10402550_10152203775338589_3008603238557385093_n.jpg" style="width:50%">
 
 
-<img src="/images/10302169_10152203766533589_3163760823435961257_n.jpg">
-
+<img src="/images/10302169_10152203766533589_3163760823435961257_n.jpg" style="width:50%">
