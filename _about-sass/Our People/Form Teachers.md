@@ -21,17 +21,17 @@ third_nav_title: Our People
     <td rowspan="3">1 Wonder</td>
     <td>Mr</td>
     <td>Daniel Thiam</td>
-    <td>thiam_siong_oon_daniel@moe.edu.sg</a></td>
+    <td>thiam_siong_oon_daniel@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms</td>
     <td>Wong Limin</td>
-      <td>wong_limin@moe.edu.sg</a></td>
+      <td>wong_limin@moe.edu.sg</td>
   </tr>
 	  <tr>
     <td>Mr</td>
     <td>Tee Shi En</td>
-    <td>sass@moe.edu.sg</a></td>
+    <td>sass@moe.edu.sg</td>
   <tr>
     <td rowspan="2">1 Integrity</td>
     <td>Mr</td>
