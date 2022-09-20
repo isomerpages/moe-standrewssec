@@ -44,15 +44,15 @@ third_nav_title: Our People
     <td>ng_li_yan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">1 Peace</td>
-    <td>Mdm</td>
-    <td>Azliza Binte Ali</td>
-    <td><a href="mailto:azliza_ali@moe.edu.sg">azliza_ali@moe.edu.sg</a></td>
+    <td rowspan="2">1 Self- Discipline</td>
+    <td>Mr</td>
+    <td>Kwok Sheng Da</td>
+    <td>kwok_sheng_da@moe.edu.sg</td>
   </tr>
   <tr>
-    <td>Mr</td>
-    <td>Huang Yuming</td>
-    <td><a href="mailto:huang_yuming@moe.edu.sg">huang_yuming@moe.edu.sg</a></td>
+    <td>Ms</td>
+    <td>Kong Lai Ling</td>
+    <td>kong_lai_ling@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">1 Patience</td>
