@@ -11,13 +11,15 @@ Training Days: Monday and Thursday
 Training Time: 3.30 - 6.30 PM  
 Training Venue: School Classroom C401 (Music Room)  
   
-**Teachers-in-Charge  
-**Ms Melissa Foo melissa\_foo\_xing\_wen[@moe.edu.sg](mailto:francis_thomas@moe.edu.sg)  
-Ms Faizah Osman faizah\_osman[@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)  
-Mr Xu Ning xu\_ning[@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)  
+### Teachers-in-Charge  
+
+Ms Melissa Foo [melissa\_foo\_xing\_wen@moe.edu.sg](mailto:francis_thomas@moe.edu.sg)  
+Ms Faizah Osman [faizah\_osman@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)  
+Mr Xu Ning [xu\_ning@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)  
   
-**Achievements  
-**2021  
+**Achievements**
+
+2021  
 Participated in Why We Sing: A Choral Festival organized by De La Salle University Manilla  
 2019   
 
