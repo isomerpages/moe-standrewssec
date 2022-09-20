@@ -33,15 +33,15 @@ third_nav_title: Our People
     <td>Tee Shi En</td>
     <td>sass@moe.edu.sg</a></td>
   <tr>
-    <td rowspan="2">1 Joy</td>
-    <td>Ms</td>
-    <td>Cherlene Lau Suet Ling</td>
-    <td><a href="mailto:cherlene_lau_suet_ling@moe.edu.sg">cherlene_lau_suet_ling@moe.edu.sg</a></td>
+    <td rowspan="2">1 Integrity</td>
+    <td>Mr</td>
+    <td>Liang Soon Fong</td>
+    <td>liang_soon_fong@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms</td>
-    <td>Chia Chen Chi</td>
-    <td><a href="mailto:chia_chen_chi@moe.edu.sg">chia_chen_chi@moe.edu.sg</a></td>
+    <td>Ng Li Yan</td>
+    <td>ng_li_yan@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">1 Peace</td>
