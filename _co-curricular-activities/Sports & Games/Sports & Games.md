@@ -14,5 +14,4 @@ third_nav_title: Sports & Games
 | -------- | -------- | -------- | -------- | -------- |  -------- | -------- |
 | **Rugby**     | Monday, Wednesday and Friday    | 3.30 - 6.15 PM     | Monday, Wednesday and Friday     | 3.30 - 6.15 PM     | School Field     |  Mr Benedict Tan |
 | **Hockey**     | Monday, Wednesday and Friday    | 3.30 - 6.00 PM     | Monday, Wednesday and Friday     | 3.30 - 6.00 PM     | School Hockey Pitch     |  Ms Shantini |
-| **Hockey**     | Monday, Wednesday and Friday    | 3.30 - 6.00 PM     | Monday, Wednesday and Friday     | 3.30 - 6.00 PM     | School Hockey Pitch     |  Ms Shantini |
-
+| **Basketball**     | Tuesday and Thursday    | 3.30 - 6.00 PM     | Tuesday and Thursday     | 3.30 - 6.00 PM     |  School Indoor Sports Hall (ISH)     |  Mr Vincent Lai |
