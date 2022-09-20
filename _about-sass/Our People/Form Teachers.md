@@ -114,6 +114,5 @@ third_nav_title: Our People
     <td>Wang Kai Qi</td>
     <td>wang_kai_qi@moe.edu.sg</td>
   </tr>
-	</tbody>
-	</table>
-
+</tbody>
+</table>
