@@ -16,7 +16,6 @@ third_nav_title: Our People
     <th>EMAIL</th>
   </tr>
 </thead>
-<tbody>
   <tr>
     <td rowspan="3">1 Wonder</td>
     <td>Mr</td>
@@ -114,5 +113,4 @@ third_nav_title: Our People
     <td>Wang Kai Qi</td>
     <td>wang_kai_qi@moe.edu.sg</td>
   </tr>
-</tbody>
 </table>
