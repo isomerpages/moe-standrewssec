@@ -66,15 +66,15 @@ third_nav_title: Our People
     <td>lin_daoxing@moe.edu.sg</td>
   </tr>
   <tr>
-    <td rowspan="2">1 Kindness</td>
-    <td>Ms </td>
-    <td>Junaidah Bte Jumat</td>
-    <td><a href="mailto:junaidah_jumat@moe.edu.sg">junaidah_jumat@moe.edu.sg</a></td>
+    <td rowspan="2">1 Thanksgiving</td>
+    <td>Mr </td>
+    <td>Tan Yan Ho</td>
+    <td>tan_yan_ho@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms</td>
-    <td>Cindy Tan Hui Sin </td>
-    <td><a href="mailto:tan_hui_sin@moe.edu.sg">tan_hui_sin@moe.edu.sg</a></td>
+    <td>Kevina Jerrine</td>
+    <td>kevina_jerrine_ronald_joe@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">1 Goodness</td>
