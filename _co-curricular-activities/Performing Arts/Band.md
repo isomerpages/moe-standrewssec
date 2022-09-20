@@ -24,10 +24,11 @@ Training Venue: Band Room and classrooms
 
 
 
-1.   Ms Carmen Ong             carmen\_chan\_jia\_min@moe.edu.sg
-2.   Mr Caleb Cheong cheong\_chee\_ngai\_caleb@moe.edu.sg
-3.   Ms. Sarah Chan chan\_mei\_ping\_sarah@moe.edu.sg
-4.   Mr. Terence Chee chee\_wei\_kit\_terence@moe.edu.sg
+1.   Ms Carmen Ong             carmen_chan_jia_min@moe.edu.sg
+2.   Mr Caleb Cheong cheong_chee_ngai_caleb@moe.edu.sg
+3.   Ms. Sarah Chan 
+chan_mei_ping_sarah@moe.edu.sg
+5.   Mr. Terence Chee chee_wei_kit_terence@moe.edu.sg
 
   
 
@@ -70,4 +71,3 @@ Performance at the official opening of the St Andrew's Migrant Worker Medical Ce
 		 
 <img src="/images/Band6.jpg" 
      style="width:50%">
-
