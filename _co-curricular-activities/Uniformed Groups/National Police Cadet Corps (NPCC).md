@@ -46,3 +46,7 @@ Best Unit Cadet - Station Inspector Lau Wing Ban Wyne
 Unit Overall Proficiency Award, GOLD  
 
 4th Position Tanglin Division Inter-NPCC Anti-Scam TikTok Challenge
+
+![](/images/Npcc.jpg)
+
+![](/images/Npcc2.jpg)
