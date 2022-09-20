@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities.md
+      - Sports & Games/Football.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Basketball.md
