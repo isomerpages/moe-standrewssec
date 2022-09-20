@@ -15,7 +15,8 @@ third_nav_title: Physical Education
 | **Goal 5: Acquire and maintain health-enhancing fitness through regular participation in physical activities.**  | Enhancing physical health and well-being  | Identify outdoor activities that one can participate in to promote health and growth. |
 | **Goal 6: Enjoy and value the benefits of living a physically active and healthy life.**  | Enhancing physical health and well-being  | 1. Identify green areas or routes around the school in which one can safely explore through physical activity.<br><br>2. Identify activities that one can enjoy in the green areas or routes around the school.<br><br>3. Appreciate the benefits of physical activity in green areas. |
 
-
+<br>
+<br>
 
 | Secondary 2 - Outdoor Education|  |  |
 | -------- | -------- | -------- |
