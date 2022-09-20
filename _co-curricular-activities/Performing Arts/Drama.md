@@ -8,7 +8,6 @@ third_nav_title: Performing Arts
 
 ### CCA Schedule  
 
-### 
 
 Training Days:   Monday and Thursday  
 
@@ -20,17 +19,17 @@ Training Venue:       Lecture Theatre
 
 ### Teachers-in-Charge  
 
-### 1.Ms Elizabeth Rathakrishnan [Thangaperakasam\_elizabeth\_mary@moe.edu.sg](mailto:Thangaperakasam_elizabeth_mary@moe.edu.sg)
+ 1.Ms Elizabeth Rathakrishnan [Thangaperakasam\_elizabeth\_mary@moe.edu.sg](mailto:Thangaperakasam_elizabeth_mary@moe.edu.sg)
 
-### 2.Ms Geraldine Goh geraldine\_goh\_yee\_gi[@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)
+ 2.Ms Geraldine Goh [geraldine\_goh\_yee\_gi@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)
 
-### 
+ 
 
   
 
 ### Achievements
 
-### 
+
 
 2021 
 
