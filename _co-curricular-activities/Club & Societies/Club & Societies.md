@@ -8,5 +8,4 @@ third_nav_title: Club & Societies
 
 | CCA<br>(Club & Societies)| Training Day | Training Time | Venue | Teacher(s) In-Charge |
 | -------- | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     | Text     |
-
+| **Saints Media**    | Wednesday     | 3.00 - 5.00 PM    | School, Small COE Room     | Mr Winston Soo     |
