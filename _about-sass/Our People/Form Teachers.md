@@ -8,93 +8,93 @@ third_nav_title: Our People
 
 #### Secondary 1 Form Teachers
 
-| 1 Wonder  |  |
-|:---:|:---:|
-| Mr Daniel Thiam | thiam_siong_oon_daniel@moe.edu.sg |
-| Ms Wong Limin | wong_limin@moe.edu.sg |
-| Mr Tee Shi En | sass@moe.edu.sg |
-
-| 1 Integrity |  |
-|:---:|:---:|
-| Mr Liang Soon Fong | liang_soon_fong@moe.edu.sg |
-| Ms Ng Li Yan | ng_li_yan@moe.edu.sg |
-
-| 1 Self- Discipline  |  |
-|:---:|:---:|
-| Mr Kwok Sheng Da | kwok_sheng_da@moe.edu.sg
-| Ms Kong Lai Ling | kong_lai_ling@moe.edu.sg
-
-
-| 1 Excellence |  |
-|:---:|:---:|
-| Ms Vanessa Poh | poh_jin_yu_vanessa@moe.edu.sg
-| Mr Lin Daoxing | lin_daoxing@moe.edu.sg
-
-| 1 Thanksgiving  |  |
-|:---:|:---:|
-| Mr Tan Yan Ho | tan_yan_ho@moe.edu.sg
-| Ms Kevina Jerrine | kevina_jerrine_ronald_joe@moe.edu.sg
-
-
-| 1 Resilience |  |
-|:---:|:---:|
-| Mr Jimmy Koh | koh_tze_ping@moe.edu.sg
-| Ms Angel Lee | lee_song_tiang@moe.edu.sg
-
-| 1 Unity |  |
-|:---:|:---:|
-| Ms Shanthini | shanthini_rathakrishnan@moe.edu.sg
-| Mr Gary Ding | ding_chi_ying_gary@moe.edu.sg
-
-| 1 Empathy  |  |
-|:---:|:---:|
-| Mr Winston Soo | soo_lik_lern_winston@moe.edu.sg
-| Ms Charlene Tan|tan_siew_hon_charlene@moe.edu.sg
-| Ms Wang Kai Qi | wang_kai_qi@moe.edu.sg
-
-#### Secondary 2 Form Teachers
-<br>
-
-| 1 Wonder  |  |
-|:---:|:---:|
-| Mr Daniel Thiam | thiam_siong_oon_daniel@moe.edu.sg
-| Ms Wong Limin | wong_limin@moe.edu.sg 
-| Mr Tee Shi En | sass@moe.edu.sg
-
-| 1 Integrity |  |
-|:---:|:---:|
-| Mr Liang Soon Fong | liang_soon_fong@moe.edu.sg
-| Ms Ng Li Yan | ng_li_yan@moe.edu.sg
-
-| 1 Self- Discipline  |  |
-|:---:|:---:|
-| Mr Kwok Sheng Da | kwok_sheng_da@moe.edu.sg
-| Ms Kong Lai Ling | kong_lai_ling@moe.edu.sg
-
-
-| 1 Excellence |  |
-|:---:|:---:|
-| Ms Vanessa Poh | poh_jin_yu_vanessa@moe.edu.sg
-| Mr Lin Daoxing | lin_daoxing@moe.edu.sg
-
-| 1 Thanksgiving  |  |
-|:---:|:---:|
-| Mr Tan Yan Ho | tan_yan_ho@moe.edu.sg
-| Ms Kevina Jerrine | kevina_jerrine_ronald_joe@moe.edu.sg
-
-
-| 1 Resilience |  |
-|:---:|:---:|
-| Mr Jimmy Koh | koh_tze_ping@moe.edu.sg
-| Ms Angel Lee | lee_song_tiang@moe.edu.sg
-
-| 1 Unity |  |
-|:---:|:---:|
-| Ms Shanthini | shanthini_rathakrishnan@moe.edu.sg
-| Mr Gary Ding | ding_chi_ying_gary@moe.edu.sg
-
-| 1 Empathy  |  |
-|:---:|:---:|
-| Mr Winston Soo | soo_lik_lern_winston@moe.edu.sg
-| Ms Charlene Tan|tan_siew_hon_charlene@moe.edu.sg
-| Ms Wang Kai Qi | wang_kai_qi@moe.edu.sg
+<table>
+<thead>
+  <tr>
+    <th>CLASS</th>
+    <th colspan="2">NAME</th>
+    <th>EMAIL</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">1 Wonder</td>
+    <td>Mr</td>
+    <td>Daniel Thiam</td>
+    <td>thiam_siong_oon_daniel@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms</td>
+    <td>Wong Limin</td>
+      <td>wong_limin@moe.edu.sg</a></td>
+  </tr>
+	  <tr>
+    <td>Mr</td>
+    <td>Tee Shi En</td>
+    <td>sass@moe.edu.sg</a></td>
+  <tr>
+    <td rowspan="2">1 Joy</td>
+    <td>Ms</td>
+    <td>Cherlene Lau Suet Ling</td>
+    <td><a href="mailto:cherlene_lau_suet_ling@moe.edu.sg">cherlene_lau_suet_ling@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms</td>
+    <td>Chia Chen Chi</td>
+    <td><a href="mailto:chia_chen_chi@moe.edu.sg">chia_chen_chi@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Peace</td>
+    <td>Mdm</td>
+    <td>Azliza Binte Ali</td>
+    <td><a href="mailto:azliza_ali@moe.edu.sg">azliza_ali@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mr</td>
+    <td>Huang Yuming</td>
+    <td><a href="mailto:huang_yuming@moe.edu.sg">huang_yuming@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Patience</td>
+    <td>Mdm</td>
+    <td>Nur Khairiani Binte Jamal</td>
+    <td><a href="mailto:nur_khairiani_jamal@moe.edu.sg">nur_khairiani_jamal@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mdm</td>
+    <td>Rosanne Tan Zi Jun (Mrs Jung)</td>
+    <td><a href="mailto:tan_zi_jun_rosanne@moe.edu.sg">tan_zi_jun_rosanne@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Kindness</td>
+    <td>Ms </td>
+    <td>Junaidah Bte Jumat</td>
+    <td><a href="mailto:junaidah_jumat@moe.edu.sg">junaidah_jumat@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Ms</td>
+    <td>Cindy Tan Hui Sin </td>
+    <td><a href="mailto:tan_hui_sin@moe.edu.sg">tan_hui_sin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Goodness</td>
+    <td>Mr </td>
+    <td>Md Noornizar Bin Amirnoordin</td>
+    <td><a href="mailto:md_noornizar_amirnoordin@moe.edu.sg">md_noornizar_amirnoordin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mdm</td>
+    <td>Sandy Teo Jiajia (Mrs Tan)</td>
+    <td><a href="mailto:teo_jiajia_sandy@moe.edu.sg">teo_jiajia_sandy@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">1 Faithfulness</td>
+    <td>Ms</td>
+    <td>Deng Lan</td>
+    <td><a href="mailto:deng_lan@moe.edu.sg">deng_lan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td>Mr </td>
+    <td>Kenneth Kwok Yong Koon</td>
+    <td><a href="mailto:kwok_yong_koon_kenneth@moe.edu.sg">kwok_yong_koon_kenneth@moe.edu.sg</a></td>
+  </tr>
