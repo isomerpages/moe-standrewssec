@@ -18,13 +18,13 @@ Training Venue:   SASS school field
 
 Teachers-in-Charge  
 
-1. Mr Benedict Tan (OIC)                  tan_kok_tze_benedict@moe.edu.sg
+1. Mr Benedict Tan (OIC) tan_kok_tze_benedict@moe.edu.sg
 
-2. Mr Lim Dao Xing                           lin_daoxing@moe.edu.sg
+2. Mr Lim Dao Xing   lin_daoxing@moe.edu.sg
 
-3. Ms Tan Yii Yann                            tan_yii_yann@moe.edu.sg
+3. Ms Tan Yii Yann     tan_yii_yann@moe.edu.sg
 
-4. Mr Cheong Peng Yong                 cheong_peng_yong@moe.edu.sg
+4. Mr Cheong Peng Yong cheong_peng_yong@moe.edu.sg
 
 5.  Mr Aaron Kong (Advisor)              kong_hon_ein_aaron@moe.edu.sg
 
