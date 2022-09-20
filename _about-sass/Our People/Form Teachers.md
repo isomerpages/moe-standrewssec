@@ -117,4 +117,3 @@ third_nav_title: Our People
 	</tbody>
 	</table>
 
-#### Secondary 2 Form Teacher
