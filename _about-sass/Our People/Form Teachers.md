@@ -138,15 +138,15 @@ third_nav_title: Our People
     <td>Renuga Visvalingam</td>
       <td>renuga_visvalingam@moe.edu.sg</td>
   </tr>
-    <td rowspan="2">1 Integrity</td>
+    <td rowspan="2">2 Integrity</td>
     <td>Mr</td>
-    <td>Liang Soon Fong</td>
-    <td>liang_soon_fong@moe.edu.sg</td>
+    <td>Francina Gibson</td>
+    <td>francina_jeyanthi_victor@moe.edu.sg</td>
   </tr>
   <tr>
     <td>Ms</td>
-    <td>Ng Li Yan</td>
-    <td>ng_li_yan@moe.edu.sg</td>
+    <td>Sarah Chan</td>
+    <td>chan_mei_ping_sarah@moe.edu.sg</td>
   </tr>
   <tr>
     <td rowspan="2">1 Self- Discipline</td>
