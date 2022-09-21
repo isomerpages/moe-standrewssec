@@ -61,13 +61,13 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 | **3 Wonder**     | Mdm Roshnah Begum     | roshnah_begum_mohd_abbas@moe.edu.sg     |
 |     | Ms Abigail Wee     | wee_hui_ern_abigail@moe.edu.sg    |
-| **2 Integrity**     | Mrs Francina Gibson     | francina_jeyanthi_victor@moe.edu.sg    |
-|     | Ms Sarah Chan     | chan_mei_ping_sarah@moe.edu.sg    |
-| **2 Self- Discipline**     | Mdm Nisha Khan     | nisha_omar_khan@moe.edu.sg     |
-|     | Mr Mohd Osman     | mohamed_osman_mohamed_noor@moe.edu.sg    |
+| **3 Integrity**     | Mr P Selvarasoo    | p_selvarasoo@moe.edu.sg   |
+|     | Ms Chua Xin Yuan     | chua_xin_yuan@moe.edu.sg  |
+| **3 Self- Discipline**     | Mrs Carmen Ong     | carmen_chan_jia_min@moe.edu.sg     |
+|     | Ms Veronica Lye     | lye_shi-mei@moe.edu.sg    |
 |     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
-| **2 Excellence**     | Ms Tan Yii Yann    | tan_yii_yann@moe.edu.sg     |
-|     | Ms Ng Pei Shing    | ng_pei_shing@moe.edu.sg
+| **3 Excellence**     | Mr Cheong Peng Yong    | cheong_peng_yong@moe.edu.sgg     |
+|     | Mr Caleb Cheong   | cheong_chee_ngai_caleb@moe.edu.sg 
 | **2 Thanksgiving**    | Mr Muhd Zulhaqqim    | muhammad_zulhaqqim_awaruddin@moe.edu.sg     |
 |     | Ms Melissa Foo    | melissa_foo_xing_wen@moe.edu.sg |
 | **2 Resilience**    | Mdm Raudzah bte Osman   | raudzah_osman@moe.edu.sg     |
