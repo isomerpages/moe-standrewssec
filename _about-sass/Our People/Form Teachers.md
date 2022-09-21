@@ -43,8 +43,8 @@ third_nav_title: Our People
 |     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
 | **2 Excellence**     | Ms Tan Yii Yann    | tan_yii_yann@moe.edu.sg     |
 |     | Ms Ng Pei Shing    | ng_pei_shing@moe.edu.sg
-| **1 Thanksgiving**    | Mr Tan Yan Ho    | tan_yan_ho@moe.edu.sg     |
-|     | Ms Kevina Jerrine    | kevina_jerrine_ronald_joe@moe.edu.sg |
+| **2 Thanksgiving**    | Mr Muhd Zulhaqqim    | muhammad_zulhaqqim_awaruddin@moe.edu.sg     |
+|     | Ms Melissa Foo    | kevina_jerrine_ronald_joe@moe.edu.sg |
 | **1 Resilience**    | Mr Jimmy Koh   | koh_tze_ping@moe.edu.sg     |
 |     | Ms Angel Lee    | lee_song_tiang@moe.edu.sg |
 | **1 Unity**    | Ms Shanthini   | shanthini_rathakrishnan@moe.edu.sg     |
