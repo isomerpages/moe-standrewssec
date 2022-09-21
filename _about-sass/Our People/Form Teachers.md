@@ -94,7 +94,7 @@ third_nav_title: Our People
 |     | Mr Xu Ning    | xu_ning@moe.edu.sg |
 | **4J1**    | Mr Alex Lim   | lim_jun_xiong_alex@moe.edu.sg     |
 |     | Mr Paul Matthew Cheong    | cheong_wei_paul_matthew@moe.edu.sg |
-| **3 Unity**    | Ms Fatima Lui   | lui_nga_shun_fatima@moe.edu.sg     |
-|     | Ms Du Yun Qian    | du_yun_qian@moe.edu.sg |
-| **3 Empathy**    | Ms Carmen Chan   | chan_jiamin_carmen@moe.edu.sg     |
-|     | Ms Fa’izah bte Osman    | faizah_osman@moe.edu.sg|
+| **4J2**    | Mrs Kalaimathi Raj   | kalaimathi_marimuthu@moe.edu.sg     |
+|     | Mr Yeo Haig Gene    | yeo_haig_gene@moe.edu.sg |
+| **4J3**    | Mr Vincent Lai   | lai_dingsheng@moe.edu.sg     |
+|     | Mr Chua Hock Seng    | chua_hock_seng@moe.edu.sg|
