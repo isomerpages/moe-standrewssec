@@ -6,8 +6,7 @@ third_nav_title: Student Well Being
 ---
 ## Sexuality Education 
 
-###   
-MOE Sexuality Education in Schools
+###  MOE Sexuality Education in Schools
 
   
 
