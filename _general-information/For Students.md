@@ -68,16 +68,15 @@ Sec 3  2022 WA3  Info Sheet
 
 *   [Sec 3 NA WA3 2022 info Sheet](https://go.gov.sg/zx7cpi)
 *   [Sec 3 Exp WA3 2022 info Sheet](/files/Sec_3_Exp_WA3_2022_Info_Sheet_2.pdf)
-
 *   [Sec 3 NT WA3 2022 info Sheet](https://go.gov.sg/h3hnzy)
 
   
 
 Sec 4 Preliminary Exam 2022 Info Sheet  
 
-*   [Sec 4E5N Prelims 2022 Schedule](https://standrewssec.moe.edu.sg/qql/slot/u894/2022%204E5N%20PRELIMS%20TT.pdf)
-*   [Sec 4NA Prelims 2022 Schedule](https://standrewssec.moe.edu.sg/qql/slot/u894/2022%204NA%20PRELIMs%20TT.pdf)
-*   [Sec 4NT Prelim 2022 Schedule](https://standrewssec.moe.edu.sg/qql/slot/u894/2022%204NT%20PRELIMS%20TT.pdf)  
+*   [Sec 4E5N Prelims 2022 Schedule](/files/2022%204E5N%20PRELIMS%20TT.pdf) 
+*   [Sec 4NA Prelims 2022 Schedule](/files/2022%204NA%20PRELIMs%20TT.pdf)
+*   [Sec 4NT Prelim 2022 Schedule](/files/2022%204NT%20PRELIMS%20TT.pdf)
       
     
 
