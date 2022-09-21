@@ -19,6 +19,8 @@ third_nav_title: Our People
 |     | Ms Kong Lai Ling     | kong_lai_ling@moe.edu.sg    |
 | **1 Excellence**     | Ms Vanessa Poh    | poh_jin_yu_vanessa@moe.edu.sg     |
 |     | Mr Lin Daoxing    | lin_daoxing@moe.edu.sg
+| **1 Thanksgiving**    | Mr Tan Yan Ho    | tan_yan_ho@moe.edu.sg     |
+|     | Ms Kevina Jerrine    | kevina_jerrine_ronald_joe@moe.edu.sg |
 
 
 
