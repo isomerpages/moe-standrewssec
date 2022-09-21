@@ -128,9 +128,8 @@ G2
 
 G3 
 
-*   [2022 Sec 1 G3 (EXP) Stationery List](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/1%20G3%20STA.pdf)
-*   [2022 Sec 1 G3 (EXP) Booklist](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/1%20G3.pdf)
-
+*   [2022 Sec 1 G3 (EXP) Stationery List](/files/1%20G3%20STA.pdf)
+*   [2022 Sec 1 G3 (EXP) Booklist](/files/1%20G3.pdf)
   
 
 2022 Secondary 2
