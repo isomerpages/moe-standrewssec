@@ -86,9 +86,8 @@ third_nav_title: Our People
 |     | Mr Benedict Tan    | zulaiha_basri@moe.edu.sg  |
 | **4SB**     | Mr P Selvarasoo    | tan_kok_tze_benedict@moe.edu.sg   |
 |     | Ms Joanna Chew     | chew_cher_joanna@moe.edu.sg  |
-| **3 Self- Discipline**     | Mrs Carmen Ong     | carmen_chan_jia_min@moe.edu.sg     |
-|     | Ms Veronica Lye     | lye_shi-mei@moe.edu.sg    |
-|     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
+| **4S1**     | Mr Lam Wai Leong     | lam_wai_leong@moe.edu.sg     |
+|     | Mrs Daphne Ang     | wong_phui_yeng@moe.edu.sg |
 | **3 Excellence**     | Mr Cheong Peng Yong    | cheong_peng_yong@moe.edu.sgg     |
 |     | Mr Caleb Cheong   | cheong_chee_ngai_caleb@moe.edu.sg |
 | **3 Thanksgiving**    | Mdm Tan Sang Chai    | tan_sang_chai@moe.edu.sg     |
