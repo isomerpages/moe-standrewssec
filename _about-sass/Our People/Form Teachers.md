@@ -36,9 +36,8 @@ third_nav_title: Our People
 | -------- | -------- | -------- |
 | **2 Wonder**     | Ms Denise Fernandez     | fernandez_denise_marie@moe.edu.sg     |
 |     | Mdm Renuga Visvalingam     | renuga_visvalingam@moe.edu.sg    |
-|     | Mr Tee Shi En     | sass@moe.edu.sg    |
-| **1 Integrity**     | Mr Liang Soon Fong     | liang_soon_fong@moe.edu.sg     |
-|     | Ms Ng Li Yan     | ng_li_yan@moe.edu.sg    |
+| **2 Integrity**     | Mrs Francina Gibson     | francina_jeyanthi_victor@moe.edu.sg    |
+|     | Ms Sarah Chan     | chan_mei_ping_sarah@moe.edu.sg    |
 | **1 Self- Discipline**     | Mr Kwok Sheng Da     | kwok_sheng_da@moe.edu.sg     |
 |     | Ms Kong Lai Ling     | kong_lai_ling@moe.edu.sg    |
 | **1 Excellence**     | Ms Vanessa Poh    | poh_jin_yu_vanessa@moe.edu.sg     |
