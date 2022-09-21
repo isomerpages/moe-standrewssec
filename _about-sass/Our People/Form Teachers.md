@@ -74,6 +74,5 @@ third_nav_title: Our People
 |     | Ms Sin Jing Ting    | sim sin_jing_ting@moe.edu.sg |
 | **3 Unity**    | Ms Fatima Lui   | lui_nga_shun_fatima@moe.edu.sg     |
 |     | Ms Du Yun Qian    | du_yun_qian@moe.edu.sg |
-| **3 Empathy**    | Mr Ng Eu Khim   | ng_eu_khim@moe.edu.sg     |
-|     | Ms Angeline Ler    | ler_ming_shan_angeline@moe.edu.sg|
-|     | Mr Udayakumar    | udayakumar_manogaran@moe.edu.sg|
+| **3 Empathy**    | Ms Carmen Chan   | chan_jiamin_carmen@moe.edu.sg     |
+|     | Ms Fa’izah bte Osman    | faizah_osman@moe.edu.sg|
