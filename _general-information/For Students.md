@@ -28,7 +28,7 @@ description: ""
 
 *  [Sec 1 G2 EOY 2022 info Sheet](/files/Sec%201%20G2%20%20EOY%202022%20Info%20Sheet%201.pdf)
 
-*  
+*  [Sec 1 G3 EOY 2022 info Sheet]((/files/Sec%201%20G3%20EOY%202022%20Info%20Sheet%201.pdf))
 
   
 
