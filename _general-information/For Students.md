@@ -24,11 +24,11 @@ description: ""
 
 **2022 EOY Information Sheet**
 
-Sec 1 2022 EOY info Sheet  
+*   [Sec 1 G1 EOY 2022 info Sheet](/files/Sec%201%20G1%20EOY%202022%20Info%20Sheet%201.pdf)
 
-*   [Sec 1 G1 EOY 2022  info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/EOY%202022/Sec%201%20G1%20EOY%202022%20Info%20Sheet%201.pdf)
-*   [Sec 1 G2 EOY 2022 info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/EOY%202022/Sec%201%20G2%20%20EOY%202022%20Info%20Sheet%201.pdf)
-*   [Sec 1 G3 EOY 2022 info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/EOY%202022/Sec%201%20G3%20EOY%202022%20Info%20Sheet%201.pdf)
+*  [Sec 1 G2 EOY 2022 info Sheet](/files/Sec%201%20G2%20%20EOY%202022%20Info%20Sheet%201.pdf)
+
+*  
 
   
 
