@@ -67,7 +67,8 @@ Sec 2  2022 WA3  Info Sheet
 Sec 3  2022 WA3  Info Sheet  
 
 *   [Sec 3 NA WA3 2022 info Sheet](https://go.gov.sg/zx7cpi)
-*   [Sec 3 Exp WA3 2022 info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/2022%20WA3%20info%20sheet/Sec_3_Exp_WA3_2022_Info_Sheet_2.pdf)
+*   [Sec 3 Exp WA3 2022 info Sheet](/files/Sec_3_Exp_WA3_2022_Info_Sheet_2.pdf)
+
 *   [Sec 3 NT WA3 2022 info Sheet](https://go.gov.sg/h3hnzy)
 
   
