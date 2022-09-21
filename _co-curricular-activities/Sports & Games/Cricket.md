@@ -19,11 +19,11 @@ Training Venue:         SASS school field
 
 ### Teachers-in-Charge
 
-1.  Mrs Kalaimathi Pandi Raj kalaimathi_marimthu@moe.edu.sg
+1.  Mrs Kalaimathi Pandi Raj <br> kalaimathi_marimthu@moe.edu.sg
 
-2. Ms Tun Emairah                         tun_emairah_fateema@moe.edu.sg 
+2. Ms Tun Emairah  <br>tun_emairah_fateema@moe.edu.sg 
 
-3. Mdm Alifa  
+3. Mdm Alifa  <br>
 alifa_ismail@moe.edu.sg 
 
 ### Achievements
