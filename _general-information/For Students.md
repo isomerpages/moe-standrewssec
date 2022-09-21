@@ -49,10 +49,6 @@ Sec 3 2022 EOY info Sheet
 *   [Sec 3 NT   EOY 2022 info Sheet](/files/Sec%203NT%20EOY%202022%20Info%20Sheet%201.pdf)
   
 
-  
-
-  
-
 Sec 1 2022 WA3  Info Sheet
 
 *   [Sec 1 G1 WA3 2022 info Sheet](https://go.gov.sg/udxovt)
@@ -65,8 +61,7 @@ Sec 2  2022 WA3  Info Sheet
 
 *   [Sec 2 G1 WA3 2022 info Sheet](https://go.gov.sg/6fww6l)
 *   [Sec 2 G2 WA3 2022 info Sheet](https://go.gov.sg/jl1w8b)
-*   [Sec 2 G3 WA3 2022 info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/2022%20WA3%20info%20sheet/Sec_2_G3_WA3_2022_Info_Sheet2.pdf)
-
+*   [Sec 2 G3 WA3 2022 info Sheet](/files/Sec_2_G3_WA3_2022_Info_Sheet2.pdf)
   
 
 Sec 3  2022 WA3  Info Sheet  
