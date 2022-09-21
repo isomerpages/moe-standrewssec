@@ -118,8 +118,8 @@ Sec 4 Preliminary Exam 2022 Info Sheet
 
 G1
 
-*   [2022 Sec 1 G1 (NT) Stationery List](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/1%20G1%20STA.pdf)
-*   [2022 Sec 1 G1 (NT) Booklist](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/1%20G1.pdf)
+*   [2022 Sec 1 G1 (NT) Stationery List](/files/1%20G1%20STA.pdf)
+*   [2022 Sec 1 G1 (NT) Booklist](/files/1%20G1.pdf)
 
 G2
 
