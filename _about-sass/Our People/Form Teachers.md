@@ -67,12 +67,11 @@ third_nav_title: Our People
 |     | Ms Veronica Lye     | lye_shi-mei@moe.edu.sg    |
 |     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
 | **3 Excellence**     | Mr Cheong Peng Yong    | cheong_peng_yong@moe.edu.sgg     |
-|     | Mr Caleb Cheong   | cheong_chee_ngai_caleb@moe.edu.sg 
-| **2 Thanksgiving**    | Mr Muhd Zulhaqqim    | muhammad_zulhaqqim_awaruddin@moe.edu.sg     |
-|     | Ms Melissa Foo    | melissa_foo_xing_wen@moe.edu.sg |
-| **2 Resilience**    | Mdm Raudzah bte Osman   | raudzah_osman@moe.edu.sg     |
-|     | Mrs Geraldine Koh    | geraldine_goh_yee_gi@moe.edu.sg |
-|     | Mr Aaron Kong    | kong_hon_ein_aaron@moe.edu.sg |
+|     | Mr Caleb Cheong   | cheong_chee_ngai_caleb@moe.edu.sg |
+| **3 Thanksgiving**    | Mdm Tan Sang Chai    | tan_sang_chai@moe.edu.sg     |
+|     | Ms Elizabeth Mary    | thangaperakasam_elizabeth_mary@moe.edu.sg|
+| **3 Resilience**    | Mr Phoon Kok Kwong   | phoon_kok_kwong@moe.edu.sg     |
+|     | Ms Sin Jing Ting    | sim sin_jing_ting@moe.edu.sg |
 | **2 Unity**    | Mr Jansen Ho   | ho_wei_an_jansen@moe.edu.sg     |
 |     | Mdm Joy Lim    | lim_su__chen_joy@moe.edu.sg |
 |     | Mr Liang Sea Fong    | liang_sea_fong@moe.edu.sg |
