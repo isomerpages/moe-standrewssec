@@ -38,8 +38,9 @@ third_nav_title: Our People
 |     | Mdm Renuga Visvalingam     | renuga_visvalingam@moe.edu.sg    |
 | **2 Integrity**     | Mrs Francina Gibson     | francina_jeyanthi_victor@moe.edu.sg    |
 |     | Ms Sarah Chan     | chan_mei_ping_sarah@moe.edu.sg    |
-| **1 Self- Discipline**     | Mr Kwok Sheng Da     | kwok_sheng_da@moe.edu.sg     |
-|     | Ms Kong Lai Ling     | kong_lai_ling@moe.edu.sg    |
+| **2 Self- Discipline**     | Mdm Nisha Khan     | nisha_omar_khan@moe.edu.sg     |
+|     | Mr Mohd Osman     | mohamed_osman_mohamed_noor@moe.edu.sg    |
+|     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
 | **1 Excellence**     | Ms Vanessa Poh    | poh_jin_yu_vanessa@moe.edu.sg     |
 |     | Mr Lin Daoxing    | lin_daoxing@moe.edu.sg
 | **1 Thanksgiving**    | Mr Tan Yan Ho    | tan_yan_ho@moe.edu.sg     |
