@@ -26,8 +26,8 @@ description: ""
 
 **2022 Saints Calendar**
 
-*   [Events for Semester 1 2022]
-*   [Events for Semester 2 2022](https://standrewssec.moe.edu.sg/qql/slot/u894/2022%20Sem%202%20Saints%20Calender.pdf)
+*   [Events for Semester 1 2022](https://standrewssec.moe.edu.sg/qql/slot/u181/Calendar%20and%20Exam%20Matters/school%20calendar/Saints%20Calendar_Sem%201%202022.docx.pdf)
+*   [Events for Semester 2 2022](/files/2022%20Sem%202%20Saints%20Calender.pdf)
 
   
 
@@ -52,20 +52,20 @@ description: ""
   
 **Developmental Matters**  
 
-*   [Saints Code of Conduct](https://standrewssec.moe.edu.sg/qql/slot/u181/2021_01_Saints%20Code%20of%20Conduct.pdf)
-*   [Social Media Guidelines](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Saints/For%20Students/Discipline/Social%20Media%20Guidelines%20for%20SASS%20(final).pdf) 
-*   [Homework Policy](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/Homework%20Policy%20revised%2031%20Mar%202021%20for%20School%20Website.pdf)
-*   [Sexuality Education](https://standrewssec.moe.edu.sg/the-saints-experience/student-well-being/sexuality-education) [](https://standrewssec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/SAS%20Homework%20Policy.pdf)
-*   [CCA LEAPS 2.0](https://www.moe.gov.sg/-/media/files/programmes/leaps-2.pdf?la=en&hash=F108C31F913C3156498CF7B8B2D43218BC5F1FC7)
-*   [CCA Timeline for Sec 1s (2021)](https://standrewssec.moe.edu.sg/qql/slot/u181/2021%20CCA%20Trials.pdf)
-*   [FAQs on Student iCON for Parents](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/FAQs%20on%20Student%20iCON%20for%20Parents_vetted%20updated%2020%20May.pdf)
+*   [Saints Code of Conduct](/files/2021_01_Saints%20Code%20of%20Conduct.pdf)
+*   [Social Media Guidelines](/files/Social%20Media%20Guidelines%20for%20SASS%20(final).pdf)
+*   [Homework Policy](/files/Homework%20Policy%20revised%2031%20Mar%202021%20for%20School%20Website.pdf)
+*   [Sexuality Education](https://staging.d1zt52mog84ljj.amplifyapp.com/the-saints-experience/Student-Well-Being/Sexuality-Education/)
+*   [CCA LEAPS 2.0](/files/leaps-2.pdf)
+*   [CCA Timeline for Sec 1s (2021)](/files/2021%20CCA%20Trials.pdf)
+*   [FAQs on Student iCON for Parents](/files/FAQs%20on%20Student%20iCON%20for%20Parents_vetted%20updated%2020%20May.pdf)
 
   
 **Links for Parents**
 
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [Parents Kit](https://www.moe.gov.sg/parentkit)
-*   [Mobile Notification: Get Updated on School Activities using your Smart Phones!](https://standrewssec-moe-edu-sg-admin.cwp.sg/qql/slot/u181/For%20Saints/Get%20Mobile%20Notification%20from%20SASS%20for%20your%20iPhone%20or%20Android.pdf)  
+*   [Mobile Notification: Get Updated on School Activities using your Smart Phones!](/files/Get%20Mobile%20Notification%20from%20SASS%20for%20your%20iPhone%20or%20Android.pdf)
     
 
   
