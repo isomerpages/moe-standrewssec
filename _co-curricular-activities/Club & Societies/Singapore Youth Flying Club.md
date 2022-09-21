@@ -20,8 +20,8 @@ Training Venue:          School Classrooms C701 - C704
 
 **Teachers-in-Charge**
 
-1.  Mr Alex Lim                 lim\_jun\_xiong\_alex[@moe.edu.sg](mailto:francis_thomas@moe.edu.sg)
-2.  Mdm Raudzah            [raudzah\_osman@moe.edu.sg](mailto:raudzah_osman@moe.edu.sg)
+1.  Mr Alex Lim                 [lim_jun_xiong_alex@moe.edu.sg](mailto:francis_thomas@moe.edu.sg)
+2.  Mdm Raudzah            [raudzah_osman@moe.edu.sg](mailto:raudzah_osman@moe.edu.sg)
 3.  Mr Goh Hong Fei      goh\_hong\_fei@moe.edu.sg
 
   
