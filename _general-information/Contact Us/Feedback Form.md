@@ -4,8 +4,6 @@ permalink: /contact-us/feedback-form/
 description: ""
 third_nav_title: Contact Us
 ---
-
-
 ## Feedback Form
 
 Dear Parents/Guardians and Members of the Public,  
@@ -29,4 +27,4 @@ Yours Sincerely,
 St Andrew’s Secondary School  
 General Office
 
-_You may read our privacy policy [here](https://standrewssec.moe.edu.sg/about-sass/privacy-policy)._
+_You may read our privacy policy [here](https://staging.d1zt52mog84ljj.amplifyapp.com/about-sass/privacy/)._
