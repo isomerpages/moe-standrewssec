@@ -17,7 +17,8 @@ third_nav_title: Our People
 |     | Ms Ng Li Yan     | ng_li_yan@moe.edu.sg    |
 | **1 Self- Discipline**     | Mr Kwok Sheng Da     | kwok_sheng_da@moe.edu.sg     |
 |     | Ms Kong Lai Ling     | kong_lai_ling@moe.edu.sg    |
-
+| **1 Excellence**     | Ms Vanessa Poh    | poh_jin_yu_vanessa@moe.edu.sg     |
+|     | Mr Lin Daoxing    | lin_daoxing@moe.edu.sg
 
 
 
