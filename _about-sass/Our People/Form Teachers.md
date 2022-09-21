@@ -83,9 +83,9 @@ third_nav_title: Our People
 | Class | Name|  Email |
 | -------- | -------- | -------- |
 | **4SA**     | Mrs Yvonne Cheen     | tay_su-lin_yvonne@moe.edu.sg     |
-|     | Mdm Zulaiha     | zulaiha_basri@moe.edu.sg  |
-| **3 Integrity**     | Mr P Selvarasoo    | p_selvarasoo@moe.edu.sg   |
-|     | Ms Chua Xin Yuan     | chua_xin_yuan@moe.edu.sg  |
+|     | Mr Benedict Tan    | zulaiha_basri@moe.edu.sg  |
+| **4SB**     | Mr P Selvarasoo    | tan_kok_tze_benedict@moe.edu.sg   |
+|     | Ms Joanna Chew     | chew_cher_joanna@moe.edu.sg  |
 | **3 Self- Discipline**     | Mrs Carmen Ong     | carmen_chan_jia_min@moe.edu.sg     |
 |     | Ms Veronica Lye     | lye_shi-mei@moe.edu.sg    |
 |     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
