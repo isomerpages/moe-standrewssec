@@ -42,10 +42,11 @@ Sec 2 2022 EOY info Sheet
 
 Sec 3 2022 EOY info Sheet
 
-*   [Sec 3 EXP EOY 2022 info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/EOY%202022/Sec%203%20Exp%20EOY%202022%20Info%20Sheet%201.pdf) 
-*   [Sec 3 NA   EOY 2022 info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/EOY%202022/Sec%203NA%20EOY%202022%20Info%20Sheet%201.pdf)
-*   [Sec 3 NT   EOY 2022 info Sheet](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/EOY%202022/Sec%203NT%20EOY%202022%20Info%20Sheet%201.pdf) 
+*   [Sec 3 EXP EOY 2022 info Sheet](/files/Sec%203%20Exp%20EOY%202022%20Info%20Sheet%201.pdf)
 
+*   [Sec 3 NA   EOY 2022 info Sheet](/files/Sec%203NA%20EOY%202022%20Info%20Sheet%201.pdf)
+
+*   [Sec 3 NT   EOY 2022 info Sheet](/files/Sec%203NT%20EOY%202022%20Info%20Sheet%201.pdf)
   
 
   
