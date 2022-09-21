@@ -86,10 +86,10 @@ description: ""
 
 **Resources**
 
-*   [My Independent Learner Resource Kit](https://standrewssec.moe.edu.sg/qql/slot/u181/Resource%20Kit%20-%20Parent%20Kit%20-%20My%20Independent%20Learner.pdf)
-*   [Parent Kit (Starting School Right)](https://standrewssec.moe.edu.sg/qql/slot/u181/Parent%20Kit_%20Starting%20School%20Right%20Jan%202021.pdf)
-*   [FAQs on Student iCON for Parents](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/FAQs%20on%20Student%20iCON%20for%20Parents_vetted.docx) 
-*   [Edusave Information](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Saints/Edusave%20Information%20for%20parents.pdf)
+*   [My Independent Learner Resource Kit](/files/Resource%20Kit%20-%20Parent%20Kit%20-%20My%20Independent%20Learner.pdf)
+*   [Parent Kit (Starting School Right)](/files/Parent%20Kit_%20Starting%20School%20Right%20Jan%202021.pdf)
+*   [FAQs on Student iCON for Parents](/files/FAQs%20on%20Student%20iCON%20for%20Parents_vetted%20updated%2020%20May.pdf)
+*   [Edusave Information](/files/Edusave%20Information%20for%20parents.pdf)
 *   [Access to School Library Catalogue](https://schoolibrary.moe.edu.sg/standrewssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
   
