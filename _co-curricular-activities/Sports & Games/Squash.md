@@ -19,9 +19,9 @@ Training Venue:&nbsp; Yio Chu Kang Squash Courts and SASS Field
 
 ### Teachers-in-Charge
 
-1.  Ms Ng Pei Shing   ng_pei_shing@moe.edu.sg
-2.  Ms Wang Kai Qi&nbsp;   wang_kai_qi@moe.edu.sg
-3.  Mdm Zulaiha Basri&nbsp; zulaiha_basri@moe.edu.sg
+1.  Ms Ng Pei Shing  <br> ng_pei_shing@moe.edu.sg
+2.  Ms Wang Kai Qi <br> wang_kai_qi@moe.edu.sg
+3.  Mdm Zulaiha Basri <br> zulaiha_basri@moe.edu.sg
 
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRv9CfrRdjzZaeOJrHnVoOE8XykBp7b71MxN0XYhgqfv-qmNEBLbh3J5fO0waEkpc3pBmanEWRAUxG0/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
