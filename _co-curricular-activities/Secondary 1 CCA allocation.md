@@ -37,7 +37,7 @@ Guide Lines for CCA appeal
 
 4) Intended CCA to appeal to
 
-5) Submit it to [Feedback form](https://standrewssec.moe.edu.sg/contact-us/feedback-form)
+5) Submit it to [Feedback form](https://staging.d1zt52mog84ljj.amplifyapp.com/contact-us/feedback-form/)
 
 We will reply within 2 working days.
 
