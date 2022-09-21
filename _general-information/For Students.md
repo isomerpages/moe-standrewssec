@@ -82,7 +82,7 @@ Sec 4 Preliminary Exam 2022 Info Sheet
 
 2022 WA3 Schedule  
 
-*   [WA3 Weekly Schedule](https://standrewssec.moe.edu.sg/qql/slot/u894/WA3%20SCHEDULE%202022_FINAL.pdf)  
+*   [WA3 Weekly Schedule](/files/WA3%20SCHEDULE%202022_FINAL.pdf)
     
 
   
