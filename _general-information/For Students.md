@@ -33,11 +33,11 @@ description: ""
   
 Sec 2 2022 EOY info Sheet
 
-*  [Sec 2 G1 EOY 2022 info Sheet]((/files/Sec%202%20G1%20EOY%202022%20Info%20Sheet%201.pdf))
+*  [Sec 2 G1 EOY 2022 info Sheet](/files/Sec%202%20G1%20EOY%202022%20Info%20Sheet%201.pdf)
 
-*  [Sec 2 G2 EOY 2022 info Sheet]((/files/Sec%202%20G2%20EOY%202022%20Info%20Sheet%201.pdf))
+*  [Sec 2 G2 EOY 2022 info Sheet](/files/Sec%202%20G2%20EOY%202022%20Info%20Sheet%201.pdf)
 
-*  [Sec 2 G3 EOY 2022 info Sheet]((/files/Sec%202%20G3%20EOY%202022%20Info%20Sheet%201.pdf))
+*  [Sec 2 G3 EOY 2022 info Sheet](/files/Sec%202%20G3%20EOY%202022%20Info%20Sheet%201.pdf)
   
 
 Sec 3 2022 EOY info Sheet
