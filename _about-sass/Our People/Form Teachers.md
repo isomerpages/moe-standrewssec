@@ -21,7 +21,10 @@ third_nav_title: Our People
 |     | Mr Lin Daoxing    | lin_daoxing@moe.edu.sg
 | **1 Thanksgiving**    | Mr Tan Yan Ho    | tan_yan_ho@moe.edu.sg     |
 |     | Ms Kevina Jerrine    | kevina_jerrine_ronald_joe@moe.edu.sg |
-
+| **1 Resilience**    | Mr Jimmy Koh   | koh_tze_ping@moe.edu.sg     |
+|     | Ms Angel Lee    | lee_song_tiang@moe.edu.sg |
+| **1 Unity**    | Ms Shanthini   | shanthini_rathakrishnan@moe.edu.sg     |
+|     | Mr Gary Ding    | ding_chi_ying_gary@moe.edu.sg |
 
 
 
