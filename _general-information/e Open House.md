@@ -13,12 +13,12 @@ description: ""
 
 [School Stories](/files/2022%20Sch%20Stories%20Combined.pdf)
 
-[SASS Facebook](https://www.facebook.com/standrewssec/)
-
 [Subject-Based Banding Stories ](/files/Subject-Based%20Banding%20Stories.pdf)
 
 [FAQ](/files/2022%20SASS%20Frequently%20Asked%20Questions%20FAQs.pdf)
 
 [Student Leadership](/files/St%20Andrew%20E-Brochure_R4.pdf)
+
+[SASS Facebook](https://www.facebook.com/standrewssec/)
 
 [SAPTA](https://www.facebook.com/sapta.saints/)
