@@ -10,7 +10,7 @@ description: ""
 *   [Saints Code of Conduct](/files/ms6ii7.pdf)
 *   [Social Media Guidelines](/files/wcy2me.pdf)
 *   [FAQ For Saints](https://standrewssec.moe.edu.sg/others/for-saints/faq)
-*   [SPF Advisory for the 2022 June School Holidays](https://standrewssec.moe.edu.sg/qql/slot/u894/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf)
+*   [SPF Advisory for the 2022 June School Holidays]((/files/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf))
 
 **TGIF Schedule**
 
