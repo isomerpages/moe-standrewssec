@@ -82,8 +82,8 @@ third_nav_title: Our People
 
 | Class | Name|  Email |
 | -------- | -------- | -------- |
-| **3 Wonder**     | Mdm Roshnah Begum     | roshnah_begum_mohd_abbas@moe.edu.sg     |
-|     | Ms Abigail Wee     | wee_hui_ern_abigail@moe.edu.sg    |
+| **4SA**     | Mrs Yvonne Cheen     | tay_su-lin_yvonne@moe.edu.sg     |
+|     | Mdm Zulaiha     | zulaiha_basri@moe.edu.sg  |
 | **3 Integrity**     | Mr P Selvarasoo    | p_selvarasoo@moe.edu.sg   |
 |     | Ms Chua Xin Yuan     | chua_xin_yuan@moe.edu.sg  |
 | **3 Self- Discipline**     | Mrs Carmen Ong     | carmen_chan_jia_min@moe.edu.sg     |
