@@ -151,8 +151,8 @@ G3 
 
 2022 Secondary 4E5N
 
-*   [2022 Sec 4-5 Stationery List](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/4-5%20STA.pdf)
-*   [2022 Sec 4NT Booklist](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/4%20NT.pdf)
-*   [2022 Sec 4NA Booklist](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/4%20NA.pdf)
-*   [2022 Sec 4EXP Booklist](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/4%20EXP.pdf)
-*   [2022 Sec 5NA Booklist](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/5%20NA.pdf)
+*   [2022 Sec 4-5 Stationery List](/files/4-5%20STA.pdf)
+*   [2022 Sec 4NT Booklist](/files/4%20NT.pdf)
+*   [2022 Sec 4NA Booklist](/files/4%20NA.pdf)
+*   [2022 Sec 4EXP Booklist](/files/4%20EXP.pdf)
+*   [2022 Sec 5NA Booklist](/files/5%20NA.pdf)
