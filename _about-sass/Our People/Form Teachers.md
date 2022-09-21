@@ -66,7 +66,7 @@ third_nav_title: Our People
 | **3 Self- Discipline**     | Mrs Carmen Ong     | carmen_chan_jia_min@moe.edu.sg     |
 |     | Ms Veronica Lye     | lye_shi-mei@moe.edu.sg    |
 |     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
-| **3 Excellence**     | Mr Cheong Peng Yong    | cheong_peng_yong@moe.edu.sgg     |
+| **3 Excellence**     | Mr Cheong Peng Yong    | cheong_peng_yong@moe.edu.sg     |
 |     | Mr Caleb Cheong   | cheong_chee_ngai_caleb@moe.edu.sg |
 | **3 Thanksgiving**    | Mdm Tan Sang Chai    | tan_sang_chai@moe.edu.sg     |
 |     | Ms Elizabeth Mary    | thangaperakasam_elizabeth_mary@moe.edu.sg|
@@ -90,8 +90,8 @@ third_nav_title: Our People
 |     | Mrs Daphne Ang     | wong_phui_yeng@moe.edu.sg |
 | **4S2**     | Ms Theeba    | theeba_pachaimuthu_thayala@moe.edu.sg     |
 |     | Ms Elliza Tang   | sass@moe.edu.sg |
-| **3 Thanksgiving**    | Mdm Tan Sang Chai    | tan_sang_chai@moe.edu.sg     |
-|     | Ms Elizabeth Mary    | thangaperakasam_elizabeth_mary@moe.edu.sg|
+| **4S3**    | Mr Rajesh s/o Gopalani    | rajesh_gopalan@moe.edu.sg     |
+|     | Mr Xu Ning    | xu_ning@moe.edu.sg |
 | **3 Resilience**    | Mr Phoon Kok Kwong   | phoon_kok_kwong@moe.edu.sg     |
 |     | Ms Sin Jing Ting    | sim sin_jing_ting@moe.edu.sg |
 | **3 Unity**    | Ms Fatima Lui   | lui_nga_shun_fatima@moe.edu.sg     |
