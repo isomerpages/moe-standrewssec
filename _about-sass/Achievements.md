@@ -109,19 +109,19 @@ SAINTS IN THE NEWS (2018 - 2019)
 
 _SASS is one of MOE's pilot schools for Full Subject-Based Banding (FSBB). The school's rollout of FSBB has been positively featured in the following news articles:_ 
 
-\* "Budget debate: MOE to expand full subject-based banding pilot to 90 schools by 2023", The Straits Times, on 7 Mar 2022, by Luke Pachymuthu  
-\* "28 secondary schools to pilot full subject-based banding from 2020", Channel NewsAsia, on 3 Sept 2019, by Tan Si Hui  
+* "Budget debate: MOE to expand full subject-based banding pilot to 90 schools by 2023", The Straits Times, on 7 Mar 2022, by Luke Pachymuthu  
+* "28 secondary schools to pilot full subject-based banding from 2020", Channel NewsAsia, on 3 Sept 2019, by Tan Si Hui  
   
 
 _The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd and 4th placing match during the National School Games 2018. The following articles were published:_
 
-\* “School sports: St Andrew's Secondary hockey players lose match but win admiration for sportsmanship”, The Straits Times, on 12 Apr, by Natalie Choy Ching Mun
+* “School sports: St Andrew's Secondary hockey players lose match but win admiration for sportsmanship”, The Straits Times, on 12 Apr, by Natalie Choy Ching Mun
 
-\* “Sportsmanship in the heat of battle elevates a captain”, The Straits Times, on 12 Apr, by Rohit Brijnath
+* “Sportsmanship in the heat of battle elevates a captain”, The Straits Times, on 12 Apr, by Rohit Brijnath
 
-\*   “公正在胜利之上” (trans. “Placing Fair play above Victory”), zbCOMMA, April edition, by Lin Shi Hui
+* “公正在胜利之上” (trans. “Placing Fair play above Victory”), zbCOMMA, April edition, by Lin Shi Hui
 
-\* “School Sports: Saints hockey captain Sean See feted with ST's Young Star Award”, The Straits Times, on Oct 26, by Wang Meng Meng
+* “School Sports: Saints hockey captain Sean See feted with ST's Young Star Award”, The Straits Times, on Oct 26, by Wang Meng Meng
 
   
 
