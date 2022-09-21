@@ -19,10 +19,10 @@ Training Venue:          SAV swimming pool
 
 Teachers-in-Charge  
 
-1.  Mr Tan Yan Ho  
+1.  Mr Tan Yan Ho  <br>
 tan_yan_ho@moe.edu.sg
 
-2. Ms Kong Lai Ling  
+2. Ms Kong Lai Ling <br> 
 kong_lai_ling@moe.edu.sg
 
   
