@@ -41,8 +41,8 @@ third_nav_title: Our People
 | **2 Self- Discipline**     | Mdm Nisha Khan     | nisha_omar_khan@moe.edu.sg     |
 |     | Mr Mohd Osman     | mohamed_osman_mohamed_noor@moe.edu.sg    |
 |     | Mr Liu Liming     | liu_liming@moe.edu.sg   |
-| **1 Excellence**     | Ms Vanessa Poh    | poh_jin_yu_vanessa@moe.edu.sg     |
-|     | Mr Lin Daoxing    | lin_daoxing@moe.edu.sg
+| **2 Excellence**     | Ms Tan Yii Yann    | tan_yii_yann@moe.edu.sg     |
+|     | Ms Ng Pei Shing    | ng_pei_shing@moe.edu.sg
 | **1 Thanksgiving**    | Mr Tan Yan Ho    | tan_yan_ho@moe.edu.sg     |
 |     | Ms Kevina Jerrine    | kevina_jerrine_ronald_joe@moe.edu.sg |
 | **1 Resilience**    | Mr Jimmy Koh   | koh_tze_ping@moe.edu.sg     |
