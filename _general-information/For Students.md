@@ -18,7 +18,7 @@ description: ""
 
 **Exam and Assessment Matters**
 
-*   [2022 End Of Year Exam Time Table](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/2022%20EOY%20EXAM%20TIME%20TABLE%20AMENDED%20COPY.pdf)
+*  [2022 End Of Year Exam Time Table](/files/2022%20EOY%20EXAM%20TIME%20TABLE%20AMENDED%20COPY.pdf)
 
   
 
