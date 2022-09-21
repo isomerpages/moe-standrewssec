@@ -6,7 +6,6 @@ third_nav_title: Our School
 ---
 ![](/images/About%20SASS%20-_%20Our%20School%20History.jpg)
 <br>
-<br>
 
 <table>
 	<tr>
@@ -25,11 +24,15 @@ For some years, the mission had serious financial difficulties, resulting in the
 	<th>1870s</th>
   <td>In 1872, the Colonial Chaplain Canon J.A. Beccles successfully applied to the Government for financial aid. Thus, on 22 May 1872, St. Andrew's School became a grant-in-aid institution.
 
-In the same year, Canon Beccles was succeeded by the Rev George Frederick Hose as Colonial Chaplain. Meanwhile, the growing School shifted to Victoria Street. Hose did a great deal for the School. One of his first acts was to invite the Rev William Henry Gomes from Borneo to act as School Superintendent. Under the wise and capable guidance of Gomes from 1872 to 1902, the School prospered and grew.
+In the same year, Canon Beccles was succeeded by the Rev George Frederick Hose as Colonial Chaplain. Meanwhile, the growing School shifted to Victoria Street. Hose did a great deal for the School. One of his first acts was to invite the Rev William Henry Gomes from Borneo to act as School Superintendent. Under the wise and capable guidance of Gomes from 1872 to 1902, the School prospered and grew. <img src="/images/01.jpg" style="width:103px;height:140px;margin-left:15px;" align = "right">
 		
-Even as early as 1873, both Hose and Gomes knew that the growth of the School would be hampered by poor accommodation. Their hard work was rewarded by the Government giving the School a 4-acre piece of land on the then Government Hill with a frontage on Stamford Road. The first building to go up was the Chapel in 1875 and in that same year, the School vacated its cramped premises in Victoria Street and moved into the Stamford Road site. Classes were held in the Chapel which also became an important centre of public worship.
+Even as early as 1873, both Hose and Gomes knew that the growth of the School would be hampered by poor accommodation. Their hard work was rewarded by the Government giving the School a 4-acre piece of land on the then Government Hill with a frontage on Stamford Road. <img src="/images/02.jpeg" style="width:103px;height:140px;margin-left:15px;" align = "right">The first building to go up was the Chapel in 1875 and in that same year, the School vacated its cramped premises in Victoria Street and moved into the Stamford Road site. Classes were held in the Chapel which also became an important centre of public worship.
+<br>
+<img src="/images/03.jpeg" 
+     style="width:50%">
+
 </td>
-	</tr>
+	</tr> 
 	<tr>
 	<th>1880s 1890s</th>
   <td>In 1888, Loy Fatt resigned as Headmaster and he was succeeded by Mr D.S. Ponniah in 1890
@@ -85,14 +88,14 @@ Adams continued to serve the School after the war, leading the School from glory
 <br>
 The school community had grown so big that upon Lye Whatt's shoulders was the heavy responsibility of the overall charge of the Senior School, the Junior School, the Continuation School and the Boarding House.
 <br>
-<br>
+<br>  <img src="/images/04.jpeg" style="width:103px;height:140px;margin-left:15px;" align = "right">
 He was therefore appointed Warden of St. Andrew's in addition to being Principal of the Senior School. It was during the Wardenship of Lye Whatt that the Church of Ascension and the Science Block were added to the campus.
 </tr>
 	<tr>
 	<th>1960s</th>
     <td> In 1960, after the tragic death of Bandara, the two Junior Schools came under one Principal - Mr Goh Soon Toon. He was succeeded by Mr Quahe Beng Chuan on 1 September 1964.
 <br>
-<br>
+<br>  <img src="/images/05.jpeg" style="width:103px;height:140px;margin-left:15px;" align = "right">
 Lye Whatt retired in 1963 and he was succeeded by his Senior Assistant, Mr Francis Thomas whose love for community service was second to none. The Clinic Club which later evolved into the Social Work Group bears testimony of Thomas's genuine feeling for the needy and the less fortunate. </td>
 	</tr>
 	<tr>
