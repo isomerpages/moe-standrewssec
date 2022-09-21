@@ -71,10 +71,11 @@ The level of attainment in this domain is determined by the highest level attain
 
 
 
-(Applicable to Singapore Flying Club Only)
-|  |  |  | | | 
-| -------- | -------- | -------- | -------- | -------- |
-| Junior Cadet Aeromodeller     |  Senior Cadet Aeromodeller     |  Senior Cadet Aeromodeller     | Senior Cadet Pilot     | Junior Pilot     |
+<center> (Applicable to Singapore Flying Club Only) </center> 
+
+|  |  |  |  |  | |
+| -------- | -------- | -------- |  -------- |  -------- |  -------- |  
+| Junior Cadet Aeromodeller     | Senior Cadet Aeromodeller     | Sergeant    | Senior Cadet Aeromodeller  | Senior Cadet Pilot    | Junior Pilot
 
 **_Physical Sports CCA_**
 
