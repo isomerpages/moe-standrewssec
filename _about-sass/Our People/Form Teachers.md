@@ -45,10 +45,11 @@ third_nav_title: Our People
 |     | Ms Ng Pei Shing    | ng_pei_shing@moe.edu.sg
 | **2 Thanksgiving**    | Mr Muhd Zulhaqqim    | muhammad_zulhaqqim_awaruddin@moe.edu.sg     |
 |     | Ms Melissa Foo    | melissa_foo_xing_wen@moe.edu.sg |
-| **1 Resilience**    | Mr Jimmy Koh   | koh_tze_ping@moe.edu.sg     |
-|     | Ms Angel Lee    | lee_song_tiang@moe.edu.sg |
-| **1 Unity**    | Ms Shanthini   | shanthini_rathakrishnan@moe.edu.sg     |
+| **2 Resilience**    | Mdm Raudzah bte Osman   | raudzah_osman@moe.edu.sg     |
+|     | Mrs Geraldine Koh    | geraldine_goh_yee_gi@moe.edu.sg |
+|     | Mr Aaron Kong    | kong_hon_ein_aaron@moe.edu.sg |
+| **2 Unity**    | Ms Shanthini   | shanthini_rathakrishnan@moe.edu.sg     |
 |     | Mr Gary Ding    | ding_chi_ying_gary@moe.edu.sg |
-| **1 Empathy**    | Mr Winston Soo   | soo_lik_lern_winston@moe.edu.sg     |
+| **2 Empathy**    | Mr Winston Soo   | soo_lik_lern_winston@moe.edu.sg     |
 |     | Ms Charlene Tan    | tan_siew_hon_charlene@moe.edu.sg|
 |     | Ms Wang Kai Qi    | wang_kai_qi@moe.edu.sg|
