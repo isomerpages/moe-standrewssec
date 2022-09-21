@@ -7,10 +7,10 @@ description: ""
 
 **Letter to Parents**  
 
-*   [Term 1 Letter (Jan 2022)](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/2022%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
-*   [Term 2 Letter (March 2022)](https://standrewssec.moe.edu.sg/qql/slot/u894/Ps%20Term%202%20Letter%20to%20Parents%202022.pdf)
-*   [Term 3 Letter (June 2022)](https://standrewssec.moe.edu.sg/qql/slot/u894/2022%20Ps%20Term%203%20Letter%20to%20Parents.pdf)
-*   [Term 4 Letter (September 2022)](https://standrewssec.moe.edu.sg/qql/slot/u894/2022%20Ps%20Term%204%20Letter%20to%20Parents%2012%20Sept%202022.pdf)
+*   [Term 1 Letter (Jan 2022)](/files/2022%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
+*   [Term 2 Letter (March 2022)](/files/Ps%20Term%202%20Letter%20to%20Parents%202022.pdf)
+*   [Term 3 Letter (June 2022)](/files/2022%20Ps%20Term%203%20Letter%20to%20Parents.pdf)
+*   [Term 4 Letter (September 2022)](/files/2022%20Ps%20Term%204%20Letter%20to%20Parents%2012%20Sept%202022.pdf)
 
   
 
