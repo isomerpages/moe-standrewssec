@@ -4,8 +4,6 @@ permalink: /admisisons/2022-sec-one-admissions/
 description: ""
 third_nav_title: Admissions
 ---
-
-
 **2022 Sec 1 Registration And Appeals**   
 
 e-Registration
@@ -86,7 +84,7 @@ Ex-SAJS students will remain in their respective houses allocated when they were
 Please take note of the following guidelines for Secondary 1 transfer appeals to St Andrew's Secondary School for admission in year 2022:  
 
   
-1.   Due to safety management measures, transfer appeals will be made online this year. Please download the transfer appeal form [**here**](https://standrewssec.moe.edu.sg/qql/slot/u181/Admissions/2022%20Sec%20One%20Admissions/Request%20For%20Transfer%20Form%20for%20Sec%201%20appeals%20for%202022.pdf) and submit the form along with the relevant documents (listed below as well as on the transfer appeal form) in soft copy to the school email at **sass@moe.edu.sg** by **Friday, 24 December 2021 5pm.** Late appeals will not be accepted.  
+1.   Due to safety management measures, transfer appeals will be made online this year. Please download the transfer appeal form [**here**](/files/Request%20For%20Transfer%20Form%20for%20Sec%201%20appeals%20for%202022.pdf) and submit the form along with the relevant documents (listed below as well as on the transfer appeal form) in soft copy to the school email at **sass@moe.edu.sg** by **Friday, 24 December 2021 5pm.** Late appeals will not be accepted.  
 
 2.   For more information on transfer appeals, you may refer to the MOE weblink via the link [**here**](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer). 
 
@@ -96,7 +94,7 @@ Please take note of the following guidelines for Secondary 1 transfer appeals to
 
 Parents seeking transfer for Secondary 1 are to email the following documents in soft copy to the school email at **sass@moe.edu.sg** by **Friday, 24 December 2021 5pm:** 
 
-·   [**TransferAppeal Form**](https://standrewssec.moe.edu.sg/qql/slot/u181/Admissions/2022%20Sec%20One%20Admissions/Request%20For%20Transfer%20Form%20for%20Sec%201%20appeals%20for%202022.pdf) 
+·   [**TransferAppeal Form**](/files/Request%20For%20Transfer%20Form%20for%20Sec%201%20appeals%20for%202022.pdf)
 
 ·   PSLE Results with score
 
