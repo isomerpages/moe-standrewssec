@@ -88,7 +88,7 @@ Adams continued to serve the School after the war, leading the School from glory
 <br>
 The school community had grown so big that upon Lye Whatt's shoulders was the heavy responsibility of the overall charge of the Senior School, the Junior School, the Continuation School and the Boarding House.
 <br>
-<br>  <img src="/images/04.jpeg" style="width:103px;height:140px;margin-left:15px;" align = "right">
+<br>  
 He was therefore appointed Warden of St. Andrew's in addition to being Principal of the Senior School. It was during the Wardenship of Lye Whatt that the Church of Ascension and the Science Block were added to the campus.
 </tr>
 	<tr>
