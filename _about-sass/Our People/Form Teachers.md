@@ -48,8 +48,9 @@ third_nav_title: Our People
 | **2 Resilience**    | Mdm Raudzah bte Osman   | raudzah_osman@moe.edu.sg     |
 |     | Mrs Geraldine Koh    | geraldine_goh_yee_gi@moe.edu.sg |
 |     | Mr Aaron Kong    | kong_hon_ein_aaron@moe.edu.sg |
-| **2 Unity**    | Ms Shanthini   | shanthini_rathakrishnan@moe.edu.sg     |
-|     | Mr Gary Ding    | ding_chi_ying_gary@moe.edu.sg |
-| **2 Empathy**    | Mr Winston Soo   | soo_lik_lern_winston@moe.edu.sg     |
-|     | Ms Charlene Tan    | tan_siew_hon_charlene@moe.edu.sg|
-|     | Ms Wang Kai Qi    | wang_kai_qi@moe.edu.sg|
+| **2 Unity**    | Mr Jansen Ho   | ho_wei_an_jansen@moe.edu.sg     |
+|     | Mdm Joy Lim    | lim_su__chen_joy@moe.edu.sg |
+|     | Mr Liang Sea Fong    | liang_sea_fong@moe.edu.sg |
+| **2 Empathy**    | Mr Ng Eu Khim   | ng_eu_khim@moe.edu.sg     |
+|     | Ms Angeline Ler    | ler_ming_shan_angeline@moe.edu.sg|
+|     | Mr Udayakumar    | udayakumar_manogaran@moe.edu.sg|
