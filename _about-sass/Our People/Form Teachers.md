@@ -118,3 +118,24 @@ third_nav_title: Our People
 
 
 #### Secondary 2 Form Teachers
+
+<table>
+<thead>
+  <tr>
+    <th>Staff Name</th>
+    <th>Designation</th>
+  </tr>
+</thead>
+	  <tr>
+    <td>Mr Lee Han Hwa</td>
+    <td>Principal</td>
+  </tr>
+	<tr>
+    <td>Ms Agnes Teo</td>
+    <td>Vice-Principal</td>
+  </tr>
+	 <tr>
+    <td>Mr Danny Teo</td>
+    <td>Vice- Principal (Administration)</td>
+  </tr>
+</table>
