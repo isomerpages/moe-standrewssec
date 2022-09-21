@@ -92,8 +92,8 @@ third_nav_title: Our People
 |     | Ms Elliza Tang   | sass@moe.edu.sg |
 | **4S3**    | Mr Rajesh s/o Gopalani    | rajesh_gopalan@moe.edu.sg     |
 |     | Mr Xu Ning    | xu_ning@moe.edu.sg |
-| **3 Resilience**    | Mr Phoon Kok Kwong   | phoon_kok_kwong@moe.edu.sg     |
-|     | Ms Sin Jing Ting    | sim sin_jing_ting@moe.edu.sg |
+| **4J1**    | Mr Alex Lim   | lim_jun_xiong_alex@moe.edu.sg     |
+|     | Mr Paul Matthew Cheong    | cheong_wei_paul_matthew@moe.edu.sg |
 | **3 Unity**    | Ms Fatima Lui   | lui_nga_shun_fatima@moe.edu.sg     |
 |     | Ms Du Yun Qian    | du_yun_qian@moe.edu.sg |
 | **3 Empathy**    | Ms Carmen Chan   | chan_jiamin_carmen@moe.edu.sg     |
