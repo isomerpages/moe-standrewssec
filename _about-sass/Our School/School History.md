@@ -25,7 +25,7 @@ For some years, the mission had serious financial difficulties, resulting in the
   <td>In 1872, the Colonial Chaplain Canon J.A. Beccles successfully applied to the Government for financial aid. Thus, on 22 May 1872, St. Andrew's School became a grant-in-aid institution.
 
 In the same year, Canon Beccles was succeeded by the Rev George Frederick Hose as Colonial Chaplain. Meanwhile, the growing School shifted to Victoria Street. Hose did a great deal for the School. One of his first acts was to invite the Rev William Henry Gomes from Borneo to act as School Superintendent. Under the wise and capable guidance of Gomes from 1872 to 1902, the School prospered and grew. <img src="/images/01.jpg" style="width:103px;height:140px;margin-left:15px;" align = "right">
-		
+<br><br>
 Even as early as 1873, both Hose and Gomes knew that the growth of the School would be hampered by poor accommodation. Their hard work was rewarded by the Government giving the School a 4-acre piece of land on the then Government Hill with a frontage on Stamford Road. <img src="/images/02.jpeg" style="width:103px;height:140px;margin-left:15px;" align = "right">The first building to go up was the Chapel in 1875 and in that same year, the School vacated its cramped premises in Victoria Street and moved into the Stamford Road site. Classes were held in the Chapel which also became an important centre of public worship.
 <br>
 <img src="/images/03.jpeg" 
@@ -80,7 +80,7 @@ In 1946, the Continuation School was started by Dr D.D. Chelliah. The Junior Sch
     <td>As the School population grew, the need for more classrooms became more pressing. This resulted in the addition of another floor so that the 2-storey building became a 3-storey School in 1952. The Lim Teck Kin Tower was also added in that year.
 <br>
 <br>
-In 1955, the Junior School was divided into Junior I and Junior II headed by Mr Goh Soo Toon and Mr Kiong Woon Kew respectively. Kiong was succeeded by Mr S.K. Bandara.
+In 1955, the Junior School was divided into Junior I and Junior II headed by Mr Goh Soo Toon and Mr Kiong Woon Kew respectively. Kiong was succeeded by Mr S.K. Bandara. <img src="/images/04.jpeg" style="width:103px;height:140px;margin-left:15px;" align = "right">
 <br>
 <br>
 Adams continued to serve the School after the war, leading the School from glory to glory. In 1956, he retired and was succeeded by Mr Tan Lye Whatt.
