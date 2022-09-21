@@ -26,7 +26,7 @@ description: ""
 
 **2022 Saints Calendar**
 
-*   [Events for Semester 1 2022](https://standrewssec.moe.edu.sg/qql/slot/u181/Calendar%20and%20Exam%20Matters/school%20calendar/Saints%20Calendar_Sem%201%202022.docx.pdf)
+*   [Events for Semester 1 2022]
 *   [Events for Semester 2 2022](https://standrewssec.moe.edu.sg/qql/slot/u894/2022%20Sem%202%20Saints%20Calender.pdf)
 
   
