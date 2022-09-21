@@ -72,9 +72,8 @@ third_nav_title: Our People
 |     | Ms Elizabeth Mary    | thangaperakasam_elizabeth_mary@moe.edu.sg|
 | **3 Resilience**    | Mr Phoon Kok Kwong   | phoon_kok_kwong@moe.edu.sg     |
 |     | Ms Sin Jing Ting    | sim sin_jing_ting@moe.edu.sg |
-| **2 Unity**    | Mr Jansen Ho   | ho_wei_an_jansen@moe.edu.sg     |
-|     | Mdm Joy Lim    | lim_su__chen_joy@moe.edu.sg |
-|     | Mr Liang Sea Fong    | liang_sea_fong@moe.edu.sg |
-| **2 Empathy**    | Mr Ng Eu Khim   | ng_eu_khim@moe.edu.sg     |
+| **3 Unity**    | Ms Fatima Lui   | lui_nga_shun_fatima@moe.edu.sg     |
+|     | Ms Du Yun Qian    | du_yun_qian@moe.edu.sg |
+| **3 Empathy**    | Mr Ng Eu Khim   | ng_eu_khim@moe.edu.sg     |
 |     | Ms Angeline Ler    | ler_ming_shan_angeline@moe.edu.sg|
 |     | Mr Udayakumar    | udayakumar_manogaran@moe.edu.sg|
