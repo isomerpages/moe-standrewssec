@@ -101,3 +101,5 @@ third_nav_title: Our People
 | **4M**    | Mr Philip Ng   | ng_boon_yeow_philip@moe.edu.sg  |
 |     | Ms. Ratna Illyas    | ratna_illyas@moe.edu.sg|
 |     | Ms. Tun Emairah    | tun_emairah_fateema@moe.edu.sg|
+| **5J1**    | Mr Terence Chee   | chee_wei_kit_terence@moe.edu.sg  |
+|     | Mr Kenneth Ong    | kenneth_ong_kheng_ngee@moe.edu.sg|
