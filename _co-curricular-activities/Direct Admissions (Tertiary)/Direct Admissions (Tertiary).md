@@ -54,23 +54,19 @@ Students interested in applying for direct school admission to secondary schools
 
 See more at: https://www.moe.gov.sg/news/press-releases/start-of-2016-direct-school-admission-     exercises-and-early-admissions-exercise-to-polytechnic#sthash.92nDrhG1.dpuf
 
-### 
 
 *   Direct School Admissions -- ITE Special College Admission Scheme
 
 ### For more information, please click [here](https://www.ite.edu.sg/wps/wcm/connect/1b4db5804bca7ff2b1d0b15b11ba44f7/SCAS+2014+FAQ_Apr13_Final.pdf?MOD=AJPERES) for FAQs on the ITE SCAS
 
-###   
 
 ### [DIRECT SCHOOL ADMISSION - JUNIOR COLLEGES](https://www.moe.gov.sg/admissions/direct-admissions/dsa-jc)
 
-#### 
 
 The Direct School Admission (DSA) Exercise aims to promote holistic education by giving participating schools greater flexibility in selecting students while holding to the key principles of transparency and meritocracy. For students, the DSA provides them the opportunity to demonstrate a more diverse range of student achievements and talents in seeking admission at the pre-university level.
 
 ### [EARLY ADMISSIONS EXERCISE](https://www.moe.gov.sg/admissions/direct-admissions/eae) - POLYTECHNICS
 
-#### 
 
 The Early Admissions Exercise (EAE) allows students to apply for admission to polytechnic based on their interests and aptitudes, and secure a place in a polytechnic diploma course prior to their GCE O-Level examinations. It allows the polytechnics greater flexibility to select students on a broader measure of aptitude beyond just academic grades, thus allowing a wider range of talents to be recognised.
 
