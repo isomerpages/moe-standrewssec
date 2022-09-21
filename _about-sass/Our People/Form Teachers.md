@@ -99,5 +99,5 @@ third_nav_title: Our People
 | **4J3**    | Mr Vincent Lai   | lai_dingsheng@moe.edu.sg     |
 |     | Mr Chua Hock Seng    | chua_hock_seng@moe.edu.sg|
 | **4M**    | Mr Philip Ng   | ng_boon_yeow_philip@moe.edu.sg  |
-|     | Mr Chua Hock Seng    | chua_hock_seng@moe.edu.sg|
-|     | Mr Chua Hock Seng    | chua_hock_seng@moe.edu.sg|
+|     | Ms. Ratna Illyas    | ratna_illyas@moe.edu.sg|
+|     | Ms. Tun Emairah    | tun_emairah_fateema@moe.edu.sg|
