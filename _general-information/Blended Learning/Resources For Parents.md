@@ -24,4 +24,5 @@ third_nav_title: Blended Learning
 
 [Tech-enabled Learning Scenarios in Schools - YouTube](https://www.youtube.com/watch?v=jJw1mdtYfOs)
 
-**4: [DMA Parent Guide for Option A (iPad)](https://standrewssec.moe.edu.sg/qql/slot/u181/Blend%20Learning/Resources%20for%20Parents/PORI5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20iPad_2%20Sep%2021.pdf)**
+**4**: [DMA Parents Guide for Option A (iPad)](/files/PORI5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20iPad_2%20Sep%2021.pdf)
+
