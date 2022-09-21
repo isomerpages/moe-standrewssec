@@ -105,8 +105,7 @@ Sec 4 Preliminary Exam 2022 Info Sheet
 
   
 
-**ICT Matters  
-**
+**ICT Matters**
 
 *   [SLS Log in Guide](http://go.gov.sg/yyaf2u)
 *   [Student Icon Password  Request form](https://forms.gle/W33ot6pZMS5b1Mdx9) 
