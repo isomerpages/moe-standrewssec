@@ -88,8 +88,8 @@ third_nav_title: Our People
 |     | Ms Joanna Chew     | chew_cher_joanna@moe.edu.sg  |
 | **4S1**     | Mr Lam Wai Leong     | lam_wai_leong@moe.edu.sg     |
 |     | Mrs Daphne Ang     | wong_phui_yeng@moe.edu.sg |
-| **3 Excellence**     | Mr Cheong Peng Yong    | cheong_peng_yong@moe.edu.sgg     |
-|     | Mr Caleb Cheong   | cheong_chee_ngai_caleb@moe.edu.sg |
+| **4S2**     | Ms Theeba    | theeba_pachaimuthu_thayala@moe.edu.sg     |
+|     | Ms Elliza Tang   | sass@moe.edu.sg |
 | **3 Thanksgiving**    | Mdm Tan Sang Chai    | tan_sang_chai@moe.edu.sg     |
 |     | Ms Elizabeth Mary    | thangaperakasam_elizabeth_mary@moe.edu.sg|
 | **3 Resilience**    | Mr Phoon Kok Kwong   | phoon_kok_kwong@moe.edu.sg     |
