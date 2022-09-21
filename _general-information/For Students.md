@@ -123,8 +123,8 @@ G1
 
 G2
 
-*   [2022 Sec 1 G2 (NA) Stationery List](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/1%20G2%20STA.pdf)
-*   [2022 Sec 1 G2 (NA) Booklist](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20students/booklist%202022/1%20G2.pdf)
+*   [2022 Sec 1 G2 (NA) Stationery List](/files/1%20G1%20STA.pdf)
+*   [2022 Sec 1 G2 (NA) Booklist](/files/1%20G2.pdf)
 
 G3 
 
