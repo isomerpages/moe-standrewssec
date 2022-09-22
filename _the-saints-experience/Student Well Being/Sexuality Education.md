@@ -48,7 +48,6 @@ a.    Science
 
 b.    Character and Citizenship Education (CCE)
 
-###   
 
 ### Sexuality Education Lessons
 
