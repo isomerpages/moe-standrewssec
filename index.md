@@ -11,5 +11,9 @@ sections:
       background: /images/Homepage/banner.gif
   - resources:
       title: News Of The Term
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
-
