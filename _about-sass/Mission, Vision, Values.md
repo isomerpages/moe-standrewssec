@@ -3,7 +3,7 @@ title: Mission, Vision, Values
 permalink: /about-sass/Mission-Vision-Values/
 description: ""
 ---
-## Mission, Vision, Values
+##### Mission, Vision, Values*****
 
 ### Our Mission 
 
@@ -27,13 +27,15 @@ who bring life to the nations
 
 ### Our Values
 
-**W** onder           **T** hanksgiving
+**W**onder          
+**I**ntegrity        
+**S**elf- Discipline     
+**E**xcellence         
 
-**I** ntegrity          **R** esilience
-
-**S** elf- Discipline      **U** nity
-
-**E** xcellence          **E** mpathy
-
+ **T**hanksgiving
+ **R**esilience
+ **U**nity
+ **E**mpathy
+ 
 ![](/images/Mission4.jpeg)![](/images/Mission.jpeg)
 ![](/images/Mission2.jpeg) ![](/images/Mission3.jpeg)
