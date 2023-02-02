@@ -102,13 +102,15 @@ Sec 4 Preliminary Exam 2022 Info Sheet
 
 **ICT Matters**
 
-*   [SLS Log in Guide](http://go.gov.sg/yyaf2u)
-*   [Student Icon Password  Request form](https://forms.gle/W33ot6pZMS5b1Mdx9) 
-*   [Student User Guide](http://go.gov.sg/zrxz7t) for SLS, ICON, Google Meet and Zoom
+*   [SLS Log in Guide](https://go.gov.sg/dxh48w)
+*   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7) 
+*   [Student User Guide](http://go.gov.sg/zrxz7t) for    SLS, ICON, Google Meet and Zoom
 *   [Microsoft software for students](http://go.gov.sg/6i30aq)
-*   [MIMS Portal -Student Icon Self Reset](https://idp.mims.moe.gov.sg/nidp/app) 
+*    [DMA Uninstallation for iPad Device (For Graduating Students Only)](https://go.gov.sg/0r2jfe)
 
-  
+  *   [Guide to back-up student iCON](https://go.gov.sg/e5au6d)
+
+
 
 **2022 Booklists**
 
