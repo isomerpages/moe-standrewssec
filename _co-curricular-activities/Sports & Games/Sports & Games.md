@@ -17,8 +17,8 @@ third_nav_title: Sports & Games
 | **Basketball**     | Tuesday and Thursday    | 3.30 - 6.00 PM     | Tuesday and Thursday     | 3.30 - 6.00 PM     |  School Indoor Sports Hall (ISH)     |  Mr Vincent Lai, Mr Liu Liming and Ms Wang Kai Qi |
 | **Tennis**     | Monday and Thursday | 3.30 - 6.00 PM     | Monday and Thursday     | 3.30 - 6.00 PM     |  Owen's Court | Ms Vanessa Poh,  Mr Jimmy Koh and Mr Lam Wai Leong |
 | **Football**     | Tuesday and Thursday  | 3.30 - 6.00 PM     | Tuesday and Thursday  | 3.30 - 6.00 PM    | School Field    | Mr Rajesh, Mr Osman and Mr Liang Sea Fong |
-| **Waterpolo**     | Monday, Wednesday and Friday   | 3.00 - 5.15 PM     | Monday, Wednesday and Friday  |3.00 - 5.15 PM   | SAV Swimming Pool   | Mr Ng Eu Khim |
-| **Cricket**     | Tuesday and Thursday   | 3.30 - 5.30 PM     | Tuesday and Thursday  | 3.30 - 5.30 PM   |  School Field   | Mrs Raj |
+| **Waterpolo**     | Monday, Wednesday and Friday   | 3.00 - 5.30 PM     | Monday, Wednesday and Friday  |3.00 - 5.30 PM   | SAV Swimming Pool   | Mr Ng Eu Khim, Ms Veronica Lye and Ms Sharifah |
+| **Cricket**     | Tuesday and Thursday   | 3.30 - 6.00 PM     | Tuesday and Thursday  | 3.30 - 6.00 PM   |  School Field   | Mrs Raj and Mdm Alifa |
 | **Swimming**    | Tuesday and Thursday   | 3.30 - 5.30 PM     | Tuesday and Thursday  | 3.30 - 5.30 PM   | SAV Swimming Pool   | Mr Tan Yan Ho |
 | **Track**    |  Monday, Wednesday and Friday   | 3.30 - 5.30 PM     | Monday, Wednesday and Friday  | 3.30 - 5.30 PM   | Bishan Stadium & MacRitchie Reservoir  | Mr Zulhaqqim |
 | **Squash**    |  Wednesday  | 3.00 - 5.00 PM     | Tuesday and Thursday  | 3:00 - 5.00 PM   | Yio Chu Kang Squash Court  | Ms Ng Pei Shing |
