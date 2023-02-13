@@ -11,14 +11,16 @@ third_nav_title: Sports & Games
 
 Training Days:  Monday, Wednesday and Friday
 
-Training Time:  3.30 - 6.15 PM (Monday and Wednesday),  3.30 - 5.15 PM (Friday)
+Training Time:  3.30 - 6.15 PM 
 
-Training Venue:   SASS school field  
+Training Venue:  School Field  
   
 
 Teachers-in-Charge  
 
-1. Mr Benedict Tan (OIC) <br> tan_kok_tze_benedict@moe.edu.sg
+5.  Mr Aaron Kong (Advisor) <br> kong_hon_ein_aaron@moe.edu.sg
+
+7. Mr Benedict Tan (OIC) <br> tan_kok_tze_benedict@moe.edu.sg
 
 2. Mr Lim Dao Xing   <br> lin_daoxing@moe.edu.sg
 
@@ -26,7 +28,7 @@ Teachers-in-Charge
 
 4. Mr Cheong Peng Yong<br> cheong_peng_yong@moe.edu.sg
 
-5.  Mr Aaron Kong (Advisor) <br> kong_hon_ein_aaron@moe.edu.sg
+
 
   
 
