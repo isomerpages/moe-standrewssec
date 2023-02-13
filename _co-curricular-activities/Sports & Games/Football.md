@@ -8,13 +8,11 @@ third_nav_title: Sports & Games
 
 ### CCA Schedule
 
-Training Days:    Tuesday (C Division) and Thursday (B Division)  
+Training Days:    Tuesday and Thursday 
 
--------------------------------------------------------------------
+Training Time:    3.30pm - 6.30 PM
 
-Training Time:    3.30pm - 5.30pm
-
-Training Venue:        School Pitch
+Training Venue:    School Field 
 
   
 
@@ -24,7 +22,7 @@ Training Venue:        School Pitch
 2.    Mr Mohd Osman <br>  [](mailto:mohamed_osman_mohamed_noor@moe.edu.sg)[mohamed\_osman\_mohamed\_noor@moe.edu.sg](mailto:mohamed_osman_mohamed_noor@moe.edu.sg)[](mailto:mohamed_osman_mohamed_noor@moe.edu.sg)
 3.   Mr Liang  Sea Fong <br>  [liang\_sea\_fong@moe.edu.sg](mailto:liang_sea_fong@moe.edu.sg)
 
-**Achievements**  
+### Achievements 
 2022  
 Participated in National Schools Games, Squash, B Division
 
