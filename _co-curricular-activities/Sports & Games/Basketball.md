@@ -9,18 +9,19 @@ third_nav_title: Sports & Games
 
 ### CCA Schedule
 
-Training Days:  Tuesday, Thursday 
+Training Days:  Tuesday and Thursday 
 
 Training Time:   3.30 - 6.00 PM
 
-Training Venue: SASS Indoor Sports Hall (ISH) 
+Training Venue: School Indoor Sports Hall (ISH) 
 
   
 
 ### Teachers-in-Charge  
 
-1.   Mr. Vincent Lai                           Lai_dingsheng@moe.edu.sg
-2.   Mrs Francina Gibson           Francina_jeyanthi_victor@moe.edu.sg
+1.   Mr Vincent Lai- lai_dingsheng@moe.edu.sg
+2.   Mr Liu Liming- liu_liming@moe.edu.sg
+3.   Ms Wang Kai Qi- wang_kai_qi@moe.edu.sg
 
 ### Achievements
 
