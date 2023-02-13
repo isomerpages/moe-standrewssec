@@ -8,23 +8,23 @@ third_nav_title: Sports & Games
 
 ###  CCA Schedule  
 
-Training Days: Mondays (Sec 1s),  Wednesdays (B Division) and Thursdays (Sec 2s)
+Training Days: Mondays and Thursdays
 
-Training Time: 3.00 -5.00 PM
+Training Time: 3.30 -6.00 PM
 
-Training Venue: SASS level 6 tennis court (Owen's court)
+Training Venue: Owen's Court
 
 ### Teachers-in-Charge
 
-1.    Mr Jimmy Koh   
-koh_tze_ping@moe.edu.sg
-
-2.    Ms Vanessa Poh      
-poh_jin_yu_vanessa@moe.edu.sg
-
-3.    Mr Lam Wai Leong          
-lam_wai_leong@moe.edu.sg
-
+1.     Ms Vanessa Poh<br>    
+ poh_jin_yu_vanessa@moe.edu.sg
+ 
+2.     Mr Jimmy Koh<br>   
+ koh_tze_ping@moe.edu.sg
+ 
+3.     Mr Lam Wai Leong<br>   
+ lam_wai_leong@moe.edu.sg
+ 
 **Achievements**  
 2022
 
