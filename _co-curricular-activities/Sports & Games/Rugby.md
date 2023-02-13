@@ -16,7 +16,7 @@ Training Time:  3.30 - 6.15 PM
 Training Venue:  School Field  
   
 
-Teachers-in-Charge  
+### Teachers-in-Charge
 
 1.   Mr Aaron Kong <br> kong_hon_ein_aaron@moe.edu.sg
  
