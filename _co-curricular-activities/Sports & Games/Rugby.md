@@ -18,15 +18,15 @@ Training Venue:  School Field
 
 Teachers-in-Charge  
 
-5.  Mr Aaron Kong (Advisor) <br> kong_hon_ein_aaron@moe.edu.sg
-
-7. Mr Benedict Tan (OIC) <br> tan_kok_tze_benedict@moe.edu.sg
-
-2. Mr Lim Dao Xing   <br> lin_daoxing@moe.edu.sg
-
-3. Ms Tan Yii Yann   <br>  tan_yii_yann@moe.edu.sg
-
-4. Mr Cheong Peng Yong<br> cheong_peng_yong@moe.edu.sg
+1.   Mr Aaron Kong <br> kong_hon_ein_aaron@moe.edu.sg
+ 
+2.  Mr Benedict Tan <br> tan_kok_tze_benedict@moe.edu.sg
+ 
+3.  Ms Tan Yii Yann   <br>  tan_yii_yann@moe.edu.sg
+ 
+4.   Mr Lin Daoxing   <br> lin_daoxing@moe.edu.sg
+ 
+5.  Mr Cheong Peng Yong<br> cheong_peng_yong@moe.edu.sg
 
 
 
