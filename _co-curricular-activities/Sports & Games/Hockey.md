@@ -12,18 +12,17 @@ Training Days:   Monday, Wednesday and Friday
 
 Training Time:   3.30 - 6.00 PM
 
-Training Venue: SASS Hockey Pitch / Sengkang Hockey Stadium / MOE (Evans) Hockey Pitch
-
+Training Venue: School Hockey Pitch 
 
 
 ### Teachers-in-Charge
 
 
 
-1.   Ms Shanthini Rathakrishnan <br> shanthini_rathakrishnan@moe.edu.sg
-2.   Mrs Malini Raja <br> malini_kathaperumal@moe.edu.sg
+1.   Ms Roshnah Begum <br> roshnah_begum_mohd_abbas@moe.edu.sg
+
 3.   Miss Sin Jing Ting   <br> sin_jing_ting@moe.edu.sg
-4.   Ms Roshnah <br> roshnah_begum_mohd_abbas@moe.edu.sg
+
 5.   Miss Ratna Illyas <br> ratna_illyas@moe.edu.sg
 
   
