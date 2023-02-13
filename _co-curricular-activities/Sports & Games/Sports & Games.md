@@ -19,9 +19,9 @@ third_nav_title: Sports & Games
 | **Football**     | Tuesday and Thursday  | 3.30 - 6.00 PM     | Tuesday and Thursday  | 3.30 - 6.00 PM    | School Field    | Mr Rajesh, Mr Osman and Mr Liang Sea Fong |
 | **Waterpolo**     | Monday, Wednesday and Friday   | 3.00 - 5.30 PM     | Monday, Wednesday and Friday  |3.00 - 5.30 PM   | SAV Swimming Pool   | Mr Ng Eu Khim, Ms Veronica Lye and Ms Sharifah |
 | **Cricket**     | Tuesday and Thursday   | 3.30 - 6.00 PM     | Tuesday and Thursday  | 3.30 - 6.00 PM   |  School Field   | Mrs Raj and Mdm Alifa |
-| **Swimming**    | Tuesday and Thursday   | 3.30 - 5.30 PM     | Tuesday and Thursday  | 3.30 - 5.30 PM   | SAV Swimming Pool   | Mr Tan Yan Ho |
-| **Track**    |  Monday, Wednesday and Friday   | 3.30 - 5.30 PM     | Monday, Wednesday and Friday  | 3.30 - 5.30 PM   | Bishan Stadium & MacRitchie Reservoir  | Mr Zulhaqqim |
-| **Squash**    |  Wednesday  | 3.00 - 5.00 PM     | Tuesday and Thursday  | 3:00 - 5.00 PM   | Yio Chu Kang Squash Court  | Ms Ng Pei Shing |
+| **Swimming**    | Tuesday and Thursday   | 3.30 - 6.00 PM     | Tuesday and Thursday  | 3.30 - 6.00 PM   | SAV Swimming Pool   | Mr Tan Yan Ho and Ms Kong Lai Ling |
+| **Track & Field**    |  Monday, Wednesday and Friday   | 3.30 - 5.30 PM     | Monday, Wednesday and Friday  | 3.30 - 5.30 PM   | Kallang Practice & MacRitchie Reservoir  | Mdm Raudzah and Ms Abigail Wee |
+| **Squash**    |  Monday, Wednesday and Thursday  | 4.00 - 6.00 PM     | Monday, Wednesday and Thursday  | 4:00 - 6.00 PM   | Yio Chu Kang Squash Court  | Ms Ng Pei Shing and Ms Emairah |
 
 _Please note should there be any special training conducted on weekday nights/weekends, parents will be notified by the teachers in-charge._ 
 
