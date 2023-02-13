@@ -9,15 +9,15 @@ third_nav_title: Sports & Games
 ### CCA Schedule  
 
 
-Training Days:            Tuesday and Thursday
+Training Days:            Monday, Wednesday and Friday 
 
 Training Time:            3.30-5.30 PM
 
-Training Venue:          SAV swimming pool
+Training Venue:          SAV Swimming Pool
 
   
 
-Teachers-in-Charge  
+### Teachers-in-Charge
 
 1.  Mr Tan Yan Ho  <br>
 tan_yan_ho@moe.edu.sg
@@ -27,7 +27,7 @@ kong_lai_ling@moe.edu.sg
 
   
 
-Achievements
+### Achievements 
 
 2022
 
