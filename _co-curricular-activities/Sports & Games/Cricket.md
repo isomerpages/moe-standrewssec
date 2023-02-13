@@ -11,19 +11,16 @@ third_nav_title: Sports & Games
 
 Training Days:           Tuesday & Thursday
 
-Training Time:           3.30 - 5.30 PM
+Training Time:           3.30 - 6.00 PM
 
-Training Venue:         SASS school field  
+Training Venue:         School Field  
 
   
 
 ### Teachers-in-Charge
 
 1.  Mrs Kalaimathi Pandi Raj <br> kalaimathi_marimthu@moe.edu.sg
-
-2. Ms Tun Emairah  <br>tun_emairah_fateema@moe.edu.sg 
-
-3. Mdm Alifa  <br>
+2.  Mdm Alifa  <br>
 alifa_ismail@moe.edu.sg 
 
 ### Achievements
