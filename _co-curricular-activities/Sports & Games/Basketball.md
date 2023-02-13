@@ -19,9 +19,9 @@ Training Venue: School Indoor Sports Hall (ISH) 
 
 ### Teachers-in-Charge  
 
-1.   Mr Vincent Lai- lai_dingsheng@moe.edu.sg
-2.   Mr Liu Liming- liu_liming@moe.edu.sg
-3.   Ms Wang Kai Qi- wang_kai_qi@moe.edu.sg
+1.   Mr Vincent Lai<br> lai_dingsheng@moe.edu.sg
+2.   Mr Liu Liming<br>liu_liming@moe.edu.sg
+3.   Ms Wang Kai Qi<br> wang_kai_qi@moe.edu.sg
 
 ### Achievements
 
