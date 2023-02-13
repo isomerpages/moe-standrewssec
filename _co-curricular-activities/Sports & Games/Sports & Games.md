@@ -16,7 +16,7 @@ third_nav_title: Sports & Games
 | **Hockey**     | Monday, Wednesday and Friday    | 3.30 - 6.00 PM     | Monday, Wednesday and Friday     | 3.30 - 6.00 PM     | School Hockey Pitch     | Ms Roshnah Begum, Ms Sin Jing Ting and Ms Ratna Illyas |
 | **Basketball**     | Tuesday and Thursday    | 3.30 - 6.00 PM     | Tuesday and Thursday     | 3.30 - 6.00 PM     |  School Indoor Sports Hall (ISH)     |  Mr Vincent Lai, Mr Liu Liming and Ms Wang Kai Qi |
 | **Tennis**     | Monday and Thursday | 3.30 - 6.00 PM     | Monday and Thursday     | 3.30 - 6.00 PM     |  Owen's Court | Ms Vanessa Poh,  Mr Jimmy Koh and Mr Lam Wai Leong |
-| **Football**     | Tuesday   | 3.30 - 5.30 PM     | Thursday  | 3.30 - 5.30 PM    | School Field    | Mr Rajesh |
+| **Football**     | Tuesday and Thursday  | 3.30 - 6.00 PM     | Tuesday and Thursday  | 3.30 - 6.00 PM    | School Field    | Mr Rajesh, Mr Osman and Mr Liang Sea Fong |
 | **Waterpolo**     | Monday, Wednesday and Friday   | 3.00 - 5.15 PM     | Monday, Wednesday and Friday  |3.00 - 5.15 PM   | SAV Swimming Pool   | Mr Ng Eu Khim |
 | **Cricket**     | Tuesday and Thursday   | 3.30 - 5.30 PM     | Tuesday and Thursday  | 3.30 - 5.30 PM   |  School Field   | Mrs Raj |
 | **Swimming**    | Tuesday and Thursday   | 3.30 - 5.30 PM     | Tuesday and Thursday  | 3.30 - 5.30 PM   | SAV Swimming Pool   | Mr Tan Yan Ho |
