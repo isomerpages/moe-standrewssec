@@ -8,6 +8,6 @@ third_nav_title: Club & Societies
 
 | CCA<br>(Club & Societies)| Training Day | Training Time | Venue | Teacher(s) In-Charge |
 | -------- | -------- | -------- | -------- | -------- |
-| **Saints Media**    | Wednesday     | 3.00 - 5.00 PM    | School, Small COE Room     | Mr Winston Soo     |
-| **Robotics Club**    | Thursday    | 3.30 - 5.30 PM    | School, Robotics Room     | Mr Phoon Kok Kwong     |
-| **Singapore Youth Flying Club (SYFC)**    |  Friday     | 2.00 - 4.30 PM   | School Classroom C701- C704     | Mr Alex Lim     |
+| **Saints Media**    | Wednesday     | 3.30 - 5.30 PM    | School, Small COE Room     | Mr Winston Soo and Ms Ng Li Yan |
+| **Robotics Club**    | Thursday    | 3.30 - 5.30 PM    | School, Robotics Room     | Mr Phoon Kok Kwong, Ms Du Yun Qian and Ms Joy Lim      |
+| **Singapore Youth Flying Club (SYFC)**    |  Monday     | 3.30 - 5.30 PM   | School Classrooms C701- C706     | Mr Alex Lim, Mr Philip Ng and Mdm Zulaiha |
