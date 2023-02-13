@@ -8,9 +8,9 @@ third_nav_title: Performing Arts
 
 | CCA <br> (Performing Arts) | Training Days | Training Time | Venue | Teachers In-Charge |
 | -------- | -------- | -------- | -------- | -------- |
-| **Drama**    | Monday and Thursday     | 3.00 - 5.00 PM     | School Lecture Theatre     | Ms Elizabeth Mary     |
-| **Choir**   | Monday and Thursday     | 3.30 - 6.30 PM     | School Classroom C401 (Music Room)     | Ms Melissa Foo     |
-| **Band**    | Full Band Tuesday and Thursday <br><br> Senior Band<br>Monday      | 3.30 - 6.30 PM     | School Band Room and classrooms     | Mrs Carmen Ong     |
+| **Drama**    | Monday and Thursday     | 3.30 - 5.30 PM     | School Lecture Theatre     | Ms Elizabeth Mary, Ms Geraldine Goh and Ms Carmen Chan     |
+| **Choir**   | Monday and Thursday     | 3.30 - 6.30 PM     | School Classroom C401 (Music Room)     | Ms Melissa Foo, Ms Wong Limin and Mrs Francina Gibson     |
+| **Band**    | Monday, Tuesday and Thursday | 3.30 - 6.30 PM     | School Band Room and classrooms     | Mrs Carmen Ong, Ms Sarah Chan, Mr Chua Hock Seng and Mr Zulhaqqim |
 
   
 *Please note should there be any special training conducted on weekday nights/weekends, parents will be notified by the teachers in-charge.*
