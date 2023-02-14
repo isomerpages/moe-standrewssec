@@ -11,25 +11,25 @@ third_nav_title: Club & Societies
 
 ### CCA Schedule
 
-Training Days:             Friday
+Training Days:             Monday
 
-Training Time:             2.00 - 4.30 PM
+Training Time:             3.30 - 5.30 PM
 
-Training Venue:          School Classrooms C701 - C704  
+Training Venue:          School Classrooms C701 - C706  
   
 
-**Teachers-in-Charge**
+### Teachers-in-Charge
 
-1.  Mr Alex Lim                 [lim_jun_xiong_alex@moe.edu.sg](mailto:francis_thomas@moe.edu.sg)
-2.  Mdm Raudzah            [raudzah_osman@moe.edu.sg](mailto:raudzah_osman@moe.edu.sg)
-3.  Mr Goh Hong Fei      goh\_hong\_fei@moe.edu.sg
+1. Mr Alex Lim<br>lim_jun_xiong_alex@moe.edu.sg
+2. Mr Philip Ng<br>  ng_boon_yeow_philip@moe.edu.sg
+3. Mdm Zulaiha<br>zulaiha_basri@moe.edu.sg 
 
   
 
 ### Achievements
  
 
-2021 
+#### 2021 
 
 SAFMC Finalists (Cat B)
 
