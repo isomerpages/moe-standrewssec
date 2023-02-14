@@ -10,32 +10,19 @@ third_nav_title: Uniformed Groups
 
 ### CCA Schedule
 
-**Odd week**
+Training Day:   Thursday (Odd Week) and Friday (Even Week)
 
-Training Day:   Thursday
+Training Time:   3.30 - 6.00 PM
 
-Training Time:   2.30 - 6.00 PM
+Training Venue: School Upper Court
 
-Training Venue: SASS Upper Court
-
-  
-
-**Even week**
-
-Training Day:   Friday
-
-Training Time:   2.30 - 6.00 PM
-
-Training Venue: SASS Upper Court
-
-  
 
 ### Teachers-in-Charge
 
- 1. Ms Kevina Joe          kevina\_jerrine\_ronald\_joe@moe.edu.sg  
- 2. Ms Renuga Visvalingam renuga\_visvalingam@moe.edu.sg   
- 3. Mr Gary Ding   ding\_chi\_ying\_gary@moe.edu.sg  
- 4. Ms Fatima Lui                     lui\_nga\_shun\_fatima@moe.edu.sg  
+1.   Ms Kevina Joe<br> kevina_jerrine_ronald_joe@moe.edu.sg
+2.   Mr Gary Ding<br>ding_chi_ying_gary@moe.edu.sg
+3.   Ms Fatima Lui<br>lui_nga_shun_fatima@moe.edu.sg
+4.   Ms Renuga<br>renuga_visvalingam@moe.edu.sg
 
   
 
