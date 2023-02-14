@@ -19,7 +19,7 @@ Training Venue: School Upper Court
 
 ### Teachers-in-Charge
 
-1. Mr Caleb Cheong <br>cheong_chee_ngai_caleb@moe.edu.sg
+## 1. Mr Caleb Cheong <br>cheong_chee_ngai_caleb@moe.edu.sg
 
 1. Mr Jansen Ho<br>ho_wei_an_jansen@moe.edu.sg  
 
