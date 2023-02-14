@@ -12,26 +12,23 @@ third_nav_title: Uniformed Groups
 
 Training Days:   Wednesday
 
-Training Time:   2.30 - 6.00 PM
+Training Time:   3.30 - 6.00 PM
 
-Training Venue: SASS classrooms A311 & A312
+Training Venue: School classrooms B411 and C412
 
 
 
 ### Teachers-in-Charge
 
-1.   Mr Paul Matthew Cheong cheong_wei_paul_matthew@moe.edu.sg
-2.   Mdm Nisha Omar Khan nisha_omar_khan@moe.edu.sg
-3.   Mr Philip Ng   
-ng_boon_yeow_philip@moe.edu.sg
-4.   Ms Roshnah roshnah_begum_mohd_abbas@moe.edu.sg
-5.   Mr Surya Mulyono Bin Ahmad       surya_mulyono_bin_ahmad@moe.edu.sg
+1.   Mr Xu Ning<br>xu_ning@moe.edu.sg
+3.   Mr Paul Matthew Cheong<br> cheong_wei_paul_matthew@moe.edu.sg
+5.   Mr Surya Mulyono Bin Ahmad<br>surya_mulyono_bin_ahmad@moe.edu.sg
+6.   Mr Jason Wong <br>    
 
   
 
-Achievements  
-
-2022      
+### Achievements  
+##### 2022      
 
 SPF - NPCC Badge Award - S.I(NPCC) Isaac Ng & SSGT (NPCC) Javan Lim  
 
@@ -39,9 +36,8 @@ Best Unit Cadet - Station Inspector Lau Wing Ban Wyne
 
 6th Position Inter Unit E-CSI Competition 2022(NPCC)  
 
-  
 
-2021      
+##### 2021      
 
 Unit Overall Proficiency Award, GOLD  
 
