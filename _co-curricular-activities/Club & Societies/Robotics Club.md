@@ -18,17 +18,15 @@ Training Venue: Robotics Room
 
 ### Teachers-in-Charge
 
-1.  Mr Phoon Kok Kwong                 phoon\_kok\_kwong[@moe.edu.sg](mailto:francis_thomas@moe.edu.sg)
-2.  Ms Lim Su Chen Joy                      lim\_su\_chen\_joy[@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)  
-    
-3.  Ms Du Yun Qian                              du\_yun\_qian[@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)
-4.  Mr Yeo Haig Gene (Advisor)    yeo\_haig\_gene[@moe.edu.sg  
-    ](mailto:meyappa_chettiar@moe.edu.sg)
+1. Mr Phoon Kok Kwong<br>phoon_kok_kwong@moe.edu.sg               
+2. Ms Du Yun Qian<br>du_yun_qian@moe.edu.sg
+3. Ms Joy Lim<br>lim_su_chen_joy@moe.edu.sg
+
 
 
 ### Achievements  
 
-2021 
+#### 2021 
 
 Innovation Design & Engineering Competition Sprint Champs / 1st & 2nd Runners-Up
 
