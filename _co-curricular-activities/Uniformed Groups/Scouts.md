@@ -13,7 +13,7 @@ Training Days: &nbsp; Thursday
 
 Training Time: &nbsp; 3.30 - 6.00 PM
 
-Training Venue: School Compound
+Training Venue: &nbsp; School Upper Court
 
   
 
