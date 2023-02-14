@@ -11,18 +11,19 @@ third_nav_title: Performing Arts
 
 Training Days:   Monday and Thursday  
 
-Training Time:   3.00 - 5.00 PM
+Training Time:   3.30 - 5.30 PM
 
-Training Venue:       Lecture Theatre
+Training Venue:  School Lecture Theatre
 
   
 
 ### Teachers-in-Charge  
 
- 1.Ms Elizabeth Rathakrishnan [Thangaperakasam\_elizabeth\_mary@moe.edu.sg](mailto:Thangaperakasam_elizabeth_mary@moe.edu.sg)
+1. Ms Elizabeth Mary<br> thangaperakasam_elizabeth_mary@moe.edu.sg
 
- 2.Ms Geraldine Goh [geraldine\_goh\_yee\_gi@moe.edu.sg](mailto:meyappa_chettiar@moe.edu.sg)
+2. Ms Geraldine Goh <br>geraldine_goh_yee_gi@moe.edu.sg
 
+3. Ms Carmen Chan<br>chan_jiamin_carmen@moe.edu.sg
  
 
   
@@ -31,7 +32,7 @@ Training Venue:       Lecture Theatre
 
 
 
-2021 
+#### 2021 
 
 Certificate of Distinction at the Singapore Youth Festival!
 
