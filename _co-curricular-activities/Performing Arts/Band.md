@@ -8,15 +8,11 @@ third_nav_title: Performing Arts
 
 ###  CCA Schedule  
 
-Training Days:   Monday - Senior Band
-
-Tuesday and Thursday - Full Band 
+Training Days:   Monday, Tuesday and Thursday 
 
 Training Time:   3.30 - 6.30 PM
 
-  
-
-Training Venue: Band Room and classrooms
+Training Venue: School Band Room and classrooms
 
 
 
@@ -24,11 +20,10 @@ Training Venue: Band Room and classrooms
 
 
 
-1.   Ms Carmen Ong             carmen_chan_jia_min@moe.edu.sg
-2.   Mr Caleb Cheong cheong_chee_ngai_caleb@moe.edu.sg
-3.   Ms. Sarah Chan 
-chan_mei_ping_sarah@moe.edu.sg
-5.   Mr. Terence Chee chee_wei_kit_terence@moe.edu.sg
+1.   Mrs Carmen Ong<br>carmen_chan_jia_min@moe.edu.sg             
+3.   Ms Sarah Chan<br>chan_mei_ping_sarah@moe.edu.sg 
+5.   Mr Chua Hock Seng<br>chua_hock_seng@moe.edu.sg
+6.   Mr Zulhaqqim<br>muhammad_zulhaqqim_awaruddin@moe.edu.sg
 
   
 
@@ -38,13 +33,13 @@ SYF Arts Presentation - Distinction **(2012 - 2021)**
 
   
 
-2022
+### 2022
 
 Band Passing Out Parade 
 
 Performance for Founder's Day 
 
-2021
+### 2021
 
 SYF Arts Presentation - Flexible Band - **Distinction**  
 
