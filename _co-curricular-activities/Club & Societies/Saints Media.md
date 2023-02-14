@@ -16,21 +16,20 @@ Training Day:   Wednesday
 
 Training Time:   3.30 - 5.30 PM
 
-Training Venue: School, Small COE room
+Training Venue: School, Small COE Room
 
   
 
 ### Teachers-in-Charge
 
-### 1. Mr Soo Lik Lern Winston  soo\_lik\_lern\_winston@moe.edu.sg
-
-2\. Mdm Ng Li Yan          ng\_li\_yan@moe.edu.sg
+1. Mr Winston Soo<br>soo_lik_lern_winston@moe.edu.sg
+3. Ms Ng Li Yan<br>ng_li_yan@moe.edu.sg
 
   
 
 ### Achievements
 
-2022
+#### 2022
 
 Participated in “Our Schools, Our Stories” Photo & Video Contest 
 
@@ -38,7 +37,7 @@ Collaborated with Saints Drama to produce our first library publicity video
 
   
 
-2021  
+#### 2021  
 
 Participated in the 7th National Youth Film Awards  
 
