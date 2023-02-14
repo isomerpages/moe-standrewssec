@@ -6,29 +6,29 @@ third_nav_title: Uniformed Groups
 ---
 ## Boys Brigade 
 
-#### CCA Schedule
+### CCA Schedule
 
 
-Training Day:   Saturday
+Training Day: Saturday
 
 Training Time:   8.30 - 12.30 PM
 
-Training Venue: SASS Upper Court, COE room or Indoor sports hall
+Training Venue: School Upper Court
 
   
 
-#### Teachers-in-Charge
+### Teachers-in-Charge
 
-1.  Mr Jansen Ho   ho_wei_an_jansen@moe.edu.sg  
+1. Mr Caleb Cheong <br>cheong_chee_ngai_caleb@moe.edu.sg
 
-2. Mr Perumal Selvarasoo p_selvarasoo@moe.edu.sg
+1. Mr Jansen Ho<br>ho_wei_an_jansen@moe.edu.sg  
 
-3. Mdm Tan Sang Chai    tan_sang_chai@moe.edu.sg
+2. Mr Perumal Selvarasoo<br> p_selvarasoo@moe.edu.sg
 
- 4. Ms Chua Xin Yuan   chua_xin_yuan@moe.edu.sg  
+3. Mdm Tan Sang Chai<br>tan_sang_chai@moe.edu.sg
+ 
 
-  
-
+ 
 ### Achievements
 
 2022
