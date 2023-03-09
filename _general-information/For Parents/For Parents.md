@@ -32,7 +32,7 @@ third_nav_title: For Parents
 *   [FAQs on Student iCON for Parents](/files/FAQs%20on%20Student%20iCON%20for%20Parents_vetted%20updated%2020%20May.pdf)
 
   
-**Links for Parents**
+**Useful Links**
 
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [Parents Kit](https://www.moe.gov.sg/parentkit)
