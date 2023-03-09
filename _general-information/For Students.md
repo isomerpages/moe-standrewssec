@@ -158,7 +158,5 @@ G3 
 *   [2022 Sec 4NA Booklist](/files/4%20NA.pdf)
 *   [2022 Sec 4EXP Booklist](/files/4%20EXP.pdf)
 *   [2022 Sec 5NA Booklist](/files/5%20NA.pdf)
-*   [DMA Parent Guide ](/files/PORI5%20-%20DMA%20Parent%20Guide%20for%20Option%20A%20(iPad)_2%20Sep%2021.pdf)
 
 
-![testing ](/images/image004%20(1).jpg)
