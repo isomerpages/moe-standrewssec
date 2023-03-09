@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: St Andrew Secondary School
+title: St. Andrew's Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/tiger.jpg
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
       button: Go to our facebook page
       url: https://www.facebook.com/standrewssec/
 ---
+
