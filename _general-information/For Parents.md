@@ -7,27 +7,8 @@ description: ""
 
 **Letter to Parents**  
 
-*   [Term 1 Letter (Jan 2022)](/files/2022%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
-*   [Term 2 Letter (March 2022)](/files/Ps%20Term%202%20Letter%20to%20Parents%202022.pdf)
-*   [Term 3 Letter (June 2022)](/files/2022%20Ps%20Term%203%20Letter%20to%20Parents.pdf)
-*   [Term 4 Letter (September 2022)](/files/2022%20Ps%20Term%204%20Letter%20to%20Parents%2012%20Sept%202022.pdf)
 
-  
-
-**2022 Principal Parent Conference** 
-
-*   [Sec 4NT PPC 2022](https://go.gov.sg/szusls)
-*   [Sec 4NA PPC 2022](https://go.gov.sg/oqdo66)  
-    
-*   [Sec 4E5N PPC 2022](https://go.gov.sg/n68cg6)  
-    
-
-   
-
-**2022 Saints Calendar**
-
-*   [Events for Semester 1 2022](https://standrewssec.moe.edu.sg/qql/slot/u181/Calendar%20and%20Exam%20Matters/school%20calendar/Saints%20Calendar_Sem%201%202022.docx.pdf)
-*   [Events for Semester 2 2022](/files/2022%20Sem%202%20Saints%20Calender.pdf)
+**2023 Saints Calendar**
 
   
 
@@ -42,7 +23,6 @@ description: ""
 *   [10 Jan A New Saint’s Journey (Non-affiliated primary school Parent talk)](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/2022%20Sec%201%20%20Orientation%20Talks/10%20Jan%20A%20New%20Saints%20Journey%20Non-affiliated%20primary%20school%20Parent%20talk.pptx)
 
   
-
 **Sec 3  Course Selection Exercise For Sec 2 Students**
 
 *   [Course Selection Conference with Parents(Express)](http://go.gov.sg/tbliuv)
@@ -67,8 +47,7 @@ description: ""
 *   [Parents Kit](https://www.moe.gov.sg/parentkit)
 *   [Mobile Notification: Get Updated on School Activities using your Smart Phones!](/files/Get%20Mobile%20Notification%20from%20SASS%20for%20your%20iPhone%20or%20Android.pdf)
     
-
-  
+ 
 
 **Financial Aid**  
 
