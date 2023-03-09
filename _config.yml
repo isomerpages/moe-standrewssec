@@ -1,4 +1,4 @@
-title: St Andrew Secondary School
+title: St. Andrew's Secondary School
 url: https://standrewssec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1zt52mog84ljj.amplifyapp.com
 prod: https://master.d1zt52mog84ljj.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/tiger.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
