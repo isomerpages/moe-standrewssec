@@ -6,8 +6,7 @@ image: /images/tiger.jpg
 permalink: /
 notification: ""
 sections:
-  - hero:
-      background: /images/About SASS -_ Our School.jpg
+  - hero: {}
   - infobar:
       title: St Andrew's Secondary School
       subtitle: Welcome to
