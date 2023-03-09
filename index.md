@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/banner.gif
+      background: /images/About SASS -_ Our School.jpg
   - infobar:
       title: Saint Andrew's Secondary School
       subtitle: Welcome to
@@ -19,4 +19,3 @@ sections:
       button: Go to our facebook page
       url: https://www.facebook.com/standrewssec/
 ---
-
