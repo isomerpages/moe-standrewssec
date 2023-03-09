@@ -36,7 +36,7 @@ description: ""
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [Parents Kit](https://www.moe.gov.sg/parentkit)
 *   [Mobile Notification: Get Updated on School Activities using your Smart Phones!](/files/Get%20Mobile%20Notification%20from%20SASS%20for%20your%20iPhone%20or%20Android.pdf)
-    
+   *   [St Andrew's  Parent-Teacher Association (SAPTA)](https://www.saintandrewsjunior.moe.edu.sg/general-information/sapta)
  
 
 **Financial Aid**  
@@ -62,7 +62,6 @@ description: ""
 *   [Access to School Library Catalogue](https://schoolibrary.moe.edu.sg/standrewssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
   
-**Communication**   
+***Follow us!   ***
 
 *   [SASS Facebook Page](https://www.facebook.com/standrewssec?fref=ts) 
-*   [St Andrew's  Parent-Teacher Association (SAPTA)](https://www.saintandrewsjunior.moe.edu.sg/general-information/sapta)
