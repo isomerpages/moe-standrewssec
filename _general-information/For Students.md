@@ -14,76 +14,8 @@ description: ""
 
 **TGIF Schedule**
 
-*   [Term 3 TGIF Schedule](https://go.gov.sg/eqjqo4)
 
 **Exam and Assessment Matters**
-
-*  [2022 End Of Year Exam Time Table](/files/2022%20EOY%20EXAM%20TIME%20TABLE%20AMENDED%20COPY.pdf)
-
-  
-
-**2022 EOY Information Sheet**
-
-*   [Sec 1 G1 EOY 2022 info Sheet](/files/Sec%201%20G1%20EOY%202022%20Info%20Sheet%201.pdf)
-
-*  [Sec 1 G2 EOY 2022 info Sheet](/files/Sec%201%20G2%20%20EOY%202022%20Info%20Sheet%201.pdf)
-
-*  [Sec 1 G3 EOY 2022 info Sheet]((/files/Sec%201%20G3%20EOY%202022%20Info%20Sheet%201.pdf))
-
-  
-Sec 2 2022 EOY info Sheet
-
-*  [Sec 2 G1 EOY 2022 info Sheet](/files/Sec%202%20G1%20EOY%202022%20Info%20Sheet%201.pdf)
-
-*  [Sec 2 G2 EOY 2022 info Sheet](/files/Sec%202%20G2%20EOY%202022%20Info%20Sheet%201.pdf)
-
-*  [Sec 2 G3 EOY 2022 info Sheet](/files/Sec%202%20G3%20EOY%202022%20Info%20Sheet%201.pdf)
-  
-
-Sec 3 2022 EOY info Sheet
-
-*   [Sec 3 EXP EOY 2022 info Sheet](/files/Sec%203%20Exp%20EOY%202022%20Info%20Sheet%201.pdf)
-
-*   [Sec 3 NA   EOY 2022 info Sheet](/files/Sec%203NA%20EOY%202022%20Info%20Sheet%201.pdf)
-
-*   [Sec 3 NT   EOY 2022 info Sheet](/files/Sec%203NT%20EOY%202022%20Info%20Sheet%201.pdf)
-  
-
-Sec 1 2022 WA3  Info Sheet
-
-*   [Sec 1 G1 WA3 2022 info Sheet](https://go.gov.sg/udxovt)
-*   [Sec 1 G2 WA3 2022 info Sheet](https://go.gov.sg/hhp8y5)
-*   [Sec 1 G3 WA3 2022 info Sheet](https://go.gov.sg/ya3git)
-
-  
-
-Sec 2  2022 WA3  Info Sheet  
-
-*   [Sec 2 G1 WA3 2022 info Sheet](https://go.gov.sg/6fww6l)
-*   [Sec 2 G2 WA3 2022 info Sheet](https://go.gov.sg/jl1w8b)
-*   [Sec 2 G3 WA3 2022 info Sheet](/files/Sec_2_G3_WA3_2022_Info_Sheet2.pdf)
-  
-
-Sec 3  2022 WA3  Info Sheet  
-
-*   [Sec 3 NA WA3 2022 info Sheet](https://go.gov.sg/zx7cpi)
-*   [Sec 3 Exp WA3 2022 info Sheet](/files/Sec_3_Exp_WA3_2022_Info_Sheet_2.pdf)
-*   [Sec 3 NT WA3 2022 info Sheet](https://go.gov.sg/h3hnzy)
-
-  
-
-Sec 4 Preliminary Exam 2022 Info Sheet  
-
-*   [Sec 4E5N Prelims 2022 Schedule](/files/2022%204E5N%20PRELIMS%20TT.pdf) 
-*   [Sec 4NA Prelims 2022 Schedule](/files/2022%204NA%20PRELIMs%20TT.pdf)
-*   [Sec 4NT Prelim 2022 Schedule](/files/2022%204NT%20PRELIMS%20TT.pdf)
-      
-    
-
-2022 WA3 Schedule  
-
-*   [WA3 Weekly Schedule](/files/WA3%20SCHEDULE%202022_FINAL.pdf)
-    
 
   
 **Learning Tools**  
@@ -112,11 +44,11 @@ Sec 4 Preliminary Exam 2022 Info Sheet
 
 
 
-**2022 Booklists**
+**2023 Booklists**
 
   
 
-2022 Secondary 1
+2023 Secondary 1
 
 G1
 
@@ -134,7 +66,7 @@ G3 
 *   [2022 Sec 1 G3 (EXP) Booklist](/files/1%20G3.pdf)
   
 
-2022 Secondary 2
+2023 Secondary 2
 
 *   [2022 Sec 2 Stationery List](/files/2%20STA.pdf)
 *   [2022 Sec 2 G1 (NT) Booklist](/files/2%20G1.pdf)
@@ -143,7 +75,7 @@ G3 
 
   
 
-2022 Secondary 3
+2023 Secondary 3
 
 *   [2022 Sec 3 Stationery List](/files/2%20STA%20(1).pdf)
 *   [2022 Sec 3 G1 (NT) Booklist](/files/3%20G1.pdf)
@@ -151,7 +83,7 @@ G3 
 *   [2022 Sec 3 G3 (EXP) Booklist](/files/3%20G3.pdf)
   
 
-2022 Secondary 4E5N
+2023 Secondary 4E5N
 
 *   [2022 Sec 4-5 Stationery List](/files/4-5%20STA.pdf)
 *   [2022 Sec 4NT Booklist](/files/4%20NT.pdf)
