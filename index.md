@@ -7,9 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1-MrLeeandboys_resized.jpg
+      background: /images/1-MrLeeandboys_resized 43.jpg
   - infobar:
-      title: SASS
+      title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - resources:
