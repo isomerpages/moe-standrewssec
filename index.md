@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/IMG_4186.jpg
+      background: /images/Homepage/banner.gif
   - infobar:
       title: St Andrew's Secondary School
       subtitle: Welcome to
