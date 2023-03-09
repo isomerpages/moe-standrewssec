@@ -6,7 +6,8 @@ image: /images/tiger.jpg
 permalink: /
 notification: ""
 sections:
-  - hero: {}
+  - hero:
+      background: /images/1-MrLeeandboys_resized.jpg
   - infobar:
       title: St Andrew's Secondary School
       subtitle: Welcome to
