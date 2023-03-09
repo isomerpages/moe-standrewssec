@@ -18,5 +18,5 @@ sections:
       button: Follow us now
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
-      image: /images/Homepage/SAcamp.jpg
+      image: /images/1-MrLeeandboys_resized.jpg
 ---
