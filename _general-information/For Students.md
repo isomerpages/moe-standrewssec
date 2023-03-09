@@ -6,7 +6,10 @@ description: ""
 ![](/images/forstudents.jpeg)
 
 **Whole Year Assessment Plan**
-* 
+* [2023 Sec1 Weighted Assessment Overview]
+* [2023 Sec2 Weighted Assessment Overview]
+* [2023 Sec3 Weighted Assessment Overview]
+* [2023 Sec4/5 Weighted Assessment Overview]
 
 **Developmental Matters**  
 
