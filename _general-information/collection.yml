@@ -2,10 +2,10 @@ collections:
   general-information:
     output: true
     order:
+      - For Parents/.keep
+      - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
       - For Parents/Sexuality Education.md
-      - For Parents/Termly Letters & Key Information.md
-      - For Parents/.keep
       - Admissions/.keep
       - Admissions/2022 Sec One Admissions.md
       - Admissions/Direct School Admissions 2022.md
