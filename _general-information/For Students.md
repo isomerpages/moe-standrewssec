@@ -158,5 +158,3 @@ G3 
 *   [2022 Sec 4NA Booklist](/files/4%20NA.pdf)
 *   [2022 Sec 4EXP Booklist](/files/4%20EXP.pdf)
 *   [2022 Sec 5NA Booklist](/files/5%20NA.pdf)
-
-
