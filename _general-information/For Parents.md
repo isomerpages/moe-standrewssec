@@ -25,7 +25,7 @@ description: ""
  
 *   [Social Media Guidelines](/files/Social%20Media%20Guidelines%20for%20SASS%20(final).pdf)
 *   [Homework Policy](/files/Homework%20Policy%20revised%2031%20Mar%202021%20for%20School%20Website.pdf)
-*   [Sexuality Education](https://staging.d1zt52mog84ljj.amplifyapp.com/the-saints-experience/Student-Well-Being/Sexuality-Education/)
+*   [Sexuality Education] [need to edit broken link for MOE page (https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) (https://staging.d1zt52mog84ljj.amplifyapp.com/the-saints-experience/Student-Well-Being/Sexuality-Education/)
 *   [CCA LEAPS 2.0](/files/leaps-2.pdf)
 
 *   [FAQs on Student iCON for Parents](/files/FAQs%20on%20Student%20iCON%20for%20Parents_vetted%20updated%2020%20May.pdf)
