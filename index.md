@@ -19,4 +19,6 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/1-MrLeeandboys_resized.jpg
+  - resources:
+      title: News of the Term
 ---
