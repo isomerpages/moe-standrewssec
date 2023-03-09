@@ -6,11 +6,9 @@ third_nav_title: For Parents
 ---
 ![](/images/For%20Parents_updated.jpeg)
 
-[2023 Saints Calendar](/files/Parent/2023%20Sem%202%20Saints%20Calendar.pdf)
 
 **Letter to Parents**  
 [2023 Principal's Term 1 Letter to Parents](/files/2023%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
-
 
 
 ###### Whole Year Assessment Plan
