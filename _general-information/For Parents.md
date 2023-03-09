@@ -9,12 +9,7 @@ description: ""
 [2023 Principal's Term 1 Letter to Parents](/files/2023%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
 
 [2023 Saints Calendar](/files/Parent/2023%20Sem%202%20Saints%20Calendar.pdf)
-
-
-**2023 Saints Calendar**
-[Download](/files/Parent/2023%20Sem%202%20Saints%20Calendar.pdf)
-
-  
+ 
 
 **2023 Secondary One Orientation Talks**  
 [ask from prinya]
