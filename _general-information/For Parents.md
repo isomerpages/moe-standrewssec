@@ -9,35 +9,26 @@ description: ""
 [2023 Principal's Term 1 Letter to Parents](/files/2023%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
 
 **2023 Saints Calendar**
-[2023 Saints Calendar]()
+[Mr Lee] provide copy for download pdf
   
 
-**2022 Secondary One Orientation Talks**  
-
-*   [6 Jan 2022 Sec 1 Transition Talk for All Parents](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/2022%20Sec%201%20%20Orientation%20Talks/6%20Jan%202022%20Sec%201%20Transition%20Talk%20for%20All%20Parents.pptx)  
-    
-*   [6 Jan Chaplaincy Presentation to Parents](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/2022%20Sec%201%20%20Orientation%20Talks/6%20Jan%20Chaplaincy%20Presentation%20to%20Parents.pptx)  
-    
-*   [6 Jan SAPTA 2022 SASS Sec One Welcome](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/2022%20Sec%201%20%20Orientation%20Talks/6%20Jan%20SAPTA%202022%20SASS%20Sec%20One%20Welcome.pptx)  
-    
-*   [10 Jan A New Saint’s Journey (Non-affiliated primary school Parent talk)](https://standrewssec.moe.edu.sg/qql/slot/u181/For%20Parent/2022%20Sec%201%20%20Orientation%20Talks/10%20Jan%20A%20New%20Saints%20Journey%20Non-affiliated%20primary%20school%20Parent%20talk.pptx)
+**2023 Secondary One Orientation Talks**  
+[ask from prinya]
 
   
 **Sec 3  Course Selection Exercise For Sec 2 Students**
-
-*   [Course Selection Conference with Parents(Express)](http://go.gov.sg/tbliuv)
-*   [Course Selection Conference with Parents(Normal Academic)](https://go.gov.sg/njlkq3)
-*   [Course Selection Conference with Parents(Normal Technical)](https://go.gov.sg/zbxxnl)
+[ask hui hui]
 
   
 **Developmental Matters**  
 
-*   [Saints Code of Conduct](/files/2021_01_Saints%20Code%20of%20Conduct.pdf)
+*   [Saints Code of Conduct] [ need update] 
+ 
 *   [Social Media Guidelines](/files/Social%20Media%20Guidelines%20for%20SASS%20(final).pdf)
 *   [Homework Policy](/files/Homework%20Policy%20revised%2031%20Mar%202021%20for%20School%20Website.pdf)
 *   [Sexuality Education](https://staging.d1zt52mog84ljj.amplifyapp.com/the-saints-experience/Student-Well-Being/Sexuality-Education/)
 *   [CCA LEAPS 2.0](/files/leaps-2.pdf)
-*   [CCA Timeline for Sec 1s (2021)](/files/2021%20CCA%20Trials.pdf)
+
 *   [FAQs on Student iCON for Parents](/files/FAQs%20on%20Student%20iCON%20for%20Parents_vetted%20updated%2020%20May.pdf)
 
   
