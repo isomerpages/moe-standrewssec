@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1-MrLeeandboys_resized 1_1.jpg
+      background: /images/IMG_4186.jpg
   - infobar:
       title: St Andrew's Secondary School
       subtitle: Welcome to
