@@ -12,11 +12,4 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
-  - resources:
-      title: News Of The Term
-      button: Click here for more
-  - infobar:
-      subtitle: Follow us on facebook!
-      button: Go to our facebook page
-      url: https://www.facebook.com/standrewssec/
 ---
