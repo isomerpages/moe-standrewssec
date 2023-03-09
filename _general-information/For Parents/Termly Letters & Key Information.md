@@ -14,7 +14,8 @@ third_nav_title: For Parents
 
 [Events for Semester 1 2023](/files/Calendar/Saints%20Calendar%20Sem%201%202023.pdf)
 
-###### Whole Year Assessment Plan
+**Whole Year Assessment Plan**
+
 [2023 Sec 1 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%201%20Weighted%20Assesment%20Overview%20(Final).pdf)
 
 [2023 Sec 2 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%202%20Weighted%20Assesment%20Overview%20_SEC%202.pdf)
