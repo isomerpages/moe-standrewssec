@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/banner.gif
+  - infobar:
+      title: Saint Andrew's Secondary School
+      subtitle: Welcome to
+      description: Home of Servant Leaders who bring life to the nations
   - resources:
       title: News Of The Term
   - infobar:
