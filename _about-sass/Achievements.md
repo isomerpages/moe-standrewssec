@@ -108,7 +108,7 @@ _The ‘B’ Division Hockey team received positive media coverage for their dis
 The Sec 1 Crossover Ceremony is a signature tradition annually. Each year, we witness a new cohort of young boys crossing over the school field, signifying their growing up from boys to gentlemen. We are humbled to have had our Crossover Ceremony featured in The Straits Times, on Jan 5 2023. Many thanks to our alumni, Shintaro Tay, for capturing this moment that will always be beautiful in our hearts. 
 ![](/images/Saints%20in%20the%20News/crossover.jpg)
 
-Founder's Day 2021
+#### Founder's Day Prize Winners 2022
 ------------------
 
-We congratulate the following students and staff for being conferred awards and/or scholarships at our 2021 Founder's Day celebration. **[Click here](https://standrewssec.moe.edu.sg/qql/slot/u894/2021%20159%20FD%20Programme%20Prize%20Winners.pdf)** for the list of prizes and awardees.
+We congratulate the following students and staff for being conferred awards and/or scholarships at our 2022 Founder's Day celebration. **[Click here]** for the list of prizes and awardees.
