@@ -55,6 +55,6 @@ third_nav_title: Our People
 | Mr Liang Sea Fong | Senior Teacher / Literature |liang_sea_fong@moe.edu.sg |
 | Mr Lam Wai Leong| Senior Teacher / Social Studies | lam_wai_leong@moe.edu.sg |
 | Mr Mohamed Osman | Senior Teacher / PE| mohamed_osman_mohamed_noor@moe.edu.sg |
-| Mr Lim Huey Min |Administration Manager | LIM_Huey_Min@schools.gov.sg> |
-|Ms Chan Ying Xian | Administration Manager | Chan_Ying_Xian@schools.gov.sg> |
-|Mr C Bhonesveran|Operations Manager | c_bhonesveran@schools.gov.sg> |
+| Mr Lim Huey Min |Administration Manager | LIM_Huey_Min@schools.gov.sg |
+|Ms Chan Ying Xian | Administration Manager | Chan_Ying_Xian@schools.gov.sg |
+|Mr C Bhonesveran|Operations Manager | c_bhonesveran@schools.gov.sg |
