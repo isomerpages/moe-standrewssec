@@ -10,7 +10,7 @@ third_nav_title: Sports & Games
 
 Training Days: Mondays and Thursdays
 
-Training Time: 3.30 -6.00 PM
+Training Time: 3.30 -5.30 PM
 
 Training Venue: Owen's Court
 
