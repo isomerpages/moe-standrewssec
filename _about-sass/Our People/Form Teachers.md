@@ -8,4 +8,4 @@ third_nav_title: Our People
 
 #### Secondary 1 Form Teachers
 
-
+![](/images/Our%20people/1%20WISE.png)
