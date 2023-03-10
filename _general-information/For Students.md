@@ -41,10 +41,7 @@ description: ""
 
 *   [SLS Log in Guide](https://go.gov.sg/dxh48w)
 *   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7) 
-
-
 *    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
-
   *   [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
 
 
