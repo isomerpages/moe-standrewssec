@@ -3,7 +3,6 @@ title: Our Mission, Vision, Values
 permalink: /about-sass/Mission-Vision-Values/
 description: ""
 ---
-
 # Our Mission
 
 ##### Making Lives, Waking Hearts
