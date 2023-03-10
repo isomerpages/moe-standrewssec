@@ -11,8 +11,8 @@ third_nav_title: For Parents
 [2023 Principal's Term 1 Letter to Parents](/files/2023%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
 
 **Saints Calendar**
+[Events for Semester 1 2023](/files/Parent/Saints%20Calendar%20Sem%201%202023.pdf)
 
-[Events for Semester 1 2023](/files/Calendar/Saints%20Calendar%20Sem%201%202023.pdf)
 
 **Whole Year Assessment Plan**
 
