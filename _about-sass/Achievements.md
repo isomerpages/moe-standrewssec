@@ -7,11 +7,10 @@ description: ""
   
   
 
-The following achievements were made by students in their **CCAs**:
+##### **The following achievements were made by students in their CCAs:**
 
 #### a.     Clubs and Societies:
 ###### i. Champions, 1st Runners-Up & 2nd Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Sprint)
-
 ######  ii.    Design Award & 2nd Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Maker)
 
 #### b.     Sports:
