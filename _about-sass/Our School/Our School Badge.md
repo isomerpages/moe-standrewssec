@@ -8,7 +8,7 @@ third_nav_title: Our School
 
 <img src="/images/badge.jpg" style="width:50%"> 
 
-Colours are representative of the Patron Saint of Scotland, Saint Andrew
+<center>Colours are representative of the Patron Saint of Scotland, Saint Andrew<center>
 
 <img src="/images/keys.jpg" style="width:20%"> 
 
