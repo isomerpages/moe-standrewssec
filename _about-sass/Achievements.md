@@ -109,4 +109,4 @@ The Sec 1 Crossover Ceremony is a signature tradition annually. Each year, we wi
 #### Founder's Day Prize Winners 2022
 ------------------
 
-We congratulate the following students and staff for being conferred awards and/or scholarships at our 2022 Founder's Day celebration. **[Click here]** for the list of prizes and awardees.
+ We congratulate the following students and staff for being conferred awards and/or scholarships at our 2022 Founder's Day celebration. [Click Here](/files/Founders%20Day%20Report/160%20FD%20Booklet%20Contents.pdf) for the list of prizes and awardees.
