@@ -25,5 +25,5 @@ sections:
       button: Follow us now
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
-      image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+      image: /images/FB2.png
 ---
