@@ -9,13 +9,13 @@ third_nav_title: Our People
 #### School Leaders
 
 
+| Staff Name | Designation | Email |
+| -------- | -------- | -------- |
+| Mr Lee Han Hwa     | Principal     | sass@moe.edu.sg     |
+| Ms Agnes Teo     | Vice-Principal     |  sass@moe.edu.sg    |
+| Mr Danny Teo    | Vice-Principal (Administration)     |sass@moe.edu.sg    |
 
 
-
-
-|  | |  |
-|  |  |  |
-| Mr Danny Teo | Vice- Principal (Administration) | sass@moe.edu.sg |
 #### Key Personnel 
 
 
