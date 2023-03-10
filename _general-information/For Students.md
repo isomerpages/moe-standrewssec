@@ -67,7 +67,7 @@ description: ""
 *  [2023 Sec 2 Stationery List](/files/Student/Book%20list/Sec2/2STA.pdf)
 *  [2023 Sec 2 G1 (NT) Booklist](/files/Student/Book%20list/Sec2/2G1.pdf)
 *  [2023 Sec 2 G2 (NA) Booklist](/files/Student/Book%20list/Sec2/2G2.pdf)
-*  [2023 Sec 1 G3 (EXP)Booklist ](/files/Student/Book%20list/Sec2/2G3.pdf)
+*  [2023 Sec 2 G3 (EXP)Booklist ](/files/Student/Book%20list/Sec2/2G3.pdf)
 
   
 
