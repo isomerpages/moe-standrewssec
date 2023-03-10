@@ -51,11 +51,10 @@ third_nav_title: Our People
 | Ms Shanthini Rathakrishnan | Assistant Year Head / Secondary 3 (covering) | shanthini_rathakrishnan@moe.edu.sg |
 | Mr Chew Ee |Lead Teacher / History | chew_ee@moe.edu.sg|
 | Mr Marek Otreba | Lead Teacher / Social Studies | marek_otreba@moe.edu.sg |
-| Mrs Yvonne Cheen |Senior Teacher/ Character & Citizenship Education (covering) | -------- |
+| Mrs Yvonne Cheen |Senior Teacher/ Character & Citizenship Education (covering) |tay_su-lin_yvonne@moe.edu.sg  |
 | Mr Liang Sea Fong | Senior Teacher / Literature |liang_sea_fong@moe.edu.sg |
 | Mr Lam Wai Leong| Senior Teacher / Social Studies | lam_wai_leong@moe.edu.sg |
 | Mr Mohamed Osman | Senior Teacher / PE| -------- |
 | Mr Lim Huey Min |Administration Manager | LIM_Huey_Min@schools.gov.sg> |
 |Ms Chan Ying Xian | Administration Manager | Chan_Ying_Xian@schools.gov.sg> |
 |Mr C Bhonesveran|Operations Manager | c_bhonesveran@schools.gov.sg> |
-
