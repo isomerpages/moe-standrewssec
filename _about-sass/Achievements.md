@@ -10,61 +10,60 @@ description: ""
 The following achievements were made by students in their **CCAs**:
 
 #### a.     Clubs and Societies:
+###### i. Champions, 1st Runners-Up & 2nd Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Sprint)
 
-######  i.      Champions, 1st Runners-Up & 2nd Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Sprint)
-###### 
 ######  ii.    Design Award & 2nd Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Maker)
 
 #### b.     Sports:
 
 ######  i.     3rd place, Rugby, at the 2022 ‘B’ Division National School Games
-###### 
+
 ######  ii.     4th place, Hockey, at the 2022 ‘B’ Division National School Games.
-###### 
+
 ###### iii.    4th place, Cricket, at the 2022 ‘B’ Division National School Games.
-###### 
+ 
 ###### iv.    4th place, Swimming, at the 2022 ‘B’ Division National School Games (Boys 4 x 50m Freestyle Relay)
-###### 
+
 ###### v.   5th place, Swimming, at the 2022 ‘B’ Division National School Games (Freestyle Relay & Medley Relay) and the 2022 ‘C’ Division National School Games (Medley Relay)
-###### 
+
 ###### vi.    Finalists at the 'B' Division Track & Field National School Games Championships 800m, 1500m and 3000m events
-###### 
+
 ###### vii.    Semi-Finalists at the 'B' Division Track & Field National School Games Championships 400m event
-###### 
+
 #### c.     Performing Arts:
 
 ###### i.      Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Band (Flexible Band)
-###### 
+
 ######  ii.    Certificate of Accomplishment, SYF 2021, Band (Percussion Ensemble)
-###### 
+
 ###### iii.   Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Saints Drama
 
 #### d.     Uniformed Groups:
 
 ######  i.      Distinction, National Cadets Corps (NCC), Unit Recognition Award 2021. 
-###### 
+
 ######  ii.     Outstanding Cadet Award 2021, NCC: MSG Soo Wei Xiang & MSG Muhammad Imran Bin Sabir Mohamed.
-######  
+
 ######  iii.    Gold, National Police Cadet Corps (NPCC), Unit Overall Proficiency Award 2021.
-###### 
+
 ###### iv.    Best Unit Cadet 2022, NPCC: S.I Lau Wing Ban Wyne. 
-###### 
+
 ###### v.    4th place, NPCC, at the Tanglin Division Inter-NPCC Anti-Scam TikTok Challenge 2021.
-###### 
+
 ###### vi.    Singapore Police Force NPCC Badge Award 2022: S.I. Isaac Ng Hong Liang & SSGT (NPCC) Lim Yu Jie Javan.
-###### 
+
 ###### vii.    6th place, NPCC, Inter-Unit E-CSI Competition 2022
-###### 
+
 ###### viii.   Silver, Scouts, National Patrol Camp
-###### 
+
 ###### ix.    Scouts, Chief Commissioner Award 2021: Ansel Foo.
-###### 
+
 ###### x.    Gold Banding for 3 teams, Scouts, at the National Explorer Challenge 2021.
-######  
+
 ###### xi.    Silver Honour Roll, Boys Brigade, J.M. Fraser Award for Excellence 2022.
-###### 
+
 ###### xii.    Founder's Men Award 2022, Boys Brigade: SSG Ho Kok Hou Michael, SSG Wong Wai Seng Isaac, SSG Karthikeyan Vikhram, SGT Caleb Wong Ler, SGT Josiah Loh Yi
-###### 
+
 
 
 ##### **The following achievements were made by students at national events or competitions:**
