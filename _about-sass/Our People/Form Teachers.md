@@ -18,3 +18,7 @@ third_nav_title: Our People
 #### Secondary 3 Form Teachers
 ![](/images/Our%20people/3%20Wise.png)
 ![](/images/Our%20people/3%20True.png)
+
+#### Secondary 4/5 Form Teachers
+![](/images/Our%20people/4%20WISE.png)
+![](/images/Our%20people/4%20True.png)
