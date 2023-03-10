@@ -60,21 +60,7 @@ description: ""
 
 2023 Secondary 1
 
-G1
 
-*   [2022 Sec 1 G1 (NT) Stationery List](/files/1%20G1%20STA.pdf)
-*   [2022 Sec 1 G1 (NT) Booklist](/files/1%20G1.pdf)
-
-G2
-
-*   [2022 Sec 1 G2 (NA) Stationery List](/files/1%20G1%20STA.pdf)
-*   [2022 Sec 1 G2 (NA) Booklist](/files/1%20G2.pdf)
-
-G3 
-
-*   [2022 Sec 1 G3 (EXP) Stationery List](/files/1%20G3%20STA.pdf)
-*   [2022 Sec 1 G3 (EXP) Booklist](/files/1%20G3.pdf)
-  
 
 2023 Secondary 2
 
