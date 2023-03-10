@@ -12,7 +12,7 @@ Training Days:            Monday, Wednesday and Friday
 
 Training Time:            3.30 - 5.30 PM
 
-Training Venue:          Kallang Practice and Macritchie Reservoir
+Training Venue:          Kallang Practice Track (Mon), SASS (Wed) and Macritchie Reservoir (Fri)
 
   
 
