@@ -83,27 +83,6 @@ f.      Two Secondary 3SA students, Xavier Tay Yu Heng and Tan Yuan Zong, 
 
 g.      Karan Sivaraj, Secondary 4SB, and Kee Jun Xi Ansel, Secondary 4SA, achieved the 2018 Young Engineering Award (Gold), validated by Singapore Polytechnic and Science Centre Singapore. 
 
-
-
-### **Awards that have been conferred to the school:**
-
-a.   School Distinction Award (2016 to 2021).
-
-b.   Singapore Quality Class (2017 to 2023).
-
-c.   People Developer Award (2017 to 2023).
-
-d.   Best Practice in Student All-Round Development (2016 to 2021).
-
-e.   Best Practice in Staff Well-Being and Development (2016 to 2021).
-
-f.    Best Practice in Partnership (2016 to 2021).
-
-g.   Building and Construction Authority Green Mark Gold Award (2017 to 2020).
-
-  
-  
-
 ### SAINTS IN THE NEWS (2018 - 2023)
 --------------------------------
 
