@@ -11,7 +11,7 @@ third_nav_title: Sports & Games
 ### CCA Schedule
 Training Days:       Monday, Wednesday and Friday  
 
-Training Time:       3.30 - 5.30 PM 
+Training Time:       3.30 - 6.00 PM (Mon & Wed), 2.30 - 5.30 PM (Fri) 
 
 Training Venue:     SAV Swimming Pool 
 
