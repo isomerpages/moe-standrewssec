@@ -6,7 +6,7 @@ description: ""
 # Our Mission
 
 ##### Making Lives, Waking Hearts
-##### 
+
 ##### To Serve the Coming Days
 
 ##### Family   Society   Eternity
