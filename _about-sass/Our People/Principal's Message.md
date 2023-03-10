@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 <img src="/images/principal.jpg" 
      style="width:50%">
-<center>Mr Wilbur Wong, Principal</center>
+<center>Mr Lee Han Hwa, Principal</center>
 
 Welcome to the Saints Family!
 
