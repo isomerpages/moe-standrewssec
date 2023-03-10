@@ -104,15 +104,17 @@ g.   Building and Construction Authority Green Mark Gold Award (2017 to 2020)
   
   
 
-SAINTS IN THE NEWS (2018 - 2019)
+### SAINTS IN THE NEWS (2018 - 2023)
 --------------------------------
+
+##### Full Subject-Based Banding (FSBB)
 
 _SASS is one of MOE's pilot schools for Full Subject-Based Banding (FSBB). The school's rollout of FSBB has been positively featured in the following news articles:_ 
 
 * "Budget debate: MOE to expand full subject-based banding pilot to 90 schools by 2023", The Straits Times, on 7 Mar 2022, by Luke Pachymuthu  
 * "28 secondary schools to pilot full subject-based banding from 2020", Channel NewsAsia, on 3 Sept 2019, by Tan Si Hui  
   
-
+#### National School Games
 _The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd and 4th placing match during the National School Games 2018. The following articles were published:_
 
 * “School sports: St Andrew's Secondary hockey players lose match but win admiration for sportsmanship”, The Straits Times, on 12 Apr, by Natalie Choy Ching Mun
@@ -123,7 +125,9 @@ _The ‘B’ Division Hockey team received positive media coverage for their dis
 
 * “School Sports: Saints hockey captain Sean See feted with ST's Young Star Award”, The Straits Times, on Oct 26, by Wang Meng Meng
 
-  
+#### Sec 1 Crossover Ceremony
+The Sec 1 Crossover Ceremony is a signature tradition annually. Each year, we witness a new cohort of young boys crossing over the school field, signifying their growing up from boys to gentlemen. We are humbled to have had our Crossover Ceremony featured in The Straits Times, on Jan 5 2023. Many thanks to our alumni, Shintaro Tay, for capturing this moment that will always be beautiful in our hearts. 
+
 
 Founder's Day 2021
 ------------------
