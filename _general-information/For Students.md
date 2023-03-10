@@ -6,10 +6,10 @@ description: ""
 ![](/images/forstudents.jpeg)
 
 **Whole Year Assessment Plan**
-* [2023 Sec1 Weighted Assessment Overview]
-* [2023 Sec2 Weighted Assessment Overview]
-* [2023 Sec3 Weighted Assessment Overview]
-* [2023 Sec4/5 Weighted Assessment Overview]
+* [2023 Sec1 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%201%20Weighted%20Assessment%20Overview.pdf)
+* [2023 Sec2 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%202%20Weighted%20Assessment%20Overview.pdf)
+* [2023 Sec3 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%203%20Weighted%20Assessment%20Overview.pdf)
+* [2023 Sec4/5 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%204%20and%205%20Weighted%20Assessment%20Overview.pdf)
 
 **Developmental Matters**  
 
