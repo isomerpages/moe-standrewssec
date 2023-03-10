@@ -19,7 +19,7 @@ description: ""
 *   [SPF Advisory for the 2022 June School Holidays](/files/Student/Development%20Matter/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf)
 
 **TGIF Schedule**
-
+* [TG Code](/files/Student/TG%20code/TG%20Code%20for%20Students.pdf)
 
 **Exam and Assessment Matters**
 
@@ -42,11 +42,18 @@ description: ""
 
 *   [SLS Log in Guide](https://go.gov.sg/dxh48w)
 *   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7) 
-*   [Student User Guide](http://go.gov.sg/zrxz7t) for    SLS, ICON, Google Meet and Zoom
-*   [Microsoft software for students](http://go.gov.sg/6i30aq)
-*    [DMA Uninstallation for iPad Device (For Graduating Students Only)](https://go.gov.sg/0r2jfe)
 
-  *   [Guide to back-up student iCON](https://go.gov.sg/e5au6d)
+
+*    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
+
+  *   [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
+
+
+
+
+
+
+
 
 
 
