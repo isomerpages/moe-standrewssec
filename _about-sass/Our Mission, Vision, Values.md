@@ -5,11 +5,11 @@ description: ""
 ---
 # Our Mission
 
-##### Making Lives, Waking Hearts
+#### Making Lives, Waking Hearts
 
-##### To Serve the Coming Days
+#### To Serve the Coming Days
 
-##### Family   Society   Eternity
+#### Family   Society   Eternity
 
   
 
@@ -21,7 +21,7 @@ description: ""
 
   
 ## Our Values
-#### **W.I.S.E & T.R.U.E**
+#### **W.I.S.E   &   T.R.U.E**
 
 
  
