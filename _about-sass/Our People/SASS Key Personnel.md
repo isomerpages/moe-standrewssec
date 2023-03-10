@@ -8,197 +8,54 @@ third_nav_title: Our People
 
 #### School Leaders
 
-<table>
-<thead>
-  <tr>
-    <th>Staff Name</th>
-    <th>Designation</th>
-  </tr>
-</thead>
-	  <tr>
-    <td>Mr Lee Han Hwa</td>
-    <td>Principal</td>
-  </tr>
-	<tr>
-    <td>Ms Agnes Teo</td>
-    <td>Vice-Principal</td>
-  </tr>
-	 <tr>
-    <td>Mr Danny Teo</td>
-    <td>Vice- Principal (Administration)</td>
-  </tr>
-</table>
 
 
+
+
+
+|  | |  |
+|  |  |  |
+| Mr Danny Teo | Vice- Principal (Administration) | sass@moe.edu.sg |
 #### Key Personnel 
 
-<table>
-<thead>
-  <tr>
-    <th>Staff Name</th>
-    <th>Designation</th>
-  </tr>
-</thead>
-		  <tr>
-    <td>Ms Lee Bin Choo</td>
-    <td>School Staff Developer</td>
-  </tr>
-  <tr>
-    <td>Mrs Irene Ng</td>
-    <td>Head of Department / Aesthetics & Design</td>
-  </tr>
-  <tr>
-    <td>Ms Chua Xin Yuan</td>
-    <td>Senior Teacher / Educational Support</td>
-  </tr>
-  <tr>
-    <td>Mrs Irene Ng</td>
-    <td>Head of Department / Aesthetics & Design</td>
-  </tr>
-  <tr>
-    <td>Ms Chua Xin Yuan</td>
-    <td>Senior Teacher / Educational Support</td>
-  </tr>
-  <tr>
-    <td>Ms Joanna Chew</td>
-    <td>Subject Head / Art</td>
-  </tr>
-  <tr>
-    <td>Mr Kwok Sheng Da</td>
-    <td>Subject Head / Design & Technology</td>
-  </tr>
-  <tr>
-    <td>Mrs Jacinta Leong</td>
-    <td>Head of Department / Character & Citizenship Education (CCE))</td>
-  </tr>
-  <tr>
-    <td>Ms Charlene Tan</td>
-    <td>Subject Head / Character & Citizenship Education (CCE)</td>
-  </tr>
-  <tr>
-    <td>Mrs Yvonne Cheen</td>
-    <td>Senior Teacher / Character & Citizenship Education (CCE)</td>
-  </tr>
-	<tr>
-    <td>Mrs Janice Ding</td>
-    <td>Head of Department / Special Education Needs (SEN)
-		</td>
-  </tr>
-  <tr>
-    <td>Mdm Sujatha</td>
-    <td>Head of Department / English Language & Literature</td>
-  </tr>
-  <tr>
-    <td>Ms Denise Fernandez</td>
-    <td>Senior Teacher / Literature</td>
-  </tr>
-  <tr>			 
-    <td>Mr Liang Sea Fong</td>
-    <td>Senior Teacher / Literature</td>
-  </tr>
-  <tr>
-				  <tr>
-    <td>Ms Theeba Thayalan</td>
-    <td>Subject Head / Mother Tongue Languages</td>
-  </tr>
-  <tr>			 
-    <td>Mr Koh Yong Mong</td>
-    <td>Head of Department / Humanities</td>
-  </tr>
-  <tr>
-    <td>Mrs Daphne Ang</td>
-    <td>Subject Head / Geography</td>
-  </tr>
-  <tr>			 
-    <td>Mr Chew Ee</td>
-    <td>Lead Teacher / History</td>
-  </tr>
-  <tr>
-    <td>Mr Marek Otreba</td>
-    <td>Lead Teacher / Social Studies</td>
-  </tr>
-  <tr>			 
-    <td>Mr Lam Wai Leong</td>
-    <td>Senior Teacher / Social Studies</td>
-  </tr>
-  <tr>
-    <td>Mdm Josephine Phua</td>
-    <td>Head of Department / Information Communications Technology</td>
-  </tr>
-  <tr>
-    <td>Ms Janice Koh</td>
-    <td>Head of Department / Mathematics (Covering)</td>
-  </tr>
-  <tr>			 
-    <td>Ms Angel Lee</td>
-    <td>Subject Head / Mathematics</td>
-  </tr>
-  <tr>
-    <td>Mrs Low Geok Peng</td>
-    <td>Head of Department / Science</td>
-  </tr>
-  <tr>			 
-    <td>Mr Gene Yeo</td>
-    <td>Subject Head / Applied Learning & Innovation</td>
-  </tr>
-  <tr>
-    <td>Ms Angeline Ler</td>
-    <td>Subject Head / Science</td>
-  </tr>
-  <tr>			 
-    <td>Mrs Carol Yap</td>
-    <td>Year Head / Sec 2 & 3</td>
-  </tr>
-  <tr>
-    <td>Mr Chuah Chongxian</td>
-    <td>Year Head / Sec 1, 4 & 5</td>
-  </tr>
-  <tr>			  
-    <td>Ms Keh Hui Hui</td>
-    <td>Assistant Year Head / Sec 2</td>
-  </tr>
-  <tr>
-    <td>Mr Prinya Lovajana</td>
-    <td>Assistant Year Head / Sec 4 & 5</td>
-  </tr>
-  <tr>			 
-    <td>Mr Aaron Kong</td>
-    <td>Subject Head / PE & CCA</td>
-  </tr>
-  <tr>
-		  <tr>			  
-    <td>Mr Mohamed Osman</td>
-    <td>Senior Teacher / PE & CCA</td>
-  </tr>
-  <tr>
-		  <tr>			 
-    <td>Mr Jimmy Gan</td>
-    <td>Head of Department / Discipline</td>
-  </tr>
-  <tr>
-		  <tr>			  
-    <td>Mr Udayakumar</td>
-    <td>Subject Head / Discipline & Staff Development</td>
-  </tr>
-  <tr>
-		  <tr>			  
-    <td>Mr Daniel Thiam</td>
-    <td>Subject Head / Discipline (Covering)</td>
-  </tr>
-  <tr>
-		  <tr>			  
-    <td>Mr Lim Huey Min</td>
-    <td>Administration Manager</td>
-  </tr>
-  <tr>
-		  <tr>			  
-    <td>Ms Chan Ying Xian</td>
-    <td>Administration Manager</td>
-  </tr>
-  <tr>
-		  <tr>
-		  <tr>			  
-    <td>Mr C Bhonesveran</td>
-    <td>Operations Manager</td>
-  </tr>
- <table>
+
+| Staff Name | Designation | Email     |
+| -------- | -------- | -------- |
+| Mrs Irene Ng  | School Staff Developer     | loi_cheng_li@moe.edu.sg
+| Mrs Jacinta Leong | Head of Department / Character & Citizenship Education |lim_ee_ling_jacinta@moe.edu.sg
+| Mr Jimmy Gan | Head of Department / Discipline | gan_ghim_kui@moe.edu.sg  |
+| Mdm Sujatha Paramathayalan | Head of Department / English Language & Literature | sujatha_paramathayalan@moe.edu.sg |
+| Mr Koh Yong Mong|Head of Department / Humanities | koh_yong_mong@moe.edu.sg|
+| Ms Lee Bin Choo | Head of Department / Knowledge Management | lee_bin_choo@moe.edu.sg  |
+| Ms Janice Koh | Head of Department / Mathematics (covering) | koh_yu_ping_janice@moe.edu.sg  |
+| Ms Megan Ling | Head of Department /Mother Tongue Languages | ling_muen_megan@moe.edu|
+| Mr Yong Tze Woon |Head of Department / PE & CCA|yong_tze_woon@moe.edu.sg |
+|Mrs Low Geok Peng | Head of Department / Science | soh_geok_peng@moe.edu.sg |
+| Mrs Janice Ding |Head of Department / Special Educational Needs | lai_may_may@moe.edu.sg|
+| Mr Chuah Chongxian | Year Head / Lower Secondary | chuah_chongxian@moe.edu.sg  |
+| Mrs Carol Yap| Year Head / Upper Secondary | chua_oon_cheng_carol@moe.edu.sg  |
+| Mr Gene Yeo | Subject Head / Applied Learning |yeo_haig_gene@moe.edu.sg  |
+|Ms Joanna Chew| Subject Head / Art | chew_cher_joanna@moe.edu.sg |
+| Ms Charlene Tan | Subject Head / Character & Citizenship Education | tan_siew_hon_charlene@moe.edu.sg  |
+|Mr Kwok Sheng Da | Subject Head / Design & Technology |kwok_sheng_da@moe.edu.sg |
+| Mr Udayakumar Manogaran| Subject Head / Discipline | udayakumar_manogaran@moe.edu.sg |
+| Mrs Daphne Ang| Subject Head / Geography | wong_phui_yeng@moe.edu.sg |
+|Mdm Josephine Phua |Subject Head / Information and Communications Technology | phua_poi_yeok@moe.edu.sg  |
+| Ms Denise Fernandez | Subject Head / Literature |fernandez_denise_marie@moe.edu.sg|
+| Ms Angel Lee | Subject Head / Mathematics| lee_song_tiang@moe.edu.sg |
+| Ms Theeba Thayalan | Subject Head / Mother Tongue Languages | theeba_pachaimuthu_thayala@moe.edu.sg |
+|Mr Daniel Thiam|Subject Head / PE & CCA (covering) | thiam_siong_oon_daniel@moe.edu.sg |
+|Ms Angeline Ler | Subject Head / Science | ler_ming_shan_angeline@moe.edu.sg  |
+| Ms Keh Hui Hui | Subject Head / Student Well-Being | keh_hui_hui@moe.edu.sg |
+| Mr Prinya Lovajana | Assistant Year Head / Secondary 1 & 5 |prinya_lovajana@moe.edu.sg|
+| Ms Shanthini Rathakrishnan | Assistant Year Head / Secondary 3 (covering) | shanthini_rathakrishnan@moe.edu.sg |
+| Mr Chew Ee |Lead Teacher / History | chew_ee@moe.edu.sg|
+| Mr Marek Otreba | Lead Teacher / Social Studies | marek_otreba@moe.edu.sg |
+| Mrs Yvonne Cheen |Senior Teacher/ Character & Citizenship Education (covering) | -------- |
+| Mr Liang Sea Fong | Senior Teacher / Literature |liang_sea_fong@moe.edu.sg |
+| Mr Lam Wai Leong| Senior Teacher / Social Studies | lam_wai_leong@moe.edu.sg |
+| Mr Mohamed Osman | Senior Teacher / PE| -------- |
+| Mr Lim Huey Min |Administration Manager | LIM_Huey_Min@schools.gov.sg> |
+|Ms Chan Ying Xian | Administration Manager | Chan_Ying_Xian@schools.gov.sg> |
+|Mr C Bhonesveran|Operations Manager | c_bhonesveran@schools.gov.sg> |
+
