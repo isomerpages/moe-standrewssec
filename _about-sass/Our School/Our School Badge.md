@@ -6,22 +6,22 @@ third_nav_title: Our School
 ---
 **The official heraldic description of the School Badge is as follows:**
 
-<img style="width:50%" src="/images/badge.jpg"> 
+<img src="/images/badge.jpg" style="width:50%"> 
 
-Colours are representative of the Patron Saint of Scotland, Saint Andrew 
+Colours are representative of the Patron Saint of Scotland, Saint Andrew
 
-<img style="width:20%" src="/images/keys.jpg"> 
+<img src="/images/keys.jpg" style="width:20%"> 
 
 <center> Keys to knowledge and heaven </center>
 
-<img style="width:30%" src="/images/upandon.jpg"> 
+<img src="/images/upandon.jpg" style="width:30%"> 
 
 <center> Motto from John Oxenham's poem (see School Song) </center>
 
-<img style="width:30%" src="/images/tiger.jpg"> 
+<img src="/images/tiger.jpg" style="width:30%"> 
 
 <center> Symbol of Strength </center>
 
-<img style="width:30%" src="/images/cross.jpg"> 
+<img src="/images/cross.jpg" style="width:30%"> 
 		 
 <center> Cross of Saint Andrew </center>
