@@ -12,9 +12,10 @@ third_nav_title: Sports & Games
 
 Training Days: Monday, Wednesday and Thursday
 
-Training Time: 4.00 - 6.00 PM 
+Training Time: 4.00 - 6.00 PM (Mon & Wed), 2.00 - 4.00 PM (Fri)
 
-Training Venue: Yio Chu Kang Squash Court
+
+Training Venue: Yio Chu Kang Squash Court 
 
 ### Teachers-in-Charge
 
