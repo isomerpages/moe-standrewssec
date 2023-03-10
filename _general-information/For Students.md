@@ -34,9 +34,7 @@ description: ""
 *   [Access to School Library Catalogue](https://schoolibrary.moe.edu.sg/standrewssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [Instructions for Logging into to OPAC](http://go.gov.sg/ieumpu)
 *   [St Andrew's River Studies](https://sites.google.com/site/standrewsriverstudies/home)
-*   [iMTL Portal](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login) 
-
-  
+*   [iMTL Portal](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)  
 
 **ICT Matters**
 
