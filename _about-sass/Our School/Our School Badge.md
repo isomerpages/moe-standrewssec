@@ -22,5 +22,5 @@ third_nav_title: Our School
 
 ###### <center> Symbol of Strength </center>
 
-![](/images/cross.jpg)
+![](/images/School%20Badge/Cross%20of%20Sa.jpg)
 ###### <center> Cross of Saint Andrew </center>
