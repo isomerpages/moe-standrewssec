@@ -13,6 +13,7 @@ description: ""
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 *   [Cockpit 2.0](https://schoolcockpit.moe.gov.sg/) (Marks, Conduct and Remarks Entry)
+*   [Singapore Teaching Practice (STP)](http://go.gov.sg/stp)
 *   [iEXAMS2](https://iexams.seab.gov.sg/)
 *   [Uplift Portal](https://go.gov.sg/uplift-portal)
 *   [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
@@ -22,7 +23,7 @@ description: ""
 *   [HRP Portal](https://hrp.gov.sg/)
 *   [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
 *   [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) 
-*   [GeBiz](https://intranet.gebiz.gov.sg/)
+*   [iCart (GeBIZ DA eCatalogues):](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)
 *   [Library Online: Staff Access](https://schoolibrary.spydus.com.sg/standrewssec/spydus)
 *   [ICollaborate (Authorised Users Only)](https://icollaborate.moe.gov.sg/myitb/projects/ITD%20School%20Collaboration/Forms/AllItems.aspx)  
     
