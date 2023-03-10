@@ -4,9 +4,6 @@ permalink: /about-sass/our-school/
 description: ""
 third_nav_title: Our School
 ---
-
-
-
 ![](/images/About%20SASS%20-_%20Our%20School.jpg)
 
 St Andrew’s School was the first Anglican school for boys to be founded in Singapore in 1862 by Rev Edward Sherman Venn. The humble, small, semi-private institution has gone from strength to strength ever since.   
