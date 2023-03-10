@@ -10,7 +10,7 @@ third_nav_title: Sports & Games
 
 Training Days:    Tuesday and Thursday 
 
-Training Time:    3.30pm - 6.30 PM
+Training Time:    3.30pm - 5.30 PM
 
 Training Venue:    School Field 
 
