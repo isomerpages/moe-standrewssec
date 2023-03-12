@@ -26,11 +26,7 @@ Training Venue:  School Field
  
 4.   Mr Lin Daoxing   <br> lin_daoxing@moe.edu.sg
  
-5.  Mr Cheong Peng Yong<br> cheong_peng_yong@moe.edu.sg
 
-
-
-  
 
 ### Achievements
 
