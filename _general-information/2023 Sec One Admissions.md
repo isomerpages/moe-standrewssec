@@ -79,6 +79,7 @@ Your child/ward can continue to use his Primary School EZ Link card till the new
 **10\. How can my child/ward purchase his textbooks and uniform?**
 
 The schedule for Sec 1s is:  
+![](/images/Admission/Admission%202023/schedule.jpg)
 
 
 Note that your child/ward should be accompanied by at most two adults.
@@ -89,7 +90,7 @@ Note that your child/ward should be accompanied by at most two adults.
 
 Ex-SAJS students will remain in their respective houses allocated in the Junior School. Non-SAJS students will be allocated as follows:
 
-
+![](/images/Admission/Admission%202023/PEshirt.jpg)
 
 **12\. How can I contact the school for further enquiries?**
 
@@ -127,7 +128,7 @@ Parents seeking transfer for Secondary 1 are to email the following documents in
 
 ***PSLE Cut-Off Points for 2023 Secondary 1***
 
- 
+ ![](/images/Admission/Admission%202023/PSLECutoff.jpg)
   
 **Affiliated School: St Andrew’s Junior School**  
 
