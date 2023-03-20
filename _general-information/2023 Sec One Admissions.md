@@ -111,7 +111,7 @@ Please take note of the following guidelines for Secondary 1 transfer appeals to
 
 Parents seeking transfer for Secondary 1 are to email the following documents in soft copy to the school at **sass@moe.edu.sg** Friday, 23December 2022 5pm
 
-·[Transfer Appeal Form]**(https://standrewssec.moe.edu.sg/qql/slot/u904/Sec%201%20Appeal%20Form%202023.docx)**
+·[Transfer Appeal Form](https://go.gov.sg/levrz8)
 
 ·&nbsp;&nbsp;&nbsp;PSLE Result Slip
 
