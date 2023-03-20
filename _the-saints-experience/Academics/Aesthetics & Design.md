@@ -19,112 +19,19 @@ third_nav_title: Academics
 **Design & Technology (D&T)**
 -----------------------------
 
-**The D&T unit aims to equip students with skills for research, design and innovation across multiple disciplines. In the course, students will learn to appreciate the correlation between design, technology and society, through various design activities. They will develop creative and critical thinking, using analytical skills to formulate innovative design solutions to solve tomorrow's problems.**
+  ![](/images/Academics/Aesthetic%20and%20Design/DT1.png)
 
-**![](https://lh4.googleusercontent.com/immvfbSbcbqpBd5flkpBZqsUh-vVaof0-hF4kM6Q5tHBf9QGxTTqSgn2PC3NfKmBlj3-Ou102RzhFNmpGposvVCuu1sCamVDKenqT1MXhDDxWukFapPZMyi8oA-JkdiHveKzf_Cbi5E)**
-  
+ ![](/images/Academics/Aesthetic%20and%20Design/DT2.png)  
 
-### Lower Secondary Curriculum
+![](/images/Academics/Aesthetic%20and%20Design/DT3.png)
 
-*   Sketching and Drawing using iPad
+![](/images/Academics/Aesthetic%20and%20Design/DT4.png)
+
+![](/images/Academics/Aesthetic%20and%20Design/DT5.png)
     
-*   Research and Information Gathering
-    
-*   Ideation process
-    
-*   Cardboard Modelling
-    
-*   Basic Concepts and Applications of Mechanisms
-    
-*   Structures and Electronics
-    
-*   Working with Plastics, Wood and Aluminium
-    
+![](/images/Academics/Aesthetic%20and%20Design/DT6.png)
 
-### ***Sec 1 Project -Accessories Holder***
-
-
-![](/images/Academics/Aesthetic%20and%20Design/Picture4.png)
-**Drawing of the handphone holder part**
-
-<br>
-
-![](/images/Academics/Aesthetic%20and%20Design/Picture5.png)
-**Student's drawing of the pencil holder**
-
-
-**![](https://lh6.googleusercontent.com/-UzPoQZKErujLrYReyreMrmxH_9rurzItbYITaQw4JJtNrwmibz7Oj0eytMU_v-mg8fUY6rYVsdr-Ikcjzm36axXFetSrSXDqwIQOVqJsQwhRMsyxKWBx0tXjmzRcVYBj0UyyBavekI)**
-**Prototypes**
-
-<br>
-
-#### ***Sec 2 Project: LED Clock Project***
-
-
-**Cardboard Mock-up**
-**![](https://lh6.googleusercontent.com/fIo4dvYqoEUpqiPqDKSoVyQNONPTAI2JswQOCi6m1b2OhxKtSxkmvDxylAp_bfpSQaSGyCep6mtkkj-ZXNxMaGo3mgPJY7dkXexyLkptZFP2rk4eyJb7k-bipua4h7GjT3EdpNCja_E)**
-
-
-
-**Presentation Drawings:**
-**![](https://lh3.googleusercontent.com/kp6Ir9Jt94hhyPB0ISWsVaWdWF7s89NvsnenwNadh0ANEhtjbrHOaumKHjL0r8tSA7ruR8IyIyyhXVou178SThAisLMEA_eURPXZmDGm9qURhuJ5LRaEyRXeW4vMCz7a5MIFqbdFT1o)**
-
-**![](https://lh4.googleusercontent.com/_ipgHZu_3XqEfMQx1kdzw1L76lbaLIfw5_AVHZLRBULjPoRCH580cWKr8h5bb9g8JRMR5Hf8g3m91jcyaDh6lhqZLZP3RmaJglbcL0YOeISnqYS1LMj43xnbawsFk3p1rzpp3seKbLY)**
-
-
-<br>
-
-**Prototypes of the clock**
-**![](https://lh3.googleusercontent.com/y_sz-o0mz7fe1CyYBE8_sHgNOuYFtBNcrAh1P_TCZGv97BBS9EM1O8G83FcoHDDfnNrLCmxpxtzGrw2a3ly4Ee5Dcui8P61sZLZq6TKq9c5kw1wmUmV_0B7rdjEop_VdA2BIDbbmGRc)**
-
-**![](https://lh5.googleusercontent.com/xObLIfXJ7V7agbUYdtaHCTqlUuOi4WvmGDDMFaqiLf4S2aKbo-LFAt5Gi3hHpcNbliFQAa_fJel3tH9vH3PboM6RKU21_loaKEFjN27p7yZWgFXgVAwhj1qSIDDIJcNly32ysvIq--8)**
-
-**![](https://lh6.googleusercontent.com/YbyxvjsGjS_vxDqJNgI0WDlPV4VZDw3N0YHoysN2pQ5x_TPmOzBzl3YjhXTVVdbH-WnUDjfm4WKmzoO8_A_YDjei7vDiPmp_QdFlfzNW5iB22OHtX6H4teOuL9ELqRZPcNviowl8RSQ)**
-
-<br>
-
-### Upper Secondary Curriculum
-
-**The Upper Secondary D&T curriculum focuses largely on design skills and hands-on skills that would prepare them to handle the coursework component of the national examinations. The students will go through the five processes namely; Research, Needs Analysis, Idea conceptualisation,  Development of idea and Prototyping in their coursework project.**
-
-**The coursework component consists of the Design Journal, Presentation Boards and Prototype.**
-
-**![](https://lh5.googleusercontent.com/eKtYwVUun0GBtN-SBFWNoGSQALZTXnYwSxDD2sznTj2VoCb_4j6x3H79pzvVhftkOKjVOkWiktSBxT2z5cgEt6-OItw6L9x3Jea_AP7LSy3nRzNUdWvRvAhfbQPATCj6t0rMqTOsO5c)** 
-
-
-Students will acquire the following skill sets:
-
-*   Sketching and Designing
-    
-*   Planning and Monitoring a Project
-    
-*   Design Process-   Analysing User needs and experience 
-    
-*   3D  modelling- Concepts and Applications of Mechanisms 
-    
-*   Structures and Electronics
-    
-*   Machine operations (Centre lathe, Wood lathe, Vacuum forming, Blow moulding)
-    
-*   Working with Plastic, Wood and Aluminium
-    
-*   Creating Computer Aided Design (CAD)
-    
-**![](https://lh6.googleusercontent.com/R-gg9slz86IEZEEJbq-DJRA2sY-nLlpVp9F1vSJ7PvDB9b4HuUOnYRHuTTzmUEhd1VOajUwIqpZ5D0bN8w9vKYtARdfv-YwVON42WtNK6eXZRt1dvVf9VUVdSaBdBnQOIiyeIQhgk5Y)**
-
-**![](https://lh6.googleusercontent.com/W1MLkyb3_r-ngI1fzYpywKnGD2Yr_u9NH-BU_iZzv9zaR3emnFz81Jr_YSbP262ozHH2DtpXEyzXZkq6JruXLOSKnSfEGqBtZClZnh_4G0aM3nVU-zEhvivhqLa75uCuvN3Q6_U3LG0)**
-
-
-In addition to the standard curriculum, students’ learning experience is enhanced through the following programmes which we organise throughout the year:
-  
-*   Goldberg mechanisms
-    
-*   Cardboard rapid  prototyping
-    
-*   3D Pens to create 3D structure 
-    
-*   Advanced Elective Modules (AEM)
-    
+   
 
 <br>
 
