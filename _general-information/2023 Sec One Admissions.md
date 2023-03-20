@@ -104,14 +104,14 @@ You may email us at[sass@moe.edu.sg](mailto:sass@moe.edu.sg)or submit your enqui
 
 Please take note of the following guidelines for Secondary 1 transfer appeals to St Andrew's Secondary School for admission in year 2023:
 
-1.  Transfer appeals will be via online submission. Please download the transfer appeal form&nbsp;[**here**](https://standrewssec.moe.edu.sg/qql/slot/u904/Sec%201%20Appeal%20Form%202023.docx)&nbsp;and submit the&nbsp;form&nbsp;along with the relevant documents (listed below as well as on the transfer appeal form) in soft copy to the school email at&nbsp;**sass@moe.edu.sg**&nbsp;by&nbsp;**Friday, 23 December 2022 5pm.**&nbsp;Late appeals will not be accepted.
-2.  For more information on transfer appeals, you may refer to the MOE weblink&nbsp;[**here**](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer).&nbsp;
+1.  Transfer appeals will be via online submission. Please download the transfer appeal form [**here**](https://go.gov.sg/levrz8)  and submit the form along with the relevant documents (listed below as well as on the transfer appeal form) in soft copy to the school email at **sass@moe.edu.sg**&nbsp;by&nbsp;**Friday, 23 December 2022 5pm.**&nbsp;Late appeals will not be accepted.
+2.  For more information on transfer appeals, you may refer to the MOE weblink&nbsp;[**here**](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer).
 3.  Please note that only students whose PSLE Score meets our school's Cut-Off-Point&nbsp;**for the course**&nbsp;and admission criteria for 2023 may apply.
 4.  The school will only accept transfer appeals if there are vacancies available.
 
-Parents seeking transfer for Secondary 1 are to email the following documents in soft copy to the school at&nbsp;**sass@moe.edu.sg**&nbsp;by&nbsp;**Friday, 23 December**&nbsp;**2022 5pm:**&nbsp;
+Parents seeking transfer for Secondary 1 are to email the following documents in soft copy to the school at **sass@moe.edu.sg** Friday, 23December 2022 5pm
 
-·&nbsp; &nbsp;**[Transfer Appeal Form](https://standrewssec.moe.edu.sg/qql/slot/u904/Sec%201%20Appeal%20Form%202023.docx)**&nbsp;
+·[Transfer Appeal Form]**(https://standrewssec.moe.edu.sg/qql/slot/u904/Sec%201%20Appeal%20Form%202023.docx)**
 
 ·&nbsp;&nbsp;&nbsp;PSLE Result Slip
 
