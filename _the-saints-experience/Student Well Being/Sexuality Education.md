@@ -34,7 +34,7 @@ third_nav_title: Student Well Being
 
 You may click [**here**](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.   
 
-### Overview of St Andrew’s Secondary School’s SEd Programme for 2022
+### Overview of St Andrew’s Secondary School’s SEd Programme for 2023
 
   
 
@@ -61,7 +61,7 @@ b.    Character and Citizenship Education (CCE)
 
   
 
-### At St Andrew’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:
+### At St Andrew’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:
 
 
 **<center> Secondary 1 </center>**
@@ -116,7 +116,7 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 9.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-### At St Andrew’s Secondary School, the _eTeens_ programme will be implemented as follows in 2022:
+### At St Andrew’s Secondary School, the _eTeens_ programme will be implemented as follows in 2023:
 
 | Topics/Lessons                    | Programme Learning Objectives                                                                                                                                           | Time Period    |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
