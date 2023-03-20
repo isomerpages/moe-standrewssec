@@ -16,3 +16,16 @@ At St Andrew's we value the environment and do our best to go green and nurture 
 ![](/images/school%20environment%20policy%20poster%202014.jpeg)
 
 ### Our Programmes:
+![](/images/Green%20Initiative/GI1.png)
+
+![](/images/Green%20Initiative/GI2.png)
+
+![](/images/Green%20Initiative/GI3.png)
+
+![](/images/Green%20Initiative/GI4.png)
+
+![](/images/Green%20Initiative/GI5.png)
+
+
+
+
