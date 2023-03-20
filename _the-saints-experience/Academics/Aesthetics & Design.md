@@ -37,7 +37,21 @@ third_nav_title: Academics
 
 ## **Food and Consumer Education (Lower Sec)**
 
+![](/images/Academics/Aesthetic%20and%20Design/FCE%201.png)
 
+![](/images/Academics/Aesthetic%20and%20Design/FCE%202.png)
+
+![](/images/Academics/Aesthetic%20and%20Design/FCE%203%203.png)
+
+![](/images/Academics/Aesthetic%20and%20Design/FCE%204.png)
+
+![](/images/Academics/Aesthetic%20and%20Design/FCE%205.png)
+
+![](/images/Academics/Aesthetic%20and%20Design/FCE%206.png)
+
+![](/images/Academics/Aesthetic%20and%20Design/FCE%207.png)
+
+![](/images/Academics/Aesthetic%20and%20Design/FCE%208.png)
 
 ## **Music Education**
 
