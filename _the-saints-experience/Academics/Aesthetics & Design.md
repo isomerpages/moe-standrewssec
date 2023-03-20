@@ -6,25 +6,12 @@ third_nav_title: Academics
 ---
 ## Aesthetics & Design
 
-**The Aesthetics and Design Department offers Art, Design & Technology (D&T), Food and Consumer Education (FCE) and Music at lower and upper secondary levels.**
 
+![](/images/Academics/Aesthetic%20and%20Design/Art%202.png)
 
+![](/images/Academics/Aesthetic%20and%20Design/Art1.png)
 
-
-
- 
-#### **Co-curriculum**
-
-*   Art & Design Festival for Sec 2 students (Post Mid-Year Exam)
-*   Hall Assembly Programme
-
-
-**![](https://lh6.googleusercontent.com/MyWU3juSnJYmjXyez3mxZRJZRE19OiVUTcQunmvC8-dnPTx5BYVwKtYEufAvRLn5vaTeQlpbhFTr_PxgJjUPFXBxHPMHaCvWAaCvfvNFJ5JuO9c4TKYzHHBHKTc56ELQeYrtUxx2AnE)**
-**Sustainability project during Arts & Design fest**
-
-**![](https://lh4.googleusercontent.com/6BDJC_Bbtvav4yDSFXduRYz7viwbZhqbSzXIQFKnjhVv1uu6Zyse8gi8kVK_GYzscWtR2hl2cQQSjzAqq-nVbPIHk4e3L3DDmdtYIEo7l-u8jIMQm9OcPSnY1q1bkyfzqpqkHx4SsEQ)**
-**Lino-cut Printmaking Enrichment during Arts & Design Fest**
-
+![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
 
 **Design & Technology (D&T)**
 -----------------------------
