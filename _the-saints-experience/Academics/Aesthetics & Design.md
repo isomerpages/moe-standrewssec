@@ -78,12 +78,15 @@ A student who appreciates art will be able to recognise the relevance of art and
 
 ### ***Sec 1 Project -Accessories Holder***
 
+**Drawing of the handphone holder part**
 **![](https://lh5.googleusercontent.com/YxBfYJ6VQfOnBIgpZPS51yksY878e7wzYiVVDM2V-ilkKRdeZpSqAq5HZBf0VhRxq2TitwhEvxt9yWVvPd8zqV0ePZNqPOwiRr0MY_mJHBkxOVQisROnJRyzWKvnpn3J4KUAXTe1_b4)**
 
-**Drawing of the handphone holder part**
+
 
 
 <br>
+
+**Students’ drawings**
 
   **![](https://lh3.googleusercontent.com/S6dBnbotLAsF7FJo2GNx7-6qpLTnpG2YO1Qczj4hAh_1tYuOGTu64ZNI581aAohAU7DIj2OAqu7VRGGcdnGc2k3-DJ8DNSFJtAySd3ErlqBcX5jdo9E9Cia2k7Lae_scSHifZaqPDmo)**
 	
@@ -103,74 +106,110 @@ A student who appreciates art will be able to recognise the relevance of art and
 **![](https://lh6.googleusercontent.com/fIo4dvYqoEUpqiPqDKSoVyQNONPTAI2JswQOCi6m1b2OhxKtSxkmvDxylAp_bfpSQaSGyCep6mtkkj-ZXNxMaGo3mgPJY7dkXexyLkptZFP2rk4eyJb7k-bipua4h7GjT3EdpNCja_E)**
 
 
+
+**Presentation Drawings:**
 **![](https://lh3.googleusercontent.com/kp6Ir9Jt94hhyPB0ISWsVaWdWF7s89NvsnenwNadh0ANEhtjbrHOaumKHjL0r8tSA7ruR8IyIyyhXVou178SThAisLMEA_eURPXZmDGm9qURhuJ5LRaEyRXeW4vMCz7a5MIFqbdFT1o)**
 
 **![](https://lh4.googleusercontent.com/_ipgHZu_3XqEfMQx1kdzw1L76lbaLIfw5_AVHZLRBULjPoRCH580cWKr8h5bb9g8JRMR5Hf8g3m91jcyaDh6lhqZLZP3RmaJglbcL0YOeISnqYS1LMj43xnbawsFk3p1rzpp3seKbLY)**
-**Students’ drawings.**
+
 
 <br>
 
+**Prototypes of the clock**
 **![](https://lh3.googleusercontent.com/y_sz-o0mz7fe1CyYBE8_sHgNOuYFtBNcrAh1P_TCZGv97BBS9EM1O8G83FcoHDDfnNrLCmxpxtzGrw2a3ly4Ee5Dcui8P61sZLZq6TKq9c5kw1wmUmV_0B7rdjEop_VdA2BIDbbmGRc)**
 
 **![](https://lh5.googleusercontent.com/xObLIfXJ7V7agbUYdtaHCTqlUuOi4WvmGDDMFaqiLf4S2aKbo-LFAt5Gi3hHpcNbliFQAa_fJel3tH9vH3PboM6RKU21_loaKEFjN27p7yZWgFXgVAwhj1qSIDDIJcNly32ysvIq--8)**
 
 **![](https://lh6.googleusercontent.com/YbyxvjsGjS_vxDqJNgI0WDlPV4VZDw3N0YHoysN2pQ5x_TPmOzBzl3YjhXTVVdbH-WnUDjfm4WKmzoO8_A_YDjei7vDiPmp_QdFlfzNW5iB22OHtX6H4teOuL9ELqRZPcNviowl8RSQ)**
 
-In addition, students’ learning experience is enhanced through the following programmes which we organise throughout the year:
-
-*   Saints Millennium Race (Intra-School Competition)
-*   Crocodile Clips Program for NT (Basic)
-*   Solidworks Program (Basic)
-*   F1 in Schools Workshop for RKS Adams
+<br>
 
 ### Upper Secondary Curriculum
 
-The Upper Secondary D&T curriculum focuses largely on skills that would prepare them to handle the coursework component of the national examinations. The coursework component consists of the Design Journal, Presentation Boards and Artefact and it takes up 70% of the total score for the subject. 
+**The Upper Secondary D&T curriculum focuses largely on design skills and hands-on skills that would prepare them to handle the coursework component of the national examinations. The students will go through the five processes namely; Research, Needs Analysis, Idea conceptualisation,  Development of idea and Prototyping in their coursework project.**
 
-  
+**The coursework component consists of the Design Journal, Presentation Boards and Prototype.**
+
+**![](https://lh5.googleusercontent.com/eKtYwVUun0GBtN-SBFWNoGSQALZTXnYwSxDD2sznTj2VoCb_4j6x3H79pzvVhftkOKjVOkWiktSBxT2z5cgEt6-OItw6L9x3Jea_AP7LSy3nRzNUdWvRvAhfbQPATCj6t0rMqTOsO5c)** 
+
 
 Students will acquire the following skill sets:
 
-*   Sketching and Drawing
+*   Sketching and Designing
+    
 *   Planning and Monitoring a Project
-*   Design Process- Research and Information Gathering
-*   Cardboard modelling- Concepts and Applications of Mechanisms 
+    
+*   Design Process-   Analysing User needs and experience 
+    
+*   3D  modelling- Concepts and Applications of Mechanisms 
+    
 *   Structures and Electronics
+    
 *   Machine operations (Centre lathe, Wood lathe, Vacuum forming, Blow moulding)
+    
 *   Working with Plastic, Wood and Aluminium
-*   Computer Aided Design
+    
+*   Creating Computer Aided Design (CAD)
+    
+**![](https://lh6.googleusercontent.com/R-gg9slz86IEZEEJbq-DJRA2sY-nLlpVp9F1vSJ7PvDB9b4HuUOnYRHuTTzmUEhd1VOajUwIqpZ5D0bN8w9vKYtARdfv-YwVON42WtNK6eXZRt1dvVf9VUVdSaBdBnQOIiyeIQhgk5Y)**
 
-![](/images/2018_07Jul12_SASS_DT-28.jpeg)
+**![](https://lh6.googleusercontent.com/W1MLkyb3_r-ngI1fzYpywKnGD2Yr_u9NH-BU_iZzv9zaR3emnFz81Jr_YSbP262ozHH2DtpXEyzXZkq6JruXLOSKnSfEGqBtZClZnh_4G0aM3nVU-zEhvivhqLa75uCuvN3Q6_U3LG0)**
+
 
 In addition to the standard curriculum, students’ learning experience is enhanced through the following programmes which we organise throughout the year:
-
-*   Crocodile Clips Program for NT
-*   Pro-Desktop Program for NT
-*   Solidworks Program
-*   Bridge Building Competition 
-*   Wheelchair Ramp Fabrication for Tan Tock Seng Hospital Rehabilitation Programme![](/images/image010.jpeg) ![](/images/image008.jpeg)
-
-**Food and Consumer Education**
--------------------------------
-
-The Home Economics Unit aims to enrich students’ experience in equipping themselves with the basic skills for independent living through the principles of nutrition, food management, textiles cum clothing design and consumer education. 
-
   
+*   Goldberg mechanisms
+    
+*   Cardboard rapid  prototyping
+    
+*   3D Pens to create 3D structure 
+    
+*   Advanced Elective Modules (AEM)
+    
 
-Programmes include:
+<br>
 
-   
+# **Food and Consumer Education (Lower Sec)**
 
-**Cooking Assessment**
 
-Practical cooking assessments are conducted during lessons for all lower secondary students. This is a good channel of assessment where students are assessed on their cooking skills. This is a student-centered lesson as students learn from their own mistakes. They also learn about the importance of good hygiene in the kitchen, simple housekeeping procedures and also time management skills.
+###### The Food and Consumer Education Unit aims to enrich students’ experience in equipping themselves with the basic skills for independent living through the principles of nutrition, food management, and consumer education. Programmes include:
 
-**Coursework Modules** 
+#### Cooking Assessment
 
-Students will need to go through weeks of research, planning and decision making before proceeding to buy the necessary ingredients that they have planned to cook a meal based on an assigned case study (e.g. for a person with diabetes). The cooking is assessed during their practical lessons.  
+Practical cooking assessments are conducted during lessons for all lower secondary students. This is a good channel of assessment where students are assessed on their cooking skills. This is a student-centered lesson as students learn by exploring ways on how to meet their task questions. They also learn about the importance of good hygiene in the kitchen, simple housekeeping procedures and also time management skills.
 
-**‘Recycling’ Projects** 
+**![](https://lh5.googleusercontent.com/nyB33-Zl4y9cRMo7E2YHwN35NmFQJ7rSPclcT3Om8EYyFE3NcBllLisFHnyhX7VuIyV58oHTeecIpcLwWYrjA4OAaQCwVkWdu1mArSVJ1GVCuZAMAYkPz3Go4fG2Q0s351TtVYaYACI)**
 
-The ‘Recycling’ project aims to encourage students to utilize ready/ used materials in innovative ways. Students are tasked to use discarded materials and make them into aesthetically pleasing flower holders.
 
-![](/images/2018_07Jul12_SASS_Fce-9.jpeg)
+#### Coursework Modules 
+
+Students will need to go through weeks of research, planning and decision making before proceeding to buy the necessary ingredients that they have planned to cook a meal based on an assigned case study (e.g. for a person with diabetes). The cooking is assessed during their practical lessons.
+**![](https://lh6.googleusercontent.com/GtzgcGnU3Q39duEzbkVkLTqQgASF4j6b0xRJBHBWq2eIUJPmnUvxftVY-sYHlTbWtfpkZpWjkT2WK9UY439msRQLc6htY6eNkZidnKlrtAkhbFCIyCy6jkv70bAbXla3eCwtq6E-3bw)**
+
+**![](https://lh3.googleusercontent.com/2ZSy8-fRrPWPvX1AYGvWNZkdnq-dhXAYP_nYfYTZhkM709OJjP43L3nCYIEB6ZUU6xyRAuBKwa5U_HZG58ijIF0XLCeKtEBw2BRDISOclqN-xS6is4b01KpFLyggImPkiQpcyuHFH80)**
+
+
+#### Integrated Project Work
+To instill the joy of learning of FCE  in our Secondary 1 students, we designed an integrated project work as part of the curriculum for the boys. From planning and baking to plating and presentation, the boys learnt about the nutritious values of ingredients that can be put together in a cupcake and can still taste and look good! Given a problem task at the start, the boys get to collaborate in pairs to design their cupcakes and eventually take photographs of their bakes using the concept of angles and lighting. Their works are viewed by the teachers and school leaders and the top three winners of the food photography competition would receive prizes for their good work.
+**![](https://lh6.googleusercontent.com/AoeSaZhhnp6WSlP1fv1KySRI-2IgUv5r96iGW3InJQcVogndqmRRMA3qN3lYXAxHFNLkqqhBOt4TALUe5lXFlhRKy9XXWKiVNDaoZjcN6AbkURDWMvfageK5Wj3D0RZx3zP6NaGDhDw)**
+
+**![](https://lh4.googleusercontent.com/ms0EZQPuz2qo8_96LtaAeRP-ruHTwx0eY8Ruy7tfM4kj4kZRmr49faDd5C-yqoCeMqHMsejFTtIkFltR70EshrCzzS7Xho7B2aflSZa3iZhbixdoCjGRTbNYEHbs0M08kXlMsMaMAH4)**
+
+**![](https://lh6.googleusercontent.com/Awcp6mNOmT2EXq2bVkhPm4UYyHemgOWi1mMw0DpmtxAwnVQrb5o5H9s9YwdHF4abtFAMqbSVm5t9EvqmVqvv8qZWBz-PRRRUj7xVHGQVettu8hDUy-ogGifp3kp5l0_iNHcuBAv0o4s)**
+
+**![](https://lh3.googleusercontent.com/3HaAK42Hnw5qFCIw17K0eRvA_NpkaBoEpuD0hehnWA8mgPrz25FPyJnK540QFg6JxStn_6tbl_JGvMs-W8IOeI7t2ofCLqfdGxXl4sZ1Q6fRaFBhL0vuUqqkBOLqrBY14vQ7dVSKl_c)**
+
+
+### Sustainability Project 
+
+To make the chapters in the textbooks come alive, the FCE/NFS unit  designed a project that aims to encourage students to upcycle ready/ used materials in innovative ways. Students are tasked to use discarded materials and make them into aesthetically pleasing items. Students are given the flexibility to research and decide on an item that they intend to create. Some items that the students have created are wall mirror decoration, flower vase and pencil holders.
+**![](https://lh4.googleusercontent.com/5Ac99YKBbJ20yc58kqsuL_d8EMwMrHhV4iFMQ1SfSGLtvuy2vLHDTrejOSilupxsEv6FVJYua2uUCcxvuMChG8PLgeYfhJ-Be4kHUogB0RA9OESO_UsbHhth-1b1j6Kbz7w7B-IXANU)**
+
+**![](https://lh6.googleusercontent.com/SCCvybMr-M513hCeAI25J4dQsYkgw_Nwn1Babdd_UBy-sON-by8GhOCMkgJ-BJrz6BvqWMNRb-XKo2NnYHjuW1fpmi-xlVOZIAqWd-1X4AmyKeivDVx6bTXwvzeD35mnxSfK3k8cFf8)**
+
+
+## **Nutrition and Food Science (Upper sec)**
+
+**The design of the NFS syllabus is guided by the NFS Education Framework:**
+
+
