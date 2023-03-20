@@ -145,10 +145,10 @@ The academic year will commence on 3 Jan 2023, Tuesday
   
 **Reporting venue:**
 
-*   Sec 1s:&nbsp;
+*   Sec 1s:
     
     All students are to report to their Form Teachers by 7.50am at the Hall
-*   Sec 2s to 5s:&nbsp;Students are to report to their Form Teachers at 7.50am at the Court Yard
+*   Sec 2s to 5 Students are to report to their Form Teachers at 7.50am at the Court Yard
 
 **Attire:**
 
