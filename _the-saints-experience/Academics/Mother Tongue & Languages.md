@@ -10,6 +10,8 @@ third_nav_title: Academics
 ![](/images/Academics/MTL/MTL2.png)
  
  ![](/images/Academics/MTL/MTL3.png)
+ 
+ ![](/images/Academics/MTL/MTL4.png)
 
 ![](/images/Academics/MTL/MTL5.png)
 
