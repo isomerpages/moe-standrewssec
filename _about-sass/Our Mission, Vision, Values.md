@@ -3,24 +3,18 @@ title: Our Mission, Vision, Values
 permalink: /about-sass/Mission-Vision-Values/
 description: ""
 ---
-# Our Mission
 
-#### **Making Lives, Waking Hearts**
-
-#### **To Serve the Coming Days**
-
-#### **Family   Society   Eternity**
 
   
 
-## Our Vision
+![](/images/VMV/Vision.png)
+<br>
+<br>
+![](/images/VMV/Mission.png)
 
-### **St Andrew’s Village:** 
 
-##### Home of Servant Leaders who bring life to the nations
 
-  
-## Our Values
+##### Our Values
 ![](/images/VMV/wise.png)
 
 ![](/images/VMV/TRUE.png)
