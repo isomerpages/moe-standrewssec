@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - The Saints' Experience.md
-      - Academics/Physical Education (PE).md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
       - Academics/English Language and Literature.md
+      - Academics/Humanities.md
       - Academics/Mathematics.md
       - Academics/Mother Tongue & Languages.md
-      - Academics/Humanities.md
+      - Academics/Physical Education (PE).md
       - Academics/Science.md
       - Academics/Applied Learning Programme.md
       - Academics/Learning For Life Programme.md
