@@ -6,6 +6,9 @@ third_nav_title: Academics
 ---
 ## Aesthetics & Design
 
+![](/images/Academics/Aesthetic%20and%20Design/Cover%201.png)
+
+## **ART**
 
 ![](/images/Academics/Aesthetic%20and%20Design/Art%202.png)
 
