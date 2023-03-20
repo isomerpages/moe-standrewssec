@@ -211,5 +211,12 @@ To make the chapters in the textbooks come alive, the FCE/NFS unit  designed a 
 ## **Nutrition and Food Science (Upper sec)**
 
 **The design of the NFS syllabus is guided by the NFS Education Framework:**
+![](/images/Academics/Picture1.png)
 
 
+The upper secondary NFS curriculum focuses largely on applying principles of culinary science creatively in food preparation and cooking. This will prepare them to handle the coursework component of the national examinations. 
+
+
+Coursework should be completed for assessment by the end of July or early August of the examination year. The assignment requires a problem-solving and investigative approach, with an emphasis on investigation work. A total of 25 hours of curriculum time will be assigned to discuss, facilitate and carry out the investigation and practical work as required. 
+
+They also learn to appreciate the importance of using a variety of food commodities in food management and the issues of food security, including food safety and sustainable food consumption. In this way, they will be able to advocate nutrition and health for self, family and the community.
