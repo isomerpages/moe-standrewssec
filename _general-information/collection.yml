@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - 2023 Sec One Admissions.md
       - Admissions/.keep
       - Admissions/2022 Sec One Admissions.md
       - Admissions/Direct School Admissions 2022.md
@@ -16,6 +15,7 @@ collections:
       - Blended Learning/Blended Learning.md
       - Blended Learning/2023 NPLP Parents Slides.md
       - Blended Learning/Resources For Parents.md
+      - 2023 Sec One Admissions.md
       - e Open House.md
       - School Calendar.md
       - Contact Us/.keep
