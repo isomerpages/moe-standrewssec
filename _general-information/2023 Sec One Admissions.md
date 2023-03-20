@@ -26,9 +26,9 @@ Form teachers will be contacting parents after the briefing.
 ### Information for Sec 1 Students Eligible for SBB
 -----------------------------------------------
 
-*   [Briefing slides for students from the Normal (Academic) course](https://standrewssec.moe.edu.sg/qql/slot/u894/Website%20Documents/2023%20Sec%201%20Registration%20-%20Briefing%20only%20to%20SBB%20Eligible%20Students%20NA.ppt)
+*  [Briefing slides for students from the Normal (Academic) course](/files/Admission/2023%20Sec%201%20Registration%20-%20Briefing%20only%20to%20SBB%20Eligible%20Students%20NA.pdf)
 
-*   [Briefing slides for students from the Normal (Technical) course](https://standrewssec.moe.edu.sg/qql/slot/u894/Website%20Documents/2023%20Sec%201%20Registration%20-%20Briefing%20only%20to%20SBB%20Eligible%20Students%20NT.ppt)  
+*  [Briefing slides for students from the Normal (Technical) course](/files/Admission/2023%20Sec%201%20Registration%20-%20Briefing%20only%20to%20SBB%20Eligible%20Students%20NT.pdf)
       
     
 
@@ -165,9 +165,3 @@ The academic year will commence on 3 Jan 2023, Tuesday
 **Dismissal time:**
 
 *   1pm
-
-
-  
-
-
-
