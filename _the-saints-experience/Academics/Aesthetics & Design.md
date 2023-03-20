@@ -213,7 +213,6 @@ To make the chapters in the textbooks come alive, the FCE/NFS unit  designed a 
 **The design of the NFS syllabus is guided by the NFS Education Framework:**
 ![](/images/Academics/Capture.png)
 
-
 The upper secondary NFS curriculum focuses largely on applying principles of culinary science creatively in food preparation and cooking. This will prepare them to handle the coursework component of the national examinations. 
 
 
