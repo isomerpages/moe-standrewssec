@@ -125,7 +125,7 @@ Parents seeking transfer for Secondary 1 are to email the following documents in
 
   
 
-****PSLE Cut-Off Points for 2023 Secondary 1****
+***PSLE Cut-Off Points for 2023 Secondary 1***
 
  
   
