@@ -84,10 +84,8 @@ A student who appreciates art will be able to recognise the relevance of art and
 
 <br>
 
-![](/images/Academics/Aesthetic%20and%20Design/Picture2.png)
-
-![](/images/Academics/Aesthetic%20and%20Design/Picture3.png)
-**Drawings of the pencil holder**
+![](/images/Academics/Aesthetic%20and%20Design/Picture5.png)
+**Student's drawing of the pencil holder**
 
 
 **![](https://lh6.googleusercontent.com/-UzPoQZKErujLrYReyreMrmxH_9rurzItbYITaQw4JJtNrwmibz7Oj0eytMU_v-mg8fUY6rYVsdr-Ikcjzm36axXFetSrSXDqwIQOVqJsQwhRMsyxKWBx0tXjmzRcVYBj0UyyBavekI)**
