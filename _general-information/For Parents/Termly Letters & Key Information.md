@@ -22,13 +22,6 @@ third_nav_title: For Parents
 
 [2023 Sec 4 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%204%20Weighted%20Assesment%20Overview.pdf)
 
-**2023 Secondary One Orientation Talks**  
-[ask from prinya]
-
-  
-**Sec 3  Course Selection Exercise For Sec 2 Students**
-[ask hui hui]
-
   
 **Developmental Matters**  
 
