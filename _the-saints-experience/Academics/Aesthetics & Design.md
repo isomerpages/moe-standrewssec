@@ -8,41 +8,16 @@ third_nav_title: Academics
 
 **The Aesthetics and Design Department offers Art, Design & Technology (D&T), Food and Consumer Education (FCE) and Music at lower and upper secondary levels.**
 
-General Art Programme for Lower Secondary
------------------------------------------
-
-The curriculum aims to cultivate visual literacy and an appreciation for art and design.  
 
 
-A visually literate student will be able to observe, understand and make meaning of the world he is in. He will also be able to communicate his ideas through visuals. 
-  
 
-A student who appreciates art will be able to recognise the relevance of art and find art valuable in his live.
 
-  
-#### **Lower Secondary Curriculum**
-#### 
-*   Acrylic Painting
-*   Observational Drawing
-*   Pencil / Colour Pencil Rendering
-*   Digital Photography
-*   Study of Visual Arts (SOVA)
-
-  **Examples of students’ acrylic collage projects**
-  **![](https://lh3.googleusercontent.com/H0MTZSZ3nJm-x7s-wR6z0OMl5r7-Vvh3yQpBgFfaVNjFlzCmaP_8KS7AYNhGlttQlBo6HdXEUIN2M5JGI1TzAnv0Lu2ZF30BPvxrsR-td6_BvhAylf93H1MYS_Kc_orRhYFhca4s_cs)**
-
-**![](https://lh5.googleusercontent.com/D9jZCsylPnObiE6iJn77nbfA4o8dPCEWfPvUWkVkIm7V8ZLyoqlB9sDYqZ6tmG38FwVkD7l-wQFuFR-nBxCDOquaNYY7skFwaPjfspfobCXSKAm9_2rgZl7D84YPNcIUcTMR1nz_XIk)**
-
-**![](https://lh5.googleusercontent.com/Lu5hUc6-Y9TPAm4-uoj8llZlk-Rden9szvSGeKiMeuPx5mEPfbM35ROESWqSnX098emrFuDfQ6vVI-yRIdT5L-TwP9fvs8PIJJkVzEKFiGM1u9EndbHTMoVq1d4-SemyWFdZXqxYVNY)**
-
-**![](https://lh6.googleusercontent.com/q3s8WPpmyLq56q5FGrrQGhpj8ZdZ1Y72-GEXf168e1qN3doE5JeFIsRAQGRyezezaTYqS7ZdE7oEJ4OBoGwXSQurFBP0WLq5B0laApkQCwjkmIIzFErD07qQwyyWpG70qfCxaulmArE)**
-
+ 
 #### **Co-curriculum**
 
 *   Art & Design Festival for Sec 2 students (Post Mid-Year Exam)
 *   Hall Assembly Programme
 
-![](/images/2018_07Jul12_SASS_Art(2nd%20Photog)-8.jpeg)
 
 **![](https://lh6.googleusercontent.com/MyWU3juSnJYmjXyez3mxZRJZRE19OiVUTcQunmvC8-dnPTx5BYVwKtYEufAvRLn5vaTeQlpbhFTr_PxgJjUPFXBxHPMHaCvWAaCvfvNFJ5JuO9c4TKYzHHBHKTc56ELQeYrtUxx2AnE)**
 **Sustainability project during Arts & Design fest**
