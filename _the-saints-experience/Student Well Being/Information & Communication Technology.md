@@ -4,8 +4,9 @@ permalink: /the-saints-experience/Student-Well-Being/ICT/
 description: ""
 third_nav_title: Student Well Being
 ---
-
 ## ICT 
+
+![](/images/ICT/Capture.png)
 
 **The NEU PC Plus Programme**
 The NEU PC Plus Programme offers students and persons with disabilities from low income households, the opportunity to own a brand new computer at an affordable price 
