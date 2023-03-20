@@ -21,15 +21,9 @@ description: ""
 
   
 ## Our Values
-#### **W.I.S.E   &   T.R.U.E**
+![](/images/VMV/wise.png)
 
-
- 
-![](/images/Mission4.jpeg)![](/images/Mission.jpeg)
-![](/images/Mission2.jpeg)
-![](/images/Mission3.jpeg)
-
-
+![](/images/VMV/TRUE.png)
 ### Our Strategic Thrusts
 
 **Empowering Learning:** Building on our success in developing efficacious learning, we are focusing on developing boys who are self-directed learners with the will to excel in their academic pursuits.
