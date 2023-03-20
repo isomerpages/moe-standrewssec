@@ -78,8 +78,9 @@ A student who appreciates art will be able to recognise the relevance of art and
 
 ### ***Sec 1 Project -Accessories Holder***
 
-**Drawing of the handphone holder part**
 
+![](/images/Academics/Aesthetic%20and%20Design/Picture4.png)
+**Drawing of the handphone holder part**
 
 <br>
 
