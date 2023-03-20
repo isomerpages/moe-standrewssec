@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The Saints' Experience.md
+      - Academics/Physical Education (PE).md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
       - Academics/English Language and Literature.md
