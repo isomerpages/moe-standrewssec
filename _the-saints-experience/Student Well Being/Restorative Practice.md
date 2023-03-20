@@ -41,6 +41,5 @@ When schools are restorative, they:
 *   implement consequences that are proportional and fair with respect to the School Rules
 *   remain future focused for students’ growth and development
 
-  
-We aspire for our Saints to be accountable for their behaviour as men of grace and polish, who can lead themselves well so as to be Servant Leaders in their communities. We are thankful for the strong partnership with parents to groom our Saints together.
-with differently.
+We aspire for our Saints to be accountable for their behaviour as men of grace and polish, who can lead themselves well so as to be Servant Leaders in their communities. We are thankful for the strong 
+partnership with parents to groom our Saints ether.y.
