@@ -11,6 +11,3 @@ third_nav_title: Academics
 ![](/images/Academics/LLP/LLP2.png)
 
 ![](/images/Academics/LLP/LLP3.png)
-  
-
-
