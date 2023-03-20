@@ -13,9 +13,9 @@ description: ""
 
 **Developmental Matters**  
 
-*   [Saints Code of Conduct](/files/Student/Development%20Matter/20221223_Saints%20Code%20of%20Conduct%20for%202023.pdf)
+*   [Saints Code of Conduct](/files/Student/Code%20of%20Conduct/20221223_Saints%20Code%20of%20Conduct%20for%202023.pdf)
 *   [Social Media Guidelines](/files/Student/Development%20Matter/wcy2me.pdf)
-*   [FAQ For Saints]
+
 *   [SPF Advisory for the 2022 June School Holidays](/files/Student/Development%20Matter/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf)
 
 **TGIF Schedule**
