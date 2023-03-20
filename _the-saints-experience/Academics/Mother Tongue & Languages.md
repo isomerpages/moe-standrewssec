@@ -21,13 +21,12 @@ Chinese Language
 ### Programme includes:
 
 *   MTL Fortnight Programme
-*   Chinese Cultural Camp cum Learning Journey
 *   Educational Immersion Programme
-*   Author–in-residence Programme
 *   Immersive Reading Programme
-*   Learning Chinese through Comics
+*   Write with Comics Programme
 *   Buddy Reading Programme in Collaboration with St Andrew’s Junior School
 *   Grammar 'Xiao Long Bao' 
+*   Various inter-school/National Chinese Language/Cultural Competitions 
 
   
 
@@ -55,4 +54,3 @@ Tamil Language
 *   Read & Review
 *   Muthu Koodal Tamil Language Camp
 *   Poetry Appreciation
-
