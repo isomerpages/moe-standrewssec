@@ -27,7 +27,7 @@ third_nav_title: For Parents
   
 **Developmental Matters**  
 
-*   [Saints Code of Conduct] [ need update] 
+*   
  
 *   [Social Media Guidelines](/files/Social%20Media%20Guidelines%20for%20SASS%20(final).pdf)
 *   [Homework Policy](/files/Homework%20Policy%20revised%2031%20Mar%202021%20for%20School%20Website.pdf)
