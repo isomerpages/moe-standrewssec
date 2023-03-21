@@ -18,7 +18,7 @@ In recognition of each individual’s varied strengths, the learning goals in St
 
 The school offers customised programmes and pedagogical approaches catering to students’ varied interests and strengths, to help them develop strength of character, a strong learning disposition and 21st century skills and competencies. Our Applied Learning Programme on Engineering Design equips Saints with problem solving skills using Critical Thinking and the Design Thinking framework. Saints get to identify themselves as engineers and are inspired to creatively design solutions to authentic issues. This encourages discovery, exploratory learning and problem solving that will enable them to make sense of the world and better prepare for the future. 
 
-Our distinctive Rugby for Life programme leverages on the school’s long-standing tradition in this rugged and disciplined sport that builds character and leadership qualities in our boys. The programme inculcates sound values and develops socio-emotional competencies as the boys serve the community through their passion in sports. 
+Our distinctive Rugby for Life programme leverages the school’s long-standing tradition in this rugged and disciplined sport that builds character and leadership qualities in our boys. The programme inculcates sound values and develops socio-emotional competencies as the boys serve the community through their passion in sports. 
 
 In pursuit of their aspirations, Saints embark on an enriching and rewarding educational journey as they mature into servant leaders who are prepared to tackle challenges. I have many fond memories of my time in SA and I believe that our boys will enjoy the same Saints experience. 
 
