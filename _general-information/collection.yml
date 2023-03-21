@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Admissions/.keep
-      - Admissions/2022 Sec One Admissions.md
       - Admissions/Direct School Admissions 2022.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
