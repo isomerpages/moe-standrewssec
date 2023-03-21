@@ -17,10 +17,6 @@ third_nav_title: Student Well Being
 
 ![](/images/Student%20Government/SG6.png)
 
-![](/images/Student%20Government/SG7.png)
+
 
 ![](/images/Student%20Government/SG8.png)
-
-
-
-
