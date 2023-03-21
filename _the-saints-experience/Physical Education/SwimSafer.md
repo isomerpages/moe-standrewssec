@@ -4,10 +4,9 @@ permalink: /the-saints-experience/physical-education/swim-safer/
 description: ""
 third_nav_title: Physical Education
 ---
+## SwimSafer 2.0
 
-## Swim Safer 2.0
-
-### Swimming Module for 1s & 2s (Swim Safer 2.0)
+### Swimming Module for 1s & 2s (SwimSafer 2.0)
 
 *   Sec 2s are grouped according to their swimming ability based on the assessment they had in sec 1.
 *   They will have to progress to the next level of swim training based on their most recent swimming assessment and level.
