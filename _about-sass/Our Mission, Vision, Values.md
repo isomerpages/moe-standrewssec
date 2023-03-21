@@ -3,10 +3,6 @@ title: Our Mission, Vision, Values
 permalink: /about-sass/Mission-Vision-Values/
 description: ""
 ---
-
-
-  
-
 ![](/images/VMV/Vision.png)
 <br>
 <br>
@@ -14,7 +10,7 @@ description: ""
 
 
 
-##### Our Values
+##### **Our Values**
 ![](/images/VMV/wise.png)
 
 ![](/images/VMV/TRUE.png)
