@@ -3,7 +3,8 @@ title: For Students
 permalink: /general-informaition/For-Students/
 description: ""
 ---
-![](/images/forstudents.jpeg)
+
+![](/images/For%20student/SASS-D1A-3.jpg)
 
 **Whole Year Assessment Plan**
 * [2023 Sec1 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%201%20Weighted%20Assessment%20Overview.pdf)
