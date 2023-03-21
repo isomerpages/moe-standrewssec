@@ -21,7 +21,7 @@ Walk from Potong Pasir MRT Station. Cross Potong Pasir Avenue 3 at the Hindu Tem
 2.  **Bus services**: 8, 26, 31, 90, 90A, 142, 142A, 151, 154, 506, 857, 857B, 966, 966A, 985.  
     Walk towards Ascension Kindergarten, past Church of the Ascension and enter via Entrance 2  
       
-    3. **Cars/Taxi/Private hire**: Please note that cars can only enter via Entrance 1 (along Potong Pasir Ave 3).
+3. **Cars/Taxi/Private hire**: Please note that cars can only enter via Entrance 1 (along Potong Pasir Ave 3).
 
 **General Office:** 62851944
 
