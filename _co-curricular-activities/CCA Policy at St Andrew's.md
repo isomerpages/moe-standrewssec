@@ -48,7 +48,7 @@ Student-initiated activities
 Students who are keen on an activity not offered in the school can be encouraged to start a Student Initiated Activity (SiA) by gathering peers who have a similar interest in the activity and obtaining the school’s endorsement of the activity.  
   
 SiAs which prove to be well-structured and sustainable could be developed into a new CCA with the school’s approval. As with all CCA, SiAs should be geared towards teaching a skill related to the activity, and at the same time cultivate desirable values, dispositions and competencies in line with the purpose of and learning outcomes of CCA.   
-Look under - [Sop for opening closure of ccas](https://standrewssec.moe.edu.sg/the-saints-experience/ccas-holistic-development-for-your-child/sop-for-opening-closure-of-ccas)  
+
   
 Participation in National Youth Squad with the National Sports Association  
   
