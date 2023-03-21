@@ -25,7 +25,3 @@ At St Andrew's we value the environment and do our best to go green and nurture 
 ![](/images/Green%20Initiative/GI4.png)
 
 ![](/images/Green%20Initiative/GI5.png)
-
-
-
-
