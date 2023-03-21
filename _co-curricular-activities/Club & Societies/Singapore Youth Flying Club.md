@@ -1,0 +1,42 @@
+---
+title: Singapore Youth Flying Club
+permalink: /co-curricular-activities/Club-and-Societies/Singapore-Youth-Flying-Club/
+description: ""
+third_nav_title: Club & Societies
+---
+## Singapore Youth Flying Club 
+
+  
+  
+
+### CCA Schedule
+
+Training Days:             Monday
+
+Training Time:             3.30 - 5.30 PM
+
+Training Venue:          School Classrooms C701 - C706  
+  
+
+### Teachers-in-Charge
+
+1. Mr Alex Lim<br>lim_jun_xiong_alex@moe.edu.sg
+2. Mr Philip Ng<br>  ng_boon_yeow_philip@moe.edu.sg
+3. Mdm Zulaiha<br>zulaiha_basri@moe.edu.sg 
+
+  
+
+### Achievements
+ 
+
+#### 2021 
+
+SAFMC Finalists (Cat B)
+
+<img src="/images/2017-04-11-PHOTO-00000079.jpg" 
+     style="width:50%">
+
+<img src="/images/10402550_10152203775338589_3008603238557385093_n.jpg" style="width:50%">
+
+
+<img src="/images/10302169_10152203766533589_3163760823435961257_n.jpg" style="width:50%">

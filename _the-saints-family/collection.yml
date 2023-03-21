@@ -1,0 +1,5 @@
+collections:
+  the-saints-family:
+    output: true
+    order:
+      - The Saints' Family.md
