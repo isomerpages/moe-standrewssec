@@ -4,7 +4,6 @@ permalink: /the-saints-experience/special-programmes/enhanced-art-programme/
 description: ""
 third_nav_title: Special Programmes
 ---
-
 ![](/images/EAP/EAP.png)
 
 ![](/images/EAP/EAP2.png)
