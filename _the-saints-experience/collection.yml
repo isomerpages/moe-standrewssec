@@ -2,7 +2,7 @@ collections:
   the-saints-experience:
     output: true
     order:
-      - The Saints' Experience.md
+      - The Saints Experience.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
       - Academics/English Language and Literature.md
