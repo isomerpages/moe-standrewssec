@@ -12,7 +12,7 @@ third_nav_title: Sports & Games
 
 | CCA (Sports) | C Div Training Day(s) | Training Time | B Div Training Day(s) | Training Time | Venue | Teacher(s) In-Charge |
 | -------- | -------- | -------- | -------- | -------- |  -------- | -------- |
-| **Rugby**     | Monday, Wednesday and Friday    | 3.30 - 6.15 PM     | Monday, Wednesday and Friday     | 3.30 - 6.15 PM     | School Field     |  Mr Aaron Kong, Mr Benedict Tan, Ms Tan Yii Yann, Mr Lin Daoxing and Mr Cheong Peng Yong |
+| **Rugby**     | Monday, Wednesday and Friday    | 3.30 - 6.15 PM     | Monday, Wednesday and Friday     | 3.30 - 6.15 PM     | School Field     |  Mr Aaron Kong, Mr Benedict Tan, Ms Tan Yii Yann and Mr Lin Daoxing  |
 | **Hockey**     | Monday, Wednesday and Friday    | 3.30 - 6.00 PM     | Monday, Wednesday and Friday     | 3.30 - 6.00 PM     | School Hockey Pitch     | Ms Roshnah Begum, Ms Sin Jing Ting and Ms Ratna Illyas |
 | **Basketball**     | Tuesday and Thursday    | 3.30 - 6.00 PM     | Tuesday and Thursday     | 3.30 - 6.00 PM     |  School Indoor Sports Hall (ISH)     |  Mr Vincent Lai, Mr Liu Liming and Ms Wang Kai Qi |
 | **Tennis**     | Monday and Thursday | 3.30 - 5.30 PM     | Monday and Thursday     | 3.30 - 5.30 PM     |  Owen's Court | Ms Vanessa Poh,  Mr Jimmy Koh and Mr Lam Wai Leong |
