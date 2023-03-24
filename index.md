@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: St. Andrew's Secondary School
+title: St Andrew's Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/tiger.jpg
 permalink: /
@@ -27,3 +27,4 @@ sections:
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
 ---
+
