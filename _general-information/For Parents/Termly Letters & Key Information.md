@@ -4,7 +4,6 @@ permalink: /general-information/for-parents/
 description: ""
 third_nav_title: For Parents
 ---
-
 ![](/images/For%20Parents_updated.jpeg)
 
 **Letter to Parents**  
@@ -21,7 +20,7 @@ third_nav_title: For Parents
 
 [2023 Sec 2 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%202%20Weighted%20Assesment%20Overview%20_SEC%202.pdf)
 
-[2023 Sec 3 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%203%20Weighted%20Assesment%20Overview%20(Final).pdf)
+
 
 [2023 Sec 4 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%204%20Weighted%20Assesment%20Overview.pdf)
 
