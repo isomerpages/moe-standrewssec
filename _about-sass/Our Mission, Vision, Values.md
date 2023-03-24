@@ -10,16 +10,17 @@ description: ""
 
 
 
-##### **Our Values**
+### **Our Values**
 ![](/images/VMV/wise.png)
 
 ![](/images/VMV/TRUE.png)
 
-### Our Strategic Thrusts
 
-### **ST 1: Empowering Learning**
+### **Our Strategic Thrusts**
+![](/images/VMV/ST1.png)
 
-### **ST 2: Serving and Belonging**
+![](/images/VMV/ST2.png)
 
-### **ST 3: Staff**
+![](/images/VMV/ST3.png)
 
+![](/images/VMV/ST4.png)
