@@ -4,9 +4,9 @@ permalink: /co-curricular-activities/Uniformed-Groups/Boys-Brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-## Boys Brigade 
+### The Boys Brigade, 7th Singapore Company
 
-### CCA Schedule
+#### CCA Schedule
 
 
 Training Day: Saturday
@@ -19,7 +19,7 @@ Training Venue: School Upper Court
 
 ### Teachers-in-Charge
 
-## 1. Mr Caleb Cheong <br>cheong_chee_ngai_caleb@moe.edu.sg
+ 1. Mr Caleb Cheong <br>cheong_chee_ngai_caleb@moe.edu.sg
 
 1. Mr Jansen Ho<br>ho_wei_an_jansen@moe.edu.sg  
 
@@ -31,8 +31,8 @@ Training Venue: School Upper Court
  
 ### Achievements
 
-2022
-
+#### 2022
+#### 
 JM Fraser Award for Excellence (Silver Honour Roll)
 
   

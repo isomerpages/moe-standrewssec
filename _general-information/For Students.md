@@ -1,15 +1,14 @@
 ---
 title: For Students
-permalink: /general-informaition/For-Students/
+permalink: /general-information/for-students/
 description: ""
 ---
-
 ![](/images/For%20student/SASS-D1A-3.jpg)
 
 **Whole Year Assessment Plan**
 * [2023 Sec1 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%201%20Weighted%20Assessment%20Overview.pdf)
 * [2023 Sec2 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%202%20Weighted%20Assessment%20Overview.pdf)
-* [2023 Sec3 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%203%20Weighted%20Assessment%20Overview.pdf)
+* [2023 SEc3 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%203%20Weighted%20Assesment%20Overview%20(Final)%20updated%2024%20Mar.pdf)
 * [2023 Sec4/5 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%204%20and%205%20Weighted%20Assessment%20Overview.pdf)
 
 **Developmental Matters**  

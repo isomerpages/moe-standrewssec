@@ -1,8 +1,9 @@
 ---
-title: CCA Policy at St Andrew's
-permalink: /co-curricular-activities/CCA-Policy-at-St-Andrew/
+title: SASS CCA Policy
+permalink: /co-curricular-activities/cca-policy-at-st-andrew/
 description: ""
 ---
+
 ## CCA Policy at St Andrew's
 
 

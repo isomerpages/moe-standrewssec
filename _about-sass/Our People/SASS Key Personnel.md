@@ -28,7 +28,7 @@ third_nav_title: Our People
 | Mr Koh Yong Mong|Head of Department / Humanities | koh_yong_mong@moe.edu.sg|
 | Ms Lee Bin Choo | Head of Department / Knowledge Management | lee_bin_choo@moe.edu.sg  |
 | Ms Janice Koh | Head of Department / Mathematics (covering) | koh_yu_ping_janice@moe.edu.sg  |
-| Ms Megan Ling | Head of Department /Mother Tongue Languages | ling_muen_megan@moe.edu|
+| Ms Megan Ling | Head of Department /Mother Tongue Languages | ling_muen_megan@moe.edu.sg|
 | Mr Yong Tze Woon |Head of Department / PE & CCA|yong_tze_woon@moe.edu.sg |
 |Mrs Low Geok Peng | Head of Department / Science | soh_geok_peng@moe.edu.sg |
 | Mrs Janice Ding |Head of Department / Special Educational Needs | lai_may_may@moe.edu.sg|

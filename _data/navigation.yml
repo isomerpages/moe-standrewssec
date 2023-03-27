@@ -2,9 +2,9 @@ logo: /images/School Crest.jpg
 links:
   - title: About SASS
     collection: about-sass
-  - title: The Saint's Experience
+  - title: The Saints Experience
     collection: the-saints-experience
-  - title: The Saints' Family
+  - title: The Saints Family
     url: /the-saints-family/
     sublinks:
       - title: Diocese of Singapore

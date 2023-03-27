@@ -3,11 +3,10 @@ collections:
     output: true
     order:
       - Direct School Admission (DSA)/.keep
-      - Direct School Admission (DSA)/Direct School Admissions 2022.md
+      - Direct School Admission (DSA)/Direct School Admission 2022.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
-      - For Parents/Sexuality Education.md
       - For Staff.md
       - For Students.md
       - Blended Learning/.keep

@@ -2,7 +2,7 @@ collections:
   the-saints-experience:
     output: true
     order:
-      - The Saints' Experience.md
+      - The Saints Experience.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
       - Academics/English Language and Literature.md
@@ -18,7 +18,6 @@ collections:
       - Physical Education/SwimSafer.md
       - Physical Education/NAPFA.md
       - Physical Education/School Gym.md
-      - Physical Education/Sports Modules in Saints.md
       - Physical Education/Physical Health and Fitness.md
       - Physical Education/Safety in PE & CCA.md
       - Physical Education/ReFRESH Programme.md

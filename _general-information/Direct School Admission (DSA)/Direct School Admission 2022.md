@@ -1,9 +1,11 @@
 ---
-title: Direct School Admissions 2022
-permalink: /admisisons/Direct-School-Admissions-2022/
+title: Direct School Admission 2022
+permalink: /admission/direct-school-admission-2022/
 description: ""
 third_nav_title: Direct School Admission (DSA)
 ---
+
+
 
 
 
