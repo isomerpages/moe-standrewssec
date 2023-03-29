@@ -10,9 +10,9 @@ third_nav_title: Uniformed Groups
 
 
 
-Training Days:   Wednesday
+Training Days:   Wednesday (Odd Week) & Friday (Even Week)
 
-Training Time:   3.30 - 6.00 PM
+Training Time:   3.30 - 6.00 PM (Wed), 2.00 - 5.00 PM (Fri)
 
 Training Venue: School classrooms B411 and C412
 
