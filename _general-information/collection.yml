@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - 2024 Secondary 3 Course Selection.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
