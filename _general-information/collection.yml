@@ -2,18 +2,18 @@ collections:
   general-information:
     output: true
     order:
-      - Direct School Admission (DSA)/.keep
-      - Direct School Admission (DSA)/Direct School Admission 2022.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
-      - For Staff.md
       - For Students.md
+      - For Staff.md
       - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
       - Blended Learning/2023 NPLP Parents Slides.md
       - Blended Learning/Resources For Parents.md
       - 2023 Sec One Admissions.md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Direct School Admission 2022.md
       - e Open House.md
       - School Calendar.md
       - Contact Us/.keep
