@@ -22,7 +22,7 @@ third_nav_title: For Parents
 
 [2023 Sec 3 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%203%20Weighted%20Assesment%20Overview%20(Final)%20updated%2024%20Mar.pdf)
 
-[2023 Sec 4 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%204%20Weighted%20Assesment%20Overview.pdf)
+[2023 Sec 4/5 Weighted Assessment Overview (updated 27 Mar)](/files/Student/Weighted%20Assessment/sec%204%20weighted%20assessment%20overview%20(updated%2027%20march).pdf)
 
   
 **Developmental Matters**  
