@@ -26,5 +26,10 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+  - infobar:
+      title: 2024 Sec 3 Course Selection Information
+      subtitle: new!!!
+      description: Slides for 2023 Sec 2 cohort are now available online!
+      button: Click Here
+      url: /general-information/2024sec3courseselection/
 ---
-
