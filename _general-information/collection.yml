@@ -2,20 +2,20 @@ collections:
   general-information:
     output: true
     order:
-      - 2024 Secondary 3 Course Selection.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
       - For Students.md
       - For Staff.md
+      - 2023 Sec One Admissions.md
+      - 2024 Secondary 3 Course Selection.md
+      - Direct School Admission (DSA)/.keep
+      - Direct School Admission (DSA)/Direct School Admission 2022.md
+      - e Open House.md
       - Blended Learning/.keep
       - Blended Learning/Blended Learning.md
       - Blended Learning/2023 NPLP Parents Slides.md
       - Blended Learning/Resources For Parents.md
-      - 2023 Sec One Admissions.md
-      - Direct School Admission (DSA)/.keep
-      - Direct School Admission (DSA)/Direct School Admission 2022.md
-      - e Open House.md
       - School Calendar.md
       - Contact Us/.keep
       - Contact Us/Feedback Form.md
