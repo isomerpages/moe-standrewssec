@@ -15,7 +15,7 @@ If the child is admitted to a secondary school through DSA-Sec, they are not all
 
 •Transfer to another school. They must commit to their chosen school for the duration of the programme.
 
-***For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec .***
+***For more information on on DSA-Sec, please refer to the  [MOE DSA Website](https://www.moe.gov.sg/secondary/dsa).***
 <br>
 
 ## **SASS DSA-Sec**
@@ -23,6 +23,8 @@ If the child is admitted to a secondary school through DSA-Sec, they are not all
 <br>
 ![](/images/2023%20DSA/2023dsa3.PNG)
 <br>
+***To apple for DSA-Sec, please click on this [link](https://www.moe.gov.sg/secondary/dsa/application) to access the application portal.***
+
 ![](/images/2023%20DSA/2023dsa4.PNG)
 <br>
 ![](/images/2023%20DSA/2023dsa5.PNG)
