@@ -25,9 +25,4 @@ If the child is admitted to a secondary school through DSA-Sec, they are not all
 <br>
 ![](/images/2023%20DSA/2023dsa4.PNG)
 <br>
-
-
-
-
-
-
+![](/images/2023%20DSA/2023dsa5.PNG)
