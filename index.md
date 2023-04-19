@@ -13,9 +13,9 @@ sections:
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - infopic:
-      title: 2023 DSA Webinar
-      subtitle: NEW!!!
-      description: Join us on 29 April 2023 to find out more about SASS DSA!
+      title: 2023 SASS DSA Webinar
+      subtitle: Join us!
+      description: 29 April 2023 (Sat), 10am-11am
       button: Click here for more
       url: https://www.standrewssec.moe.edu.sg/general-information/2023directschooladmission/
       image: /images/2023 DSA/2023dsaedm.jpg
