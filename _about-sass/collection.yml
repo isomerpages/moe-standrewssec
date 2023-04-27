@@ -2,7 +2,6 @@ collections:
   about-sass:
     output: true
     order:
-      - School Magazine Archive.md
       - Our School/.keep
       - Our School/Our School.md
       - Our School/School History.md
@@ -17,3 +16,4 @@ collections:
       - Achievements.md
       - Privacy Policy.md
       - SASS Corporate Video.md
+      - School Magazine Archive.md
