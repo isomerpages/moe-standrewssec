@@ -9,5 +9,4 @@ Hard copies are available in school for browsing. Interested readers may write i
 
 From 2023, the school magazine will come in the form of animated media. 
 
-Due to the large volume of archives, the school magazines will be uploaded in batches on our website in the coming months. We thank you for your patience. For urgent browsing, please feel free to email us for assistance. 
-
+Due to the large volume of archives, the school magazines will be uploaded in batches on our website in the coming weeks. We thank you for your patience. For urgent browsing, please feel free to email us for assistance.
