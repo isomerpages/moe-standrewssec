@@ -2,6 +2,7 @@ collections:
   about-sass:
     output: true
     order:
+      - School Magazine Archive.md
       - Our School/.keep
       - Our School/Our School.md
       - Our School/School History.md
