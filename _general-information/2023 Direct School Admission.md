@@ -29,4 +29,3 @@ If the child is admitted to a secondary school through DSA-Sec, they are not all
 <br>
 
 ***To apply for DSA-Sec, please click on this [link](https://www.moe.gov.sg/secondary/dsa/application) to access the application portal.***
-
