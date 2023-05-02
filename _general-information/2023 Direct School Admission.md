@@ -31,7 +31,3 @@ If the child is admitted to a secondary school through DSA-Sec, they are not all
 <br>
 
 ![](/images/2023%20DSA/2023dsa6.PNG)
-###### SCAN THE QR CODE BELOW TO JOIN OUR DSA WEBINAR ON 29 APRIL (SAT), 10AM-11AM. SEE YOU THERE!
-![](/images/2023%20DSA/dsawebinarqrcode.jpeg)
-<br>
-<br>
