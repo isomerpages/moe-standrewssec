@@ -26,7 +26,8 @@ If the child is admitted to a secondary school through DSA-Sec, they are not all
 ![](/images/2023%20DSA/2023dsa4.PNG)
 <br>
 &gt; ![](/images/2023%20DSA/2023dsa5.PNG)
-
+##### **Please access the document below for information on the DSA admission and selection criteria:**
+##### [SASS DSA Admission &amp; Selection Criteria](/files/sass%20dsa%20admission%20&amp;%20selection%20criteria.pdf)
 <br>
 
 ![](/images/2023%20DSA/2023dsa6.PNG)
