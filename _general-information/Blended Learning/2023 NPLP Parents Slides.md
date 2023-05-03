@@ -1,6 +1,6 @@
 ---
 title: 2023 NPLP Parents Slides
-permalink: /general-information/blended-learning/2022-nplp-parents-slides/
+permalink: /general-information/blended-learning/2023-nplp-parents-slides/
 description: ""
 third_nav_title: Blended Learning
 ---
