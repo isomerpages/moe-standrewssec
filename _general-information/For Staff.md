@@ -19,7 +19,7 @@ description: ""
 *   [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 *   [Resource Booking Service (RBS)](https://rbs.avero-tech.com/)
 *   [OPAL 2.0](https://opal2.moe.edu.sg/)
-*   [HRP Portal](https://hrp.gov.sg/)
+*   [HRP Portal](https://www.hrp.gov.sg/hrp/#/)
 *   [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
 *   [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) 
 *   [iCart (GeBIZ DA eCatalogues):](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)
