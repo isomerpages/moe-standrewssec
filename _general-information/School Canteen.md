@@ -23,14 +23,21 @@ The Canteen application form can be obtained from:-
 
 •	St Andrew’s Secondary School Guard House from Monday to Friday, 8.00am to 5.00pm
 
-•	MOE website at https://schadmsvc.moe.gov.sg/moescas/Index.aspx
+•	MOE website at 
+https://schadmsvc.moe.gov.sg/schcanteenapplication/
 Interested applicant must submit the following documents either via email to chan_ying_xian@schools.gov.sg or to the school’s General Office by 26 May 2023, 5pm.  
 •	Completed Canteen Application Form
+
 •	Photocopy of NRIC (front and back)
+
 •	Proposed food menu and price list
+
 •	Photocopy of relevant certificates such as Basic Food Hygiene Course of all food handlers
 Late submission will not be considered.
+
 Please note that only shortlisted applicants will be notified to prepare for food sampling. Applicant will bear the cost incurred for the food sampling.
+
 Successful applicant will start the stall operation on 26 June 2023.
+
 Please contact the School’s Operation Manager, Mr Bhones or the Admin Executive, Mr Naqib at Tel No. 62851944 should you have any queries.
 Thank you.
