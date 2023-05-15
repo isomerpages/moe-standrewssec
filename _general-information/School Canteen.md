@@ -40,7 +40,7 @@ Late submission will not be considered.
 
 **Please note that only shortlisted applicants will be notified to prepare for food sampling. Applicant will bear the cost incurred for the food sampling.**
 
-Successful applicant will start the stall operation on **26 June 2023.
+Successful applicant will start the stall operation on **26 June 2023**.
 
 Please contact the School’s Operation Manager, Mr Bhones or the Admin Executive, Mr Naqib at Tel No. 62851944 should you have any queries.
 Thank you.
