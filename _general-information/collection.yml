@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - School Canteen.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
@@ -15,6 +14,7 @@ collections:
       - Blended Learning/Blended Learning.md
       - Blended Learning/2023 NPLP Parents Slides.md
       - Blended Learning/Resources For Parents.md
+      - School Canteen.md
       - School Calendar.md
       - Contact Us/.keep
       - Contact Us/Feedback Form.md
