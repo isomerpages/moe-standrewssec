@@ -4,7 +4,8 @@ permalink: /general-information/permalink/
 description: ""
 ---
 St Andrew’s Secondary School has a vacancy for a Chinese Noodles Stall.  Our school is located at 15 Francis Thomas Drive,  Singapore 359342.
-Requirements are as follow:
+
+**Requirements are as follow:**
 
 •	Applicant must be a Singapore Citizen or Singapore Permanent Resident.                                                                            
 •	Applicants who have relevant experience in a school canteen or with catering experience are preferred.
@@ -33,7 +34,7 @@ Interested applicant must submit the following documents either via email to cha
 •	Proposed food menu and price list
 
 •	Photocopy of relevant certificates such as Basic Food Hygiene Course of all food handlers
-Late submission will not be considered.
+Late submission will not be considered.                         
 
 Please note that only shortlisted applicants will be notified to prepare for food sampling. Applicant will bear the cost incurred for the food sampling.
 
