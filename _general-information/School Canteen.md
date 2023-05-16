@@ -13,9 +13,7 @@ St Andrew’s Secondary School has a vacancy for a **Chinese Noodles Stall**.  O
 •	Applicant to provide good service and quality food at reasonable prices approved by the school.
 
 •	Applicant to be able to provide food that meet the health/nutritional standards set by the Health Promotion Board under the “Healthy Meals in School Programme (HMSP)” guidelines. You may visit the website 
-[https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
-
-                 For more information
+[https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)    for more information
 
 •	Applicant to maintain high standard of food and personal hygiene.
 
