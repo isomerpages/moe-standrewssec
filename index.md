@@ -13,14 +13,6 @@ sections:
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - infopic:
-      title: 2023 SASS DSA Webinar
-      subtitle: Join us!
-      description: 29 April 2023 (Sat), 10am-11am
-      button: Click here for more
-      url: https://www.standrewssec.moe.edu.sg/general-information/2023directschooladmission/
-      image: /images/2023 DSA/2023dsaedm.jpg
-      alt: Image alt text
-  - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
       button: Here
@@ -34,6 +26,14 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+  - infopic:
+      title: 2023 SASS DSA Application
+      subtitle: Missed our DSA WEbinar?
+      description: All webinar information are available on our website!
+      button: Click here for more
+      url: https://www.standrewssec.moe.edu.sg/general-information/2023directschooladmission/
+      image: /images/2023 DSA/2023dsaedm.jpg
+      alt: Image alt text
   - infobar:
       title: 2024 Sec 3 Course Selection Information
       subtitle: new!!!
