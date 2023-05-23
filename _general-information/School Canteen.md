@@ -29,7 +29,7 @@ St Andrew’s Secondary School has a vacancy for a **Chinese Noodles Stall**.  O
 [https://schadmsvc.moe.gov.sg/schcanteenapplication](https://schadmsvc.moe.gov.sg/schcanteenapplication)
 
 
-Interested applicant must submit the following documents either via email to chan_ying_xian@schools.gov.sg or to the school’s General Office by **26 May 2023, 5pm**.  
+Interested applicant must submit the following documents either via email to chan_ying_xian@schools.gov.sg or to the school’s General Office by **9 June 2023, 5pm**.  
 
 •	Completed Canteen Application Form
 
