@@ -24,7 +24,10 @@ description: ""
 *   [SSOE2 Portal](https://ssoe2.moe.edu.sg/)
 *   [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso) 
 *   [iCart (GeBIZ DA eCatalogues):](https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx)
-*   [Library Online: Staff Access](https://schoolibrary.spydus.com.sg/standrewssec/spydus)
+
+*   [[Library Online: Staff Access]](https://schoolibrary.moe.edu.sg/standrewssec)
+
+
 *   [ICollaborate (Authorised Users Only)](https://icollaborate.moe.gov.sg/myitb/projects/ITD%20School%20Collaboration/Forms/AllItems.aspx)  
     
 *   [All Ears Form Builder - forms.moe.edu.sg](https://forms.moe.edu.sg/)  
