@@ -13,9 +13,7 @@ St Andrew’s Secondary School has a vacancy for a **Chinese Noodles Stall**.  O
 •	Applicant to provide good service and quality food at reasonable prices approved by the school.
 
 •	Applicant to be able to provide food that meet the health/nutritional standards set by the Health Promotion Board under the “Healthy Meals in School Programme (HMSP)” guidelines. You may visit the website 
-[https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
-
-                 For more information
+[https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)    for more information
 
 •	Applicant to maintain high standard of food and personal hygiene.
 
@@ -31,7 +29,7 @@ St Andrew’s Secondary School has a vacancy for a **Chinese Noodles Stall**.  O
 [https://schadmsvc.moe.gov.sg/schcanteenapplication](https://schadmsvc.moe.gov.sg/schcanteenapplication)
 
 
-Interested applicant must submit the following documents either via email to chan_ying_xian@schools.gov.sg or to the school’s General Office by **26 May 2023, 5pm**.  
+Interested applicant must submit the following documents either via email to chan_ying_xian@schools.gov.sg or to the school’s General Office by **9 June 2023, 5pm**.  
 
 •	Completed Canteen Application Form
 

@@ -15,6 +15,7 @@ description: ""
 *   [Cockpit 2.0](https://schoolcockpit.moe.gov.sg/) (Marks, Conduct and Remarks Entry)
 *   [Singapore Teaching Practice (STP)](http://go.gov.sg/stp)
 *   [iEXAMS2](https://iexams.seab.gov.sg/)
+*   [SEAB Exam Personnel Portal (EPP)](https://myexamduty.seab.gov.sg)
 *   [Uplift Portal](https://go.gov.sg/uplift-portal)
 *   [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)
 *   [Resource Booking Service (RBS)](https://rbs.avero-tech.com/)
