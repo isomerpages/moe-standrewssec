@@ -15,15 +15,15 @@ third_nav_title: For Parents
 [Events for Semester 1 2023](/files/Calendar/Saints%20Calendar%20Sem%201%202023.pdf)
 
 **Whole Year Assessment Plan**
+###### Please note that changes are highlighted in red within each document. 
 
-[2023 Sec 1 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%201%20Weighted%20Assesment%20Overview%20(Final).pdf)
+[Sec 1 Weighed Assessment Overview (Updated 25 May 2023](/files/Parent/Assessment%20Matters/sec%201%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
 
-[2023 Sec 2 Weighted Assessment Overview](/files/Parent/Assessment%20Matters/Sec%202%20Weighted%20Assesment%20Overview%20_SEC%202.pdf)
+[Sec 2 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%202%20weighted%20assesment%20overview%20_sec%202%20updated%2025%20may%202023.pdf)
 
-[2023 Sec 3 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%203%20Weighted%20Assesment%20Overview%20(Final)%20updated%2024%20Mar.pdf)
+[Sec 3 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
 
-[2023 Sec 4/5 Weighted Assessment Overview (updated 27 Mar)](/files/Student/Weighted%20Assessment/sec%204%20weighted%20assessment%20overview%20(updated%2027%20march).pdf)
-
+[Sec 4/5 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
   
 **Developmental Matters**  
 
