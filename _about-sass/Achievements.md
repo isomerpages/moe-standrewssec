@@ -3,96 +3,108 @@ title: Achievements
 permalink: /about-sass/achievements/
 description: ""
 ---
-## Achievements
+## Latest Achievements in 2023
   
-  
-
-##### **The following achievements were made by students in their CCAs:**
-
-#### a.     Clubs and Societies:
-###### i. Champions, 1st Runners-Up & 2nd Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Sprint)
-######  ii.    Design Award & 2nd Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Maker)
-
-#### b.     Sports:
-
-######  i.     3rd place, Rugby, at the 2022 ‘B’ Division National School Games
-
-######  ii.     4th place, Hockey, at the 2022 ‘B’ Division National School Games.
-
-###### iii.    4th place, Cricket, at the 2022 ‘B’ Division National School Games.
  
-###### iv.    4th place, Swimming, at the 2022 ‘B’ Division National School Games (Boys 4 x 50m Freestyle Relay)
+    
 
-###### v.   5th place, Swimming, at the 2022 ‘B’ Division National School Games (Freestyle Relay & Medley Relay) and the 2022 ‘C’ Division National School Games (Medley Relay)
-
-###### vi.    Finalists at the 'B' Division Track & Field National School Games Championships 800m, 1500m and 3000m events
-
-###### vii.    Semi-Finalists at the 'B' Division Track & Field National School Games Championships 400m event
-
-#### c.     Performing Arts:
-
-###### i.      Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Band (Flexible Band)
-
-######  ii.    Certificate of Accomplishment, SYF 2021, Band (Percussion Ensemble)
-
-###### iii.   Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Saints Drama
-
-#### d.     Uniformed Groups:
-
-######  i.      Distinction, National Cadets Corps (NCC), Unit Recognition Award 2021. 
-
-######  ii.     Outstanding Cadet Award 2021, NCC: MSG Soo Wei Xiang & MSG Muhammad Imran Bin Sabir Mohamed.
-
-######  iii.    Gold, National Police Cadet Corps (NPCC), Unit Overall Proficiency Award 2021.
-
-###### iv.    Best Unit Cadet 2022, NPCC: S.I Lau Wing Ban Wyne. 
-
-###### v.    4th place, NPCC, at the Tanglin Division Inter-NPCC Anti-Scam TikTok Challenge 2021.
-
-###### vi.    Singapore Police Force NPCC Badge Award 2022: S.I. Isaac Ng Hong Liang & SSGT (NPCC) Lim Yu Jie Javan.
-
-###### vii.    6th place, NPCC, Inter-Unit E-CSI Competition 2022
-
-###### viii.   Silver, Scouts, National Patrol Camp
-
-###### ix.    Scouts, Chief Commissioner Award 2021: Ansel Foo.
-
-###### x.    Gold Banding for 3 teams, Scouts, at the National Explorer Challenge 2021.
-
-###### xi.    Silver Honour Roll, Boys Brigade, J.M. Fraser Award for Excellence 2022.
-
-###### xii.    Founder's Men Award 2022, Boys Brigade: SSG Ho Kok Hou Michael, SSG Wong Wai Seng Isaac, SSG Karthikeyan Vikhram, SGT Caleb Wong Ler, SGT Josiah Loh Yi
+<table style="border-collapse:
+ collapse;width:354pt" width="472" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:3254;width:67pt" width="89"> <col style="mso-width-source:userset;mso-width-alt:9910;width:203pt" width="271"> <col style="mso-width-source:userset;mso-width-alt:4096;width:84pt" width="112"></colgroup><tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:67pt" width="89" class="xl63" height="20">CCA</td><td style="border-left:none;width:203pt" width="271" class="xl63">Competition</td><td style="border-left:none;width:84pt" width="112" class="xl63">Achievement</td></tr><tr style="height:15.0pt" height="20"><td style="height:60.0pt;border-top:none" class="xl64" height="80" rowspan="3">Hockey</td><td style="border-top:none;border-left:none" class="xl64">Youth Hockey Challenge 2023</td><td style="border-top:none;border-left:none" class="xl64">1st</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl64" height="20">Hockey National Junior League</td><td style="border-top:none;border-left:none" class="xl64">2nd</td></tr><tr style="height:30.0pt" height="40"><td style="height:30.0pt;border-top:none;
+  border-left:none;width:203pt" width="271" class="xl66" height="40">National School Games B Division Hockey Championship</td><td style="border-top:none;border-left:none" class="xl64">1st</td></tr><tr style="height:15.0pt" height="20"><td style="border-bottom:.5pt solid black;
+  height:45.0pt;border-top:none" class="xl67" height="60" rowspan="2">Rugby</td><td style="border-top:none;border-left:none" class="xl64">Under 14 Rugby 7s</td><td style="border-top:none;border-left:none" class="xl64">2nd</td></tr><tr style="height:30.0pt" height="40"><td style="height:30.0pt;border-top:none;
+  border-left:none;width:203pt" width="271" class="xl66" height="40">National School Games B Division Rugby Championship</td><td style="border-top:none;border-left:none" class="xl64">1st</td></tr><tr style="height:45.0pt" height="60"><td style="height:45.0pt;border-top:none" class="xl64" height="60">Taekwondo</td><td style="border-top:none;border-left:none;width:203pt" width="271" class="xl66">NSG Taekwondo Championship; Kyorugi, C Division Poom Belt Under 54kg. (Rezial Goh Rui Heng, 2SD)</td><td style="border-top:none;border-left:none" class="xl64">Bronze</td></tr><tr style="height:45.0pt" height="60"><td style="height:45.0pt;border-top:none" class="xl64" height="60">Cross-Country</td><td style="border-top:none;border-left:none;width:203pt" width="271" class="xl66">National School Games Cross-Country Championships (AYDEN TAN CHEE YEW, 4Em)</td><td style="border-top:none;border-left:none" class="xl64">5th</td></tr><tr style="height:45.0pt" height="60"><td style="height:45.0pt;border-top:none" class="xl64" height="60">Track and Field</td><td style="border-top:none;border-left:none;width:203pt" width="271" class="xl66">National School Games Track and Field Championships (AYDEN TAN CHEE YEW, 4Em)</td><td style="border-top:none;border-left:none" class="xl64">Finalist</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">NCC</td><td style="border-top:none;border-left:none" class="xl64">Unit Recognition</td><td style="border-top:none;border-left:none" class="xl64">Distinction</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">NPCC</td><td style="border-top:none;border-left:none" class="xl64">Unit Overall Proficiency Award</td><td style="border-top:none;border-left:none" class="xl64">Participation</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Boys Brigade</td><td style="border-top:none;border-left:none" class="xl65">J M Fraser Award for Excellence</td><td style="border-top:none;border-left:none" class="xl64">High Distinction</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Scouts</td><td style="border-top:none;border-left:none" class="xl64">Frank Cooper Sands Award</td><td style="border-top:none;border-left:none" class="xl64">Gold</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Concert Band</td><td style="border-top:none;border-left:none" class="xl64">Singapore Youth Festival Arts Presentation</td><td style="border-top:none;border-left:none" class="xl64">Accomplishment</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Choir</td><td style="border-top:none;border-left:none" class="xl64">Singapore Youth Festival Arts Presentation</td><td style="border-top:none;border-left:none" class="xl64">Distinction</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Drama</td><td style="border-top:none;border-left:none" class="xl64">Singapore Youth Festival Arts Presentation</td><td style="border-top:none;border-left:none" class="xl64">Distinction</td></tr></tbody></table>
 
 
 
-##### **The following achievements were made by students at national events or competitions:**
 
-a.     10 of our Secondary 4 students clinched awards at the 11th International Biomedical Quiz 2022. The Silver Award was given to Hector Elijah Toh Hong Wai, Lock Yan Jie and Abraham Akhil Sam. The Bronze Award was granted to Brian Emmanuel Panierselvam, Ho Jer Sing, Bryan, Jayden Hwa Zai Lin, Sakthivel Praveen and Roy Tan Tze Hean. The Merit Award was given to Panneer Selvam Ram Prathesh and Ramesh Mukul. 
+### Previous Achievements
+##### **The following achievements were made by students in their&nbsp;CCAs:**
 
-b.     Chua Yong Sheng, Secondary 2M1, received the Gold Award in the Media Computing Competition organised by MOE’s Curriculum Planning and Development Division in Sep 2018. A total of 155 entries were received and only 10 schools were given the Gold Award.
+#### a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clubs and Societies:
+###### i. Champions, 1st&nbsp;Runners-Up &amp; 2nd&nbsp;Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Sprint)
+######  ii.&nbsp; &nbsp; Design Award&nbsp;&amp; 2nd&nbsp;Runners-Up, Robotics Club,&nbsp;at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Maker)
 
-c.     Secondary 4NA students secured 3rd place at the ignITE Skills Challenge 2019, ‘Flying Saucer’ category.
+#### b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports:
 
-d.     Wong Jin Rong, Secondary 3S3, won the Championship Prize for the Radio Control Flight (First-person, Micro) category of the Singapore Amazing Flying Machine Competition 2019 organised by DSO National Laboratories and Science Centre Singapore.
+######  i.&nbsp; &nbsp; &nbsp;3rd&nbsp;place,&nbsp;Rugby, at the 2022 ‘B’ Division National School Games
 
-e.     A total of 6 students, Kendric Chang, Han Xi, Ethan Chow Qing Heng, Fawwaz Ahamed, Ramesh Mukul and Lim Cheng Zhan, from Secondary 1A, received the Honourable Mention at the SYF Original Songs competition. They performed their original song live on 5 Jul, Fri, at the Library@Esplanade.
+######  ii.&nbsp; &nbsp; &nbsp;4th&nbsp;place, Hockey, at the 2022 ‘B’ Division National School Games.
 
-f.      Two Secondary 3SA students, Xavier Tay Yu Heng and Tan Yuan Zong, were conferred the 2019 A\*STAR Science Award (Upper Secondary), and participated in a 3-day Research Exposure Programme (REP) during the June school holidays.
+###### iii.&nbsp;&nbsp; &nbsp;4th&nbsp;place, Cricket, at the 2022 ‘B’ Division National School Games.
+ 
+###### iv.&nbsp; &nbsp;&nbsp;4th&nbsp;place, Swimming, at the 2022 ‘B’ Division National School Games (Boys 4 x 50m Freestyle Relay)
 
-g.      Karan Sivaraj, Secondary 4SB, and Kee Jun Xi Ansel, Secondary 4SA, achieved the 2018 Young Engineering Award (Gold), validated by Singapore Polytechnic and Science Centre Singapore. 
+###### v.&nbsp; &nbsp;5th&nbsp;place, Swimming, at the 2022 ‘B’ Division National School Games (Freestyle Relay &amp; Medley Relay) and the&nbsp;2022 ‘C’ Division National School Games (Medley Relay)
+
+###### vi.&nbsp; &nbsp; Finalists at the 'B' Division Track &amp; Field National School Games Championships 800m, 1500m and 3000m events
+
+###### vii.&nbsp;&nbsp; &nbsp;Semi-Finalists at the&nbsp;'B' Division Track &amp; Field National School Games Championships 400m event
+
+#### c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Performing Arts:
+
+###### i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Band (Flexible Band)
+
+######  ii.&nbsp; &nbsp;&nbsp;Certificate of Accomplishment, SYF 2021, Band (Percussion Ensemble)
+
+###### iii.&nbsp; &nbsp;Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Saints Drama
+
+#### d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uniformed Groups:
+
+######  i.&nbsp; &nbsp; &nbsp; Distinction, National Cadets Corps (NCC), Unit Recognition Award 2021.&nbsp;
+
+######  ii.&nbsp; &nbsp; &nbsp;Outstanding Cadet Award 2021, NCC: MSG Soo Wei Xiang &amp; MSG Muhammad Imran Bin Sabir Mohamed.
+
+######  iii.&nbsp;&nbsp;&nbsp;&nbsp;Gold,&nbsp;National Police Cadet Corps (NPCC),&nbsp;Unit Overall Proficiency Award 2021.
+
+###### iv.&nbsp;&nbsp;&nbsp;&nbsp;Best Unit Cadet 2022, NPCC: S.I Lau Wing Ban Wyne.&nbsp;
+
+###### v.&nbsp;&nbsp;&nbsp;&nbsp;4th&nbsp;place, NPCC, at the Tanglin Division Inter-NPCC Anti-Scam TikTok Challenge 2021.
+
+###### vi.&nbsp;&nbsp;&nbsp;&nbsp;Singapore Police Force NPCC Badge Award 2022: S.I. Isaac Ng Hong Liang &amp; SSGT (NPCC) Lim Yu Jie Javan.
+
+###### vii.&nbsp;&nbsp;&nbsp;&nbsp;6th&nbsp;place, NPCC, Inter-Unit E-CSI Competition 2022
+
+###### viii.&nbsp;&nbsp;&nbsp;Silver, Scouts,&nbsp;National Patrol Camp
+
+###### ix.&nbsp;&nbsp;&nbsp;&nbsp;Scouts,&nbsp;Chief Commissioner Award 2021: Ansel Foo.
+
+###### x.&nbsp; &nbsp; Gold Banding for 3 teams, Scouts, at the&nbsp;National Explorer Challenge 2021.
+
+###### xi.&nbsp; &nbsp;&nbsp;Silver Honour Roll, Boys Brigade, J.M. Fraser Award for Excellence 2022.
+
+###### xii.&nbsp; &nbsp; Founder's Men Award 2022, Boys Brigade:&nbsp;SSG Ho Kok Hou Michael,&nbsp;SSG Wong Wai Seng Isaac,&nbsp;SSG Karthikeyan Vikhram,&nbsp;SGT Caleb Wong Ler,&nbsp;SGT Josiah Loh Yi
+
+
+
+##### **The following achievements were made by students at&nbsp;national events or competitions:**
+
+a.&nbsp; &nbsp; &nbsp;10 of our&nbsp;Secondary 4 students clinched awards at the&nbsp;11th International Biomedical Quiz 2022. The&nbsp;Silver Award was given to&nbsp;Hector Elijah Toh Hong Wai,&nbsp;Lock Yan Jie and&nbsp;Abraham Akhil Sam. The&nbsp;Bronze Award was granted to&nbsp;Brian Emmanuel Panierselvam,&nbsp;Ho Jer Sing, Bryan,&nbsp;Jayden Hwa Zai Lin,&nbsp;Sakthivel Praveen and&nbsp;Roy Tan Tze Hean. The Merit Award was given to&nbsp;Panneer Selvam Ram Prathesh and&nbsp;Ramesh Mukul.&nbsp;
+
+b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chua Yong Sheng, Secondary 2M1, received the Gold Award in the Media Computing Competition organised by MOE’s Curriculum Planning and Development Division in Sep 2018. A total of 155 entries were received and only 10 schools were given the Gold Award.
+
+c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary 4NA students secured 3rd&nbsp;place at the ignITE Skills Challenge 2019, ‘Flying Saucer’ category.
+
+d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wong Jin Rong, Secondary 3S3, won the Championship Prize for the Radio Control Flight (First-person, Micro) category of the Singapore Amazing Flying Machine Competition 2019 organised by DSO National Laboratories and Science Centre Singapore.
+
+e.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A total of 6 students, Kendric Chang, Han Xi, Ethan Chow Qing Heng, Fawwaz Ahamed, Ramesh Mukul and Lim Cheng Zhan, from Secondary 1A, received the Honourable Mention at the SYF Original Songs competition. They performed their original song live on 5 Jul, Fri, at the Library@Esplanade.
+
+f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two Secondary 3SA students, Xavier Tay Yu Heng and Tan Yuan Zong, were conferred the 2019 A\*STAR Science Award (Upper Secondary), and participated in a 3-day Research Exposure Programme (REP) during the June school holidays.
+
+g.&nbsp; &nbsp; &nbsp;&nbsp;Karan Sivaraj, Secondary 4SB, and Kee Jun Xi Ansel, Secondary 4SA, achieved the 2018 Young Engineering Award (Gold), validated by Singapore Polytechnic and Science Centre Singapore.&nbsp;
 
 ### SAINTS IN THE NEWS (2018 - 2023)
 --------------------------------
 
 ##### Full Subject-Based Banding (FSBB)
 
-_SASS is one of MOE's pilot schools for Full Subject-Based Banding (FSBB). The school's rollout of FSBB has been positively featured in the following news articles:_ 
+_SASS is one of MOE's pilot schools for Full Subject-Based Banding (FSBB). The school's rollout of FSBB has been positively featured in the following news articles:_&nbsp;
 
 * "Budget debate: MOE to expand full subject-based banding pilot to 90 schools by 2023", The Straits Times, on 7 Mar 2022, by Luke Pachymuthu  
 * "28 secondary schools to pilot full subject-based banding from 2020", Channel NewsAsia, on 3 Sept 2019, by Tan Si Hui  
   
 #### National School Games
-_The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd and 4th placing match during the National School Games 2018. The following articles were published:_
+_The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd&nbsp;and 4th&nbsp;placing match during the National School Games 2018. The following articles were published:_
 
 * “School sports: St Andrew's Secondary hockey players lose match but win admiration for sportsmanship”, The Straits Times, on 12 Apr, by Natalie Choy Ching Mun
 
@@ -109,4 +121,4 @@ The Sec 1 Crossover Ceremony is a signature tradition annually. Each year, we wi
 #### Founder's Day Prize Winners 2022
 ------------------
 
- We congratulate the following students and staff for being conferred awards and/or scholarships at our 2022 Founder's Day celebration. [Click Here](/files/Founders%20Day%20Report/160%20FD%20Booklet%20Contents.pdf) for the list of prizes and awardees.
+ We congratulate the following students and staff for being conferred awards and/or scholarships at our 2022 Founder's Day celebration.&nbsp;[Click Here](/files/Founders%20Day%20Report/160%20FD%20Booklet%20Contents.pdf)&nbsp;for the list of prizes and awardees.
