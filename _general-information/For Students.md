@@ -6,10 +6,11 @@ description: ""
 ![](/images/For%20student/SASS-D1A-3.jpg)
 
 **Whole Year Assessment Plan**
-* [2023 Sec1 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%201%20Weighted%20Assessment%20Overview.pdf)
-* [2023 Sec2 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%202%20Weighted%20Assessment%20Overview.pdf)
-* [2023 Sec 3 Weighted Assessment Overview](/files/Student/Weighted%20Assessment/Sec%203%20Weighted%20Assesment%20Overview%20(Final)%20updated%2024%20Mar.pdf)
-* [2023 Sec 4/5 Weighted Assessment Overview (Updated 27 Mar)](/files/Student/Weighted%20Assessment/sec%204%20weighted%20assessment%20overview%20(updated%2027%20march).pdf)
+
+[Sec 1 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%201%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
+[Sec 2 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%202%20weighted%20assesment%20overview%20_sec%202%20updated%2025%20may%202023.pdf)
+[Sec 3 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
+[Sec 4 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
 
 **Developmental Matters**  
 
