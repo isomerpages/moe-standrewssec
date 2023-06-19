@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Parents/MOE Toolkits and Information.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
