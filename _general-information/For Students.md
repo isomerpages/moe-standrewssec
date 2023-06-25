@@ -8,8 +8,11 @@ description: ""
 **Whole Year Assessment Plan**
 
 [Sec 1 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%201%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
+
 [Sec 2 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%202%20weighted%20assesment%20overview%20_sec%202%20updated%2025%20may%202023.pdf)
-[Sec 3 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
+
+[Sec 3 Weighted Assessment Overview (Updated 22 June 2023)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2022%20june%202023.pdf)
+
 [Sec 4 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
 
 **Developmental Matters**  
