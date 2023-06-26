@@ -11,6 +11,8 @@ third_nav_title: For Parents
 
 [2023 Principal's Term 2 Letter to Parents](/files/Parent/Termly%20Letters/2023%20Term%202%20Letter%20to%20Parents.pdf)
 
+[2023 Principal's Term 3 Letter to Parents](/files/Parent/Termly%20Letters/sass%20term%203%20letter%20to%20parents%202023.pdf)
+
 **Saints Calendar**  
 [Events for Semester 1 2023](/files/Calendar/Saints%20Calendar%20Sem%201%202023.pdf)
 
@@ -21,7 +23,7 @@ third_nav_title: For Parents
 
 [Sec 2 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%202%20weighted%20assesment%20overview%20_sec%202%20updated%2025%20may%202023.pdf)
 
-[Sec 3 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
+[Sec 3 Weighted Assessment Overview (Updated 22 June 2023)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2022%20june%202023.pdf)
 
 [Sec 4/5 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
   
