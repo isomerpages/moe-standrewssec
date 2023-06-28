@@ -38,7 +38,6 @@ description: ""
 *   [Access to School Library Catalogue](https://schoolibrary.moe.edu.sg/standrewssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 *   [Instructions for Logging into to OPAC](http://go.gov.sg/ieumpu)
 *   [St Andrew's River Studies](https://sites.google.com/site/standrewsriverstudies/home)
-*   [iMTL Portal](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)  
 
 
 **ICT Matters**
@@ -47,7 +46,7 @@ description: ""
 *   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7) 
 *    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
 *    [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
-*    [HouseKeeping Matters](/files/Student/ICT%20matter/houekeepingforstudents_v2.pdf)
+*    [Student Routines](/files/Student/ICT%20matter/student%20routines.pdf)
 
 
 
