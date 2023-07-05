@@ -15,6 +15,20 @@ description: ""
 
 [Sec 4 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
 
+**Exam and Assessment Matters**
+
+[2023 Sec 1 WA3 Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%20wa3%20schedule%20final_sec%201.pdf)
+
+[2023 Sec 2 WA3 Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%20wa3%20schedule%20final_sec%202.pdf)
+
+[2023 Sec 3 WA3 Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%20wa3%20schedule%20final_sec%203.pdf)
+
+[2023 4E5N Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204e5n%20prelims.pdf)
+
+[2023 4NA Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204na%20prelims%20tt.pdf)
+
+[2023 4NT Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204nt%20prelims%20tt.pdf)
+
 **Developmental Matters**  
 
 * [Saints Code of Conduct ( Updated Term 2 2023)](/files/General%20Information/For%20Students/202304_saints%20code%20of%20conduct%20for%202023.pdf)
@@ -25,9 +39,7 @@ description: ""
 **TGIF Schedule**
 * [TG Code](/files/Student/TG%20code/TG%20Code%20for%20Students.pdf)
 
-**Exam and Assessment Matters**
-
-  
+ 
 **Learning Tools**  
 
 *   [Student Icon Login](https://workspace.google.com/dashboard) 
