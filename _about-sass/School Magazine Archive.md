@@ -3,7 +3,7 @@ title: School Magazine Archive
 permalink: /about-sass/schoolmagazinearchive/
 description: ""
 ---
-We regrest to inform that due to the migration of the School Website, the new host platform is unable to service the large volume of archives. 
+We regret to inform that due to the migration of the School Website, the new host platform is unable to service the large volume of archives. 
 
 School magazines from 1950 to 2015 are available in PDF versions. Hard copies are also available in school for browsing. Interested readers may write in to the General Office (sass@moe.edu.sg) to make the request.
 
