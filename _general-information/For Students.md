@@ -25,7 +25,7 @@ description: ""
 
 [2023 4E5N Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204e5n%20prelims.pdf)
 
-[2023 4NA Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204na%20prelims%20tt.pdf)
+[2023 4NA Prelim Exam Schedule (Amended as of 20 July)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/(20%20july)%202023%204na%20prelims%20tt_amended.pdf)
 
 [2023 4NT Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204nt%20prelims%20tt.pdf)
 
