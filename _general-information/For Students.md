@@ -60,6 +60,8 @@ description: ""
 *   [SLS Log in Guide](https://go.gov.sg/dxh48w)
 
 **MIMS / ICON**
+* [MIMS PORTAL](https://mims.moe.gov.sg/sspr)
+
 *    [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
 
 *    [Students Self-Service Password Reset Guide ](/files/General%20Information/For%20Students/posters_mims_sspr_guide.pdf)
