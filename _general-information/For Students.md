@@ -54,12 +54,19 @@ description: ""
 
 **ICT Matters**
 
-*   [SLS Log in Guide](https://go.gov.sg/dxh48w)
-*   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7) 
-*    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
-*    [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
 *    [Student Routines](/files/Student/ICT%20matter/student%20routines.pdf)
+*   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7)
+**SLS (Student Learning Space**
+*   [SLS Log in Guide](https://go.gov.sg/dxh48w)
+
+**MIMS / ICON**
+*    [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
+
 *    [Students Self-Service Password Reset Guide ](/files/General%20Information/For%20Students/posters_mims_sspr_guide.pdf)
+
+**PLD**
+*    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
+
 
 
 
