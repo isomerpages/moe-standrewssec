@@ -57,11 +57,11 @@ description: ""
 *    [Student Routines](/files/Student/ICT%20matter/student%20routines.pdf)
 *   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7)
 **SLS (Student Learning Space)**
-* [SLS PORTAL ](https://vle.learning.moe.edu.sg/login)
+* [SLS Portal ](https://vle.learning.moe.edu.sg/login)
 *   [SLS Log in Guide](https://go.gov.sg/dxh48w)
 
 **MIMS / ICON**
-* [MIMS PORTAL](https://mims.moe.gov.sg/sspr)
+* [MIMS Portal](https://mims.moe.gov.sg/sspr)
 
 *    [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
 
