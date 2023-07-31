@@ -42,8 +42,6 @@ description: ""
  
 **Learning Tools**  
 
-*   [Student Icon Login](https://workspace.google.com/dashboard) 
-*   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 *   [Google Apps](https://www.google.com/a/sass.sg)
 *   [Get Updated on School Activities using your Smart Phones!](http://go.gov.sg/hsej44)  
     
@@ -54,11 +52,27 @@ description: ""
 
 **ICT Matters**
 
-*   [SLS Log in Guide](https://go.gov.sg/dxh48w)
-*   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7) 
-*    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
-*    [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
 *    [Student Routines](/files/Student/ICT%20matter/student%20routines.pdf)
+*   [Request Form For Password Reset](https://forms.gle/KW6nnKxe1qJtuvTt7)
+
+**SLS (Student Learning Space)**
+* [SLS Portal ](https://vle.learning.moe.edu.sg/login)
+*   [SLS Log in Guide](https://go.gov.sg/dxh48w)
+
+**MIMS / ICON**
+* [MIMS Portal](https://mims.moe.gov.sg/sspr)
+
+*    [MIMS Students Self-Service Password Reset Guide ](/files/General%20Information/For%20Students/posters_mims_sspr_guide.pdf)
+
+
+*   [Student Icon Login](https://workspace.google.com/dashboard) 
+
+*    [Guide to back-up student iCON](/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf)
+
+
+**PLD**
+*    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
+
 
 
 
