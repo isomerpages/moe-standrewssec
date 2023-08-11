@@ -5,7 +5,7 @@ description: ""
 ---
 ## Latest CCA Achievements in 2023
   
- ![](/images/achievement%20(last%20updated%2011%20aug%202023).PNG)
+
 
 
 ### Previous CCA Achievements
