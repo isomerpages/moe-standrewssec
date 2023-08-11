@@ -9,15 +9,15 @@ third_nav_title: Performing Arts
 ### CCA Schedule  
 
 
-Training Days:   Monday and Thursday  
+Training&nbsp;Days: &nbsp; Monday and Thursday  
 
-Training Time:   3.30 - 5.30 PM
+Training Time: &nbsp; 3.30 - 5.30 PM
 
-Training Venue:  School Lecture Theatre
+Training Venue:&nbsp;&nbsp;School Lecture Theatre
 
   
 
-### Teachers-in-Charge  
+### Teachers-in-Charge&nbsp;&nbsp;
 
 1. Ms Elizabeth Mary<br> thangaperakasam_elizabeth_mary@moe.edu.sg
 
@@ -25,16 +25,8 @@ Training Venue:  School Lecture Theatre
 
 3. Ms Carmen Chan<br>chan_jiamin_carmen@moe.edu.sg
  
-
   
 
-### Achievements
-
-
-
-#### 2021 
-
-Certificate of Distinction at the Singapore Youth Festival!
 
 ![](/images/Drama1.jpeg)
 

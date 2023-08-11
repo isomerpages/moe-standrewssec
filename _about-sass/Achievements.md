@@ -3,79 +3,17 @@ title: Achievements
 permalink: /about-sass/achievements/
 description: ""
 ---
-## Latest Achievements in 2023
+### 2023 CCA Achievements
   
- 
-    
-
-<table style="border-collapse:
- collapse;width:354pt" width="472" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:3254;width:67pt" width="89"> <col style="mso-width-source:userset;mso-width-alt:9910;width:203pt" width="271"> <col style="mso-width-source:userset;mso-width-alt:4096;width:84pt" width="112"></colgroup><tbody><tr style="height:15.0pt" height="20"><td style="height:15.0pt;width:67pt" width="89" class="xl63" height="20">CCA</td><td style="border-left:none;width:203pt" width="271" class="xl63">Competition</td><td style="border-left:none;width:84pt" width="112" class="xl63">Achievement</td></tr><tr style="height:15.0pt" height="20"><td style="height:60.0pt;border-top:none" class="xl64" height="80" rowspan="3">Hockey</td><td style="border-top:none;border-left:none" class="xl64">Youth Hockey Challenge 2023</td><td style="border-top:none;border-left:none" class="xl64">1st</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
-  none" class="xl64" height="20">Hockey National Junior League</td><td style="border-top:none;border-left:none" class="xl64">2nd</td></tr><tr style="height:30.0pt" height="40"><td style="height:30.0pt;border-top:none;
-  border-left:none;width:203pt" width="271" class="xl66" height="40">National School Games B Division Hockey Championship</td><td style="border-top:none;border-left:none" class="xl64">1st</td></tr><tr style="height:15.0pt" height="20"><td style="border-bottom:.5pt solid black;
-  height:45.0pt;border-top:none" class="xl67" height="60" rowspan="2">Rugby</td><td style="border-top:none;border-left:none" class="xl64">Under 14 Rugby 7s</td><td style="border-top:none;border-left:none" class="xl64">2nd</td></tr><tr style="height:30.0pt" height="40"><td style="height:30.0pt;border-top:none;
-  border-left:none;width:203pt" width="271" class="xl66" height="40">National School Games B Division Rugby Championship</td><td style="border-top:none;border-left:none" class="xl64">1st</td></tr><tr style="height:45.0pt" height="60"><td style="height:45.0pt;border-top:none" class="xl64" height="60">Taekwondo</td><td style="border-top:none;border-left:none;width:203pt" width="271" class="xl66">NSG Taekwondo Championship; Kyorugi, C Division Poom Belt Under 54kg. (Rezial Goh Rui Heng, 2SD)</td><td style="border-top:none;border-left:none" class="xl64">Bronze</td></tr><tr style="height:45.0pt" height="60"><td style="height:45.0pt;border-top:none" class="xl64" height="60">Cross-Country</td><td style="border-top:none;border-left:none;width:203pt" width="271" class="xl66">National School Games Cross-Country Championships (AYDEN TAN CHEE YEW, 4Em)</td><td style="border-top:none;border-left:none" class="xl64">5th</td></tr><tr style="height:45.0pt" height="60"><td style="height:45.0pt;border-top:none" class="xl64" height="60">Track and Field</td><td style="border-top:none;border-left:none;width:203pt" width="271" class="xl66">National School Games Track and Field Championships (AYDEN TAN CHEE YEW, 4Em)</td><td style="border-top:none;border-left:none" class="xl64">Finalist</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">NCC</td><td style="border-top:none;border-left:none" class="xl64">Unit Recognition</td><td style="border-top:none;border-left:none" class="xl64">Distinction</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">NPCC</td><td style="border-top:none;border-left:none" class="xl64">Unit Overall Proficiency Award</td><td style="border-top:none;border-left:none" class="xl64">Participation</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Boys Brigade</td><td style="border-top:none;border-left:none" class="xl65">J M Fraser Award for Excellence</td><td style="border-top:none;border-left:none" class="xl64">High Distinction</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Scouts</td><td style="border-top:none;border-left:none" class="xl64">Frank Cooper Sands Award</td><td style="border-top:none;border-left:none" class="xl64">Gold</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Concert Band</td><td style="border-top:none;border-left:none" class="xl64">Singapore Youth Festival Arts Presentation</td><td style="border-top:none;border-left:none" class="xl64">Accomplishment</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Choir</td><td style="border-top:none;border-left:none" class="xl64">Singapore Youth Festival Arts Presentation</td><td style="border-top:none;border-left:none" class="xl64">Distinction</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none" class="xl64" height="20">Drama</td><td style="border-top:none;border-left:none" class="xl64">Singapore Youth Festival Arts Presentation</td><td style="border-top:none;border-left:none" class="xl64">Distinction</td></tr></tbody></table>
+![](/images/Achievements/2023%20achievement%20(last%20updated%2011%20aug%202023).PNG)
 
 
+### 2022 CCA Achievements
+![](/images/Achievements/2022%20achievement%20(last%20updated%2011%20aug%202023).PNG)
 
-
-### Previous Achievements
-##### **The following achievements were made by students in their&nbsp;CCAs:**
-
-#### a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clubs and Societies:
-###### i. Champions, 1st&nbsp;Runners-Up &amp; 2nd&nbsp;Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Sprint)
-######  ii.&nbsp; &nbsp; Design Award&nbsp;&amp; 2nd&nbsp;Runners-Up, Robotics Club,&nbsp;at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Maker)
-
-#### b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports:
-
-######  i.&nbsp; &nbsp; &nbsp;3rd&nbsp;place,&nbsp;Rugby, at the 2022 ‘B’ Division National School Games
-
-######  ii.&nbsp; &nbsp; &nbsp;4th&nbsp;place, Hockey, at the 2022 ‘B’ Division National School Games.
-
-###### iii.&nbsp;&nbsp; &nbsp;4th&nbsp;place, Cricket, at the 2022 ‘B’ Division National School Games.
- 
-###### iv.&nbsp; &nbsp;&nbsp;4th&nbsp;place, Swimming, at the 2022 ‘B’ Division National School Games (Boys 4 x 50m Freestyle Relay)
-
-###### v.&nbsp; &nbsp;5th&nbsp;place, Swimming, at the 2022 ‘B’ Division National School Games (Freestyle Relay &amp; Medley Relay) and the&nbsp;2022 ‘C’ Division National School Games (Medley Relay)
-
-###### vi.&nbsp; &nbsp; Finalists at the 'B' Division Track &amp; Field National School Games Championships 800m, 1500m and 3000m events
-
-###### vii.&nbsp;&nbsp; &nbsp;Semi-Finalists at the&nbsp;'B' Division Track &amp; Field National School Games Championships 400m event
-
-#### c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Performing Arts:
-
-###### i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Band (Flexible Band)
-
-######  ii.&nbsp; &nbsp;&nbsp;Certificate of Accomplishment, SYF 2021, Band (Percussion Ensemble)
-
-###### iii.&nbsp; &nbsp;Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Saints Drama
-
-#### d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uniformed Groups:
-
-######  i.&nbsp; &nbsp; &nbsp; Distinction, National Cadets Corps (NCC), Unit Recognition Award 2021.&nbsp;
-
-######  ii.&nbsp; &nbsp; &nbsp;Outstanding Cadet Award 2021, NCC: MSG Soo Wei Xiang &amp; MSG Muhammad Imran Bin Sabir Mohamed.
-
-######  iii.&nbsp;&nbsp;&nbsp;&nbsp;Gold,&nbsp;National Police Cadet Corps (NPCC),&nbsp;Unit Overall Proficiency Award 2021.
-
-###### iv.&nbsp;&nbsp;&nbsp;&nbsp;Best Unit Cadet 2022, NPCC: S.I Lau Wing Ban Wyne.&nbsp;
-
-###### v.&nbsp;&nbsp;&nbsp;&nbsp;4th&nbsp;place, NPCC, at the Tanglin Division Inter-NPCC Anti-Scam TikTok Challenge 2021.
-
-###### vi.&nbsp;&nbsp;&nbsp;&nbsp;Singapore Police Force NPCC Badge Award 2022: S.I. Isaac Ng Hong Liang &amp; SSGT (NPCC) Lim Yu Jie Javan.
-
-###### vii.&nbsp;&nbsp;&nbsp;&nbsp;6th&nbsp;place, NPCC, Inter-Unit E-CSI Competition 2022
-
-###### viii.&nbsp;&nbsp;&nbsp;Silver, Scouts,&nbsp;National Patrol Camp
-
-###### ix.&nbsp;&nbsp;&nbsp;&nbsp;Scouts,&nbsp;Chief Commissioner Award 2021: Ansel Foo.
-
-###### x.&nbsp; &nbsp; Gold Banding for 3 teams, Scouts, at the&nbsp;National Explorer Challenge 2021.
-
-###### xi.&nbsp; &nbsp;&nbsp;Silver Honour Roll, Boys Brigade, J.M. Fraser Award for Excellence 2022.
-
-###### xii.&nbsp; &nbsp; Founder's Men Award 2022, Boys Brigade:&nbsp;SSG Ho Kok Hou Michael,&nbsp;SSG Wong Wai Seng Isaac,&nbsp;SSG Karthikeyan Vikhram,&nbsp;SGT Caleb Wong Ler,&nbsp;SGT Josiah Loh Yi
-
-
+### 2021 CCA Achievements
+![](/images/Achievements/2021%20achievement%20(last%20updated%2011%20aug%202023).PNG)
+### Academic Achievements
 
 ##### **The following achievements were made by students at&nbsp;national events or competitions:**
 
@@ -104,7 +42,14 @@ _SASS is one of MOE's pilot schools for Full Subject-Based Banding (FSBB). The s
 * "28 secondary schools to pilot full subject-based banding from 2020", Channel NewsAsia, on 3 Sept 2019, by Tan Si Hui  
   
 #### National School Games
-_The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd&nbsp;and 4th&nbsp;placing match during the National School Games 2018. The following articles were published:_
+
+*The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship and excellence at the National School Games 2023 Championship, clinching 1st place.*
+
+1.  [National School Games Portfolio - Rugby, St Andrew's Secondary School](https://www.activesgcircle.gov.sg/watch/national-school-games-rugby-profile?fbclid=IwAR1suN3FdU5mibbnajZPT_7pOaCzNb0PtwbDvkuFB1eDXBc-r6sFBQ3PG3Q)
+2.  [“橄”于拼搏　圣安德烈勇夺冠 ，黄慧冰，早报校园，2023年7月12日](https://www.zbschools.sg/news/sports/stories-27301)
+
+
+*The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd&nbsp;and 4th&nbsp;placing match during the National School Games 2018. The following articles were published:*
 
 * “School sports: St Andrew's Secondary hockey players lose match but win admiration for sportsmanship”, The Straits Times, on 12 Apr, by Natalie Choy Ching Mun
 
