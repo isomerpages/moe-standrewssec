@@ -3,15 +3,16 @@ title: Achievements
 permalink: /about-sass/achievements/
 description: ""
 ---
-## Latest CCA Achievements in 2023
+### 2023 CCA Achievements
   
+![](/images/Achievements/2023%20achievement%20(last%20updated%2011%20aug%202023).PNG)
 
 
+### 2022 CCA Achievements
+![](/images/Achievements/2022%20achievement%20(last%20updated%2011%20aug%202023).PNG)
 
-### Previous CCA Achievements
-
-
-
+### 2021 CCA Achievements
+![](/images/Achievements/2021%20achievement%20(last%20updated%2011%20aug%202023).PNG)
 ### Academic Achievements
 
 ##### **The following achievements were made by students at&nbsp;national events or competitions:**
@@ -41,7 +42,14 @@ _SASS is one of MOE's pilot schools for Full Subject-Based Banding (FSBB). The s
 * "28 secondary schools to pilot full subject-based banding from 2020", Channel NewsAsia, on 3 Sept 2019, by Tan Si Hui  
   
 #### National School Games
-_The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd&nbsp;and 4th&nbsp;placing match during the National School Games 2018. The following articles were published:_
+
+*The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship and excellence at the National School Games 2023 Championship, clinching 1st place.*
+
+1.  [National School Games Portfolio - Rugby, St Andrew's Secondary School](https://www.activesgcircle.gov.sg/watch/national-school-games-rugby-profile?fbclid=IwAR1suN3FdU5mibbnajZPT_7pOaCzNb0PtwbDvkuFB1eDXBc-r6sFBQ3PG3Q)
+2.  [“橄”于拼搏　圣安德烈勇夺冠 ，黄慧冰，早报校园，2023年7月12日](https://www.zbschools.sg/news/sports/stories-27301)
+
+
+*The ‘B’ Division Hockey team received positive media coverage for their display of sportsmanship at the 3rd&nbsp;and 4th&nbsp;placing match during the National School Games 2018. The following articles were published:*
 
 * “School sports: St Andrew's Secondary hockey players lose match but win admiration for sportsmanship”, The Straits Times, on 12 Apr, by Natalie Choy Ching Mun
 
