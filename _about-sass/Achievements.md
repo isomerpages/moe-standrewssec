@@ -3,71 +3,16 @@ title: Achievements
 permalink: /about-sass/achievements/
 description: ""
 ---
-## Latest Achievements in 2023
+## Latest CCA Achievements in 2023
   
  ![](/images/achievement%20(last%20updated%2011%20aug%202023).PNG)
 
 
+### Previous CCA Achievements
 
 
-### Previous Achievements
-##### **The following achievements were made by students in their&nbsp;CCAs:**
 
-#### a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clubs and Societies:
-###### i. Champions, 1st&nbsp;Runners-Up &amp; 2nd&nbsp;Runners-Up, Robotics Club, at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Sprint)
-######  ii.&nbsp; &nbsp; Design Award&nbsp;&amp; 2nd&nbsp;Runners-Up, Robotics Club,&nbsp;at the Innovation, Design and Engineering (IDE) Competition 2021 (IDE Maker)
-
-#### b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sports:
-
-######  i.&nbsp; &nbsp; &nbsp;3rd&nbsp;place,&nbsp;Rugby, at the 2022 ‘B’ Division National School Games
-
-######  ii.&nbsp; &nbsp; &nbsp;4th&nbsp;place, Hockey, at the 2022 ‘B’ Division National School Games.
-
-###### iii.&nbsp;&nbsp; &nbsp;4th&nbsp;place, Cricket, at the 2022 ‘B’ Division National School Games.
- 
-###### iv.&nbsp; &nbsp;&nbsp;4th&nbsp;place, Swimming, at the 2022 ‘B’ Division National School Games (Boys 4 x 50m Freestyle Relay)
-
-###### v.&nbsp; &nbsp;5th&nbsp;place, Swimming, at the 2022 ‘B’ Division National School Games (Freestyle Relay &amp; Medley Relay) and the&nbsp;2022 ‘C’ Division National School Games (Medley Relay)
-
-###### vi.&nbsp; &nbsp; Finalists at the 'B' Division Track &amp; Field National School Games Championships 800m, 1500m and 3000m events
-
-###### vii.&nbsp;&nbsp; &nbsp;Semi-Finalists at the&nbsp;'B' Division Track &amp; Field National School Games Championships 400m event
-
-#### c.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Performing Arts:
-
-###### i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Band (Flexible Band)
-
-######  ii.&nbsp; &nbsp;&nbsp;Certificate of Accomplishment, SYF 2021, Band (Percussion Ensemble)
-
-###### iii.&nbsp; &nbsp;Certificate of Distinction, Singapore Youth Festival (SYF) 2021, Saints Drama
-
-#### d.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uniformed Groups:
-
-######  i.&nbsp; &nbsp; &nbsp; Distinction, National Cadets Corps (NCC), Unit Recognition Award 2021.&nbsp;
-
-######  ii.&nbsp; &nbsp; &nbsp;Outstanding Cadet Award 2021, NCC: MSG Soo Wei Xiang &amp; MSG Muhammad Imran Bin Sabir Mohamed.
-
-######  iii.&nbsp;&nbsp;&nbsp;&nbsp;Gold,&nbsp;National Police Cadet Corps (NPCC),&nbsp;Unit Overall Proficiency Award 2021.
-
-###### iv.&nbsp;&nbsp;&nbsp;&nbsp;Best Unit Cadet 2022, NPCC: S.I Lau Wing Ban Wyne.&nbsp;
-
-###### v.&nbsp;&nbsp;&nbsp;&nbsp;4th&nbsp;place, NPCC, at the Tanglin Division Inter-NPCC Anti-Scam TikTok Challenge 2021.
-
-###### vi.&nbsp;&nbsp;&nbsp;&nbsp;Singapore Police Force NPCC Badge Award 2022: S.I. Isaac Ng Hong Liang &amp; SSGT (NPCC) Lim Yu Jie Javan.
-
-###### vii.&nbsp;&nbsp;&nbsp;&nbsp;6th&nbsp;place, NPCC, Inter-Unit E-CSI Competition 2022
-
-###### viii.&nbsp;&nbsp;&nbsp;Silver, Scouts,&nbsp;National Patrol Camp
-
-###### ix.&nbsp;&nbsp;&nbsp;&nbsp;Scouts,&nbsp;Chief Commissioner Award 2021: Ansel Foo.
-
-###### x.&nbsp; &nbsp; Gold Banding for 3 teams, Scouts, at the&nbsp;National Explorer Challenge 2021.
-
-###### xi.&nbsp; &nbsp;&nbsp;Silver Honour Roll, Boys Brigade, J.M. Fraser Award for Excellence 2022.
-
-###### xii.&nbsp; &nbsp; Founder's Men Award 2022, Boys Brigade:&nbsp;SSG Ho Kok Hou Michael,&nbsp;SSG Wong Wai Seng Isaac,&nbsp;SSG Karthikeyan Vikhram,&nbsp;SGT Caleb Wong Ler,&nbsp;SGT Josiah Loh Yi
-
-
+### Academic Achievements
 
 ##### **The following achievements were made by students at&nbsp;national events or competitions:**
 
