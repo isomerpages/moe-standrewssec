@@ -29,6 +29,7 @@ description: ""
 
 [2023 4NT Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204nt%20prelims%20tt.pdf)
 
+[2023 End-Of-Year-Examination Schedule (Sec 1 - Sec 3)](https://tinyurl.com/2023EOYTIMETABLE.)
 **Developmental Matters**  
 
 * [Saints Code of Conduct ( Updated Term 2 2023)](/files/General%20Information/For%20Students/202304_saints%20code%20of%20conduct%20for%202023.pdf)
