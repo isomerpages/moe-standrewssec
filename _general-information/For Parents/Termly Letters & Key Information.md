@@ -27,7 +27,7 @@ third_nav_title: For Parents
 
 [Sec 4/5 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
 
-[2023 End-Of-Year Examination Schedule (Sec 1 - Sec 3)](https://tinyurl.com/2023EOYTIMETABLE.)
+[2023 End-of-Year Examination Schedule (Sec 1- Sec 3)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQtTEPAlrBpEdbN4F79BhAsSQgnzBcU4346UXB_kJEQvIHO6LEoOY4PuK4tvZry12mGbViI_ifvSGtv/pubhtml)
   
 **Developmental Matters**  
 
