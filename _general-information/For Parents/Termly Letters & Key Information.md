@@ -13,6 +13,8 @@ third_nav_title: For Parents
 
 [2023 Principal's Term 3 Letter to Parents](/files/Parent/Termly%20Letters/sass%20term%203%20letter%20to%20parents%202023.pdf)
 
+[2023 Principal's Term 4 Letter to Parents](/files/General%20Information/For%20Parents/sass%20term%204%20letter%20to%20parents%202023.pdf)
+
 **Saints Calendar**  
 [Events for Semester 1 2023](/files/Calendar/Saints%20Calendar%20Sem%201%202023.pdf)
 
