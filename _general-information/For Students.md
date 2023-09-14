@@ -9,9 +9,9 @@ description: ""
 
 [Sec 1 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%201%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
 
-[Sec 2 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%202%20weighted%20assesment%20overview%20_sec%202%20updated%2025%20may%202023.pdf)
+[Sec 2 Weighted Assessment Overview (Updated 8 Sept 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/8%20sep%202023%20(1)%20sec%202%20weighted%20assesment%20overview%20_sec%202%20updated.pdf)
 
-[Sec 3 Weighted Assessment Overview (Updated 22 June 2023)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2022%20june%202023.pdf)
+[Sec 3 Weighted Assessment Overview (Updated 18 Aug 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/18%20aug%202023%20(1)%20sec%203%20weighted%20assesment%20overview%20(final).pdf)
 
 [Sec 4 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
 

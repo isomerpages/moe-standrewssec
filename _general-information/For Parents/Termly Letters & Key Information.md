@@ -13,6 +13,8 @@ third_nav_title: For Parents
 
 [2023 Principal's Term 3 Letter to Parents](/files/Parent/Termly%20Letters/sass%20term%203%20letter%20to%20parents%202023.pdf)
 
+[2023 Principal's Term 4 Letter to Parents](/files/General%20Information/For%20Parents/sass%20term%204%20letter%20to%20parents%202023.pdf)
+
 **Saints Calendar**  
 [Events for Semester 1 2023](/files/Calendar/Saints%20Calendar%20Sem%201%202023.pdf)
 
@@ -21,9 +23,9 @@ third_nav_title: For Parents
 
 [Sec 1 Weighed Assessment Overview (Updated 25 May 2023](/files/Parent/Assessment%20Matters/sec%201%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
 
-[Sec 2 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%202%20weighted%20assesment%20overview%20_sec%202%20updated%2025%20may%202023.pdf)
+[Sec 2 Weighted Assessment Overview (Updated 8 Sept 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/8%20sep%202023%20(1)%20sec%202%20weighted%20assesment%20overview%20_sec%202%20updated.pdf)
 
-[Sec 3 Weighted Assessment Overview (Updated 22 June 2023)](/files/Parent/Assessment%20Matters/sec%203%20weighted%20assesment%20overview%20(final)%20updated%2022%20june%202023.pdf)
+[Sec 3 Weighted Assessment Overview (Updated 18 Aug 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/18%20aug%202023%20(1)%20sec%203%20weighted%20assesment%20overview%20(final).pdf)
 
 [Sec 4/5 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
 
@@ -46,7 +48,7 @@ third_nav_title: For Parents
 *   [Parents Gateway](https://pg.moe.edu.sg/)
 *   [Parents Kit](https://www.moe.gov.sg/parentkit)
 *   [Mobile Notification: Get Updated on School Activities using your Smart Phones!](/files/Get%20Mobile%20Notification%20from%20SASS%20for%20your%20iPhone%20or%20Android.pdf)
-   *   [St Andrew's  Parent-Teacher Association (SAPTA)](https://www.saintandrewsjunior.moe.edu.sg/general-information/sapta)
+   *   [St Andrew's  Parent-Teacher Association (SAPTA)](https://sapta.sg/)
  
 
 **Financial Aid**  
