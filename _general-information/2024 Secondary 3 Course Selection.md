@@ -13,11 +13,11 @@ description: ""
 <br>
 
 #### 1) Information for 2023 2N(T) Course
-[Click here to download PDF slides for 2023 2N(T) students](/files/General%20Information/2023%20conference%20with%20parents%202nt.pdf)
+[Click here to download information for 2023 2N(T) students](/files/General%20Information/3%20nt%20final%20combination%20and%20precourse%20allocation%202023.pdf)
 
 #### 2) Information for 2023 2N(A) Course
 
-[Click here to download PDF slides for 2023 2N(A) students](/files/General%20Information/2023%20conference%20with%20parents%20sec%202n(a)_final.pdf)
+[Click here to download information for 2023 2N(A) students](/files/General%20Information/3%20na%20final%20combination%20and%20precourse%20allocation%202023.pdf)
 
 #### 3) Information for 2023 2E Course
-[Click here to download PDF slides for 2023 2E students](/files/General%20Information/2023%20conference%20with%20parents_sec%202e.pdf)
+[Click here to download information for 2023 2E students](/files/General%20Information/3%20exp%20final%20combination%20and%20precourse%20allocation%202023.pdf)
