@@ -27,12 +27,13 @@ sections:
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
   - infopic:
-      title: 2023 SASS DSA Application
-      subtitle: Missed our DSA WEbinar?
-      description: All webinar information are available on our website!
-      button: Click here for more
-      url: https://www.standrewssec.moe.edu.sg/general-information/2023directschooladmission/
-      image: /images/2023 DSA/2023dsaedm.jpg
+      title: 18 Nov, Sat, 10am
+      subtitle: 2023 e-open house
+      id: infopic
+      description: Join us!
+      button: Click here to register!
+      url: https://tinyurl.com/2pxrwae8
+      image: /images/E Open House 2023/sass e-open house 1.jpg
       alt: Image alt text
   - infobar:
       title: 2024 Sec 3 Course Selection Information
