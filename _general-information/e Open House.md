@@ -12,6 +12,5 @@ Scan the QR code above or click on this link [https://tinyurl.com/2pxrwae8](http
  Lives are in the making here - Up and On!
  
 
-
 For more updates, follow us on our 
 [SASS Facebook Page.](https://www.facebook.com/standrewssec/)
