@@ -32,7 +32,7 @@ sections:
       id: infopic
       description: Join us!
       button: Click here to register!
-      url: https://staging.d1zt52mog84ljj.amplifyapp.com/general-informaition/e-open-house/
+      url: https://tinyurl.com/2pxrwae8
       image: /images/E Open House 2023/sass e-open house 1.jpg
       alt: Image alt text
   - infobar:
