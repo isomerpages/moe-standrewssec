@@ -3,6 +3,7 @@ title: SASS Key Personnel
 permalink: /about-sass/SASS-Key-Personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ## SASS Key Personnel 
 
@@ -35,7 +36,6 @@ third_nav_title: Our People
 | Mr Chuah Chongxian | Year Head / Lower Secondary | chuah_chongxian@moe.edu.sg  |
 | Mrs Carol Yap| Year Head / Upper Secondary | chua_oon_cheng_carol@moe.edu.sg  |
 | Mr Gene Yeo | Subject Head / Applied Learning |yeo_haig_gene@moe.edu.sg  |
-|Ms Joanna Chew| Subject Head / Art | chew_cher_joanna@moe.edu.sg |
 | Ms Charlene Tan | Subject Head / Character & Citizenship Education | tan_siew_hon_charlene@moe.edu.sg  |
 |Mr Kwok Sheng Da | Subject Head / Design & Technology |kwok_sheng_da@moe.edu.sg |
 | Mr Udayakumar Manogaran| Subject Head / Discipline | udayakumar_manogaran@moe.edu.sg |
@@ -45,7 +45,6 @@ third_nav_title: Our People
 | Ms Angel Lee | Subject Head / Mathematics| lee_song_tiang@moe.edu.sg |
 | Ms Theeba Thayalan | Subject Head / Mother Tongue Languages | theeba_pachaimuthu_thayala@moe.edu.sg |
 |Mr Daniel Thiam|Subject Head / PE & CCA (covering) | thiam_siong_oon_daniel@moe.edu.sg |
-|Ms Angeline Ler | Subject Head / Science | ler_ming_shan_angeline@moe.edu.sg  |
 | Ms Keh Hui Hui | Subject Head / Student Well-Being | keh_hui_hui@moe.edu.sg |
 | Mr Prinya Lovajana | Assistant Year Head / Secondary 1 & 5 |prinya_lovajana@moe.edu.sg|
 | Ms Shanthini Rathakrishnan | Assistant Year Head / Secondary 3 (covering) | shanthini_rathakrishnan@moe.edu.sg |
@@ -55,6 +54,8 @@ third_nav_title: Our People
 | Mr Liang Sea Fong | Senior Teacher / Literature |liang_sea_fong@moe.edu.sg |
 | Mr Lam Wai Leong| Senior Teacher / Social Studies | lam_wai_leong@moe.edu.sg |
 | Mr Mohamed Osman | Senior Teacher / PE| mohamed_osman_mohamed_noor@moe.edu.sg |
-| Mr Lim Huey Min |Administration Manager | sass@moe.edu.sg|
+|Ms Joanna Chew| Senior Teacher / Art | chew_cher_joanna@moe.edu.sg |
+| Ms Chua Xin Yuan | Senior Teacher / Educational Support| chua_xin_yuan@moe.edu.sg |
+| Mr Lee Kam Chuen |Administration Manager | sass@moe.edu.sg|
 |Ms Chan Ying Xian | Administration Manager | sass@moe.edu.sg | |
 |Mr C Bhonesveran|Operations Manager | sass@moe.edu.sg |
