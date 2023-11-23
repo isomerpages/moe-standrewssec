@@ -8,7 +8,7 @@ variant: markdown
 
 What's it like being a student at SASS? Have questions about SASS and our various programmes? Missed our e-Open House on Saturday, 18 November? Did not get to hear our Saints share their amazing SASS experience?
 
-Fret not! Click here for the slides and FAQ.
+Fret not! Click [here](/files/YEX_2023_for_website.pdf) for the slides with information shared with our attendees.  Click [here](/files/e_open_house_faq_2023_nov.pdf) for FAQs.
 
 We welcome you to also email your queries to sass@moe.edu.sg.
 
