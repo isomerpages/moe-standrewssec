@@ -2,6 +2,7 @@
 title: For Students
 permalink: /general-information/for-students/
 description: ""
+variant: markdown
 ---
 ![](/images/For%20student/SASS-D1A-3.jpg)
 
@@ -87,36 +88,3 @@ description: ""
 
 
 
-**2023 Booklists**
-
-2023 Secondary 1
-
-* [2023 Sec 1 Stationery List ](/files/Student/Book%20list/Sec1/1STA.pdf)
-* [2023 Sec 1 G1(NT) Booklist](/files/Student/Book%20list/Sec1/1G1.pdf)
-* [2023 Sec 1 G2 (NA) Booklist ](/files/Student/Book%20list/Sec1/1G2.pdf)
-* [2023 Sec 1 G3 (EXP) Booklist](/files/Student/Book%20list/Sec1/1G3.pdf)
-
-2023 Secondary 2
-
-*  [2023 Sec 2 Stationery List](/files/Student/Book%20list/Sec2/2STA.pdf)
-*  [2023 Sec 2 G1 (NT) Booklist](/files/Student/Book%20list/Sec2/2G1.pdf)
-*  [2023 Sec 2 G2 (NA) Booklist](/files/Student/Book%20list/Sec2/2G2.pdf)
-*  [2023 Sec 2 G3 (EXP)Booklist ](/files/Student/Book%20list/Sec2/2G3.pdf)
-
-  
-
-2023 Secondary 3
-
-* [2023 Sec 3 Stationery List](/files/Student/Book%20list/Sec3/3STA.pdf)
-* [2023 Sec 3 G1 (NT) Booklist ](/files/Student/Book%20list/Sec3/3G1.pdf)
-* [2023 Sec 3 G2 (NA) Booklist ](/files/Student/Book%20list/Sec3/3G2.pdf)
-* [2023 Sec 3 G3 (EXP) Booklist ](/files/Student/Book%20list/Sec3/3G3.pdf)
-  
-
-2023 Secondary 4E5N
-
-*  [2023 Sec 4/5 Stationery List](/files/Student/Book%20list/Sec4/45STA.pdf)
-*  [2023 Sec 4NT Booklist ](/files/Student/Book%20list/Sec4/4G1.pdf)
-*  [2023 Sec 4NA Booklist ](/files/Student/Book%20list/Sec4/4G2.pdf)
-*  [2023 Sec 3EXP Booklist ](/files/Student/Book%20list/Sec4/4G3.pdf)
-*  [2023 Sec 5NA Booklist ](/files/Student/Book%20list/Sec4/5NA.pdf)
