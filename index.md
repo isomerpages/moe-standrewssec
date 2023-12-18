@@ -27,18 +27,14 @@ sections:
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
   - infopic:
-      title: 18 Nov, Sat, 10am
-      subtitle: 2023 e-open house
+      title: 2024 Sec 1 Cohort e Registration
+      subtitle: Welcome, Sec 1s!
       id: infopic
-      description: Join us!
-      button: Click here to register!
-      url: https://tinyurl.com/2pxrwae8
-      image: /images/E Open House 2023/sass e-open house 1.jpg
+      description: For more information on Sec 1 e registration process, purchase of
+        uniforms and textbooks, Transfer Appeals and Week 1 of School, please
+        click on the link below.
+      button: Take me to page
+      url: https://staging.d1zt52mog84ljj.amplifyapp.com/general-information/sec1ereg/
+      image: /images/About SASS -_ Our School.jpg
       alt: Image alt text
-  - infobar:
-      title: 2024 Sec 3 Course Selection Information
-      subtitle: new!!!
-      description: Slides for 2023 Sec 2 cohort are now available online!
-      button: Click Here
-      url: /general-information/2024sec3courseselection/
 ---
