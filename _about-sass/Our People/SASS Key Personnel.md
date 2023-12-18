@@ -38,7 +38,6 @@ variant: markdown
 | Mr Gene Yeo | Subject Head / Applied Learning |yeo_haig_gene@moe.edu.sg  |
 | Ms Charlene Tan | Subject Head / Character & Citizenship Education | tan_siew_hon_charlene@moe.edu.sg  |
 |Mr Kwok Sheng Da | Subject Head / Design & Technology |kwok_sheng_da@moe.edu.sg |
-| Mr Udayakumar Manogaran| Subject Head / Discipline | udayakumar_manogaran@moe.edu.sg |
 | Mrs Daphne Ang| Subject Head / Geography | wong_phui_yeng@moe.edu.sg |
 |Mdm Josephine Phua |Subject Head / Information and Communications Technology | phua_poi_yeok@moe.edu.sg  |
 | Ms Denise Fernandez | Subject Head / Literature |fernandez_denise_marie@moe.edu.sg|
@@ -46,8 +45,9 @@ variant: markdown
 | Ms Theeba Thayalan | Subject Head / Mother Tongue Languages | theeba_pachaimuthu_thayala@moe.edu.sg |
 |Mr Daniel Thiam|Subject Head / PE & CCA | thiam_siong_oon_daniel@moe.edu.sg |
 | Ms Keh Hui Hui | Subject Head / Student Well-Being | keh_hui_hui@moe.edu.sg |
-| Mr Prinya Lovajana | Assistant Year Head / Secondary 1 & 5 |prinya_lovajana@moe.edu.sg|
+| Mr Prinya Lovajana | Subject Head / Community Youth Leadership and VIA|prinya_lovajana@moe.edu.sg|
 | Ms Shanthini Rathakrishnan | Assistant Year Head / Secondary 3 (covering) | shanthini_rathakrishnan@moe.edu.sg |
+| Mr Foo Qihui Jonathan | Assistant Year Head / Secondary 2 (covering) | foo_qihui@moe.edu.sg |
 | Mr Chew Ee |Lead Teacher / History | chew_ee@moe.edu.sg|
 | Mr Marek Otreba | Lead Teacher / Social Studies | marek_otreba@moe.edu.sg |
 | Mrs Yvonne Cheen |Senior Teacher/ Character & Citizenship Education |tay_su-lin_yvonne@moe.edu.sg  |
