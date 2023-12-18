@@ -2,7 +2,7 @@ collections:
   general-information:
     output: true
     order:
-      - Sec 1 e Registration/Sec 1 e Registration.md
+      - Sec 1 e Registration/Sec 1 e Registration Overview.md
       - Sec 1 e Registration/.keep
       - For Parents/2024 Booklist and Uniform Sales Information.md
       - For Parents/.keep
