@@ -2,10 +2,10 @@ collections:
   general-information:
     output: true
     order:
-      - Sec 1 e Registration/Sale of School Uniform and PE Attire.md
-      - Sec 1 e Registration/Sale of Secondary One Textbooks.md
       - Sec 1 e Registration/.keep
       - Sec 1 e Registration/What must I do for Sec 1 e Registration?.md
+      - Sec 1 e Registration/Sale of School Uniform and PE Attire.md
+      - Sec 1 e Registration/Sale of Secondary One Textbooks.md
       - Sec 1 e Registration/Transfer Appeals to SASS.md
       - For Parents/.keep
       - For Parents/2024 Booklist and Uniform Sales Information.md
