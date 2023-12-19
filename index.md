@@ -17,8 +17,8 @@ sections:
       subtitle: Welcome, Sec 1s!
       id: infopic
       description: For more information on Sec 1 e registration process, purchase of
-        uniforms and textbooks, Transfer Appeals and Week 1 of School, please
-        click on the link below.
+        uniforms and textbooks and Transfer Appeals, please click on the link
+        below.
       button: Take me to page
       url: https://standrewssec.moe.edu.sg/general-information/sec1ereg/
       image: /images/About SASS -_ Our School.jpg
