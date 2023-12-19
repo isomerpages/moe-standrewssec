@@ -13,12 +13,11 @@ sections:
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - infopic:
-      title: 2024 Sec 1 Cohort e Registration
+      title: 2024 Secondary One Registration
       subtitle: Welcome, Sec 1s!
       id: infopic
-      description: For more information on Sec 1 e registration process, purchase of
-        uniforms and textbooks and Transfer Appeals, please click on the link
-        below.
+      description: For more information on Sec 1 e-registration process, purchase of
+        uniforms and textbooks, please click on the link below.
       button: Take me to page
       url: https://standrewssec.moe.edu.sg/general-information/sec1ereg/
       image: /images/About SASS -_ Our School.jpg
