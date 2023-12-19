@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Secondary 1 Transfer Appeals to SASS.md
       - Sec 1 e Registration/.keep
       - Sec 1 e Registration/What must I do for Sec 1 e Registration?.md
       - Sec 1 e Registration/Purchase of School Uniform and PE Attire.md
