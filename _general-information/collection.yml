@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Sec 1 e Registration/Sale of School Uniform and PE Attire.md
       - Sec 1 e Registration/Sale of Secondary One Textbooks.md
       - Sec 1 e Registration/.keep
       - Sec 1 e Registration/What must I do for Sec 1 e Registration?.md
