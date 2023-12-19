@@ -36,4 +36,21 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+  - textcards:
+      title: 2024 Secondary One Registration
+      id: textcards
+      description: "Please click on the links below for "
+      cards:
+        - title: "1.\tSecondary One e-Registration "
+          description: ""
+          linktext: Click Here
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
