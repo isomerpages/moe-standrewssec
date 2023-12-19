@@ -13,6 +13,17 @@ sections:
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - infopic:
+      title: 2024 Sec 1 Cohort e Registration
+      subtitle: Welcome, Sec 1s!
+      id: infopic
+      description: For more information on Sec 1 e registration process, purchase of
+        uniforms and textbooks, Transfer Appeals and Week 1 of School, please
+        click on the link below.
+      button: Take me to page
+      url: https://standrewssec.moe.edu.sg/general-information/sec1ereg/
+      image: /images/About SASS -_ Our School.jpg
+      alt: Image alt text
+  - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
       button: Here
@@ -26,15 +37,4 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
-  - infopic:
-      title: 2024 Sec 1 Cohort e Registration
-      subtitle: Welcome, Sec 1s!
-      id: infopic
-      description: For more information on Sec 1 e registration process, purchase of
-        uniforms and textbooks, Transfer Appeals and Week 1 of School, please
-        click on the link below.
-      button: Take me to page
-      url: https://staging.d1zt52mog84ljj.amplifyapp.com/general-information/sec1ereg/
-      image: /images/About SASS -_ Our School.jpg
-      alt: Image alt text
 ---
