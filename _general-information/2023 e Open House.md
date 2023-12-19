@@ -1,5 +1,5 @@
 ---
-title: e Open House
+title: 2023 e Open House
 permalink: /general-informaition/e-open-house/
 description: ""
 variant: markdown

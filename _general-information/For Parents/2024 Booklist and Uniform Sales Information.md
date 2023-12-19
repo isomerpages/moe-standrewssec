@@ -10,6 +10,14 @@ Dear Parents/Guardians,
 ##### **2024 Booklist**
 The 2024 booklists for G1, G2 and G3 subjects are attached below for your information. You may place your orders online at [www.printpak.com.sg](http://www.printpak.com.sg) from 16 Nov 9am till 15 Dec 4pm. Note that for self-collection, online orders are to be made by 12 Dec, after which only the delivery option is available. Details can be found in the booklists attached.
 
+
+
+[Sec 1G1 Booklist](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G1_Booklist.pdf)
+
+[Sec 1G2 Booklist](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G2_Booklist.pdf)
+
+[Sec 1G3 Booklist](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G3_Booklist.pdf)
+
 [Sec 2G1 Booklist](/files/2024_Sec_2G1_Booklist.pdf)
 
 [Sec 2G2 Booklist](/files/2024_Sec_2G2_Booklist.pdf)
