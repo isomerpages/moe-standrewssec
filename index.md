@@ -29,6 +29,12 @@ sections:
           description: ""
           linktext: Click Here
           url: https://www.standrewssec.moe.edu.sg/general-information/sec-1-e-registration/permalink/uniform/
+  - infobar:
+      title: 2024 Secondary One Transfer Appeals
+      id: infobar
+      description: For more information, click on the link below.
+      button: Take me to page
+      url: https://standrewssec.moe.edu.sg/general-information/permalink/transferappeal/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
@@ -43,10 +49,4 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
