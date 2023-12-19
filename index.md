@@ -12,17 +12,29 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
-  - infopic:
-      title: 2024 Sec 1 Cohort e Registration
-      subtitle: Welcome, Sec 1s!
-      id: infopic
-      description: For more information on Sec 1 e registration process, purchase of
-        uniforms and textbooks and Transfer Appeals, please click on the link
-        below.
+  - textcards:
+      title: 2024 Secondary One Registration
+      id: textcards
+      description: Please click on the links below for
+      cards:
+        - title: 1.	Secondary One e-Registration
+          description: ""
+          linktext: Click Here
+          url: https://standrewssec.moe.edu.sg/general-information/sec1ereg/
+        - title: 2. Purchase of Secondary 1 2024 textbooks
+          description: ""
+          linktext: Click Here
+          url: https://www.standrewssec.moe.edu.sg/general-information/sec-1-e-registration/permalink/textbook/
+        - title: 3. Purchase of School Uniform and PE Attire
+          description: ""
+          linktext: Click Here
+          url: https://www.standrewssec.moe.edu.sg/general-information/sec-1-e-registration/permalink/uniform/
+  - infobar:
+      title: 2024 Secondary One Transfer Appeals
+      id: infobar
+      description: For more information, click on the link below.
       button: Take me to page
-      url: https://standrewssec.moe.edu.sg/general-information/sec1ereg/
-      image: /images/About SASS -_ Our School.jpg
-      alt: Image alt text
+      url: https://standrewssec.moe.edu.sg/general-information/permalink/transferappeal/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
