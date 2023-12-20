@@ -12,11 +12,11 @@ The 2024 booklists for G1, G2 and G3 subjects are attached below for your inform
 
 
 
-[Sec 1G1 Booklist](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G1_Booklist.pdf)
+[Sec 1G1 Booklist [NEW]](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G1_Booklist.pdf)
 
-[Sec 1G2 Booklist](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G2_Booklist.pdf)
+[Sec 1G2 Booklist [NEW]](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G2_Booklist.pdf)
 
-[Sec 1G3 Booklist](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G3_Booklist.pdf)
+[Sec 1G3 Booklist[NEW]](/files/2024%20Booklist%20and%20Uniform/2024_Sec_1G3_Booklist.pdf)
 
 [Sec 2G1 Booklist](/files/2024_Sec_2G1_Booklist.pdf)
 
