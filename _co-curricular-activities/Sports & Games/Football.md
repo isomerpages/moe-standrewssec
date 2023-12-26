@@ -3,29 +3,6 @@ title: Football
 permalink: /co-curricular-activities/Sports-and-Games/Football/
 description: ""
 third_nav_title: Sports & Games
+variant: tiptap
 ---
-## Football
-
-### CCA Schedule
-
-Training Days:    Tuesday and Thursday 
-
-Training Time:    3.30pm - 5.30 PM
-
-Training Venue:    School Field 
-
-  
-
-### Teachers-in-Charge
-
-1.   Mr Rajesh Gopalan <br> [rajesh_gopalan@moe.edu.sg](mailto:rajesh_gopalan@moe.edu.sg)[](mailto:rajesh_gopalan@moe.edu.sg)
-2.    Mr Mohd Osman <br>  [](mailto:mohamed_osman_mohamed_noor@moe.edu.sg)[mohamed\_osman\_mohamed\_noor@moe.edu.sg](mailto:mohamed_osman_mohamed_noor@moe.edu.sg)[](mailto:mohamed_osman_mohamed_noor@moe.edu.sg)
-3.   Mr Liang  Sea Fong <br>  [liang\_sea\_fong@moe.edu.sg](mailto:liang_sea_fong@moe.edu.sg)
-
-### Achievements 
-2022  
-Participated in National Schools Games, Squash, B Division
-
-![](/images/Football1.jpeg)
-
-![](/images/Football2.jpeg)
+<h2>Football</h2><h3>CCA Schedule</h3><p>Training Days: &nbsp; &nbsp;Tuesday and Thursday</p><p>Training Time: &nbsp; &nbsp;3.30 - 5.30 PM</p><p>Training Venue: &nbsp; &nbsp;SASS Field</p><h3>Teachers-in-Charge</h3><p></p><ol data-tight="true" class="tight"><li><p>Mr Lin Daoxing<br>lin_daoxing@moe.edu.sg</p></li><li><p>&nbsp;Mr Mohamed Osman Mohamed Noor&nbsp;<br>&nbsp;mohamed_osman_mohamed_noor@moe.edu.sg</p></li><li><p>&nbsp;Mr Yeow Yongqi Jeremy <br>yeow_yongqi_jeremy@moe.edu.sg</p></li></ol><h3>Achievements</h3><p>2022<br>Participated in National Schools Games, Squash, B Division</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football1.jpeg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football2.jpeg"></div><p></p>
