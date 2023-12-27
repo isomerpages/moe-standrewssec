@@ -3,56 +3,6 @@ title: Boys Brigade
 permalink: /co-curricular-activities/Uniformed-Groups/Boys-Brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-### The Boys Brigade, 7th Singapore Company
-
-#### CCA Schedule
-
-
-Training Day: Saturday
-
-Training Time:   8.30 - 12.30 PM
-
-Training Venue: School Upper Court
-
-  
-
-### Teachers-in-Charge
-
- 1. Mr Caleb Cheong <br>cheong_chee_ngai_caleb@moe.edu.sg
-
-1. Mr Jansen Ho<br>ho_wei_an_jansen@moe.edu.sg  
-
-2. Mr Perumal Selvarasoo<br> p_selvarasoo@moe.edu.sg
-
-3. Mdm Tan Sang Chai<br>tan_sang_chai@moe.edu.sg
- 
-
- 
-### Achievements
-
-#### 2022
-#### 
-JM Fraser Award for Excellence (Silver Honour Roll)
-
-  
-
-Founder’s Men awardees: 
-
-SSG Ho Kok Hou Michael (4SA)
-
-SSG Wong Wai Seng Isaac (4SA)
-
-SSG Karthikeyan Vikhram (4SA)
-
-SGT Caleb Wong Ler (4SA)
-
-SGT Josiah Loh Yi (4S3)
-
-![](/images/image002%20(1).jpg)
-
-![](/images/image004%20(1).jpg)
-
-![](/images/image006.jpg)
-
-![](/images/image008.jpg)
+<h3>The Boys Brigade, 7th Singapore Company</h3><h4>CCA Schedule</h4><p>Training Day: Monday* and Saturday</p><p>Training Time: &nbsp; 8.30 - 12.30 PM</p><p>Training Venue: School Upper Court</p><h3>Teachers-in-Charge</h3><ol><li><p>Mr Caleb Cheong <br>cheong_chee_ngai_caleb@moe.edu.sg</p></li><li><p>Mr Jansen Ho<br>ho_wei_an_jansen@moe.edu.sg</p></li><li><p>Mr&nbsp;Perumal Selvarasoo<br>p_selvarasoo@moe.edu.sg</p></li><li><p>Mdm Tan Sang Chai<br>tan_sang_chai@moe.edu.sg</p></li></ol><h3>Achievements</h3><h4>2022</h4><h4></h4><p>JM Fraser Award for Excellence (Silver Honour Roll)</p><p>Founder’s Men awardees:&nbsp;</p><p>SSG Ho Kok Hou Michael (4SA)</p><p>SSG Wong Wai Seng Isaac (4SA)</p><p>SSG Karthikeyan Vikhram (4SA)</p><p>SGT Caleb Wong Ler (4SA)</p><p>SGT Josiah Loh Yi (4S3)</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/image002%20(1).jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/image004%20(1).jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/image006.jpg"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/image008.jpg"></div><p></p>
