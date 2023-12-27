@@ -3,37 +3,6 @@ title: Band
 permalink: /co-curricular-activities/Performing-Arts/Band/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-## Band 
-
-###  CCA Schedule  
-
-Training Days: &nbsp; Monday, Tuesday and Thursday 
-
-Training Time: &nbsp; 3.30 - 6.30 PM
-
-Training Venue: School Band Room and classrooms
-
-
-
-### Teachers-in-Charge
-
-
-
-1.  &nbsp;Mrs Carmen Ong<br>carmen_chan_jia_min@moe.edu.sg&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-3.  &nbsp;Ms Sarah Chan<br>chan_mei_ping_sarah@moe.edu.sg 
-5.  &nbsp;Mr Chua Hock Seng<br>chua_hock_seng@moe.edu.sg
-6.  &nbsp;Mr Zulhaqqim<br>muhammad_zulhaqqim_awaruddin@moe.edu.sg
-  
-
-<img src="/images/Band1.jpg" style="width:50%">
-
-<img src="/images/Band2.jpg" style="width:50%">
-		 
-<img src="/images/Band3.jpg" style="width:50%">
-		 
-<img src="/images/Band4.jpg" style="width:50%">
-
-<img src="/images/Band5.jpg" style="width:50%">
-		 
-<img src="/images/Band6.jpg" style="width:50%">
+<h2>Band</h2><h3>CCA Schedule</h3><p>Training Days: &nbsp; Monday, Tuesday and Thursday</p><p>Training Time: &nbsp; 3.30 - 6.30 PM</p><p>Training Venue: SASS Band Room, A6-02, Media Room </p><h3>Teachers-in-Charge</h3><ol data-tight="true" class="tight"><li><p>&nbsp;Mr Chua Hock Seng<br>chua_hock_seng@moe.edu.sg</p></li><li><p>Mr Wong Jiun Ching Jason <br>wong_jiun_ching@moe.edu.sg</p></li><li><p>&nbsp;Mr Muhammad Zulhaqqim Awaruddin <br>muhammad_zulhaqqim_awaruddin@moe.edu.sg</p></li><li><p>Ms Poh Jin Yu Vanessa <br>poh_jin_yu_vanessa@moe.edu.sg</p><p></p></li></ol><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Band1.jpg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Band2.jpg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Band3.jpg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Band4.jpg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Band5.jpg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Band6.jpg"></div><p></p>
