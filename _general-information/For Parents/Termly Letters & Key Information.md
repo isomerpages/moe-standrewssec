@@ -14,8 +14,9 @@ variant: markdown
 *[Coming Soon!]*
 
 **Whole Year Assessment Plan**
+
 *[Coming Soon!]*
-###### Please note that changes are highlighted in red within each document. 
+
 
   
 **Developmental Matters**  
