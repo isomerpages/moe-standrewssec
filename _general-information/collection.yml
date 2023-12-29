@@ -2,10 +2,10 @@ collections:
   general-information:
     output: true
     order:
-      - Sec 1 e Registration/.keep
-      - Sec 1 e Registration/Secondary 1 Registration.md
-      - Sec 1 e Registration/Purchase of Secondary One Textbooks.md
-      - Sec 1 e Registration/Purchase of School Uniform and PE Attire.md
+      - Sec 1 Registration/.keep
+      - Sec 1 Registration/Secondary 1 Registration.md
+      - Sec 1 Registration/Purchase of Secondary One Textbooks.md
+      - Sec 1 Registration/Purchase of School Uniform and PE Attire.md
       - Secondary 1 Transfer Appeals to SASS.md
       - For Parents/.keep
       - For Parents/2024 Booklist and Uniform Sales Information.md
@@ -21,7 +21,6 @@ collections:
       - Blended Learning/Blended Learning.md
       - Blended Learning/2023 NPLP Parents Slides.md
       - Blended Learning/Resources For Parents.md
-      - School Canteen.md
       - School Calendar.md
       - Contact Us/.keep
       - Contact Us/Feedback Form.md
