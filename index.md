@@ -39,7 +39,7 @@ sections:
       title: News of the Term
       description: Download Principal's Termly Letters
       button: Here
-      url: https://staging.d1zt52mog84ljj.amplifyapp.com/general-information/For-Parents/
+      url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
       image: /images/1-MrLeeandboys_resized.jpg
       alt: Image alt text
   - infopic:
