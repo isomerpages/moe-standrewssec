@@ -3,33 +3,20 @@ title: Termly Letters & Key Information
 permalink: /general-information/for-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ![](/images/For%20Parents_updated.jpeg)
 
 **Letter to Parents**  
-[2023 Principal's Term 1 Letter to Parents](/files/2023%20Ps%20Term%201%20Letter%20to%20Parents.pdf)
 
-[2023 Principal's Term 2 Letter to Parents](/files/Parent/Termly%20Letters/2023%20Term%202%20Letter%20to%20Parents.pdf)
-
-[2023 Principal's Term 3 Letter to Parents](/files/Parent/Termly%20Letters/sass%20term%203%20letter%20to%20parents%202023.pdf)
-
-[2023 Principal's Term 4 Letter to Parents](/files/General%20Information/For%20Parents/sass%20term%204%20letter%20to%20parents%202023.pdf)
 
 **Saints Calendar**  
-[Events for Semester 1 2023](/files/Calendar/Saints%20Calendar%20Sem%201%202023.pdf)
+*[Coming Soon!]*
 
 **Whole Year Assessment Plan**
 ###### Please note that changes are highlighted in red within each document. 
 
-[Sec 1 Weighed Assessment Overview (Updated 25 May 2023](/files/Parent/Assessment%20Matters/sec%201%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
 
-[Sec 2 Weighted Assessment Overview (Updated 8 Sept 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/8%20sep%202023%20(1)%20sec%202%20weighted%20assesment%20overview%20_sec%202%20updated.pdf)
-
-[Sec 3 Weighted Assessment Overview (Updated 18 Aug 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/18%20aug%202023%20(1)%20sec%203%20weighted%20assesment%20overview%20(final).pdf)
-
-[Sec 4/5 Weighted Assessment Overview (Updated 25 May 2023)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
-
-[2023 End-of-Year Examination Schedule (Sec 1- Sec 3)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQtTEPAlrBpEdbN4F79BhAsSQgnzBcU4346UXB_kJEQvIHO6LEoOY4PuK4tvZry12mGbViI_ifvSGtv/pubhtml)
   
 **Developmental Matters**  
 
