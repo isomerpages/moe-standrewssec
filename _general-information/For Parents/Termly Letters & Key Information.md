@@ -8,14 +8,14 @@ variant: markdown
 ![](/images/For%20Parents_updated.jpeg)
 
 **Letter to Parents**  
-
+[2024 Term 1 Principal's Letter](/files/General%20Information/For%20Parents/2024_Term_1_Letter.pdf)
 
 **Saints Calendar**  
 *[Coming Soon!]*
 
 **Whole Year Assessment Plan**
+*[Coming Soon!]*
 ###### Please note that changes are highlighted in red within each document. 
-
 
   
 **Developmental Matters**  
