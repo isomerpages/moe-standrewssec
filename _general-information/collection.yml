@@ -2,10 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Sec 1 Registration/.keep
-      - Sec 1 Registration/Secondary 1 Registration.md
-      - Sec 1 Registration/Purchase of Secondary One Textbooks.md
-      - Sec 1 Registration/Purchase of School Uniform and PE Attire.md
       - Secondary 1 Transfer Appeals to SASS.md
       - For Parents/.keep
       - For Parents/2024 Booklist and Uniform Sales Information.md
