@@ -8,29 +8,12 @@ variant: markdown
 
 **Whole Year Assessment Plan**
 
-[Sec 1 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%201%20weighted%20assesment%20overview%20(final)%20updated%2025%20may%202023.pdf)
-
-[Sec 2 Weighted Assessment Overview (Updated 8 Sept 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/8%20sep%202023%20(1)%20sec%202%20weighted%20assesment%20overview%20_sec%202%20updated.pdf)
-
-[Sec 3 Weighted Assessment Overview (Updated 18 Aug 2023)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/18%20aug%202023%20(1)%20sec%203%20weighted%20assesment%20overview%20(final).pdf)
-
-[Sec 4 Weighted Assessment Overview (Updated 25 May)](/files/Parent/Assessment%20Matters/sec%204%20weighted%20assesment%20overview%20updated%2025%20may%202023.pdf)
+[Coming soon!]
 
 **Exam and Assessment Matters**
 
-[2023 Sec 1 WA3 Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%20wa3%20schedule%20final_sec%201.pdf)
+[Check back later! :)]
 
-[2023 Sec 2 WA3 Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%20wa3%20schedule%20final_sec%202.pdf)
-
-[2023 Sec 3 WA3 Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%20wa3%20schedule%20final_sec%203.pdf)
-
-[2023 4E5N Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204e5n%20prelims.pdf)
-
-[2023 4NA Prelim Exam Schedule (Amended as of 20 July)](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/(20%20july)%202023%204na%20prelims%20tt_amended.pdf)
-
-[2023 4NT Prelim Exam Schedule](/files/General%20Information/Assessment%20Schedules/2023%20Prelim%20and%20WA3/2023%204nt%20prelims%20tt.pdf)
-
-[2023 End-of-Year Examination Schedule (Sec 1 - Sec 3)](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQtTEPAlrBpEdbN4F79BhAsSQgnzBcU4346UXB_kJEQvIHO6LEoOY4PuK4tvZry12mGbViI_ifvSGtv/pubhtml)
 
 
 **Developmental Matters**  
@@ -38,12 +21,12 @@ variant: markdown
 * [Saints Code of Conduct ( Updated Term 2 2023)](/files/General%20Information/For%20Students/202304_saints%20code%20of%20conduct%20for%202023.pdf)
 *   [Social Media Guidelines](/files/Student/Development%20Matter/wcy2me.pdf)
 
-*   [SPF Advisory for the 2022 June School Holidays](/files/Student/Development%20Matter/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf)
+
 
 **TGIF Schedule**
-* [TG Code](/files/Student/TG%20code/TG%20Code%20for%20Students.pdf)
 
- 
+[Also coming soon!]
+
 **Learning Tools**  
 
 *   [Google Apps](https://www.google.com/a/sass.sg)
@@ -77,14 +60,3 @@ variant: markdown
 
 **PLD**
 *    [DMA Uninstallation for iPad Device (For Graduating Students Only)](/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf)
-
-
-
-
-
-
-
-
-
-
-
