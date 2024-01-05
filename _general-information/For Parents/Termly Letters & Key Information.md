@@ -13,9 +13,16 @@ variant: markdown
 **Saints Calendar**  
 *[Coming Soon!]*
 
-**Whole Year Assessment Plan**
+**Whole Year Assessment Plan** [last updated 5 Jan 2024]
 
-*[Coming Soon!]*
+[2024 Sec 1 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_1_Weighted_Assesment_Overview.pdf)
+
+[2024 Sec 2 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_2_Weighted_Assesment_Overview.pdf)
+
+[2024 Sec 3 Weighted Assessment](/files/General%20Information/Assessment%20Schedules/2024_Sec_3_Weighted_Assesment_Overview.pdf)
+
+[2024 Sec 4/5 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf)
+
 
 
   
