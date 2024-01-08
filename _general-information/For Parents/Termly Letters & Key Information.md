@@ -19,9 +19,9 @@ variant: markdown
 
 [2024 Sec 2 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_2_Weighted_Assesment_Overview.pdf)
 
-[2024 Sec 3 Weighted Assessment](/files/General%20Information/Assessment%20Schedules/2024_Sec_3_Weighted_Assesment_Overview.pdf)
+[2024 Sec 3 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_3_Weighted_Assesment_Overview.pdf)
 
-[2024 Sec 4/5 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf)
+[2024 Sec 4 and 5 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf)
 
 
 
