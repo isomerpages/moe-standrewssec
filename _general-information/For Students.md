@@ -6,7 +6,7 @@ variant: markdown
 ---
 ![](/images/For%20student/SASS-D1A-3.jpg)
 
-**Whole Year Assessment Plan** [ last updated 5 Jan 2024]
+**Whole Year Assessment Plan** [ last updated 8 Jan 2024]
 
 [2024 Sec 1 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_1_Weighted_Assesment_Overview.pdf)
 
@@ -14,7 +14,7 @@ variant: markdown
 
 [2024 Sec 3 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_3_Weighted_Assesment_Overview.pdf)
 
-[2024 Sec 4/5 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf)
+[2024 Sec 4 and 5 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf)
 
 **Exam and Assessment Matters**
 
