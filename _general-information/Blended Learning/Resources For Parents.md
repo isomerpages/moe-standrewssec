@@ -23,7 +23,14 @@ variant: markdown
 
 [Tech-enabled Learning Scenarios in Schools - YouTube](https://www.youtube.com/watch?v=jJw1mdtYfOs)
 
-[[4)DMA Parents Guide for Option A  Guide 2024 (iPad)](https://go.gov.sg/6rc0p0)
+[[4)DMA Parents Guide for Option A  Guide 2024 (iPad)]
+[Download](/files/Blended%20Learning/Parent_Guide_2024.pdf)
+
+
+
+
+
+
 
 
 
