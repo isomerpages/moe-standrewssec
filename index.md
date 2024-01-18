@@ -15,13 +15,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      announcement_items:
-        - title: RELEASE OF 2023 SINGAPORE-CAMBRIDGE GCE O-LEVEL EXAMINATION RESULTS
-          date: 08 January 2024
-          announcement: "The 2023 GCE O-Level results will be released on 11 January 2024,
-            Thursday.  "
-          link_text: Click here for more information.
-          link_url: /general-information/permalink/2023gce/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
