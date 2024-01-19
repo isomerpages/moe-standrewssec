@@ -25,13 +25,3 @@ variant: markdown
 
 [[4)DMA Parents Guide for Option A  Guide 2024 (iPad)]
 [Download](/files/Blended%20Learning/Parent_Guide_2024.pdf)
-
-
-
-
-
-
-
-
-
-
