@@ -1,0 +1,35 @@
+logo: /images/School Crest.jpg
+links:
+  - title: About SASS
+    collection: about-sass
+  - title: The Saints Experience
+    collection: the-saints-experience
+  - title: The Saints Family
+    url: /the-saints-family/
+    sublinks:
+      - title: Diocese of Singapore
+        url: https://anglican.org.sg/
+      - title: St Andrew's Cathedral
+        url: https://cathedral.org.sg/
+      - title: Church of Ascension
+        url: https://ascension.org.sg/
+      - title: Chapel of Holy Spirit
+        url: https://www.chs.org.sg/
+      - title: Chapel of Resurrection
+        url: https://www.cor.org.sg/
+      - title: Ascension Kindergarten
+        url: https://akg.edu.sg/
+      - title: St Andrew's Junior School
+        url: https://www.saintandrewsjunior.moe.edu.sg/
+      - title: St Andrew's Junior College
+        url: https://standrewsjc.moe.edu.sg/
+      - title: St Andrew's Parent-Teacher
+        url: https://sapta.sg/
+      - title: St Andrew's Alumni
+        url: https://www.saints.org.sg/
+      - title: St Andrew's Secondary Facebook
+        url: https://www.facebook.com/standrewssec
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: General Information
+    collection: general-information
