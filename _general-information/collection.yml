@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - For Parents/Group Personal Accident Insurance for Students.md
       - For Parents/.keep
       - For Parents/2024 Booklist and Uniform Sales Information.md
       - For Parents/Termly Letters & Key Information.md
