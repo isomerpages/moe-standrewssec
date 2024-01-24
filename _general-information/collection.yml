@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/2024 Booklist and Uniform Sales Information.md
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
       - For Parents/MOE Toolkits and Information.md
+      - For Parents/2024 Booklist and Uniform Sales Information.md
       - For Parents/Group Personal Accident Insurance for Students.md
       - For Students.md
       - For Staff.md
