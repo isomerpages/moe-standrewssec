@@ -16,11 +16,6 @@ variant: markdown
 
 [2024 Sec 4 and 5 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf)
 
-**Exam and Assessment Matters**
-
-[Check back later! :)]
-
-
 
 **Developmental Matters**  
 

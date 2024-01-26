@@ -10,8 +10,6 @@ variant: markdown
 **Letter to Parents**  
 [2024 Term 1 Principal's Letter](/files/General%20Information/For%20Parents/2024_Term_1_Letter.pdf)
 
-**Saints Calendar**  
-*[Coming Soon!]*
 
 **Whole Year Assessment Plan** [last updated 8 Jan 2024]
 
