@@ -327,7 +327,7 @@ variant: tiptap
 <p>Mr Prinya Lovajana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Community Youth Leadership and VIA</p>
+<p>Subject Head / Community &amp; Youth Leadership and VIA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>prinya_lovajana@moe.edu.sg</p>
