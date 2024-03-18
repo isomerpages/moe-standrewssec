@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - "Vivace 2024: Keep The Flame Burning Brightly.md"
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
