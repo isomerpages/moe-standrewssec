@@ -32,7 +32,7 @@ sections:
       id: infopic
       description: Keep The Flame Burning Brightly
       button: Click here for details
-      url: https://standrewssec.moe.edu.sg/general-information/sec1ereg/
+      url: https://standrewssec.moe.edu.sg/general-information/permalink/vivace2024
       image: /images/Vivace 2024/Vivace_2024_Poster.png
       alt: Image alt text
 ---
