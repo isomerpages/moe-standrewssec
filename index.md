@@ -26,4 +26,13 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+  - infopic:
+      title: Vivace 2024
+      subtitle: Come join us!
+      id: infopic
+      description: Keep The Flame Burning Brightly
+      button: Click here for details
+      url: https://standrewssec.moe.edu.sg/general-information/permalink/vivace2024
+      image: /images/Vivace 2024/Vivace_2024_Poster.png
+      alt: Image alt text
 ---
