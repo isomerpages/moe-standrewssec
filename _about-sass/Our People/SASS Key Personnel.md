@@ -118,7 +118,7 @@ variant: tiptap
 <p>Mr Kwok Sheng Da</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Design, Food &amp; Technology (covering)</p>
+<p>Head Of Department/Design, Food &amp; Technology (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kwok_sheng_da@moe.edu.sg</p>
@@ -470,7 +470,18 @@ variant: tiptap
 <p>Mr C Bhonesveran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Operations Manager 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sass@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Jabbar bin Kachi Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sass@moe.edu.sg</p>
