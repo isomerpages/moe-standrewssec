@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vivace 2024/Vivace_2024_Poster__updated_21_Mar_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vivace 2024/Vivace_2024_Poster__updated_21_Mar_5pm_.jpg">
 </div>
 <h4>Hi everyone, hurry grab your tickets if you haven’t already!</h4>
 <h4>Come join us at <strong>Vivace: Keep The Flame Burning Brightly</strong>, a biennial combined performing arts concert series featuring musical and dramatic performances by our very own Concert Band, Saints Drama and Saints Choir! 🥁🎷🎶🎹🪇🎭We invite you to join us for an exciting time at the<strong> Lee Foundation Theatre, Nanyang Academy of Fine Arts on 5 April 2024</strong>.</h4>
