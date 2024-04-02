@@ -16,7 +16,7 @@ variant: tiptap
 </div>
 <p><strong>PDLP Information</strong>
 </p>
-<p><a href="/files/PDLP%20Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Student Device Information Kit</a>
+<p><a href="/files/Blended Learning/SASS___Student_Device_Information_Kit_02042024_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">PDLP Student Device Information Kit</a>
 </p>
 <p><a href="/files/Information%20of%20DMA%20Annexes.pdf" rel="noopener noreferrer nofollow" target="_blank">Information On DMA</a>
 </p>
