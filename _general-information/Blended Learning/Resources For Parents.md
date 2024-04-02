@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Blended Learning
 variant: markdown
 ---
-[Parents Handbook(I)](/files/Blended%20Learning/IP2%20-%20Parent%20Handbook%20(I)%20on%20Learning%20with%20a%20PLD_2023.pdf)
 
-[Parents Handbook(II)](/files/Blended%20Learning/IP3%20-%20Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_2023.pdf)
+
+[Parents Handbook (I) ](/files/Blended%20Learning/IP2___Parent_Handbook__I__2024_FINAL.pdf)
+
+[Parents Handbook (II)](/files/Blended%20Learning/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 
 **Videos**  
 
