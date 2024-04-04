@@ -17,15 +17,15 @@ variant: tiptap
 <p><a href="/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 and 5 Weighted Assessment Overview</a>
 </p>
 <p></p>
-<p><strong>2024 WA2 Schedule </strong>
+<p><strong>2024 WA2 Schedule</strong>
 </p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_1_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 WA2 Schedule </a>
+<p><a href="/files/WA_2_2024_Timetable_Sec_1_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 WA2 Schedule</a>
 </p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_2_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 WA2 Schedule </a>
+<p><a href="/files/WA_2_2024_Timetable_Sec_2_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 WA2 Schedule</a>
 </p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_3_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 WA2 Schedule </a>
+<p><a href="/files/WA_2_2024_Timetable_Sec_3_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 WA2 Schedule</a>
 </p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_4___5_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 WA2 Schedule </a>
+<p><a href="/files/WA_2_2024_Timetable_Sec_4___5_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 WA2 Schedule</a>
 </p>
 <p></p>
 <p><strong>Developmental Matters</strong>
