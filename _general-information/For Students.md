@@ -25,7 +25,7 @@ variant: tiptap
 </p>
 <p><a href="/files/WA_2_2024_Timetable_Sec_3_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 WA2 Schedule</a>
 </p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_4___5_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4/5 WA2 Schedule </a>
+<p><a href="/files/WA_2_2024_Timetable_Sec_4___5_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 and 5 WA2 Schedule </a>
 </p>
 <p></p>
 <p><strong>Developmental Matters</strong>
