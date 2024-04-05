@@ -29,9 +29,9 @@ sections:
           description: Conference for Sec 3 Subject Allocation 2024
           linktext: Go to Slides
           url: https://standrewssec.moe.edu.sg/conference-on-sec-3-subject-allocation-2024/
-        - title: WA 2
-          description: Schedule for Weighted Assessment 2
-          linktext: Click here
+        - title: Hey Saints!
+          description: Schedule for Weighted Assessment 2 by TG is out!
+          linktext: Click here!
           url: https://standrewssec.moe.edu.sg/general-information/for-students/
   - infopic:
       title: Vivace 2024
