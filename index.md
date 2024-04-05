@@ -48,5 +48,5 @@ sections:
         - title: WA 2
           description: Schedule for Weighted Assessment 2
           linktext: Click here
-          url: ""
+          url: " https://standrewssec.moe.edu.sg/general-information/for-parents/"
 ---
