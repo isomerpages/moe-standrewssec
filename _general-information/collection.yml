@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Conference on Sec 3 Subject Allocation 2024.md
       - "Vivace 2024: Keep The Flame Burning Brightly.md"
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
