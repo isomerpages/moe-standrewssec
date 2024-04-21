@@ -29,7 +29,7 @@ sections:
           description: SASS 2024 DSA(SEC) information can now be found in the following
             page.
           linktext: Go to Page
-          url: https://cms.isomer.gov.sg/sites/moe-standrewssec/homepage
+          url: https://standrewssec.moe.edu.sg/dsa-2024-for-2025-sec-1-admission/
         - title: NEW!
           description: Conference for Sec 3 Subject Allocation 2024
           linktext: Go to Slides
