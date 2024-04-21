@@ -25,6 +25,11 @@ sections:
       id: textcards
       description: Click on the following links to stay updated on our latest resources.
       cards:
+        - title: LATEST!
+          description: SASS 2024 DSA(SEC) information can now be found in the following
+            page.
+          linktext: Go to Page
+          url: https://cms.isomer.gov.sg/sites/moe-standrewssec/homepage
         - title: NEW!
           description: Conference for Sec 3 Subject Allocation 2024
           linktext: Go to Slides
@@ -33,15 +38,6 @@ sections:
           description: Schedule for Weighted Assessment 2 by TG is out!
           linktext: Click here!
           url: https://standrewssec.moe.edu.sg/general-information/for-students/
-  - infopic:
-      title: Vivace 2024
-      subtitle: Come join us!
-      id: infopic
-      description: Keep The Flame Burning Brightly
-      button: Click here for details
-      url: https://standrewssec.moe.edu.sg/general-information/permalink/vivace2024
-      image: /images/Vivace 2024/Vivace_2024_Poster.png
-      alt: Image alt text
   - infopic:
       title: SASS Facebook
       subtitle: for more updates
