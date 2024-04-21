@@ -46,4 +46,4 @@ neighbourhood and wider community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Leadership(LLP)/Picture4.jpg">
 </div>
-<p></p>
+<p>Serving in our neighbourhood community</p>
