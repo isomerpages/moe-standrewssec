@@ -11,11 +11,10 @@ in St Andrew’s Secondary School. The programme focuses on community and
 youth leadership and aims to nurture students to be confident leaders who
 pay it forward to the community.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership(LLP)/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership(LLP)/School_Website___Student_Leadership.png">
 </div>
-<p><strong><em>School vision: Home of servant leaders who bring life to the nations</em></strong>
-</p>
 <p></p>
 <p>SALT is premised on Servant Leadership by Robert Greenleaf (1970); The
 key comes from the philosophy that “<em>The servant-leader is servant first… It begins with the natural </em><strong><em>feeling</em></strong><em> that one wants to serve, to serve first. Then </em><strong><em>conscious</em></strong><em> choice brings one to aspire to lead…</em>”.
