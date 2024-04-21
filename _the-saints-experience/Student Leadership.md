@@ -35,7 +35,3 @@ the communities where they belong.</p>
 <p>Students have multiple opportunities to develop their leadership competency
 and demonstrate their leadership capacity in activities in the school community,
 neighbourhood and wider community.</p>
-<p></p>
-<p></p>
-<p></p>
-<p>Serving in our neighbourhood community</p>
