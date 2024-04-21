@@ -26,24 +26,16 @@ to serve in the communities where they belong. The servant leader should
 demonstrate the 10 principles of servant leadership as show below:</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership(LLP)/Picture2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Student Leadership(LLP)/Picture2.png">
 </div>
 <p></p>
 <p>The 10 principles in developing a servant leader with the altruistic (feel)ing
 to serve, the conscious choice (think) to lead and finally to (serve) in
 the communities where they belong.</p>
-<p>&nbsp;</p>
 <p>Students have multiple opportunities to develop their leadership competency
 and demonstrate their leadership capacity in activities in the school community,
 neighbourhood and wider community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Leadership(LLP)/Picture3.png">
-</div>
-<p><strong><em>Serving in the school community</em></strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Leadership(LLP)/Picture4.jpg">
-</div>
+<p></p>
 <p>Serving in our neighbourhood community</p>
