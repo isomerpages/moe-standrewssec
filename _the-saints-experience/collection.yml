@@ -2,6 +2,7 @@ collections:
   the-saints-experience:
     output: true
     order:
+      - Learning for Life Programme (LLP) at SASS.md
       - The Saints Experience.md
       - Academics/.keep
       - Academics/Aesthetics & Design.md
