@@ -15,6 +15,10 @@ variant: tiptap
 <p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Session_with_Sec_2_Express_on_Sec_3_Course_Selection.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Session with Sec 2 Express Cohort (Slides)</a>
 </p>
 </li>
+<li>
+<p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Cohort_Engagement_Sec_2N_A_.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Session with Sec 2 Normal(Academic) Cohort (Slides)</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong>Whole Year Assessment Plan</strong> [ last updated 18 March 2024]</p>
