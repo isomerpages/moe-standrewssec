@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Student Leadership(LLP)/Picture6.png
-      variant: image
+      background: /images/FB2.png
+      variant: center
   - infobar:
       title: St Andrew's Secondary School
       subtitle: Welcome to
@@ -18,7 +18,7 @@ sections:
       description: Download Principal's Termly Letters
       button: Here
       url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
-      image: /images/1-MrLeeandboys_resized.jpg
+      image: /images/Picture6.png
       alt: Image alt text
   - textcards:
       title: Lastest Release
