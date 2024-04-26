@@ -7,6 +7,24 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20student/SASS-D1A-3.jpg">
 </div>
+<p></p>
+<p><strong>Sec 3 Subject Allocation 2024: Cohort Engagement with Sec 2 students </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Session_with_Sec_2_Express_on_Sec_3_Course_Selection.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Express Students (Slides)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Cohort_Engagement_Sec_2N_A_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Normal(Academic) Students (Slides)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Cohort_Engagement_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Normal(Technical) Students (Slides)</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>Whole Year Assessment Plan</strong> [ last updated 18 March 2024]</p>
 <p><a href="/files/General%20Information/Assessment%20Schedules/2024_Sec_1_Weighted_Assesment_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview</a>
 </p>
