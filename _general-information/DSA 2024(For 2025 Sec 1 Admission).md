@@ -554,7 +554,7 @@ the Webinar.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA 2024/2024_New_EDM.png">
 </div>
 <p>Please complete the registration with the required details. The Webinar
-link and password will be sent to you between 3 to 7 days before the Webinar.
+link and password will be sent to you between 3 days before the Webinar.
 Do ensure that you enter a workable email for us to reach you.&nbsp;</p>
 <p><strong>Please note that the e-Webinar registration closes on 15 May, Wednesday. We will not be accepting late registrations.</strong>
 </p>
