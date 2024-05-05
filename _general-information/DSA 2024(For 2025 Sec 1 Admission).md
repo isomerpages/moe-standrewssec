@@ -367,11 +367,11 @@ medication</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2024_Audition_and_Trial.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA 2024/DSA_2024_Audition_and_Trial.png">
 </div>
+<p></p>
 <p><strong><u>USEFUL MOE WEBLINKS</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -517,7 +517,7 @@ medication</p>
 <p><em>Yes, all students will need to join a CCA as it is an integral part of holistic education. Students admitted through DSA Student Leadership/Visual Arts, will be assigned a CCA during the CCA selection process at secondary 1. The CCA assigned will be based on student interest and vacancy in the CCA.</em>
 </p>
 <p></p>
-<h4><strong><u>DSA Webinar</u></strong></h4>
+<h4><strong><u>SASS DSA(SEC) Webinar</u></strong></h4>
 <p>SASS will be holding a&nbsp;Webinar&nbsp;on our DSA talent areas on&nbsp;<strong>18 May, Saturday, 10am - 11am</strong>.&nbsp;Scan
 the QR code in the poster below, or click here to register for the Webinar.</p>
 <p></p>
