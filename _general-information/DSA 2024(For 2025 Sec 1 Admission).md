@@ -158,21 +158,49 @@ sanctioned by relevant competition organisers.</p>
 <td rowspan="1" colspan="1">
 <p>Students will be required to play their band instrument.</p>
 <p></p>
-<p>Band instruments that are eligible for DSA are:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flute/Piccolo</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oboe</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bassoon</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clarinet and Bass Clarinet</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alto/Tenor/Baritone</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Saxophone</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cornet/Trumpet</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; French Horn/Eb Horn</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Trombone</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Euphonium/Baritone</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuba</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Double/String Bass</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Percussion (including
+<p>Band instruments that are eligible for DSA are:&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Flute/Piccolo</p>
+</li>
+<li>
+<p>Oboe</p>
+</li>
+<li>
+<p>Bassoon</p>
+</li>
+<li>
+<p>Clarinet and Bass Clarinet</p>
+</li>
+<li>
+<p>Alto/Tenor/Baritone</p>
+</li>
+<li>
+<p>Saxophone</p>
+</li>
+<li>
+<p>Cornet/Trumpet</p>
+</li>
+<li>
+<p>French Horn/Eb Horn</p>
+</li>
+<li>
+<p>Trombone</p>
+</li>
+<li>
+<p>Euphonium/Baritone</p>
+</li>
+<li>
+<p>Tuba</p>
+</li>
+<li>
+<p>Double/String Bass</p>
+</li>
+<li>
+<p>Percussion (including
 <br>Mallet Percussion)</p>
+</li>
+</ul>
 <p></p>
 <p>After the application period, the students will be informed of the specific
 requirements on what to play during the audition.</p>
