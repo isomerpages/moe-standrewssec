@@ -519,9 +519,17 @@ medication</p>
 <p></p>
 <h4><strong><u>SASS DSA(SEC) Webinar</u></strong></h4>
 <p>SASS will be holding a&nbsp;Webinar&nbsp;on our DSA talent areas on&nbsp;<strong>18 May, Saturday, 10am - 11am</strong>.&nbsp;Scan
-the QR code in the poster below, or click here to register for the Webinar.</p>
+the QR code in the poster below, or <a href="https://forms.moe.edu.sg/forms/vXR4g3" rel="noopener noreferrer nofollow" target="_blank">click here to register</a> for
+the Webinar.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA 2024/2024_New_EDM.png">
+</div>
+<p>Please complete the registration with the required details. The Webinar
+link and password will be sent to you between 3 to 7 days before the Webinar.
+Do ensure that you enter a workable email for us to reach you.&nbsp;</p>
+<p><strong>Please note that the e-Webinar registration closes on 15 May, Wednesday. We will not be accepting late registrations.</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
