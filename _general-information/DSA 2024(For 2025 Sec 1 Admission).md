@@ -366,9 +366,162 @@ medication</p>
 </li>
 </ul>
 <p></p>
-<p>SASS will be holding a&nbsp;Webinar&nbsp;on our DSA talent areas on&nbsp;18
-May, Saturday, 10am - 11am.&nbsp;Details on the webinar registration will
-be updated on our school website and school Facebook page soon. Stay tuned!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2024_Audition_and_Trial.png">
+</div>
+<p><strong><u>USEFUL MOE WEBLINKS</u></strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec Main Webpage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://www.moe.gov.sg/dsa-sec</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application (Mainstream students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-sec-application</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Instructions on Application (Non-mainstream Students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nmsdsa-sec-application</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal (Mainstream Students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/apply-dsa-sec</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Direct to DSA-Sec Portal (Non-mainstream Students)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/apply-dsa-sec-nms</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec iFAQs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-secfaqs</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DSA-Sec School Finder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/dsa-secschfinder</u></a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Frequently Asked Questions (FAQs)</u></strong>
+</p>
+<p></p>
+<p><strong>1. What is Direct School Admission (DSA)?</strong>
+</p>
+<p><em>Direct School Admission (DSA) gives schools flexibility in selecting students in the talent areas as specified by the individual schools. This also allows Primary 6 students to be recognised for a more diverse range of achievements and talents.</em>
+</p>
+<p></p>
+<p><strong>2. Is there an admission quota for DSA in St Andrew’s Secondary School?</strong>
+</p>
+<p><em>St Andrew’s Secondary School admits up to 20 % of our Secondary 1 students through DSA.</em>
+</p>
+<p></p>
+<p><strong>3. How much flexibility is given to St Andrew’s Secondary School in terms of choosing students?</strong>
+</p>
+<p><em>The school decides our own talent area criteria. However, primary school students must achieve the PSLE results that would enable them to be eligible for admission to the school via the posting groups.</em>
+</p>
+<p></p>
+<p><strong>4. Can I apply to St Andrew’s Secondary School through another CCA not listed in the school's talent areas?</strong>
+</p>
+<p><em>No. Applicants through the DSA-Sec Exercise may only apply through the talent areas listed.</em>
+</p>
+<p></p>
+<p><strong>5. Must I still sit for PSLE if I have received a Confirmed Offer (CO) from St Andrew’s Secondary School?</strong>
+</p>
+<p><em>Yes, students must sit for the PSLE even though they have received a Confirmed Offer (CO) from St Andrew’s Secondary School.</em>
+</p>
+<p></p>
+<p><strong>6. Can a student in Primary 5 apply for DSA?</strong>
+</p>
+<p><em>&nbsp;No, admission to Secondary 1 is only for Primary 6 students or its equivalent.</em>
+</p>
+<p></p>
+<p><strong>7. Can I still opt for St Andrew’s Secondary School in the Sec 1 Posting Exercise if I do not make it through the selection rounds?</strong>
+</p>
+<p><em>Yes, you can still choose St Andrew’s Secondary School in the Centralised Posting Exercise after you have received your PSLE results. Admission will be based on your PSLE results and the number of places in the school.</em>
+</p>
+<p></p>
+<p><strong>8. Can I apply for more than one talent area in St Andrew’s Secondary School?</strong>
+</p>
+<p><em>Yes, you can apply for more than one talent area but you will only be offered ONE programme. For instance, if you apply for DSA through both rugby and hockey, you will only receive a Confirmed Offer for either rugby or hockey if you successfully pass the trial and interview.</em>
+</p>
+<p></p>
+<p><strong>9. How does St Andrew’s Secondary School select the students?</strong>
+</p>
+<p><em>Selection is conducted through face-to-face trials/auditions by the respective CCA teachers and coaches/instructors. There will also be an interview/group task conducted with the CCA teachers, selected key personnel and school leaders.</em>
+</p>
+<p></p>
+<p><strong>10. When will I be notified of the trials and interviews?</strong>
+</p>
+<p><em>The respective CCA teachers will inform you of the details via email after 3 June 2024.</em>
+</p>
+<p></p>
+<p><strong>11. Will I receive a notification if I am not shortlisted for the trial/audition and/or interview/group task?</strong>
+</p>
+<p><em>You will not receive a notification if you are not shortlisted.</em>
+</p>
+<p></p>
+<p><strong>12. When will I know if I have been selected?</strong>
+</p>
+<p><em>The outcome of the DSA applications (successful or unsuccessful) will be released by late November.</em>
+</p>
+<p></p>
+<p><strong>13. Do I still have to take part in the MOE Posting Exercise if I am given a Confirmed Offer (CO) by St Andrew’s Secondary School?</strong>
+</p>
+<p><em>Students successfully allocated to their DSA-Sec schools will </em><strong><em>NOT </em></strong><em>be allowed to participate in the annual Secondary 1 Posting Exercise to opt for secondary schools and are expected to honour their commitment to the allocated DSA-Sec school for the entire duration of the programme. They will also </em><strong><em>NOT</em></strong><em> be allowed to transfer to another school after the release of the PSLE results.</em>
+</p>
+<p></p>
+<p><strong>14. Do successful DSA-Student Leadership/Visual Arts applicants need to take up a CCA?</strong>
+</p>
+<p><em>Yes, all students will need to join a CCA as it is an integral part of holistic education. Students admitted through DSA Student Leadership/Visual Arts, will be assigned a CCA during the CCA selection process at secondary 1. The CCA assigned will be based on student interest and vacancy in the CCA.</em>
+</p>
+<p></p>
+<h4><strong><u>DSA Webinar</u></strong></h4>
+<p>SASS will be holding a&nbsp;Webinar&nbsp;on our DSA talent areas on&nbsp;<strong>18 May, Saturday, 10am - 11am</strong>.&nbsp;Scan
+the QR code in the poster below, or click here to register for the Webinar.</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
