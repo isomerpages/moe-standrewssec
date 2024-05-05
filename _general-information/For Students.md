@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/General%20Information/For%20Students/202304_saints%20code%20of%20conduct%20for%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Saints Code of Conduct ( Updated Term 2 2023)</a>
+<p><a href="/files/Student/2024_Saints_Code_of_Conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Saints Code of Conduct (updated 5/5/2024)</a>
 </p>
 </li>
 <li>
