@@ -264,11 +264,8 @@ Art subject.</p>
 <td rowspan="1" colspan="1">
 <p>Students will be asked to demonstrate their STEM knowledge by constructing
 a robot using LEGO and programming its movements using either the LEGO
-Mindstorms EV3 or Spike Prime. The robot should accomplish the following
-tasks:</p>
-<p>Task 1: Move in a triangular shape.</p>
-<p>Task 2: Sense and stop at an obstacle using an additional sensor.</p>
-<p>Task 3: Trace and complete a full circle using the colour sensor.</p>
+Mindstorms EV3 or Spike Prime. Move in a triangular shape.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Successful applicants will develop their talent in Robotics CCA and be
