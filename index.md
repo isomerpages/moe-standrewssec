@@ -46,4 +46,12 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+  - infopic:
+      title: DSA(Sec) Webinar
+      id: infopic
+      description: 18 May, Sat, 10 am - 11 am
+      button: Click here to register
+      url: https://forms.moe.edu.sg/forms/vXR4g3
+      image: /images/DSA 2024/2024_New_EDM.png
+      alt: Image alt text
 ---
