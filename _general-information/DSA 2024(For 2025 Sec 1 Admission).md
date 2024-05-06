@@ -264,7 +264,7 @@ Art subject.</p>
 <td rowspan="1" colspan="1">
 <p>Students will be asked to demonstrate their STEM knowledge by constructing
 a robot using LEGO and programming its movements using either the LEGO
-Mindstorms EV3 or Spike Prime. Move in a triangular shape.</p>
+Mindstorms EV3 or Spike Prime.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
