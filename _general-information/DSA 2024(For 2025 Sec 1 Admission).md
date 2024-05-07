@@ -32,7 +32,8 @@ be submitted online through the DSA-Sec Portal by 3.00 p.m. on Monday,
 process.</p>
 </li>
 </ol>
-<p></p>
+<p><a href="/files/General Information/2024 DSA/St_Andrews_Secondary_School_2024_DSA_SEC_Exercise__For_Website_Approved_.pdf" rel="noopener noreferrer nofollow" target="_blank">SASS 2024 DSA Application Detail</a>
+</p>
 <p></p>
 <h4><strong><u>SASS DSA(SEC) Webinar</u></strong></h4>
 <p>SASS will be holding a&nbsp;Webinar&nbsp;on our DSA talent areas on&nbsp;<strong>18 May, Saturday, 10am - 11am</strong>.&nbsp;Scan
