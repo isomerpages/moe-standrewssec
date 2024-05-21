@@ -28,17 +28,13 @@ be submitted online through the DSA-Sec Portal by 3.00 p.m. on Monday,
 <p></p>
 </li>
 <li>
-<p>Please refer to the attached document for the details of the application
+<p>Please refer to the attached documents for the details of the application
 process.</p>
 </li>
 </ol>
-<p><a href="/files/General Information/2024 DSA/St_Andrews_Secondary_School_2024_DSA_SEC_Exercise__For_Website_Approved_.pdf" rel="noopener noreferrer nofollow" target="_blank">SASS 2024 DSA Application Detail</a>
-</p>
 <p></p>
-<h4><strong><u>SASS DSA(SEC) Webinar</u></strong></h4>
 <p></p>
-<p>Registration for the Webinar has closed. Should you have any queries,
-please do not hesitate to contact us at <a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>.</p>
+<h4></h4>
 <p>Thank you.</p>
 <p></p>
 <p></p>
