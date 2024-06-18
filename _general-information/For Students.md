@@ -25,26 +25,23 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>Whole Year Assessment Plan</strong> [ last updated 28 April 2024]</p>
-<p><a href="/files/2024_Sec_1_Weighted_Assesment_Overview_updated_25_April__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview (Updated 28 April 2024)</a>
+<p><strong>Whole Year Assessment Plan</strong> 
 </p>
-<p><a href="/files/General%20Information/Assessment%20Schedules/2024_Sec_2_Weighted_Assesment_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Weighted Assessment Overview</a>
+<p><a href="/files/General Information/For Students/2024_Sec_1_Weighted_Assesment_Overview_updated_7_June.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview (updated 7 June)</a>
 </p>
-<p><a href="/files/General%20Information/For%20Parents/2024_Sec_3_Weighted_Assesment_Overview_updated_6_Mar_24.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Weighted Assessment Overview (Updated 6 March 2024)</a>
+<p><a href="/files/General Information/For Students/2024_Sec_2_Weighted_Assesment_Overview_updated_20_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Weighted Assessment Overview (Updated 20 May)</a>
+</p>
+<p><a href="/files/General Information/For Students/2024_Sec_3_Weighted_Assesment_Overview_updated_20_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Weighted Assessment Overview (Updated 20 May)</a>
 </p>
 <p><a href="/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 and 5 Weighted Assessment Overview</a>
 </p>
 <p></p>
-<p><strong>2024 WA2 Schedule</strong>
+<p><strong>2024 WA3 Schedule</strong>
 </p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_1_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 WA2 Schedule</a>
+<p><a href="/files/General Information/For Students/2024_WA_3_Schedule__Overview_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 WA3 Schedule (Overview)</a>
 </p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_2_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 WA2 Schedule</a>
-</p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_3_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 WA2 Schedule</a>
-</p>
-<p><a href="/files/WA_2_2024_Timetable_Sec_4___5_wef_12_Mar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 and 5 WA2 Schedule</a>
-</p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>Developmental Matters</strong>
 </p>
