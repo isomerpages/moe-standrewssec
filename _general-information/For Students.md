@@ -25,7 +25,7 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>Whole Year Assessment Plan</strong> 
+<p><strong>Whole Year Assessment Plan</strong>
 </p>
 <p><a href="/files/General Information/For Students/2024_Sec_1_Weighted_Assesment_Overview_updated_7_June.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview (updated 7 June)</a>
 </p>
