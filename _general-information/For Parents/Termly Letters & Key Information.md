@@ -12,13 +12,13 @@ variant: markdown
 
 [2024 Term 2 Principal's Letter](/files/General%20Information/For%20Parents/2024_Term_2_Letter.pdf)
 
-**Whole Year Assessment Plan** [last updated 18 Mar 2024]
+**Whole Year Assessment Plan** 
 
-[2024 Sec 1 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_1_Weighted_Assesment_Overview.pdf)
+[2024 Sec 1 Weighted Assessment Overview(updated 7 June)](/files/General%20Information/For%20Students/2024_Sec_1_Weighted_Assesment_Overview_updated_7_June.pdf)
 
-[2024 Sec 2 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_2_Weighted_Assesment_Overview.pdf)
+[2024 Sec 2 Weighted Assessment Overview(Updated 20 May)](/files/General%20Information/For%20Students/2024_Sec_2_Weighted_Assesment_Overview_updated_20_May.pdf)
 
-[2024 Sec 3 Weighted Assessment Overview (Updated 6 March 2024)](/files/General%20Information/For%20Parents/2024_Sec_3_Weighted_Assesment_Overview_updated_6_Mar_24.pdf)
+[2024 Sec 3 Weighted Assessment Overview(Updated 20 May)](/files/General%20Information/For%20Students/2024_Sec_3_Weighted_Assesment_Overview_updated_20_May.pdf)
 
 [2024 Sec 4 and 5 Weighted Assessment Overview](/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf)
 
