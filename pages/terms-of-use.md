@@ -3,7 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-
 Thank you for visiting this St Andrew's Secondary School's website. By accessing and using this website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this website.
 
 **General**
@@ -18,7 +17,7 @@ Thank you for visiting this St Andrew's Secondary School's website. By accessing
 
 **Privacy Policy**
 
-4\. Click here to review this website .
+4\. Click here to review this website's [Privacy Statement](https://standrewssec.moe.edu.sg/privacy/) .
 
 **Restrictions on use of Materials**
 
