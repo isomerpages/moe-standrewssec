@@ -21,7 +21,7 @@ sections:
       image: /images/Picture6.png
       alt: Image alt text
   - textcards:
-      title: Lastest Release
+      title: Latest Release
       subtitle: Looking for something?
       id: textcards
       description: Click on the following links to stay updated on our latest resources.
