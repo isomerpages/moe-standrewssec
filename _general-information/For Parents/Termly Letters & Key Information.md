@@ -12,6 +12,8 @@ variant: markdown
 
 [2024 Term 2 Principal's Letter](/files/General%20Information/For%20Parents/2024_Term_2_Letter.pdf)
 
+[2024 Term 3 Principal's Letter](/files/General%20Information/For%20Parents/2024_Term_3_Letter.pdf)
+
 **Whole Year Assessment Plan** 
 
 [2024 Sec 1 Weighted Assessment Overview(updated 7 June)](/files/General%20Information/For%20Students/2024_Sec_1_Weighted_Assesment_Overview_updated_7_June.pdf)
