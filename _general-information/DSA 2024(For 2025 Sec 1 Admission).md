@@ -32,7 +32,7 @@ be submitted online through the DSA-Sec Portal by 3.00 p.m. on Monday,
 process.</p>
 </li>
 </ol>
-<p><a href="/files/General Information/2024 DSA/St_Andrews_Secondary_School_2024_DSA_SEC_Exercise__For_Website_Approved__200524.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SASS DSA Application and Selection Processes</a>
+<p><a href="/files/St_Andrews_Secondary_School_2024_DSA_SEC_Exercise__For_Website_Approved__27_June.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 SASS DSA Application and Selection Processes</a>
 </p>
 <p><a href="/files/General Information/2024 DSA/2024_DSA_Webinar_Slides_Final__For_Website_Post_Webinar.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 DSA Webinar Slides</a>
 </p>
