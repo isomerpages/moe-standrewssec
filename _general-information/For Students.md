@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_Sec_1_Weighted_Assesment_Overview_updated_25_June.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview (updated 25 June)</a>
 </p>
-<p><a href="/files/General Information/For Students/2024_Sec_2_Weighted_Assesment_Overview_updated_20_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Weighted Assessment Overview (Updated 20 May)</a>
+<p><a href="/files/2024_Sec_2_Weighted_Assesment_Overview_updated_4_July.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Weighted Assessment Overview (Updated 4 July)</a>
 </p>
 <p><a href="/files/General Information/For Students/2024_Sec_3_Weighted_Assesment_Overview_updated_20_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Weighted Assessment Overview (Updated 20 May)</a>
 </p>
