@@ -41,7 +41,14 @@ variant: tiptap
 <p><a href="/files/General Information/For Students/2024_WA_3_Schedule__Overview_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 WA3 Schedule (Overview)</a>
 </p>
 <p></p>
-<p></p>
+<p><strong>2024 Preliminary Examination Schedule </strong>
+</p>
+<p><a href="/files/4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4 Express/ 5 Normal Academic </a>
+</p>
+<p><a href="/files/4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4 Normal Academic </a>
+</p>
+<p><a href="/files/4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4 Normal Technical </a>
+</p>
 <p></p>
 <p><strong>Developmental Matters</strong>
 </p>
