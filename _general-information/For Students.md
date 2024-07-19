@@ -40,6 +40,12 @@ variant: tiptap
 </p>
 <p><a href="/files/General Information/For Students/2024_WA_3_Schedule__Overview_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 WA3 Schedule (Overview)</a>
 </p>
+<p><a href="/files/WA_3_2024_Timetable_Sec_1_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 WA3 Timetable</a>
+</p>
+<p><a href="/files/WA_3_2024_Timetable_Sec_2_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 2 WA3 Timetable</a>
+</p>
+<p><a href="/files/WA_3_2024_Timetable_Sec_3_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 3 WA3 Timetable</a>
+</p>
 <p></p>
 <p><strong>2024 Preliminary Examination Schedule</strong>
 </p>
