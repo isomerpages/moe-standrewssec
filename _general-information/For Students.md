@@ -47,6 +47,11 @@ variant: tiptap
 <p><a href="/files/WA_3_2024_Timetable_Sec_3_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 3 WA3 Timetable</a>
 </p>
 <p></p>
+<p><strong>2024 EOY Schedule </strong>
+</p>
+<p><a href="https://tinyurl.com/2024EOYTTable" rel="noopener nofollow" target="_blank">2024 EOY Timetable Webpage</a>
+</p>
+<p></p>
 <p><strong>2024 Preliminary Examination Schedule</strong>
 </p>
 <p><a href="/files/4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4 Express/ 5 Normal Academic</a>
