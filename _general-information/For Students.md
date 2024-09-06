@@ -27,7 +27,7 @@ variant: tiptap
 <p></p>
 <p><strong>Whole Year Assessment Plan</strong>
 </p>
-<p><a href="/files/2024_Sec_1_Weighted_Assesment_Overview_updated_21_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview (updated 21 Aug)</a>
+<p><a href="/files/General Information/Assessment Schedules/2024_Sec_1_Weighted_Assesment_Overview_updated_2_Sep.pdf" rel="noopener nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview (updated 2 Sep)</a>
 </p>
 <p><a href="/files/2024_Sec_2_Weighted_Assesment_Overview_updated_4_July.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Weighted Assessment Overview (Updated 4 July)</a>
 </p>
@@ -47,7 +47,7 @@ variant: tiptap
 <p><a href="/files/WA_3_2024_Timetable_Sec_3_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 3 WA3 Timetable</a>
 </p>
 <p></p>
-<p><strong>2024 EOY Schedule </strong>
+<p><strong>2024 EOY Schedule</strong>
 </p>
 <p><a href="https://tinyurl.com/2024EOYTTable" rel="noopener nofollow" target="_blank">2024 EOY Timetable Webpage</a>
 </p>
