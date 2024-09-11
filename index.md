@@ -26,19 +26,10 @@ sections:
       id: textcards
       description: Click on the following links to stay updated on our latest resources.
       cards:
-        - title: LATEST!
-          description: SASS 2024 DSA(SEC) information can now be found in the following
-            page.
-          linktext: Go to Page
-          url: https://standrewssec.moe.edu.sg/dsa-2024-for-2025-sec-1-admission/
-        - title: NEW!
-          description: Conference for Sec 3 Subject Allocation 2024
-          linktext: Go to Slides
-          url: https://standrewssec.moe.edu.sg/conference-on-sec-3-subject-allocation-2024/
-        - title: Hey Saints!
-          description: Schedule for Weighted Assessment 2 by TG is out!
-          linktext: Click here!
-          url: https://standrewssec.moe.edu.sg/general-information/for-students/
+        - title: 2024 EOY Exam Timetable
+          description: Click to view student's End-of-Year Examination Timetable.
+          linktext: Click Here
+          url: https://docs.google.com/spreadsheets/u/4/d/1WSRn54H9cWcngyoiRwTUbkM6wBHDiRJ6wnieEpj0KWE/pubhtml?gid=835403435
   - infopic:
       title: SASS Facebook
       subtitle: for more updates
