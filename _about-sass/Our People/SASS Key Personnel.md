@@ -7,7 +7,12 @@ variant: tiptap
 ---
 <h2>SASS Key Personnel</h2>
 <h4>School Leaders</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -56,7 +61,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Key Personnel</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -448,7 +458,7 @@ variant: tiptap
 <p>Ms Chan Ying Xian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sass@moe.edu.sg</p>
@@ -456,10 +466,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Kam Chuen</p>
+<p>Ms Nur Ain Zafirah Mohamed Said</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administration Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sass@moe.edu.sg</p>
