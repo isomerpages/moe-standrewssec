@@ -21,13 +21,6 @@ sections:
       image: /images/Picture6.png
       alt: Image alt text
   - infopic:
-      title: SASS Facebook
-      subtitle: for more updates
-      button: Follow us now
-      url: https://www.facebook.com/standrewssec/
-      alt: Image alt text
-      image: /images/2018_07Jul12_SASS_Fce-9.jpeg
-  - infopic:
       title: 2024 e-Open House
       subtitle: Join US at our
       id: infopic
@@ -37,4 +30,11 @@ sections:
       url: https://forms.moe.edu.sg/forms/vEaXz9
       image: /images/EDM_Poster_Final_.png
       alt: Image alt text
+  - infopic:
+      title: SASS Facebook
+      subtitle: for more updates
+      button: Follow us now
+      url: https://www.facebook.com/standrewssec/
+      alt: Image alt text
+      image: /images/2018_07Jul12_SASS_Fce-9.jpeg
 ---
