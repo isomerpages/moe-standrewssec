@@ -403,7 +403,6 @@ variant: tiptap
 <p>Mr Terence Chee</p>
 <p><a href="mailto:chee_wei_kit_terence@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chee_wei_kit_terence@moe.edu.sg</a>
 </p>
-<p>Ms Poh Bee Yong</p>
 </td>
 </tr>
 <tr>
