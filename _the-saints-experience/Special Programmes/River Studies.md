@@ -21,20 +21,15 @@ reports.</p>
 and NUS lecturer Mr. Sivasothi to educate students and inspire students
 about local biodiversity, fostering a love for nature.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture1.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture10.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture12.png">
 </div>
-<p><strong><em>Sharing on Local Biodiversity (Otters) by NUS Lecturer and alumni, Mr Sivasothi</em></strong>
-</p>
 <p></p>
 <p>Through the River Studies program, students research the role of gabions
 along the Kallang River and observe various nature park networks that integrate
@@ -43,32 +38,22 @@ a “City in Nature.” Enhancements to the aquaponics area and the construction
 of a therapeutic garden also help restore nature within our school's urban
 landscape, supporting Singapore's goal of being a City in Nature.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture13.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture5.png">
-</div>
-<p><strong><em>Mr Osman demonstrating rope-tying as part of the Outdoor Education Programme in River Studies</em></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture6.png">
-</div>
-<p><strong><em>Students collecting River Water during the Saints River Trail on Saints Development Day</em></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture7.png">
+<img style="width: 68%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture14.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture8.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture9.png">
+<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture15.png">
 </div>
-<p><strong><em>Construction of DIY water purification devices in the science lab</em></strong>
-</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture16.png">
+</div>
+<p></p>
