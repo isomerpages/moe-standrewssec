@@ -80,3 +80,110 @@ school’s commitment to conservation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picking_litter_with_SPS_Mr_Baey_Yam_Keng.png">
 </div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competition/Programme/Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1) Recycling Challenge for ezi Go-Green Recycling Competition 2022</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2) Singapore's International E-Waste Day Art Competition 2022</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Achievement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3) Greenwave by Sembcorp 2023</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4) Farmathon 2022</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Promising Team Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5) Farmathon 2023</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3 Team Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6) Community in Bloom Awards 2023 (Educational Institutions and Organisations)</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7) Innergy Award on Eco-Stewardship in SASS 2023</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8) School Green Award 2022, 2023</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yellow Flame Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9) Project ECO Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10) School Green Awards 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vanda Miss Joaquim Award, Outstanding Environmental Achievement Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
