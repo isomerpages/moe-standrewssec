@@ -88,12 +88,10 @@ school’s commitment to conservation.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Competition/Programme/Event</strong>
-</p>
+<h4><strong>Competition/Programme/Event</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
+<h4><strong>Achievement</strong></h4>
 </td>
 </tr>
 <tr>
