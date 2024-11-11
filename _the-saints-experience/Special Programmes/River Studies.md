@@ -15,8 +15,7 @@ In Secondary 2, students enhance their learning of ‘Interactions within
 Ecosystems’ through outdoor ecological surveys along the Kallang Park Connector,
 contributing their findings to a biodiversity Padlet wall and writing ecological
 reports.</p>
-<p>Link to Padlet wall: <a href="https://padlet.com/sci7015saints/biodiversity-in-sass-r9k6mhl9ry9r4owq" rel="noopener nofollow" target="_blank">https://padlet.com/sci7015saints/biodiversity-in-sass-r9k6mhl9ry9r4owq</a>
-</p>
+<p></p>
 <p>We also invited environmental advocate, BioGirlMJ from Just Keep Thinking
 and NUS lecturer Mr. Sivasothi to educate students and inspire students
 about local biodiversity, fostering a love for nature.</p>
