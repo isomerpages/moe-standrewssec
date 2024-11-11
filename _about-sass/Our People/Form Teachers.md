@@ -49,6 +49,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Ratish</p>
 <p>Balakrishnan</p>
+<p><a href="mailto:ratish_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ratish_balakrishnan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
