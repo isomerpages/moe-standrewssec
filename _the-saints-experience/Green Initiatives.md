@@ -96,7 +96,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1) Recycling Challenge for ezi Go-Green Recycling Competition 2022</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Recycling Challenge for ezi Go-Green Recycling Competition 2022</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +109,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2) Singapore's International E-Waste Day Art Competition 2022</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Singapore's International E-Waste Day Art Competition 2022</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +122,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3) Greenwave by Sembcorp 2023</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Greenwave by Sembcorp 2023</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +135,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4) Farmathon 2022</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Farmathon 2022</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,7 +148,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5) Farmathon 2023</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Farmathon 2023</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +161,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6) Community in Bloom Awards 2023 (Educational Institutions and Organisations)</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Community in Bloom Awards 2023 (Educational Institutions and Organisations)</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,7 +174,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7) Innergy Award on Eco-Stewardship in SASS 2023</p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Innergy Award on Eco-Stewardship in SASS 2023</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,7 +187,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8) School Green Award 2022, 2023</p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>School Green Awards 2022, 2023</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +200,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9) Project ECO Award 2023</p>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>Project ECO Award 2023</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
@@ -176,7 +212,11 @@ school’s commitment to conservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10) School Green Awards 2024</p>
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>School Green Awards 2024</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vanda Miss Joaquim Award, Outstanding Environmental Achievement Award</p>
