@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - SASS eOpen House 2024.md
       - Conference on Sec 3 Subject Allocation 2024.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
