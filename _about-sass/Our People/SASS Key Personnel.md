@@ -323,17 +323,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Keh Hui Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Student Well-Being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>keh_hui_hui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Prinya Lovajana</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -348,7 +337,7 @@ variant: tiptap
 <p>Ms Shanthini Rathakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Secondary 3 (covering)</p>
+<p>Assistant Year Head / Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>shanthini_rathakrishnan@moe.edu.sg</p>
