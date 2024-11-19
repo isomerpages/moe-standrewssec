@@ -22,13 +22,12 @@ sections:
       alt: Image alt text
   - infopic:
       title: 2024 e-Open House
-      subtitle: Join US at our
+      subtitle: Missed the event?
       id: infopic
-      description: Scan the QR code or click on the link below to register!
-        Registration ends 6 Nov 2024!
-      button: Register here
-      url: https://forms.moe.edu.sg/forms/vEaXz9
-      image: /images/EDM_Poster_Final_.png
+      description: Not to worry! We have uploaded useful information for you.
+      button: Click here!
+      url: https://standrewssec.moe.edu.sg/sass-eopen-house-2024/
+      image: /images/2024 eOpen House/eOpen_House_2024_Website_Cover.png
       alt: Image alt text
   - infopic:
       title: SASS Facebook
