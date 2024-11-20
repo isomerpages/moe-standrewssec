@@ -13,6 +13,17 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Latest news and updates
+      announcement_items:
+        - title: Sale of 2025 Textbooks and School Uniform
+          date: 21 November 2024
+          announcement: Purchase of 2025 textbooks and sale of school uniform services is
+            now available.
+          link_text: Click here!
+          link_url: /general-information/for-parents/2025booklist/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
