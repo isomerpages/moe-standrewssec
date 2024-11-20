@@ -45,10 +45,7 @@ variant: tiptap
 <li>
 <p><a href="/files/leaps-2.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA LEAPS 2.0</a>
 </p>
-</li>
-<li>
-<p><a href="/files/FAQs%20on%20Student%20iCON%20for%20Parents_vetted%20updated%2020%20May.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQs on Student iCON for Parents</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Useful Links</strong>
@@ -60,10 +57,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parents Kit</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Get%20Mobile%20Notification%20from%20SASS%20for%20your%20iPhone%20or%20Android.pdf" rel="noopener noreferrer nofollow" target="_blank">Mobile Notification: Get Updated on School Activities using your Smart Phones!</a>
 </p>
 </li>
 <li>
