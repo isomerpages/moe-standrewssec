@@ -12,7 +12,7 @@ information. You may place your orders online at <a href="http://www.printpak.co
 till 5pm, 15 Dec. Note that for self-collection, online orders are to be
 made by 4pm, 10 Dec, after which only the delivery option is available.
 Details can be found in the booklists attached.</p>
-<p><a href="/files/2025 Booklist_Uniform Sales/25_SASS_Booklist_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">SASS Booklist 2025_Sec 1</a>
+<p><a href="/files/2025 Booklist_Uniform Sales/SASS_Booklist_2025_Sec_1.pdf" rel="noopener nofollow" target="_blank">SASS Booklist 2025_Sec 1</a>
 </p>
 <p><a href="/files/2025 Booklist_Uniform Sales/25_SASS_Booklist_2025_Sec_2.pdf" rel="noopener nofollow" target="_blank">SASS Booklist 2025_Sec 2</a>
 </p>
