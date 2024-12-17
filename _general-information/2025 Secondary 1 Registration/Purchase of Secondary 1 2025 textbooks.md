@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Secondary 1 Registration
 ---
+<p>Please <a href="https://www.standrewssec.moe.edu.sg/general-information/for-parents/2025booklist/" rel="noopener nofollow" target="_blank">click here</a> for
+the Secondary 1 Booklist.</p>
 <p>To patronise the bookshop, please refer to the schedule below:</p>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
