@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - Secondary 1 e Registration/2025 Secondary One eRegistration.md
       - Secondary 1 e Registration/.keep
       - Purchase of Sec 1 Textbooks/.keep
       - Conference on Sec 3 Subject Allocation 2024.md
