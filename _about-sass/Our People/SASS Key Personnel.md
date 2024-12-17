@@ -41,7 +41,7 @@ variant: tiptap
 <p>Ms Agnes Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sass@moe.edu.sg</p>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Ms Guinieve Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sass@moe.edu.sg</p>
