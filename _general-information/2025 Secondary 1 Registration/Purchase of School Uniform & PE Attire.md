@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: 2025 Secondary 1 Registration
 ---
-<p>For pre-orders and online purchase of school uniform, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.khuniform.com/</a>
-</p>
-<p>&nbsp;</p>
+<p>The information for Sec 1 sale of school uniforms may be found <a href="/files/2025 Booklist_Uniform Sales/Sec_1___School_Uniform_Sales.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>For pre-orders and online purchase of school uniform, please visit <a href="https://khuniform.com/" rel="noopener nofollow" target="_blank">KH Uniform</a>&nbsp;.</p>
+<p></p>
 <p><strong>PE T-shirt:</strong>
 </p>
 <p>All Sec 1 students will be allocated a House and will be required to buy
