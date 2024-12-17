@@ -41,7 +41,18 @@ variant: tiptap
 <p>Ms Agnes Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
+<p>Vice-Principal 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sass@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Guinieve Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>sass@moe.edu.sg</p>
@@ -110,17 +121,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>gan_ghim_kui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sujatha Paramathayalan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department / English Language &amp; Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sujatha_paramathayalan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

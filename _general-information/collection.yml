@@ -2,7 +2,12 @@ collections:
   general-information:
     output: true
     order:
-      - SASS eOpen House 2024.md
+      - 2025 Secondary 1 Registration/.keep
+      - 2025 Secondary 1 Registration/Secondary 1 eRegistration.md
+      - 2025 Secondary 1 Registration/Purchase of Secondary 1 2025 textbooks.md
+      - 2025 Secondary 1 Registration/Purchase of School Uniform & PE Attire.md
+      - 2025 Secondary 1 Registration/First Day of School Programme.md
+      - 2025 Secondary One Transfer Appeals.md
       - Conference on Sec 3 Subject Allocation 2024.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md

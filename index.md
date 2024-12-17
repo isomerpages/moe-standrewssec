@@ -13,6 +13,33 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
+  - textcards:
+      title: 2025 Secondary One Registration
+      id: textcards
+      description: Please click on the links below for information on
+      cards:
+        - title: Secondary 1 e-Registration
+          description: ""
+          linktext: Go To Page
+          url: https://standrewssec.moe.edu.sg/2025-secondary-one-registration/
+        - title: Purchase of Secondary 1 2025 textbooks
+          description: ""
+          linktext: Go To Page
+          url: https://standrewssec.moe.edu.sg/purchase-of-secondary-1-2025-textbooks/
+        - title: Purchase of School Uniform and PE Attire
+          description: ""
+          linktext: Go To Page
+          url: https://standrewssec.moe.edu.sg/purchase-of-school-uniform-pe-attire/
+        - title: First day of school programme
+          description: ""
+          linktext: Go To Page
+          url: https://standrewssec.moe.edu.sg/first-day-of-school-programme/
+  - infobar:
+      title: 2025 Secondary One Transfer Appeals
+      subtitle: To find out on
+      id: infobar
+      button: Click Here
+      url: https://standrewssec.moe.edu.sg/2025-secondary-one-transfer-appeals/
   - announcements:
       title: Announcements
       id: announcements
@@ -30,15 +57,6 @@ sections:
       button: Here
       url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
       image: /images/Picture6.png
-      alt: Image alt text
-  - infopic:
-      title: 2024 e-Open House
-      subtitle: Missed the event?
-      id: infopic
-      description: Not to worry! We have uploaded useful information for you.
-      button: Click here!
-      url: https://standrewssec.moe.edu.sg/sass-eopen-house-2024/
-      image: /images/2024 eOpen House/eOpen_House_2024_Website_Cover.png
       alt: Image alt text
   - infopic:
       title: SASS Facebook
