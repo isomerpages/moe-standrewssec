@@ -12,8 +12,10 @@ to Secondary 1 in 2025 can submit their appeals online via this link:
 </p>
 <p>Only students whose PSLE score meets our school’s cut-off point will be
 considered, and acceptance is subject to available vacancies. The table
-below shows the cut-off points for the <strong>2024 Secondary 1</strong> Cohort.</p>
+below shows the cut-off points for the <strong>2025 Secondary 1</strong> Cohort.</p>
 <p>&nbsp;</p>
+<p><strong><u>Cut-Off Point (COP) for 2025 Sec 1 Cohort </u></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -43,7 +45,7 @@ below shows the cut-off points for the <strong>2024 Secondary 1</strong> Cohort.
 <p>22</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10</p>
+<p>9</p>
 </td>
 </tr>
 <tr>
@@ -62,16 +64,15 @@ below shows the cut-off points for the <strong>2024 Secondary 1</strong> Cohort.
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28</p>
+<p>29</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26</p>
+<p>27</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><em>The above table will be updated with the cut-off points for the 2025 Secondary 1 cohort after the release of posting results.</em></strong><em>&nbsp;</em>
-</p>
+<p></p>
 <p>For more information on transfer appeals, you may refer to the MOE website
 at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
 </p>
