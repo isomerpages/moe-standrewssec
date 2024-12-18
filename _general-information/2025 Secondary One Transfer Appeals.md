@@ -6,8 +6,7 @@ description: ""
 ---
 <h4>Secondary 1 Transfer Appeals to SASS</h4>
 <p>Students who wish to appeal to St Andrew’s Secondary School for admission
-to Secondary 1 in 2025 can submit their appeals online via this link:
-<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/s1appealsass</a>&nbsp; &nbsp;&nbsp;&nbsp;</p>
+to Secondary 1 in 2025 can submit their appeals online via this <a href="https://form.gov.sg/674fb25dcb41d65fc43838f4" rel="noopener nofollow" target="_blank">link</a>.&nbsp;&nbsp;&nbsp;</p>
 <p>The deadline for submission of appeal is <strong>23 December 2024, 5.00 p.m.</strong>
 </p>
 <p>Only students whose PSLE score meets our school’s cut-off point will be
@@ -72,7 +71,6 @@ below shows the cut-off points for the <strong>2025 Secondary 1</strong> Cohort.
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>For more information on transfer appeals, you may refer to the MOE website
-at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
+<a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
 </p>
