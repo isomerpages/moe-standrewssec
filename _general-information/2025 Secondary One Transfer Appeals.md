@@ -14,7 +14,7 @@ to Secondary 1 in 2025 can submit their appeals online via this link:
 considered, and acceptance is subject to available vacancies. The table
 below shows the cut-off points for the <strong>2025 Secondary 1</strong> Cohort.</p>
 <p>&nbsp;</p>
-<p><strong><u>Cut-Off Point (COP) for 2025 Sec 1 Cohort </u></strong>
+<p><strong><u>Cut-Off Point (COP) for 2025 Sec 1 Cohort</u></strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
