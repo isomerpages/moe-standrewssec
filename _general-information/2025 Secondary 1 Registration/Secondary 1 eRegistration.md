@@ -50,7 +50,6 @@ before accepting the offer. &nbsp;</p>
 new card is issued. Those purchasing Concession passes will need to purchase
 the concession pass for secondary school students.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>How can I apply for MOE Financial Assistance</u>?</p>
-<p>Parents are to log in using their Singpass and submit their application
-and all supporting documents for the MOE Financial Assistance Scheme
-<a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a>. Hardcopy application and supporting documents are not required.
-&nbsp;</p>
+<p>You may apply for MOE Financial Assistance Scheme <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a> . Please login
+using your Singpass and submit the application and all supporting documents
+online.</p>
