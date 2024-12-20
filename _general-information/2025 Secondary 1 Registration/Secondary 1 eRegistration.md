@@ -53,3 +53,8 @@ the concession pass for secondary school students.</p>
 <p>You may apply for MOE Financial Assistance Scheme <a href="https://form.gov.sg/6666a548f71e023bcbe7c9b7" rel="noopener nofollow" target="_blank">here</a> . Please login
 using your Singpass and submit the application and all supporting documents
 online.</p>
+<p></p>
+<p><strong>Virtual Briefing For G1 and G2 Students</strong>
+</p>
+<p>You may download the briefing slides for eligible G1 students here.</p>
+<p>You may download the briefing slides for eligible G2 students here.</p>
