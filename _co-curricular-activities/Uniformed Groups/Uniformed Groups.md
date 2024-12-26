@@ -146,7 +146,7 @@ variant: tiptap
 <p>3.30 pm – 6.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Classrooms C5-09</p>
+<p>Classrooms C7-09</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liang Soon Fong</p>
@@ -154,12 +154,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kenneth Ong Kheng Ngee</p>
+<p>Ms Chew Cher Joanna</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Cher Joanna</p>
+<p>Mr Mr Kenneth Ong Kheng Ngee</p>
 </td>
 </tr>
 </tbody>
