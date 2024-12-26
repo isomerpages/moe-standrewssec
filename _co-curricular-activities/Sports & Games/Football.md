@@ -14,16 +14,14 @@ variant: tiptap
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Lin Daoxing
-<br>lin_daoxing@moe.edu.sg</p>
-</li>
-<li>
-<p>&nbsp;Mr Mohamed Osman Mohamed Noor&nbsp;
-<br>&nbsp;mohamed_osman_mohamed_noor@moe.edu.sg</p>
+<p>Mr Tan Yan Ho
+<br><a href="mailto:tan_yan_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yan_ho@moe.edu.sg</u></a>
+</p>
 </li>
 <li>
 <p>&nbsp;Mr Yeow Yongqi Jeremy
-<br>yeow_yongqi_jeremy@moe.edu.sg</p>
+<br><a href="mailto:yeow_yongqi_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_yongqi_jeremy@moe.edu.sg</a>
+</p>
 </li>
 </ol>
 <h3>Achievements</h3>
