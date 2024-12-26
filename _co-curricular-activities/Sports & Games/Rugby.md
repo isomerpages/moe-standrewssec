@@ -26,10 +26,7 @@ variant: tiptap
 <p>Ms Poh Jin Yu Vanessa
 <br><a href="mailto:poh_jin_yu_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>poh_jin_yu_vanessa@moe.edu.sg</u></a>
 </p>
-</li>
-<li>
-<p>Mr Muhammad Zulhaqqim Awaruddin
-<br><a href="mailto:muhammad_zulhaqqim_awaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_zulhaqqim_awaruddin@moe.edu.sg</u></a>&nbsp;</p>
+<p></p>
 </li>
 </ol>
 <h3>Achievements</h3>
