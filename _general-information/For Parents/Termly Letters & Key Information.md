@@ -9,24 +9,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents_updated.jpeg">
 </div>
 <p><strong>Letter to Parents</strong>
-<br><a href="/files/General%20Information/For%20Parents/2024_Term_1_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 1 Principal's Letter</a>
-</p>
-<p><a href="/files/General%20Information/For%20Parents/2024_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 Principal's Letter</a>
-</p>
-<p><a href="/files/General%20Information/For%20Parents/2024_Term_3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 3 Principal's Letter</a>
-</p>
-<p><a href="/files/Parent/Termly Letters/2024_Term_4_Letter.pdf" rel="noopener nofollow" target="_blank">2024 Term 4 Principal's Letter</a>
+<br><a href="/files/General Information/For Parents/2025_Term_1_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Letter to Parents</a>
 </p>
 <p><strong>Whole Year Assessment Plan</strong>
 </p>
-<p><a href="/files/General Information/Assessment Schedules/2024_Sec_1_Weighted_Assesment_Overview_updated_2_Sep.pdf" rel="noopener nofollow" target="_blank">2024 Sec 1 Weighted Asessment Overview (updated 2 Sep)</a>
+<p><strong>[updating in progress]</strong>
 </p>
-<p><a href="/files/General%20Information/For%20Students/2024_Sec_2_Weighted_Assesment_Overview_updated_20_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Weighted Assessment Overview(Updated 20 May)</a>
-</p>
-<p><a href="/files/General%20Information/For%20Students/2024_Sec_3_Weighted_Assesment_Overview_updated_20_May.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Weighted Assessment Overview(Updated 20 May)</a>
-</p>
-<p><a href="/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 and 5 Weighted Assessment Overview</a>
-</p>
+<p></p>
 <p><strong>Developmental Matters</strong>
 </p>
 <ul>
