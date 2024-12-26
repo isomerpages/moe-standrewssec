@@ -80,7 +80,7 @@ variant: tiptap
 <p>Mon &amp; Wed</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>3.30 pm - 5.30 pm</p>
+<p>3.30 pm - 6.00 pm</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Indoor Sports Hall/ School Hall</p>
@@ -189,7 +189,7 @@ variant: tiptap
 </td>
 <td rowspan="4" colspan="1">
 <p>3.30 pm – 6.30 pm (Mon &amp; Wed)
-<br>3.00 pm -- 6.00 pm (Fri)</p>
+<br>3.00 pm - 6.00 pm (Fri)</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>SASS Field</p>
@@ -223,10 +223,10 @@ variant: tiptap
 </td>
 <td rowspan="3" colspan="1">
 <p>4.00 pm – 6.00 pm (Mon &amp; Wed)
-<br>2.00 pm -- 4.00 pm (Fri)</p>
+<br>2.00 pm - 4.00 pm (Fri)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Yio Chu Kang Squash Centre</p>
+<p>Yio Chu Kang Squash Centre/ PSOEB (Evans Road)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Pei Shing</p>
@@ -285,12 +285,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Tze Ping Jimmy</p>
+<p>Mr Lam Wai Leong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lam Wai Leong</p>
+<p>Mr Koh Tze Ping Jimmy</p>
 </td>
 </tr>
 <tr>
