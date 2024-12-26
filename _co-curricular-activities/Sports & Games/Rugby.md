@@ -14,19 +14,22 @@ variant: tiptap
 <ol>
 <li>
 <p>&nbsp;Mr Kong Hon Ein Aaron
-<br>kong_hon_ein_aaron@moe.edu.sg</p>
+<br><a href="mailto:kong_hon_ein_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_hon_ein_aaron@moe.edu.sg</a>
+</p>
 </li>
 <li>
-<p>Mr Tan Kok Tze Benedict
-<br>tan_kok_tze_benedict@moe.edu.sg</p>
+<p>Mr Jonathan Jacob
+<br><a href="mailto:jacob_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>jacob_jonathan@moe.edu.sg</u></a>
+</p>
 </li>
 <li>
-<p>Ms Tan Yii Yann&nbsp;
-<br>tan_yii_yann@moe.edu.sg</p>
+<p>Ms Poh Jin Yu Vanessa
+<br><a href="mailto:poh_jin_yu_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>poh_jin_yu_vanessa@moe.edu.sg</u></a>
+</p>
 </li>
 <li>
-<p>Mr Jacob Jonathan
-<br>jacob_jonathan@moe.edu.sg &nbsp; &nbsp;</p>
+<p>Mr Muhammad Zulhaqqim Awaruddin
+<br><a href="mailto:muhammad_zulhaqqim_awaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_zulhaqqim_awaruddin@moe.edu.sg</u></a>&nbsp;</p>
 </li>
 </ol>
 <h3>Achievements</h3>
