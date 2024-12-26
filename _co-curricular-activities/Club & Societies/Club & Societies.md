@@ -108,12 +108,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zulaiha Basri</p>
+<p>Ms Chua Xin Yuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Xin Yuan</p>
+<p>Mdm Zulaiha Basri</p>
 </td>
 </tr>
 </tbody>
