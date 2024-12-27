@@ -180,18 +180,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Rugby</strong>
 </p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Mon, Wed &amp; Fri</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3.30 pm – 6.30 pm (Mon &amp; Wed)
 <br>3.00 pm - 6.00 pm (Fri)</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>SASS Field</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,11 +206,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Poh Jin Yu Vanessa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Zulhaqqim Awaruddin</p>
 </td>
 </tr>
 <tr>
