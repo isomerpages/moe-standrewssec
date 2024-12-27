@@ -26,9 +26,6 @@ variant: tiptap
 <p>&nbsp;Mr Muhammad Zulhaqqim Awaruddin
 <br><a href="mailto:muhammad_zulhaqqim_awaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zulhaqqim_awaruddin@moe.edu.sg</a>
 </p>
-</li>
-<li>
-<p>Ms Poh Bee Yong</p>
 <p></p>
 </li>
 </ol>
