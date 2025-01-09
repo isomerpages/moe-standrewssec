@@ -5,9 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20Parents_updated.jpeg">
-</div>
+<p></p>
 <p><strong>Letter to Parents</strong>
 <br><a href="/files/General Information/For Parents/2025_Term_1_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Letter to Parents</a>
 </p>
