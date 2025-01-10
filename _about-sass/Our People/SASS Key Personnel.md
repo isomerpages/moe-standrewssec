@@ -132,7 +132,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Fiona Qui</p>
+<p>Mrs Fiona Qiu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ English Language and Literature(Covering)</p>
