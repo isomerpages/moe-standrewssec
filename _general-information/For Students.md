@@ -22,6 +22,8 @@ variant: tiptap
 </p>
 <p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Schedule</a>
 </p>
+<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Schedule</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -116,4 +118,5 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Schedule</a>
+</p>
