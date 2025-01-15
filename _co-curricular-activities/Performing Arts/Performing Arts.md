@@ -85,7 +85,7 @@ variant: tiptap
 <p>Lecture Theatre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Junie How</p>
+<p>Ms Junie Hoe</p>
 </td>
 </tr>
 <tr>
