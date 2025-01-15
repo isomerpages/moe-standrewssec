@@ -4,6 +4,11 @@ permalink: /about-sass/achievements/
 description: ""
 variant: tiptap
 ---
+<h3>2024 CCA Achievements</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2024_CCA_Achievements__15_Jan_.png">
+</div>
 <h3>2023 CCA Achievements</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Achievements_2023.PNG">
@@ -11,10 +16,6 @@ variant: tiptap
 <h3>2022 CCA Achievements</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2022%20achievement%20(last%20updated%2011%20aug%202023).PNG">
-</div>
-<h3>2021 CCA Achievements</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2021%20achievement%20(last%20updated%2011%20aug%202023).PNG">
 </div>
 <h3>Academic Achievements</h3>
 <h5><strong>The following achievements were made by students at&nbsp;national events or competitions:</strong></h5>

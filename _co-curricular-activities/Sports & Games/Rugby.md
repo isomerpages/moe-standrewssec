@@ -13,7 +13,7 @@ variant: tiptap
 <h3>Teachers-in-Charge</h3>
 <ol>
 <li>
-<p>&nbsp;Mr Kong Hon Ein Aaron
+<p>Mr Kong Hon Ein Aaron
 <br><a href="mailto:kong_hon_ein_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_hon_ein_aaron@moe.edu.sg</a>
 </p>
 </li>
@@ -26,6 +26,9 @@ variant: tiptap
 <p>Ms Poh Jin Yu Vanessa
 <br><a href="mailto:poh_jin_yu_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>poh_jin_yu_vanessa@moe.edu.sg</u></a>
 </p>
+</li>
+<li>
+<p>Ms Tan Xin Ying (FAJT)</p>
 <p></p>
 </li>
 </ol>

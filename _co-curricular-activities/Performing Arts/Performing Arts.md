@@ -38,17 +38,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Concert Band</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Mon, Tue &amp; Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>3.30 pm – 6.30 pm</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>SASS Band Room, A6-02, Media Room</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,6 +63,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Zulhaqqim Awaruddin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Xin Ying (FAJT)</p>
 </td>
 </tr>
 <tr>
