@@ -22,6 +22,9 @@ variant: tiptap
 <br><a href="mailto:mohamed_osman_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_osman_mohamed_noor@moe.edu.sg</a>
 </p>
 </li>
+<li>
+<p>Ms Tan Xin Ying (FAJT)</p>
+</li>
 </ol>
 <h3>Achievements</h3>
 <p>2022</p>
