@@ -20,7 +20,8 @@ variant: tiptap
 </p>
 <p><strong>2025 Weighted Assessment Schedule</strong>
 </p>
-<p></p>
+<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Schedule</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
