@@ -26,6 +26,9 @@ variant: tiptap
 <p>Ms Poh Jin Yu Vanessa
 <br><a href="mailto:poh_jin_yu_vanessa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>poh_jin_yu_vanessa@moe.edu.sg</u></a>
 </p>
+</li>
+<li>
+<p>Ms Tan Xin Ying (FAJT)</p>
 <p></p>
 </li>
 </ol>
