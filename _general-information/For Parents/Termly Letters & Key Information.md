@@ -11,7 +11,9 @@ variant: tiptap
 </p>
 <p><strong>Whole Year Assessment Plan</strong>
 </p>
-<p><strong>[updating in progress]</strong>
+<p></p>
+<p></p>
+<p><strong>2025 Weighted Assessment Schedule</strong>
 </p>
 <p></p>
 <p><strong>Developmental Matters</strong>
