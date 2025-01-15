@@ -8,58 +8,15 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20student/SASS-D1A-3.jpg">
 </div>
 <p></p>
-<p><strong>Sec 3 Subject Allocation 2024: Cohort Engagement with Sec 2 students</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Session_with_Sec_2_Express_on_Sec_3_Course_Selection.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Express Students (Slides)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Cohort_Engagement_Sec_2N_A_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Normal(Academic) Students (Slides)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/General Information/Sec 3 Subject Allocation/2024_Cohort_Engagement_NT.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Normal(Technical) Students (Slides)</a>
-</p>
-</li>
-</ul>
-<p></p>
 <p><strong>Whole Year Assessment Plan</strong>
 </p>
-<p><a href="/files/2024_Sec_1_Weighted_Assesment_Overview_updated_13_Sep.pdf" rel="noopener nofollow" target="_blank">2024 Sec 1 Weighted Assessment Overview (updated 13 Sep)</a>
+<p><a href="/files/General Information/For Parents/2025_Sec_1_Weighted_Assesment_Overview_updated_13_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview (13 Jan)</a>
 </p>
-<p><a href="/files/2024_Sec_2_Weighted_Assesment_Overview_updated_4_July.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 2 Weighted Assessment Overview (Updated 4 July)</a>
-</p>
-<p><a href="/files/2024_Sec_3_Weighted_Assesment_Overview_updated_21_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 3 Weighted Assessment Overview (Updated 21 Aug)</a>
-</p>
-<p><a href="/files/General%20Information/Assessment%20Schedules/2024_Sec_4_and_5__Weighted_Assesment_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sec 4 and 5 Weighted Assessment Overview</a>
+<p><strong>2025 Weighted Assessment Schedule</strong>
 </p>
 <p></p>
-<p><strong>2024 WA3 Schedule</strong>
-</p>
-<p><a href="/files/General Information/For Students/2024_WA_3_Schedule__Overview_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 WA3 Schedule (Overview)</a>
-</p>
-<p><a href="/files/WA_3_2024_Timetable_Sec_1_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 1 WA3 Timetable</a>
-</p>
-<p><a href="/files/WA_3_2024_Timetable_Sec_2_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 2 WA3 Timetable</a>
-</p>
-<p><a href="/files/WA_3_2024_Timetable_Sec_3_wef_10_July_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 3 WA3 Timetable</a>
-</p>
 <p></p>
-<p><strong>2024 EOY Schedule</strong>
-</p>
-<p><a href="https://tinyurl.com/2024EOYTTable" rel="noopener nofollow" target="_blank">2024 EOY Timetable Webpage</a>
-</p>
 <p></p>
-<p><strong>2024 Preliminary Examination Schedule</strong>
-</p>
-<p><a href="/files/4E5N.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4 Express/ 5 Normal Academic</a>
-</p>
-<p><a href="/files/4NA.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4 Normal Academic</a>
-</p>
-<p><a href="/files/4NT.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Secondary 4 Normal Technical</a>
-</p>
 <p></p>
 <p><strong>Developmental Matters</strong>
 </p>
