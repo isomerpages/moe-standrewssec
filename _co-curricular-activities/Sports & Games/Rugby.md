@@ -13,7 +13,7 @@ variant: tiptap
 <h3>Teachers-in-Charge</h3>
 <ol>
 <li>
-<p>&nbsp;Mr Kong Hon Ein Aaron
+<p>Mr Kong Hon Ein Aaron
 <br><a href="mailto:kong_hon_ein_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_hon_ein_aaron@moe.edu.sg</a>
 </p>
 </li>
