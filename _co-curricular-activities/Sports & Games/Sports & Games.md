@@ -100,17 +100,17 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Tue &amp; Thu</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3.30 pm – 6.00 pm</p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Indoor Sports Hall</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,6 +120,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Osman Mohamed Noor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Xin Ying (FAJT)</p>
 </td>
 </tr>
 <tr>
