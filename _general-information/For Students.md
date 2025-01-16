@@ -12,11 +12,11 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/General Information/For Parents/2025_Sec_1_Weighted_Assesment_Overview_updated_13_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview (13 Jan)</a>
+<p><a href="/files/General Information/For Students/2025_Sec_1_Weighted_Assesment_Overview_updated_16_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview (16 Jan)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Parents/2025_Sec_2_Weighted_Assesment_Overview_updated_15_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview (13 Jan)</a>
+<p><a href="/files/General Information/For Students/2025_Sec_2_Weighted_Assesment_Overview_updated_16_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview (16 Jan)</a>
 </p>
 </li>
 <li>
