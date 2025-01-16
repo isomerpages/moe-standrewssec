@@ -29,6 +29,8 @@ variant: tiptap
 <p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_4___5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4&amp;5 Weighted Assessment Schedule</a>
 </p>
 <p></p>
+<p><strong>2025 TGIF Schedule </strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
