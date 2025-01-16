@@ -10,26 +10,46 @@ variant: tiptap
 <p></p>
 <p><strong>Whole Year Assessment Plan</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/General Information/For Parents/2025_Sec_1_Weighted_Assesment_Overview_updated_13_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview (13 Jan)</a>
 </p>
+</li>
+<li>
 <p><a href="/files/General Information/For Parents/2025_Sec_2_Weighted_Assesment_Overview_updated_15_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview (13 Jan)</a>
 </p>
+</li>
+<li>
 <p><a href="/files/General Information/For Parents/2025_Sec_3_Weighted_Assesment_Overview__1_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview (13 Jan)</a>
 </p>
+</li>
+<li>
 <p><a href="/files/General Information/For Parents/2025_Sec_4_and_5__Weighted_Assesment_Overview_updated_13_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview (13 Jan)</a>
 </p>
 <p></p>
+</li>
+</ul>
 <p><strong>2025 Weighted Assessment Schedule</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Schedule</a>
 </p>
+</li>
+<li>
 <p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Schedule</a>
 </p>
+</li>
+<li>
 <p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_3.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Schedule</a>
 </p>
+</li>
+<li>
 <p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_4___5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4&amp;5 Weighted Assessment Schedule</a>
 </p>
 <p></p>
+</li>
+</ul>
 <p><strong>Developmental Matters</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -45,10 +65,16 @@ variant: tiptap
 <p></p>
 <p><strong>2025 TGIF Schedule</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/TGIF_Term_1.pdf" rel="noopener nofollow" target="_blank">TGIF Term 1</a>
 </p>
+</li>
+<li>
 <p><a href="/files/TGIF_Term_2.pdf" rel="noopener nofollow" target="_blank">TGIF Term 2</a>
 </p>
+</li>
+</ul>
 <p></p>
 <p><strong>Learning Tools</strong>
 </p>
