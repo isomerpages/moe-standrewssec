@@ -9,27 +9,6 @@ variant: tiptap
 <p><strong>Letter to Parents</strong>
 <br><a href="/files/General Information/For Parents/2025_Term_1_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Letter to Parents</a>
 </p>
-<p><strong>Whole Year Assessment Plan</strong>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Sec_1_Weighted_Assesment_Overview_updated_13_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview (13 Jan)</a>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Sec_2_Weighted_Assesment_Overview_updated_15_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview (15 Jan)</a>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Sec_3_Weighted_Assesment_Overview__1_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview (13 Jan)</a>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Sec_4_and_5__Weighted_Assesment_Overview_updated_13_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview (13 Jan)</a>
-</p>
-<p></p>
-<p><strong>2025 Weighted Assessment Schedule</strong>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Schedule</a>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment 1 Schedule</a>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_3.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment 1 Schedule</a>
-</p>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_4___5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment 1 Schedule</a>
-</p>
 <p></p>
 <p><strong>Developmental Matters</strong>
 </p>
