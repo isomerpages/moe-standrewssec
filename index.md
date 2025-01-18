@@ -13,27 +13,6 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
-  - textcards:
-      title: 2025 Secondary One Registration
-      id: textcards
-      description: Please click on the links below for information on
-      cards:
-        - title: Secondary 1 e-Registration
-          description: ""
-          linktext: Go To Page
-          url: https://standrewssec.moe.edu.sg/2025-secondary-one-registration/
-        - title: Purchase of Secondary 1 2025 textbooks
-          description: ""
-          linktext: Go To Page
-          url: https://standrewssec.moe.edu.sg/purchase-of-secondary-1-2025-textbooks/
-        - title: Purchase of School Uniform and PE Attire
-          description: ""
-          linktext: Go To Page
-          url: https://standrewssec.moe.edu.sg/purchase-of-school-uniform-pe-attire/
-        - title: First day of school programme
-          description: ""
-          linktext: Go To Page
-          url: https://standrewssec.moe.edu.sg/first-day-of-school-programme/
   - infobar:
       title: 2025 Secondary One Transfer Appeals
       subtitle: To find out on
@@ -45,12 +24,12 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
-        - title: Sale of 2025 Textbooks and School Uniform
-          date: 21 November 2024
-          announcement: Purchase of 2025 textbooks and sale of school uniform services is
-            now available.
-          link_text: Click here!
-          link_url: /general-information/for-parents/2025booklist/
+        - title: 2025 Weighted Assessment Overview and Schedule
+          date: 18 January 2025
+          announcement: The 2025 Weighted Assessment Overview and Schedule is now
+            available. Click on the link below to access the documents.
+          link_text: Go to Page
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
