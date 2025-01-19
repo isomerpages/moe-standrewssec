@@ -35,7 +35,7 @@ sections:
       description: Download Principal's Termly Letters
       button: Here
       url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
-      image: /images/Picture6.png
+      image: /images/Homepage/Prefect_photoshop__3__min.jpg
       alt: Image alt text
   - infopic:
       title: SASS Facebook
