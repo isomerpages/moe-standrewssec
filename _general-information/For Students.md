@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Parents/2025_Sec_4_and_5__Weighted_Assesment_Overview_updated_13_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview (13 Jan)</a>
+<p><a href="/files/General Information/For Students/2025_Sec_4_and_5__Weighted_Assesment_Overview_17_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview (17 Jan)</a>
 </p>
 <p></p>
 </li>
