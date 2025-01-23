@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Parents/2025_Sec_3_Weighted_Assesment_Overview__1_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview (13 Jan)</a>
+<p><a href="/files/2025_Sec_3_Weighted_Assesment_Overview_23_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview (23 Jan)</a>
 </p>
 </li>
 <li>
