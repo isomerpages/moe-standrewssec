@@ -15,7 +15,7 @@ Hall</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>&nbsp;Mdm Lim Su Chen Joy
-<br><a href="mailto:lim_su_chen_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_chen_joy@moe.edu.sg</a>
+<br><a href="mailto:lim_su_chen_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su__chen_joy@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -25,7 +25,7 @@ Hall</p>
 </li>
 <li>
 <p>Mr Jimmy Koh
-<br><a href="mailto:koh_tze_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_tze_ping@moe.edu.sg</a> 
+<br><a href="mailto:koh_tze_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_tze_ping@moe.edu.sg</a>
 </p>
 </li>
 </ol>
