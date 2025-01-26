@@ -200,9 +200,8 @@ at the start of the year and is also downloadable <a href="https://form.gov.sg/6
 <p></p>
 <ol start="13" data-tight="true" class="tight">
 <li>
-<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>Parents can contact the school at sass@moe.edu.sg for discussion or to
+seek clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <p></p>
