@@ -5,4 +5,207 @@ description: ""
 third_nav_title: Student Well Being
 variant: tiptap
 ---
-<h2>Sexuality Education</h2><h3>MOE Sexuality Education in Schools</h3><p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The goals of Sexuality Education are:</p><p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;</p><p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and</p><p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.&nbsp;</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The key messages of Sexuality Education are:</p><p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect others;</p><p>(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);</p><p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family and society; and</p><p>(iv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</p><p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for more information on MOE Sexuality Education.&nbsp;</p><h3>Overview of St Andrew’s Secondary School’s SEd Programme for 2024</h3><p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p><p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics on sexuality include:</p><p>a.&nbsp;&nbsp;&nbsp;&nbsp;Science</p><p>b.&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education (CCE)</p><h3>Sexuality Education Lessons</h3><p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.&nbsp; Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.&nbsp;</p><p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.&nbsp;</p><h3>At St Andrew’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in&nbsp;2024:</h3><p></p><p><strong>Secondary 1</strong></p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>UNIT</p></th><th rowspan="1" colspan="1"><p>LESSONS / DURATION</p></th><th rowspan="1" colspan="1"><p>Lesson Objectives At the end of the lesson, pupils will be able to:</p></th><th rowspan="1" colspan="1"><p>TIME PERIOD</p></th></tr><tr><td rowspan="1" colspan="1"><p>Respectful Relationships &amp; Safety</p></td><td rowspan="1" colspan="1"><p>1 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles.</p><p>Recognise that there are different forms of love (e.g. familial, platonic, romantic love).</p><p>Recognise the importance and understand what builds healthy and supportive relationships, both online and offline.</p><p></p><p>Understand what dating is, and recognise that the readiness and interest in dating vary among individuals.</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 7</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>2 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept.</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 8</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>3 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences.</p><p>Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 9</p></td></tr></tbody></table><p></p><p><strong>Secondary 2</strong></p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>UNIT</p></th><th rowspan="1" colspan="1"><p>LESSONS / DURATION</p></th><th rowspan="1" colspan="1"><p>Lesson Objectives At the end of the lesson, pupils will be able to:</p></th><th rowspan="1" colspan="1"><p>TIME PERIOD</p></th></tr><tr><td rowspan="1" colspan="1"><p>Respectful Relationships and Safety</p></td><td rowspan="1" colspan="1"><p>1 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Know that one's understanding of gender roles should not be limited by gender stereotypes.</p><p>Develop an appreciation of one's own unique qualities and characteristics as a male or female. Understand what sexual orientation entails.</p></td><td rowspan="1" colspan="1"><p>Term 1 Week 8</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>2A (60 mins)</p></td><td rowspan="1" colspan="1"><p>Recognise one's vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline.</p></td><td rowspan="1" colspan="1"><p>Term 1 Week 9</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>2B (60 mins)</p></td><td rowspan="1" colspan="1"><p>Recognise the importance of self-respect and respect for others in relating to members of the opposite gender.</p><p>Recognise one's vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online.</p></td><td rowspan="1" colspan="1"><p>Term 1 Week 10</p></td></tr></tbody></table><p></p><p><strong>Secondary 3</strong></p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>UNIT</p></th><th rowspan="1" colspan="1"><p>LESSONS / DURATION</p></th><th rowspan="1" colspan="1"><p>Lesson Objectives At the end of the lesson, pupils will be able to:</p></th><th rowspan="1" colspan="1"><p>TIME PERIOD</p></th></tr><tr><td rowspan="1" colspan="1"><p>Respectful Relationships and Safety</p></td><td rowspan="1" colspan="1"><p>1A (60 mins)</p></td><td rowspan="1" colspan="1"><p>Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.&nbsp;&nbsp;&nbsp;&nbsp;</p><p>Understand that expectation of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.&nbsp;&nbsp;</p><p>Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 4</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>1B (60 mins)</p></td><td rowspan="1" colspan="1"><p>Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.</p><p>Know that a decision to end a relationship will have consequences on oneself and others.</p><p>Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.</p><p>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 5</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>2 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.</p><p>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 6</p></td></tr></tbody></table><p></p><p><strong>Secondary 4</strong></p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>UNIT</p></th><th rowspan="1" colspan="1"><p>LESSONS / DURATION</p></th><th rowspan="1" colspan="1"><p>Lesson Objectives At the end of the lesson, pupils will be able to:</p></th><th rowspan="1" colspan="1"><p>TIME PERIOD</p></th></tr><tr><td rowspan="1" colspan="1"><p>Respectful Relationships and Safety</p></td><td rowspan="1" colspan="1"><p>1 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.</p><p>Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 4</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>2 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.&nbsp;&nbsp; Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.</p><p>Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 5</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>3 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.</p><p>Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.</p><p>Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 6</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>4 (60 mins)</p></td><td rowspan="1" colspan="1"><p>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 8</p></td></tr></tbody></table><p></p><p><strong>Secondary 5</strong></p><p></p><table><tbody><tr><th rowspan="1" colspan="1"><p>UNIT</p></th><th rowspan="1" colspan="1"><p>LESSONS / DURATION</p></th><th rowspan="1" colspan="1"><p>LESSON OBJECTIVES At the end of the lesson, students will be able to:</p></th><th rowspan="1" colspan="1"><p>TIME PERIOD</p></th></tr><tr><td rowspan="1" colspan="1"><p>Respectful Relationships &amp; Safety</p></td><td rowspan="1" colspan="1"><p>(60 mins)</p></td><td rowspan="1" colspan="1"><p>Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</p></td><td rowspan="1" colspan="1"><p>Term 1 Week 5</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3><em>eTeens</em>&nbsp;Programme:</h3><p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.</p><p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.</p><h3>At St Andrew’s Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Topics/Lessons</p></th><th rowspan="1" colspan="1"><p>Programme Learning Objectives</p></th><th rowspan="1" colspan="1"><p>Time Period</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mass Talk by HPB appointed vendor</p></td><td rowspan="1" colspan="1"><p>Raise awareness and provide knowledge on:</p><p>a) Infectious diseases (STIs and HIV): what it is, how it spreads, how to prevent infection mainly through ABC (abstinence, being faithful, correct, and consistent condom use).</p><p>b) Managing relationships and risky situations in a healthy way.</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 9</p></td></tr><tr><td rowspan="1" colspan="1"><p>Classroom-based Lesson</p></td><td rowspan="1" colspan="1"><p>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</p></td><td rowspan="1" colspan="1"><p>Term 2 Week 10</p></td></tr></tbody></table><h3>Information for Parents</h3><p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</p><p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents who wish to withdraw their children out of the&nbsp;<strong>Sexuality Education Lessons</strong>&nbsp;need to complete the Parent Opt-out Form.This form will distributed to parents at start of the year and&nbsp;it is also downloadable&nbsp;<strong><a href="https://form.gov.sg/659b72d8fec9850012bc2b14" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.&nbsp;The completed form is to be submitted by 01/02/2024.&nbsp;</p><p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;<strong><a href="https://form.gov.sg/659b8d1e767d290011c9f8bd" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>. The completed form is to be submitted by 01/05/2024.</p><p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;6285 1944 or email us at&nbsp;<a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p><p>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrangements.</p>
+<h2><strong>Sexuality Education</strong></h2>
+<h3><strong>MOE Sexuality Education in Schools</strong></h3>
+<ol data-tight="true" class="tight">
+<li>
+<p>Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual
+marriages and stable nuclear family units with extended family support.
+The teaching and learning of SEd is based on respect for the values and
+beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.</p>
+</li>
+</ol>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>The <strong>Goals</strong> of Sexuality Education are to:</p>
+</li>
+</ol>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
+students to make wise, informed and responsible decisions on sexuality
+matters.</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+develop a moral compass and respect for themselves and others by having
+positive mainstream values and attitudes about sexuality that are premised
+on the family as the basic unit of society.</p>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+</li>
+</ol>
+<p>&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Love and respect yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+positive relationships based on love and respect (which are the foundation
+for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+before marriage is the best protection against STIs/HIV and unintended
+pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
+<p></p>
+<p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
+more information on MOE Sexuality Education.</p>
+<p></p>
+<h4><strong>Overview of St Andrew’s Secondary School’s Sexuality Education Programme for 2025</strong></h4>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
+</li>
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+<p>a.&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
+</li>
+</ol>
+<p></p>
+<h4><strong><u>Sexuality Education Lessons</u></strong>:</h4>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>The values and attitudes of our youth towards sexuality are increasingly
+shaped by their peers, exposure to the media, popular culture and the internet.
+Adolescence is a complex stage in life as the adolescent attempts to find
+his or her own identity and often struggles with new social relationships.
+The period of middle adolescence (generally from 15 to 17 years old) can
+be a turbulent period for adolescents. The gap between physical and emotional/cognitive
+maturity may result in a tendency to act on impulse, experiment with various
+activities (including sexual activities), sometimes without understanding
+the unpleasant consequences that may arise from such experimentation. The
+need for peer acceptance can be overwhelmingly strong and hinder one’s
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
+<p></p>
+</li>
+<li>
+<p>Through the Sexuality Education lessons, secondary students will have
+the opportunity to develop a positive self-esteem, develop their character,
+and expand their understanding and repertoire of skills to deal with various
+issues related to sexuality, which are of prime concern at this age.</p>
+</li>
+</ol>
+<p></p>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_1_p1.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_1_p2.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_2_Curriculum_page_1.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_2_Curriculum_page_2.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_2__page_3_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_3_Curriculum_page_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_3_Curriculum_page_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_4_Curriculum_page_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_4_Curriculum_page_2.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_4_page_3_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_5_Curriculum_page_1.png">
+</div>
+<p></p>
+<h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
+<p></p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
+<p></p>
+</li>
+<li>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+</li>
+</ol>
+<p></p>
+<p><strong>At St Andrew’s Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/e_teens_programme.png">
+</div>
+<p></p>
+<h4><strong>Information for Parents</strong></h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <a href="https://form.gov.sg/6792a7b7a2f5750520da851d" rel="noopener nofollow" target="_blank">here</a> .</p>
+<p><strong>The completed form is to be submitted by 7/02/2025.</strong>
+</p>
+<p></p>
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="https://form.gov.sg/67933cfb24054a3112815350" rel="noopener nofollow" target="_blank">here</a> .</p>
+</li>
+</ol>
+<p><strong>The completed form is to be submitted by 7/02/2025.</strong>
+</p>
+<p></p>
+<ol start="13" data-tight="true" class="tight">
+<li>
+<p>Parents can contact the school at sass@moe.edu.sg for discussion or to
+seek clarification about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
