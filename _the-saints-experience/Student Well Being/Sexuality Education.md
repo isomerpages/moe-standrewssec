@@ -171,7 +171,40 @@ Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <p></p>
+<p><strong>At St Andrew’s Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/e_teens_programme.png">
+</div>
 <p></p>
+<h4><strong>Information for Parents</strong></h4>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year and is also downloadable <a href="https://form.gov.sg/6792a7b7a2f5750520da851d" rel="noopener nofollow" target="_blank">here</a> .</p>
+<p><strong>The completed form is to be submitted by 7/02/2025.</strong>
+</p>
+<p></p>
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="https://form.gov.sg/67933cfb24054a3112815350" rel="noopener nofollow" target="_blank">here</a> .</p>
+</li>
+</ol>
+<p><strong>The completed form is to be submitted by 7/02/2025.</strong>
+</p>
+<p></p>
+<ol start="13" data-tight="true" class="tight">
+<li>
+<p>Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
