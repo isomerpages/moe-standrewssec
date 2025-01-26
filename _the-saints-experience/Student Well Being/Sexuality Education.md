@@ -122,10 +122,10 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_2_Curriculum_page_3.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_2__page_3_1.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_3_Curriculum_page_1.png">
 </div>
@@ -133,7 +133,6 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_3_Curriculum_page_2.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_4_Curriculum_page_1.png">
@@ -143,11 +142,38 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_4_Curriculum_page_2.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_4_Curriculum_page_3.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_4_page_3_1.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/SED_Sec_5_Curriculum_page_1.png">
 </div>
+<p></p>
+<h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
+<p></p>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide Secondary 3 students
+with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
+conducted in two segments – a mass talk segment and a classroom-based programme.
+The desired outcome of the <em>eTeens</em> programme is that students are
+empowered to make wise, informed and sensible decisions.</p>
+<p></p>
+</li>
+<li>
+<p>Students are taught skills such as decision-making, assertiveness and
+negotiation to say “no” to sex and negative peer pressure. They also learn
+that the impact of STIs/HIV extends beyond themselves and involves their
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
