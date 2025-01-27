@@ -8,7 +8,7 @@ variant: tiptap
 <h2>National Cadet Corps (NCC)</h2>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): &nbsp; Thursday (Odd Week) and Friday (Even Week)</p>
-<p>Training Time: &nbsp; 3.30 - 5.30 PM (Odd Thurs), 2.30 - 5.30 PM (Even
+<p>Training Time: &nbsp; 3.30 - 5.00 PM (Odd Thurs), 2.30 - 5.30 PM (Even
 Fri)</p>
 <p>Training Venue: SASS Upper Court</p>
 <h3>Teachers-in-Charge</h3>
