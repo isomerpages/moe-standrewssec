@@ -113,10 +113,9 @@ to keep them constantly updated about the latest information in ECG.</p>
 <p>For all levels</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ECG Counselling with&nbsp;Ms Nur, Every Tuesday, Wednesday, Even Fridays
-(0800hrs-1700hrs)
+<p>ECG Counselling with&nbsp;Ms Sarah, Every Monday and Thursday (0800hrs-1700hrs)
 <br>
-<br>Booking link:&nbsp; Email:&nbsp;Nurkhadijah_Mustafa_Bamadhaj@schools.gov.sg]</p>
+<br>Booking link:&nbsp; Email:&nbsp;ee_soo_chin_sarah@schools.gov.sg]</p>
 </td>
 </tr>
 </tbody>
