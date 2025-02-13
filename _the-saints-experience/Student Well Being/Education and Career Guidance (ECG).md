@@ -115,7 +115,7 @@ to keep them constantly updated about the latest information in ECG.</p>
 <td rowspan="1" colspan="1">
 <p>ECG Counselling with&nbsp;Ms Sarah, Every Monday and Thursday (0800hrs-1700hrs)
 <br>
-<br>Booking link:&nbsp; Email:&nbsp;ee_soo_chin_sarah@schools.gov.sg]</p>
+<br>Booking link:&nbsp; Email:&nbsp;ee_soo_chin_sarah@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
