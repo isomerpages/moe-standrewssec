@@ -125,7 +125,8 @@ to keep them constantly updated about the latest information in ECG.</p>
 <p><a href="https://www.moe.gov.sg/microsites/whats-next/for-gce-o-level-students/index.html" rel="noopener noreferrer nofollow" target="_blank">Where to go after O levels:</a>&nbsp;</p>
 <p><a href="https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf?la=en&amp;hash=CD3B2E8DED37E7B383339007D960CF161F03F789" rel="noopener noreferrer nofollow" target="_blank">Digital brochure from MySkillsFuture</a>:&nbsp;</p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture</a>:&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_POSTER_SASS_2024.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_02_13_at_3_39_22_PM.jpg">
 </div>
 <p></p>
