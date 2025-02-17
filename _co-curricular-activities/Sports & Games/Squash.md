@@ -9,7 +9,7 @@ variant: tiptap
 <h3>CCA Schedule</h3>
 <p>Training Day(s): Monday, Wednesday and Friday</p>
 <p>Training Time: 4.00 - 6.00 PM (Mon &amp; Wed), 2.00 - 4.00 PM (Fri)</p>
-<p>Training Venue: Yio Chu Kang Squash Centre/ PSOEB (Evans Road)</p>
+<p>Training Venue: PSOEB (Evans Road)/Burghley/Yio Chu Kang Squash Centre</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
