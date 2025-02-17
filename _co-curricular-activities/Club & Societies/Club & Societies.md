@@ -77,7 +77,7 @@ variant: tiptap
 <p>3.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Small COE Room</p>
+<p>A505</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liu Liming</p>
@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>Saints Youth Flying Club (SYFC)</strong>
+<p><strong>Singapore Youth Flying Club (SYFC)</strong>
 </p>
 </td>
 <td rowspan="3" colspan="1">
