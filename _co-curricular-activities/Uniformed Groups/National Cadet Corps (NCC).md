@@ -232,19 +232,16 @@ committed to making a difference in their community.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/campsteel.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior cadets striking a pose at Camp STEEL (Standards, Tenacity, Emotional
 Intelligence, Energy and Leadership)</p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
@@ -270,18 +267,15 @@ Intelligence, Energy and Leadership)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ndp24.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SASS NDP’24 marching contingent</p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
@@ -290,18 +284,15 @@ Intelligence, Energy and Leadership)</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/precisiondrill.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Precision in motion - Our Precision Drill Squad</p>
 </td>
 </tr>
+<tr></tr>
 </tbody>
 </table>
 <table style="minWidth: 25px">
