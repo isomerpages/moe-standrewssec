@@ -146,10 +146,9 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 </table>
 <p><strong>Key Achievements</strong>
 </p>
-<p>Unit Recognition 2022- Distinction</p>
-<p>Outstanding Cadet Award 2022- Alif Fathir (4 Resilience)</p>
 <p>Unit Recognition 2023- Distinction</p>
-<p>Outstanding Cadet Award 2023- Damien Yeo (4 Empathy)</p>
+<p>Outstanding Cadet Award 2023- Alif Fathir (4 Resilience)</p>
+<p>Outstanding Cadet Award 2024- Damien Yeo (4 Empathy)</p>
 <p></p>
 <p><strong>Key activities</strong>
 </p>
