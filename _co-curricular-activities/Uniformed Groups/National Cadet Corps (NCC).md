@@ -34,7 +34,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   NCC LEADERS 2024/2025&nbsp;</strong>
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NCC LEADERS 2024/2025&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -149,6 +149,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Unit Recognition 2023- Distinction</p>
 <p>Outstanding Cadet Award 2023- Alif Fathir (4 Resilience)</p>
 <p>Outstanding Cadet Award 2024- Damien Yeo (4 Empathy)</p>
+<p></p>
 <p></p>
 <p><strong>Key activities</strong>
 </p>
