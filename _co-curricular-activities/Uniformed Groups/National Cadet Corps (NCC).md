@@ -337,17 +337,17 @@ committed to making a difference in their community.</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>&nbsp; Ms Kevina Jerrine Ronald Joe
+<p>Ms Kevina Jerrine Ronald Joe
 <br><a href="mailto:kevina_jerrine_ronald_joe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kevina_jerrine_ronald_joe@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>&nbsp; Mr Ding Chi Ying Gary
+<p>Mr Ding Chi Ying Gary
 <br><a href="mailto:ding_chi_ying_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding_chi_ying_gary@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>&nbsp; Ms Renuga Visvalingam
+<p>Ms Renuga Visvalingam
 <br><a href="mailto:renuga_visvalingam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">renuga_visvalingam@moe.edu.sg</a>
 </p>
 </li>
