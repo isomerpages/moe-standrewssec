@@ -220,8 +220,7 @@ committed to making a difference in their community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccgpmg.jpg">
 </div>
-<p>Junior Cadets excited by the</p>
-<p>GPMG weapon on display</p>
+<p>Junior Cadets excited by the GPMG weapon on display</p>
 </td>
 </tr>
 <tr></tr>
@@ -242,10 +241,8 @@ committed to making a difference in their community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior cadets striking a pose at</p>
-<p>Camp STEEL (Standards, Tenacity,</p>
-<p>Emotional Intelligence,</p>
-<p>Energy and Leadership)</p>
+<p>Senior cadets striking a pose at Camp STEEL (Standards, Tenacity, Emotional
+Intelligence, Energy and Leadership)</p>
 </td>
 </tr>
 </tbody>
