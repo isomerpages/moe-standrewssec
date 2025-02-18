@@ -26,7 +26,6 @@ and train with advanced military equipment, including the SAR-21 assault
 rifle. This comprehensive program ensures that each cadet not only strengthens
 their physical and mental resilience but also develops leadership skills
 and a deep sense of discipline, responsibility, and commitment to the nation.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -35,7 +34,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    NCC LEADERS 2024/ 2025</strong>
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NCC LEADERS 2024/ 2025&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -44,7 +43,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Unit Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Matthew Tiang</p>
+<p>Matthew Tiang (4T)</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +51,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Assistant Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethan Lim</p>
+<p>Ethan Lim (4R)</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +59,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Cadet Leaders Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rehan Abdul Kareem</p>
+<p>Rehan Abdul Kareem (4I)</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +67,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Cadet Leaders Assistant Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Matthew Lee</p>
+<p>Matthew Lee (4SD)</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +75,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Senior Cadets Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kazuya Chew</p>
+<p>Kazuya Chew (4T)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +83,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Senior Cadets Assistant Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ashton Tan</p>
+<p>Ashton Tan (4W)</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +91,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Junior Cadets Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Katsuki Chew</p>
+<p>Katsuki Chew (4EM)</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +99,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Junior Cadets Assistant Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Braeden Foo</p>
+<p>Braeden Foo (4SD)</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +107,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Physical Training Instructors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joshua Gill/ Matthew Lee</p>
+<p>Joshua Gill (4R) / Matthew Lee (4SD)</p>
 </td>
 </tr>
 <tr>
@@ -116,15 +115,15 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Games Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beldon Choo / Daryl Aw</p>
+<p>Beldon Choo (4I) / Daryl Aw (4W)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Quarter Master</p>
+<p>Quarter Master&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beldon Choo / Daryl Aw</p>
+<p>Beldon Choo (4I) / Daryl Aw (4W)</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +131,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Welfare In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Braeden Foo / Joshua Gill</p>
+<p>Braeden Foo (4SD) / Joshua Gill (4R)</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +139,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Precision Drill Squad Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethan Lim</p>
+<p>Ethan Lim (4R)</p>
 </td>
 </tr>
 </tbody>
