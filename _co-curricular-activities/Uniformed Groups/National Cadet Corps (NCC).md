@@ -34,7 +34,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  NCC LEADERS 2024/2025&nbsp;</strong>
+<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NCC LEADERS 2024/2025&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -216,7 +216,7 @@ committed to making a difference in their community.</p>
 <td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccgpmg.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/nccgpmg.jpg">
 </div>
 <p>Junior Cadets excited by the GPMG weapon on display</p>
 </td>
