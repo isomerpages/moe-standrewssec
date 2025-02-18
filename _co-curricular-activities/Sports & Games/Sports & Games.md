@@ -46,16 +46,15 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Mon &amp; Fri</p>
+<p>Mon, Wed &amp; Fri</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>4.00 pm - 6.00pm (Mon)</p>
-<p>3.30pm - 5.30pm (Even Fri)</p>
-<p>Self Run (Odd Fri)</p>
+<p>3.30pm - 5.30pm (Fri)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Kallang Practice Track (Mon)</p>
-<p>MacRitchie Reservoir (Even Fri)</p>
+<p>Yio Chu Kang Stadium (till Mar 2025), Kallang Practice Track, Kallang
+Wave Mall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wee Hui Ern Abigail</p>
