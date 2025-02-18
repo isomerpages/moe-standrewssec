@@ -177,16 +177,168 @@ the guidance of their Teacher-officers.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/annualmarchcamp4.jpg">
+</div>
+<p>Fun Galore during March Camp!</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<p><strong>2)&nbsp;&nbsp;&nbsp; VIA</strong>
+</p>
+<p>In a heartwarming display of service and empathy, the Senior Cadet Leaders
+recently took part in a Values in Action (VIA) project at Kwong Wai Shiu
+Hospital, demonstrating their commitment to society. With guidance from
+the hospital staff, the cadets spent an afternoon at the hospital, organizing
+a series of fun and interactive games designed to stimulate both the mind
+and body of the elderly residents. NCC strives to nurture well-rounded
+individuals who are not only skilled in leadership and teamwork but also
+committed to making a difference in their community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccvia1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccvia2.jpg">
+</div>
+<p></p>
+<p><strong>Photo gallery</strong>
+</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccgpmg.jpg">
+</div>
+<p>Junior Cadets excited by the</p>
+<p>GPMG weapon on display</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/campsteel.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fun Galore during March Camp!</p>
+<p>Senior cadets striking a pose at</p>
+<p>Camp STEEL (Standards, Tenacity,</p>
+<p>Emotional Intelligence,</p>
+<p>Energy and Leadership)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccpledge.jpg">
+</div>
+<p>Reciting the pledge with unwavering resolve</p>
+</td>
+</tr>
+<tr></tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ndp24.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SASS NDP’24 marching contingent</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/precisiondrill.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Precision in motion - Our Precision Drill Squad</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Snapshots from the Singapore Airshow 2024</p>
 </td>
 </tr>
 </tbody>
@@ -210,19 +362,4 @@ the guidance of their Teacher-officers.</p>
 </li>
 </ol>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/NCC1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/NCC2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/NCC3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/NCC4.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/NCC5.jpeg">
-</div>
 <p></p>
