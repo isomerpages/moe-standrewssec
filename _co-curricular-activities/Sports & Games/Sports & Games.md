@@ -49,7 +49,7 @@ variant: tiptap
 <p>Mon, Wed &amp; Fri</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>4.00 pm - 6.00pm (Mon)</p>
+<p>4.00 pm - 6.00pm (Mon &amp; Wed)</p>
 <p>3.30pm - 5.30pm (Fri)</p>
 </td>
 <td rowspan="3" colspan="1">
