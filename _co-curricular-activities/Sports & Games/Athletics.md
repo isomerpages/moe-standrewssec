@@ -7,12 +7,13 @@ variant: tiptap
 ---
 <h2>Athletics</h2>
 <h3>CCA Schedule</h3>
-<p>Training Day(s): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday
-and Friday</p>
+<p>Training Day(s): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday,
+Wednesday and Friday</p>
 <p>Training Time: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-4.00 - 6.00 PM (Mon), 3.30 - 5.30 PM (Even Fri), Self run (Odd Fri)</p>
+4.00 - 6.00 PM (Mon &amp; Wed), 3.30 - 5.30 PM (Fri)</p>
 <p>Training Venue:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Kallang Practice Track (Mon), MacRitchie Reservoir (Even Fri)</p>
+Yio Chu Kang Stadium (till Mar 2025), Kallang Practice Track, Kallang Wave
+Mall</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -32,11 +33,18 @@ Kallang Practice Track (Mon), MacRitchie Reservoir (Even Fri)</p>
 </li>
 </ol>
 <h3>Achievements</h3>
+<p>2023</p>
+<p>National Schools Games Cross Country, 5 th Placing (Individual)</p>
+<p>National Schools Games Track &amp;amp; Field Meet, B Division, 400m Semi-Finals</p>
+<p>National Schools Games Track &amp;amp; Field Meet, B Division, 1500m Finals</p>
+<p>National Schools Games Track &amp;amp; Field Meet, B Division, 1500m Finals;
+12 th Placing (Individual)</p>
+<p>National Schools Games Track &amp;amp; Field Meet, C Division, 400m Semi-Finals</p>
 <p>2022</p>
-<p>National Schools Games Track &amp; Field Meet, B Division, 400m Semi-Finals</p>
-<p>National Schools Games Track &amp; Field Meet, B Division, 800m Finals</p>
-<p>National School Games Track &amp; Field Meet, B Division, 1500m Finals</p>
-<p>National Schools Games Track &amp; Field Meet, B Division, 3000m Finals</p>
+<p>National Schools Games Track &amp;amp; Field Meet, B Division, 400m Semi-Finals</p>
+<p>National Schools Games Track &amp;amp; Field Meet, B Division, 800m Finals</p>
+<p>National School Games Track &amp;amp; Field Meet, B Division, 1500m Finals</p>
+<p>National Schools Games Track &amp;amp; Field Meet, B Division, 3000m Finals</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(5).jpg">
 </div>
