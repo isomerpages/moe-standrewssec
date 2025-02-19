@@ -6,12 +6,6 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>National Cadet Corps (NCC)</h2>
-<h3>CCA Schedule</h3>
-<p>Training Day(s): &nbsp; Thursday (Odd Week) and Friday (Even Week)</p>
-<p>Training Time: &nbsp; 3.30 - 5.00 PM (Odd Thurs), 2.30 - 5.30 PM (Even
-Fri)</p>
-<p>Training Venue: SASS Upper Court</p>
-<p></p>
 <p><strong>Saints National Cadet Corps (NCC)</strong> is dedicated to fostering
 the development of resilient and capable leaders, equipped with both a
 fit body and a strong, committed heart. Through robust support from the
@@ -26,6 +20,14 @@ and train with advanced military equipment, including the SAR-21 assault
 rifle. This comprehensive program ensures that each cadet not only strengthens
 their physical and mental resilience but also develops leadership skills
 and a deep sense of discipline, responsibility, and commitment to the nation.</p>
+<p></p>
+<h3>CCA Schedule</h3>
+<p>Training Day(s): &nbsp; Thursday (Odd Week) and Friday (Even Week)</p>
+<p>Training Time: &nbsp; 3.30 - 5.00 PM (Odd Thurs), 2.30 - 5.30 PM (Even
+Fri)</p>
+<p>Training Venue: SASS Upper Court</p>
+<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -144,15 +146,15 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 </tr>
 </tbody>
 </table>
-<p><strong>Key Achievements</strong>
-</p>
+<hr>
+<p></p>
+<h3><strong>Key Achievements</strong></h3>
 <p>Unit Recognition 2023- Distinction</p>
 <p>Outstanding Cadet Award 2023- Alif Fathir (4 Resilience)</p>
 <p>Outstanding Cadet Award 2024- Damien Yeo (4 Empathy)</p>
 <p></p>
 <p></p>
-<p><strong>Key activities</strong>
-</p>
+<h3><strong>Key activities</strong></h3>
 <p><strong>1)&nbsp;&nbsp;&nbsp; Annual March Camp</strong>
 </p>
 <p>The Annual March Camp is a highly anticipated event that serves as a vital
@@ -161,37 +163,15 @@ amongst our cadets. The primary objective of the camp is to empower our
 Senior Cadets Leaders with the opportunity to take charge of the event's
 operations, from planning the schedule to overseeing the activities under
 the guidance of their Teacher-officers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/annualmarchcamp1.jpg">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/annualmarchcamp2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fun galore during March Camp 2024!" src="/images/NCC_image_1.jpg">
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/annualmarchcamp3.jpg">
-</div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/annualmarchcamp4.jpg">
-</div>
-<p>Fun Galore during March Camp!</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
-<p><strong>2)&nbsp;&nbsp;&nbsp; VIA</strong>
+<p><strong>2)&nbsp;&nbsp;&nbsp; Values-In-Action</strong>
 </p>
 <p>In a heartwarming display of service and empathy, the Senior Cadet Leaders
 recently took part in a Values in Action (VIA) project at Kwong Wai Shiu
@@ -225,24 +205,6 @@ committed to making a difference in their community.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/nccgpmg.jpg">
 </div>
 <p>Junior Cadets excited by the GPMG weapon on display</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/campsteel.jpg">
-</div>
-<p>Senior cadets striking a pose at Camp STEEL (Standards, Tenacity, Emotional
-Intelligence, Energy and Leadership)</p>
 </td>
 </tr>
 <tr></tr>
