@@ -6,12 +6,6 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>National Cadet Corps (NCC)</h2>
-<h3>CCA Schedule</h3>
-<p>Training Day(s): &nbsp; Thursday (Odd Week) and Friday (Even Week)</p>
-<p>Training Time: &nbsp; 3.30 - 5.00 PM (Odd Thurs), 2.30 - 5.30 PM (Even
-Fri)</p>
-<p>Training Venue: SASS Upper Court</p>
-<p></p>
 <p><strong>Saints National Cadet Corps (NCC)</strong> is dedicated to fostering
 the development of resilient and capable leaders, equipped with both a
 fit body and a strong, committed heart. Through robust support from the
@@ -26,6 +20,14 @@ and train with advanced military equipment, including the SAR-21 assault
 rifle. This comprehensive program ensures that each cadet not only strengthens
 their physical and mental resilience but also develops leadership skills
 and a deep sense of discipline, responsibility, and commitment to the nation.</p>
+<p></p>
+<h3>CCA Schedule</h3>
+<p>Training Day(s): &nbsp; Thursday (Odd Week) and Friday (Even Week)</p>
+<p>Training Time: &nbsp; 3.30 - 5.00 PM (Odd Thurs), 2.30 - 5.30 PM (Even
+Fri)</p>
+<p>Training Venue: SASS Upper Court</p>
+<hr>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -144,15 +146,15 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 </tr>
 </tbody>
 </table>
-<p><strong>Key Achievements</strong>
-</p>
+<hr>
+<p></p>
+<h3><strong>Key Achievements</strong></h3>
 <p>Unit Recognition 2023- Distinction</p>
 <p>Outstanding Cadet Award 2023- Alif Fathir (4 Resilience)</p>
 <p>Outstanding Cadet Award 2024- Damien Yeo (4 Empathy)</p>
 <p></p>
 <p></p>
-<p><strong>Key activities</strong>
-</p>
+<h3><strong>Key activities</strong></h3>
 <p><strong>1)&nbsp;&nbsp;&nbsp; Annual March Camp</strong>
 </p>
 <p>The Annual March Camp is a highly anticipated event that serves as a vital
@@ -169,7 +171,7 @@ the guidance of their Teacher-officers.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>2)&nbsp;&nbsp;&nbsp; VIA</strong>
+<p><strong>2)&nbsp;&nbsp;&nbsp; Values-In-Action</strong>
 </p>
 <p>In a heartwarming display of service and empathy, the Senior Cadet Leaders
 recently took part in a Values in Action (VIA) project at Kwong Wai Shiu
