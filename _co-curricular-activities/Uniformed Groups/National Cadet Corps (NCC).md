@@ -161,33 +161,14 @@ amongst our cadets. The primary objective of the camp is to empower our
 Senior Cadets Leaders with the opportunity to take charge of the event's
 operations, from planning the schedule to overseeing the activities under
 the guidance of their Teacher-officers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/annualmarchcamp1.jpg">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/annualmarchcamp2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Fun galore during March Camp 2024!" src="/images/NCC_image_1.jpg">
 </div>
 <p></p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/annualmarchcamp4.jpg">
-</div>
-<p>Fun Galore during March Camp!</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
 <p><strong>2)&nbsp;&nbsp;&nbsp; VIA</strong>
 </p>
 <p>In a heartwarming display of service and empathy, the Senior Cadet Leaders
