@@ -272,17 +272,10 @@ committed to making a difference in their community.</p>
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Snapshots from the Singapore Airshow 2024" src="/images/Slide4.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow3.jpg">
-</div>
-<p>Snapshots from the Singapore Airshow 2024</p>
 </td>
 </tr>
 <tr></tr>
