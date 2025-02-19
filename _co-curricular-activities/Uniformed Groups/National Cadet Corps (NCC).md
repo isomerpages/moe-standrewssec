@@ -182,16 +182,18 @@ and body of the elderly residents. NCC strives to nurture well-rounded
 individuals who are not only skilled in leadership and teamwork but also
 committed to making a difference in their community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/nccvia1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/nccvia2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
 </div>
+<p></p>
 <p></p>
 <p><strong>Photo gallery</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Junior Cadets excited by the weapons display" src="/images/Slide3.jpg">
+</div>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
