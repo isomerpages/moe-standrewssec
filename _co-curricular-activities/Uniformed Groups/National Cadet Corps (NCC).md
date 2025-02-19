@@ -236,24 +236,6 @@ committed to making a difference in their community.</p>
 <td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/campsteel.jpg">
-</div>
-<p>Senior cadets striking a pose at Camp STEEL (Standards, Tenacity, Emotional
-Intelligence, Energy and Leadership)</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccpledge.jpg">
 </div>
 <p>Reciting the pledge with unwavering resolve</p>
