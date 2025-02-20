@@ -194,10 +194,12 @@ committed to making a difference in their community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Junior cadets excited by the weapons on display!" src="/images/Weapons_display.jpg">
 </div>
+<p>Junior cadets excited by the weapons on display!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NDP 2024" src="/images/NDP_24.jpg">
 </div>
+<p>NDP 2024</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -210,7 +212,7 @@ committed to making a difference in their community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Snapshots from the Singapore Airshow 2024" src="/images/Slide4.jpg">
 </div>
 <p></p>
-<p></p>
+<p>Snapshots from Airshow 2024!</p>
 </td>
 </tr>
 <tr></tr>
