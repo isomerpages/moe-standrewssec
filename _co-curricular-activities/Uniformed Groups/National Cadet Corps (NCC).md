@@ -182,85 +182,24 @@ and body of the elderly residents. NCC strives to nurture well-rounded
 individuals who are not only skilled in leadership and teamwork but also
 committed to making a difference in their community.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/nccvia1.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/nccvia2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.jpg">
 </div>
+<p></p>
 <p></p>
 <p><strong>Photo gallery</strong>
 </p>
 <p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Junior cadets excited by the weapons on display!" src="/images/Weapons_display.jpg">
+</div>
+<p>Junior cadets excited by the weapons on display!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/nccgpmg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NDP 2024" src="/images/NDP_24.jpg">
 </div>
-<p>Junior Cadets excited by the GPMG weapon on display</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nccpledge.jpg">
-</div>
-<p>Reciting the pledge with unwavering resolve</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ndp24.jpg">
-</div>
-<p>SASS NDP’24 marching contingent</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/precisiondrill.jpg">
-</div>
-<p>Precision in motion - Our Precision Drill Squad</p>
-</td>
-</tr>
-<tr></tr>
-</tbody>
-</table>
+<p>NDP 2024</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -270,17 +209,10 @@ committed to making a difference in their community.</p>
 <td rowspan="4" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Snapshots from the Singapore Airshow 2024" src="/images/Slide4.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/airshow3.jpg">
-</div>
-<p>Snapshots from the Singapore Airshow 2024</p>
+<p>Snapshots from Airshow 2024!</p>
 </td>
 </tr>
 <tr></tr>
@@ -291,7 +223,7 @@ committed to making a difference in their community.</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Kevina Jerrine Ronald Joe
+<p>Ms Kevina Joe
 <br><a href="mailto:kevina_jerrine_ronald_joe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kevina_jerrine_ronald_joe@moe.edu.sg</a>
 </p>
 </li>
