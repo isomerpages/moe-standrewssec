@@ -54,7 +54,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/Saints_Code_of_Conduct.pdf" rel="noopener nofollow" target="_blank">Saints Code of Conduct</a>
+</p>
 </li>
 <li>
 <p><a href="/files/Student/Development%20Matter/wcy2me.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Guidelines</a>
