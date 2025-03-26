@@ -38,7 +38,7 @@ Care Day. All secondary 2 students also played their part by advocating
 for edible gardening, dengue prevention, and clean toilets.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_school_Vice_Captain.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our second festive packets recycling drive!" src="/images/ECO_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -48,6 +48,9 @@ for edible gardening, dengue prevention, and clean toilets.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community_outreach_on_Saints_Care_Day_.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outreach programmes to students from St Andrew’s Junior School" src="/images/ECO2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_together_on_Stridy_app.png">
 </div>
