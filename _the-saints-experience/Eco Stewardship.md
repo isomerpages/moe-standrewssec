@@ -53,7 +53,6 @@ for edible gardening, dengue prevention, and clean toilets.</p>
 </div>
 <p><em>Outreach programmes to students from St Andrew’s Junior School.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_together_on_Stridy_app.png">
 </div>
@@ -70,7 +69,6 @@ within our community.</p>
 <p>This achievement reflects the dedication of our students, staff, and partners
 in making sustainability a way of life. Let us continue striving towards
 a greener future!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO3.jpg">
 </div>
@@ -99,7 +97,6 @@ work of our alumnus Mr Ganesh and our Green Envoys who contributed to beautify
 the garden. As we step into this beautiful space, may it serve as a reminder
 of our collective efforts in creating a learning environment that inspires
 curiosity, well-being, and a deeper appreciation for nature.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO_5.jpg">
 </div>
@@ -135,11 +132,11 @@ has secured 3rd place at the Future Problem Solving National Finals, held
 at Raffles Girls' School on 21st February 2025. Their innovative approach
 to sustainability has earned them a prestigious invitation to compete at
 the World Finals at Indiana University, Bloomington.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO_9.jpg">
 </div>
-<p></p>
+<p><em>The Community Problem Solving Team</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
