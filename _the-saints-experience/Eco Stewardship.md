@@ -40,7 +40,7 @@ for edible gardening, dengue prevention, and clean toilets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our second festive packets recycling drive!" src="/images/ECO_1.jpg">
 </div>
-<p></p>
+<p>Our second festive packet recycling drive!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Secondary_1_students_.png">
 </div>
@@ -51,9 +51,31 @@ for edible gardening, dengue prevention, and clean toilets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outreach programmes to students from St Andrew’s Junior School" src="/images/ECO2.jpg">
 </div>
+<p><em>Outreach programmes to students from St Andrew’s Junior School.</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_together_on_Stridy_app.png">
 </div>
+<p><strong>Silver Award at the Eco-Schools Awards 2024</strong>
+</p>
+<p>We are proud to have achieved the Silver Award in the Eco-Schools Awards
+Competition 2024, a testament to our school's commitment to sustainability
+and environmental stewardship.</p>
+<p>In recognition of this achievement, we were honored to be invited to the
+Eco-Schools Awards Presentation at the Sustainable Singapore Gallery. There,
+we had the opportunity to share our experiences and highlight the importance
+of a whole-school approach in fostering a strong culture of eco-stewardship
+within our community.</p>
+<p>This achievement reflects the dedication of our students, staff, and partners
+in making sustainability a way of life. Let us continue striving towards
+a greener future!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO3.jpg">
+</div>
+<p><em>Eco-stewardship teachers-in-charge with our Secondary 4 Green Envoys!</em>
+</p>
 <p><strong>Promoting an Eco-Friendly Campus</strong>
 </p>
 <p>The Green Envoys also improved the aquaponics setup this year, creating
@@ -61,12 +83,32 @@ larger spaces for fish and enhancing nutrient cycling for healthy plant
 growth. This setup has facilitated authentic science lessons, and we are
 proud to be able to share our experiences with Minister Chan during his
 visit this year.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_leaders_and_green_envoys_.png">
 </div>
+<p><strong>Therapeutic Garden</strong>
+</p>
+<p>The Therapeutic Garden at St. Andrew’s Secondary School stands as a meaningful
+addition to our school environment, transforming an empty plot of land
+beside our heritage building, Woodsville House, into a space that nurtures
+both the mind and the love for learning. The journey of building this garden
+began in 2024. After months of planning and discussions, construction began
+in late 2024, and by March 2025, the Therapeutic Garden was finally completed.
+This project would not have been possible without the dedication and hard
+work of our alumnus Mr Ganesh and our Green Envoys who contributed to beautify
+the garden. As we step into this beautiful space, may it serve as a reminder
+of our collective efforts in creating a learning environment that inspires
+curiosity, well-being, and a deeper appreciation for nature.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO_5.jpg">
+</div>
+<p>Some pictures during the construction phase of the therapeutic garden</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO_7.jpg">
+</div>
+<p><em>Our DIY composting device to compost garden waste.</em>
+</p>
 <p><strong>Go Green SG 2024</strong>
 </p>
 <p>Aligned with Go Green SG’s Year of Public Health Campaign, our community
@@ -77,10 +119,25 @@ environment, clean toilets, water conservation, and the 3Rs. The event,
 which collected over 12 kg of litter, sent a strong visual message about
 environmental sustainability to the community, further reinforcing our
 school’s commitment to conservation.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picking_litter_with_SPS_Mr_Baey_Yam_Keng.png">
+</div>
+<p><strong>Project Greenshift: A Journey of Eco-Stewardship and Innovation</strong>
+</p>
+<p>What began as a small initiative by a group of passionate Secondary 2
+students has evolved into a school-wide movement, driving meaningful environmental
+change within our community. Over the past two years, these students from
+the Solomon’s Circle and Prefectorial Board have demonstrated remarkable
+dedication to eco-stewardship, continuously expanding their efforts to
+make a lasting impact.</p>
+<p>We are proud to celebrate their outstanding achievement—Project Greenshift
+has secured 3rd place at the Future Problem Solving National Finals, held
+at Raffles Girls' School on 21st February 2025. Their innovative approach
+to sustainability has earned them a prestigious invitation to compete at
+the World Finals at Indiana University, Bloomington.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO_9.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
