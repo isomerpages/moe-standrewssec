@@ -12,19 +12,19 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/General Information/For Students/2025_Sec_1_Weighted_Assesment_Overview_updated_16_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview (16 Jan)</a>
+<p><a href="/files/2025_Sec_1_Weighted_Assesment_Overview_updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview_updated 4 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Students/2025_Sec_2_Weighted_Assesment_Overview_updated_16_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview (16 Jan)</a>
+<p><a href="/files/2025_Sec_2_Weighted_Assesment_Overview_updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview_updated 4 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_3_Weighted_Assesment_Overview_23_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview (23 Jan)</a>
+<p><a href="/files/2025_Sec_3_Weighted_Assesment_Overview_24_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview_24 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Students/2025_Sec_4_and_5__Weighted_Assesment_Overview_17_Jan.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview (17 Jan)</a>
+<p><a href="/files/2025_Sec_4_and_5__Weighted_Assesment_Overview_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview_4 Mar</a>
 </p>
 <p></p>
 </li>
@@ -33,19 +33,19 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_1.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Schedule</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_1_WA_2_2025_updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 1 WA 2 2025 updated 4 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_2.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Schedule</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_2_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 2 WA 2 2025 updated 4 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_3.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Schedule</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_3_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 3 WA 2 2025 updated 4 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/General Information/For Parents/2025_Weighted_Assessment_1_Schedule_SEC_4___5.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4&amp;5 Weighted Assessment Schedule</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_4_5_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 4_5 WA 2 2025 updated 4 Mar</a>
 </p>
 <p></p>
 </li>
@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Student/2024_Saints_Code_of_Conduct.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Saints Code of Conduct (updated 5/5/2024)</a>
+<p><a href="/files/Saints_Code_of_Conduct.pdf" rel="noopener nofollow" target="_blank">Saints Code of Conduct</a>
 </p>
 </li>
 <li>
