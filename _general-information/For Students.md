@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_4_and_5__Weighted_Assesment_Overview_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5  Weighted Assessment Overview_4 Mar</a>
+<p><a href="/files/2025_Sec_4_and_5__Weighted_Assesment_Overview_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview_4 Mar</a>
 </p>
 <p></p>
 </li>
@@ -37,15 +37,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_2_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 2 WA 2 2025  updated 4 Mar</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_2_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 2 WA 2 2025 updated 4 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_3_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 3 WA 2 2025  updated 4 Mar</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_3_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 3 WA 2 2025 updated 4 Mar</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_4_5_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 4_5 WA 2 2025  updated 4 Mar</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_4_5_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 4_5 WA 2 2025 updated 4 Mar</a>
 </p>
 <p></p>
 </li>
