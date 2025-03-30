@@ -132,6 +132,6 @@ Hall</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Badminton_Team.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Our Saint Badminton Team" src="/images/CCA Update (March 2025)/Badminton_Team.jpg">
 </div>
 <p>Our Badminton Team</p>
