@@ -123,7 +123,7 @@ Wave Mall</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Ying (FAJT)</p>
+<p>Ms Tan Xin Ying</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ Wave Mall</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Ying (FAJT)</p>
+<p>Ms Tan Xin Ying</p>
 </td>
 </tr>
 <tr>
@@ -271,7 +271,7 @@ Wave Mall</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Ying (FAJT)</p>
+<p>Ms Tan Xin Ying</p>
 </td>
 </tr>
 <tr>
