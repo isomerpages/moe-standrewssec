@@ -6,6 +6,12 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Tennis</h2>
+<p>Saints Tennis provides a competitive and structured environment for players
+to learn and improve their skills through practice and strategic thinking,
+often with the goal of reaching higher levels of competition.&nbsp;</p>
+<p>Our boys also take part in friendly tournaments with our alumni as well
+as other school teams. This gives them the opportunity to test their abilities
+against others.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): Monday, Wednesday and Thursday</p>
 <p>Training Time: 3.30 -5.30 PM</p>
@@ -28,20 +34,84 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<p><strong>Achievements</strong>
-<br>2022</p>
+<h3>Student Executives Committee</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>B Division</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Jun Teng Erwin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaden Luke Rozario</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3U</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>C Division</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tiong Yi Hwei Evan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2W</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Achievements</h3>
+<p><strong>2024</strong>
+</p>
 <p>Participated in National Schools Games, Tennis, B Division</p>
-<p>Participated in National Schools Games, Tennis, C Division</p>
+<p>Participated in National Schools Games, Tennis, C Division: Champions
+of 2<sup>nd</sup> League</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Tennis_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis3.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Tennis_2.jpg">
 </div>
 <p></p>
