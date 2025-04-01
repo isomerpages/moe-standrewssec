@@ -35,3 +35,5 @@ Our special programmes for lower secondary students provide a strong foundation 
 Through outdoor investigations, students examine how different surfaces absorb heat, comparing temperature variations in black and white surfaces, water tanks, and soil containers. Using data loggers, they collect and analyze real-time data, strengthening their scientific inquiry skills.
 
 By connecting classroom learning to real-world applications, our students develop a deeper appreciation for science—just like real scientists!
+
+![](/images/Science_Department_Photo_1.png)
