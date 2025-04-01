@@ -6,6 +6,17 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>National Police Cadet Corps (NPCC)</h2>
+<p>The SASS National Police Cadet Corps (NPCC) aims to develop our members
+into active citizens and community leaders. In partnership with the Singapore
+Police Force, NPCC plays a vital role in crime prevention and keeping Singapore
+safe. Through our programmes, we nurture important values such as resilience,
+integrity, service, and excellence, shaping cadets into responsible and
+disciplined individuals.</p>
+<p>NPCC offers a wide range of activities both in and out of school, providing
+cadets with enriching experiences. These include in-school and Ubin camps,
+visits to the Home Team Academy (HTA), and hands-on activities like .22
+revolver live shooting. Through these activities, cadets develop leadership
+skills, teamwork, and a strong sense of duty to the community.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): &nbsp; Wednesday (Odd Week) &amp; Friday (Even Week)</p>
 <p>Training Time: &nbsp; 3.30 - 6.00 PM (Odd Wed), 2.30 - 5.30 PM (Even Fri)</p>
