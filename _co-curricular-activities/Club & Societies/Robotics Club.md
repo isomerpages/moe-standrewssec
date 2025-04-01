@@ -162,7 +162,7 @@ down from the CCA at the end of Term 2.</p>
 <p>Secondary Two Intraclass Sumobot Challenge</p>
 <p>Enrichment Program with Pathlight School</p>
 <h3>Achievements</h3>
-<p><strong>Innovation, Design and Engineering (IDE) Challenge </strong>
+<p><strong>Innovation, Design and Engineering (IDE) Challenge</strong>
 </p>
 <p>The challenge is a national technology and engineering competition event
 that aims to challenge students in problem solving across domains such
