@@ -9,7 +9,8 @@ variant: tiptap
 <p><strong>Letter to Parents</strong>
 <br><a href="/files/General Information/For Parents/2025_Term_1_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 1 Letter to Parents</a>
 </p>
-<p></p>
+<p><a href="/files/General Information/For Parents/SASS_2025_Term_2_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Letter to Parents</a>
+</p>
 <p><strong>Developmental Matters</strong>
 </p>
 <ul>
