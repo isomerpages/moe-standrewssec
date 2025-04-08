@@ -47,15 +47,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="4" colspan="1">
-<p>Mon* &amp; Sat</p>
+<p>Sat</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>3.30 pm - 4.30 pm (Mon*)
-<br>8.30 am&nbsp; - 12.30 pm (Sat)</p>
+<p>8.30 am&nbsp; - 12.15 pm</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>*C4-03 (Pipes &amp; Drums Corp Only)
-<br>SAJC Cultural Centre</p>
+<p>Chapel of the Holy Spirit (inside SAJC, 3 Sorby Adams Dr, S357690)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheong Chee Ngai Caleb</p>
