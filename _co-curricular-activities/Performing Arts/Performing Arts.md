@@ -82,7 +82,7 @@ variant: tiptap
 <p>3.30 pm – 6.00 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Lecture Theatre</p>
+<p>Beethoven Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Junie Hoe</p>
