@@ -6,6 +6,26 @@ third_nav_title: Club & Societies
 variant: tiptap
 ---
 <h2>Singapore Youth Flying Club</h2>
+<p>The SYFC CCA offers students with an interest in aviation the chance to
+engage in a variety of aeromodelling and aviation-related activities. Through
+hands-on programmes, students develop valuable technical skills while learning
+the fundamentals of flight.</p>
+<p>Launch Glider (LG) Programme
+<br>In the LG programme, students build and fine-tune simple unpowered gliders
+to optimize their flight performance. The programme teaches students how
+to assemble a glider and introduces the basics of aerodynamics, helping
+them refine their technical abilities.</p>
+<p>PC-Based Flight Simulation Programme
+<br>This programme introduces students to aircraft piloting basics using PC-based
+flight simulators. Students learn about aircraft systems and instruments,
+radiotelephony, air traffic procedures, and basic flying manoeuvres, including
+how to take off and land.</p>
+<p>Flying Experience Programme (FEP) and Visits
+<br>The FEP offers students the unique opportunity to experience joyrides
+on various aircraft platforms, including those from the RSAF and SYFC,
+such as the A330 MRTT and Diamond DA40. Students also get the chance to
+visit airbases, tour squadrons within the RSAF, and engage with operational
+personnel, providing an immersive experience in aviation.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s):&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Monday</p>
 <p>Training Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.30 - 5.30
@@ -29,16 +49,149 @@ PM</p>
 </p>
 </li>
 </ol>
+<h3>Student Executives Committee (EXCO)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thomas Preston Yo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Em</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abdul Malik Shahul Hameed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kan En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Em</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics 2 IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Luke Nair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Em</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Junliang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4W</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Admin 2 IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gavinpal Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leonidas Loke Yi Kai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4U</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 2 IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nathan Ong Yu En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4U</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rishi Krish Rai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Publicity 2 IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Titus Ezekiel Toh Hong Rei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Achievements</h3>
-<h4>2021&nbsp;</h4>
-<p>SAFMC Finalists (Cat B)</p>
+<p><strong>2023</strong>
+</p>
+<p>Participated in the Singapore Amazing Flying Machine Competition</p>
+<p>Participated in SYFC Interschool Aeromodelling Competition (SIAC)</p>
+<p><strong>2024</strong>
+</p>
+<p>Participated in the Singapore Amazing Flying Machine Competition</p>
+<p>Participated in SYFC Interschool Aeromodelling Competition (SIAC)</p>
+<p><strong>2025</strong>
+</p>
+<p>Participated in the Singapore Amazing Flying Machine Competition</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/2017-04-11-PHOTO-00000079.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/SYFC1.jpg">
 </div>
+<p>A330 MRTT Flight Experience</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/10402550_10152203775338589_3008603238557385093_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/SYFC2.jpg">
 </div>
+<p>2024-2025 EXCO</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/10302169_10152203766533589_3163760823435961257_n.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/SYFC3.jpg">
 </div>
+<p>SAFMC Competition</p>
 <p></p>
