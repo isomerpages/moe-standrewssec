@@ -122,3 +122,19 @@ perfection in every performance we create!</p>
 </p>
 <p>Singapore Youth Festival (SYF), Distinction</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Drama1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Drama2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Drama3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Drama5.jpg">
+</div>
+<p></p>
