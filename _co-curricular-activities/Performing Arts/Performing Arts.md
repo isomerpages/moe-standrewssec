@@ -110,7 +110,7 @@ variant: tiptap
 <p>3.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>C4-01</p>
+<p>Mozart Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Thangaperakasam Elizabeth Mary</p>
