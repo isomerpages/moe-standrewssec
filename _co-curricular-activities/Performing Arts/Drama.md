@@ -28,7 +28,7 @@ allow us to hone our craft, exchange ideas, and form lasting connections
 with like-minded performers.</p>
 <p>Through these experiences and accomplishments, we strive to continually
 refine our craft and reach new heights. Join us as we bring our passion
-for drama to life on stage, and continue our journey of perseverance and
+for drama to life on stage and continue our journey of perseverance and
 perfection in every performance we create!</p>
 <h3>CCA Schedule</h3>
 <p>Training&nbsp;Day(s): &nbsp; Monday and Thursday</p>
@@ -52,4 +52,73 @@ perfection in every performance we create!</p>
 </p>
 </li>
 </ol>
+<h3>Student Executives Committee (EXCO)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zacchaeus Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4SD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tejas Jaidev Mohan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Skyler Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4SD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Jun Hao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khoh Yong How &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4T</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Achievements</h3>
+<p><strong>2023</strong>
+</p>
+<p>Singapore Youth Festival (SYF), Distinction</p>
 <p></p>
