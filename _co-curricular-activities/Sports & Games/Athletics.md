@@ -39,26 +39,50 @@ Mall</p>
 </p>
 </li>
 </ol>
-<h3>Achievements</h3>
-<p>2023</p>
-<p>National Schools Games Cross Country, 5 th Placing (Individual)</p>
-<p>National Schools Games Track &amp;amp; Field Meet, B Division, 400m Semi-Finals</p>
-<p>National Schools Games Track &amp;amp; Field Meet, B Division, 1500m Finals</p>
-<p>National Schools Games Track &amp;amp; Field Meet, B Division, 1500m Finals;
-12 th Placing (Individual)</p>
-<p>National Schools Games Track &amp;amp; Field Meet, C Division, 400m Semi-Finals</p>
-<p>2022</p>
-<p>National Schools Games Track &amp;amp; Field Meet, B Division, 400m Semi-Finals</p>
-<p>National Schools Games Track &amp;amp; Field Meet, B Division, 800m Finals</p>
-<p>National School Games Track &amp;amp; Field Meet, B Division, 1500m Finals</p>
-<p>National Schools Games Track &amp;amp; Field Meet, B Division, 3000m Finals</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1%20(5).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2%20(5).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3%20(5).jpg">
-</div>
+<h3>Student Executives Committee (EXCO)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Soon Rong Jedidiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4T</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamad Ariel Fahri Bin Mohamad Fadzli&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Denzel Sadikin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4I</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<h3>Achievements</h3>
+<p><strong>2024</strong>
+</p>
