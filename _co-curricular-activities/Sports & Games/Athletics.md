@@ -86,3 +86,34 @@ Mall</p>
 <h3>Achievements</h3>
 <p><strong>2024</strong>
 </p>
+<p>National School Games Cross Country</p>
+<p>WINGS Cross-Country</p>
+<p>National School Games Track &amp; Field Meet, B Division, 1500m</p>
+<p>National School Games Track &amp; Field Meet, B Division, 3000m</p>
+<p>National School Games Track &amp; Field Meet, C Division, 1500m</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/At1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/At2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/At3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/At4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/At5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/At6.jpg">
+</div>
+<p></p>
+<p></p>
