@@ -255,7 +255,7 @@ Wave Mall</p>
 <p>Tue &amp; Thu</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>3.30 pm – 6.00 pm</p>
+<p>3.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
 <p>SAV Pool</p>
