@@ -271,7 +271,7 @@ Wave Mall</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Ying</p>
+<p></p>
 </td>
 </tr>
 <tr>
