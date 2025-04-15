@@ -46,10 +46,10 @@ variant: tiptap
 <p>Mon, Tue &amp; Thu</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>3.30 pm – 6.30 pm</p>
+<p>3.50 pm – 6.30 pm</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>SASS Band Room, A6-02, Media Room</p>
+<p>SASS Band Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Li Yan</p>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>3.30 pm – 6.00 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Lecture Theatre</p>
+<p>Beethoven Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Junie Hoe</p>
@@ -110,7 +110,7 @@ variant: tiptap
 <p>3.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>C4-01</p>
+<p>Mozart Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Thangaperakasam Elizabeth Mary</p>
