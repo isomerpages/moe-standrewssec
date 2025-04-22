@@ -2,6 +2,7 @@ collections:
   general-information:
     output: true
     order:
+      - SASS Open House Webinar 2025.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
       - For Parents/Character & Citizenship Education.md
