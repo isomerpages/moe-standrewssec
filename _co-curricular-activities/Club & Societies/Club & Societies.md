@@ -77,7 +77,7 @@ variant: tiptap
 <p>3.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>A505</p>
+<p>A505 Classroom</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liu Liming</p>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>3.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>Classrooms C7-01 - C7-06</p>
+<p>C7-01 - C7-06 Classrooms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jun Xiong Alex</p>

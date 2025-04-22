@@ -13,17 +13,17 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
-  - infobar:
-      title: 2025 Secondary One Transfer Appeals
-      subtitle: To find out on
-      id: infobar
-      button: Click Here
-      url: https://standrewssec.moe.edu.sg/2025-secondary-one-transfer-appeals/
   - announcements:
       title: Announcements
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: SASS e-Open House Webinar 2025
+          date: 23 April 2025
+          announcement: Ready to find out more about the Saint's Experience? Click on the
+            link below for more information!
+          link_text: Click Here!
+          link_url: /sass-open-house-webinar-2025/
         - title: 2025 Weighted Assessment Overview and Schedule
           date: 18 January 2025
           announcement: The 2025 Weighted Assessment Overview and Schedule is now
