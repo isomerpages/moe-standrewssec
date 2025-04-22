@@ -18,6 +18,12 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: SASS e-Open House Webinar 2025
+          date: 23 April 2025
+          announcement: Ready to find out more about the Saint's Experience? Click on the
+            link below for more information!
+          link_text: Click Here!
+          link_url: /sass-open-house-webinar-2025/
         - title: 2025 Weighted Assessment Overview and Schedule
           date: 18 January 2025
           announcement: The 2025 Weighted Assessment Overview and Schedule is now
@@ -38,4 +44,10 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+  - infopic:
+      title: e-Open House Webinar 2025
+      subtitle: SASS presents
+      id: infopic
+      image: /images/2025 e Open House/Final_Poster_Open_House_Webinar_2025.png
+      alt: Image alt text
 ---
