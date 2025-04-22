@@ -13,6 +13,14 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
+  - infopic:
+      title: e-Open House Webinar 2025
+      subtitle: SASS presents
+      id: infopic
+      image: /images/2025 e Open House/Final_Poster_Open_House_Webinar_2025.png
+      alt: Image alt text
+      url: /sass-open-house-webinar-2025/
+      button: Click here for more details
   - announcements:
       title: Announcements
       id: announcements
@@ -44,10 +52,4 @@ sections:
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/2018_07Jul12_SASS_Fce-9.jpeg
-  - infopic:
-      title: e-Open House Webinar 2025
-      subtitle: SASS presents
-      id: infopic
-      image: /images/2025 e Open House/Final_Poster_Open_House_Webinar_2025.png
-      alt: Image alt text
 ---
