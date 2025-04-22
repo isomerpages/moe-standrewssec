@@ -13,12 +13,6 @@ sections:
       title: St Andrew's Secondary School
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
-  - infobar:
-      title: 2025 Secondary One Transfer Appeals
-      subtitle: To find out on
-      id: infobar
-      button: Click Here
-      url: https://standrewssec.moe.edu.sg/2025-secondary-one-transfer-appeals/
   - announcements:
       title: Announcements
       id: announcements
