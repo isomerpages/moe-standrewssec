@@ -17,10 +17,11 @@ our school website for more information on the talent areas offered.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>For more information, please refer to the document here.</p>
-<p><a href="/files/General Information/2025 eOpen House/St_Andrews_Secondary_School_2025_DSA_SEC_Exercise__updated___v2___002_.pdf" rel="noopener nofollow" target="_blank">2025 SASS DSA(SEC) Information Sheet </a>
+<p><a href="/files/General Information/2025 eOpen House/St_Andrews_Secondary_School_2025_DSA_SEC_Exercise__updated____7_May_2025__003_.pdf" rel="noopener nofollow" target="_blank">2025 SASS DSA(SEC) Exercise Information Sheet</a>
 </p>
 </li>
 </ol>
+<p>[Last updated: 7 May 2025]</p>
 <p></p>
 <p></p>
 <p></p>
