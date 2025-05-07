@@ -18,6 +18,11 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: 2025 SASS DSA(SEC) application is now open!
+          date: 07 May 2025
+          announcement: To find out more on SASS's DSA Areas and Processes,
+          link_text: please click here!
+          link_url: https://standrewssec.moe.edu.sg/2025-sass-dsa-sec/
         - title: SASS e-Open House Webinar 2025
           date: 23 April 2025
           announcement: Ready to find out more about the Saint's Experience? Click on the
