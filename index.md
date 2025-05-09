@@ -18,11 +18,12 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
-        - title: New Announcement
+        - title: Sec 2 Subject Selection
           date: 09 May 2025
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          announcement: Thank you for joining us at the Engagement Session held online on
+            8 May 2025. To access the briefing slides, click on the link below.
+          link_text: Go to page
+          link_url: https://standrewssec.moe.edu.sg/sec-2-subject-selection-2025/
         - title: 2025 SASS DSA(SEC) application is now open!
           date: 07 May 2025
           announcement: To find out more on SASS's DSA Areas and Processes,
