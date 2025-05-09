@@ -18,6 +18,11 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: New Announcement
+          date: 09 May 2025
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
         - title: 2025 SASS DSA(SEC) application is now open!
           date: 07 May 2025
           announcement: To find out more on SASS's DSA Areas and Processes,
