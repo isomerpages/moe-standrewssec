@@ -4,14 +4,8 @@ permalink: /sass-open-house-webinar-2025/
 variant: tiptap
 description: ""
 ---
-<p>Hey there! Looking to find out more about the Saint's Experience here
-at St Andrew's Seconday School? We welcome you to join us at our e-Open
-House Webinar 2025! This will be the <strong><u>one and only</u></strong> Open
-House Webinar we are holding this year. Do not miss out on the chance to
-find out more about the school and programmes we have in store for you!
-Hurry, sign up now! We look forward to meeting you!</p>
-<p></p>
-<h3>Webinar Details</h3>
+<h4>Hey there! Missed our <strong><u>one and only</u></strong> Open House Webinar? Want to know more about the Saint's Experience here at St Andrew's Seconday School? No worries! Click on the slides below for more information. </h4>
+<h3></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 e Open House/Final_Poster_Open_House_Webinar_2025.png">
