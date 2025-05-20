@@ -8,6 +8,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20student/SASS-D1A-3.jpg">
 </div>
 <p></p>
+<h4>Secondary 2 Subject Selection Cohort Engagement Slides</h4>
+<p></p>
+<p></p>
 <p><strong>2025 Whole Year Assessment Plan</strong>
 </p>
 <ul data-tight="true" class="tight">
