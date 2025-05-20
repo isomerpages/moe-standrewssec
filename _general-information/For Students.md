@@ -8,6 +8,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20student/SASS-D1A-3.jpg">
 </div>
 <p></p>
+<h4>Secondary 2 Subject Selection Cohort Engagement Slides</h4>
+<p><a href="/files/General Information/For Students/For_students_taking_majority_G1_subjects.pdf" rel="noopener nofollow" target="_blank">For Students taking majority G1 Subjects</a>
+</p>
+<p><a href="/files/General Information/For Students/For_students_taking_majority_G2_subjects.pdf" rel="noopener nofollow" target="_blank">For Students taking majority G2 subjects</a>
+</p>
+<p><a href="/files/General Information/For Students/For_students_taking_majority_G3_subjects.pdf" rel="noopener nofollow" target="_blank">For Students taking majority G3 subjects</a>
+</p>
+<p></p>
 <p><strong>2025 Whole Year Assessment Plan</strong>
 </p>
 <ul data-tight="true" class="tight">
