@@ -204,18 +204,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Megan Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department /Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ling_muen_megan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ling_muen_megan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Dr Yong Tze Woon</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,7 +282,7 @@ variant: tiptap
 <p>Subject Head/Discipline(Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raudzah_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudzah_osman@moe.edu.sg</a> 
+<p><a href="mailto:raudzah_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudzah_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>

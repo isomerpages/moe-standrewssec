@@ -24,15 +24,15 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_2_Weighted_Assesment_Overview_updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview_updated 4 Mar</a>
+<p><a href="/files/2025_Sec_2_Weighted_Assesment_Overview_updated_4_June.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview_updated 4 June</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_3_Weighted_Assesment_Overview_24_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview_24 Mar</a>
+<p><a href="/files/2025_Sec_3_Weighted_Assesment_Overview_3_Apr.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview_updated 3 Apr</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_4_and_5__Weighted_Assesment_Overview_2_Apr.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview_2 Apr</a>
+<p><a href="/files/2025_Sec_4_and_5__Weighted_Assesment_Overview_4_June.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 and 5 Weighted Assessment Overview_updated 4 June</a>
 </p>
 <p></p>
 </li>
