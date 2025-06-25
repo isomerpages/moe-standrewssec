@@ -11,6 +11,8 @@ variant: tiptap
 </p>
 <p><a href="/files/General Information/For Parents/SASS_2025_Term_2_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Letter to Parents</a>
 </p>
+<p><a href="/files/2025_Term_3_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Letter to Parents</a>
+</p>
 <p><strong>Developmental Matters</strong>
 </p>
 <ul>
