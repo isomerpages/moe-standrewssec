@@ -115,6 +115,10 @@ variant: tiptap
 <p>Mr Ng Eu Khim</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_eu_khim@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Wang Luqiong</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -584,6 +588,10 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Ms Theeba</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">theeba_pachaimuthu_thayala@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Yow Chen En</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
 </p>
 </td>
 </tr>
