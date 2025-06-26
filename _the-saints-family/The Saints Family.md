@@ -2,6 +2,7 @@
 title: The Saints Family
 permalink: /the-saints-family/
 description: ""
+variant: markdown
 ---
 ## The Saints' Family
 
@@ -24,6 +25,8 @@ description: ""
 
 
 [**Chapel of the Resurrection**](http://www.cor.org.sg/)
+
+[Little Seeds Preschool (Church of the Ascension)](https://littleseeds.edu.sg/lsp-coa/   )
 
 
 [**Ascension Kindergarten**](http://www.akg.edu.sg/)
