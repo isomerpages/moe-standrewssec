@@ -433,7 +433,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Poh Bee Yong</p>
+<p>Ms Poh Bee Yong</p>
 <p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
 </p>
 </td>
@@ -446,7 +446,7 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yvonne Cheen</p>
+<p>Mrs Yvonne Tay</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_su-lin_yvonne@moe.edu.sg</a>
 </p>
 </td>
