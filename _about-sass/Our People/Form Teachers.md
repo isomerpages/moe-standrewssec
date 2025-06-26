@@ -434,7 +434,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Poh Bee Yong</p>
-<p>sass@moe.edu.sg</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
