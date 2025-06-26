@@ -537,8 +537,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Charlene Tan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_siew_hon_charlene@moe.edu.sg</a>
+<p>Mr Bryan Tan</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
 </p>
 </td>
 </tr>
