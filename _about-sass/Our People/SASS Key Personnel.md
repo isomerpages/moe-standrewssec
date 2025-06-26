@@ -171,7 +171,7 @@ variant: tiptap
 <p>Mr Gene Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ICT(covering)</p>
+<p>Head of Department/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_haig_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_haig_gene@moe.edu.sg</a>
@@ -243,22 +243,10 @@ variant: tiptap
 <p>Mr Chuah Chongxian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head / Sec1, 4 &amp; 5</p>
+<p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chuah_chongxian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chuah_chongxian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Carol Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head / Sec 2 &amp; 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_oon_cheng_carol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_oon_cheng_carol@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -279,7 +267,7 @@ variant: tiptap
 <p>Mdm Raudzah Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Discipline(Covering)</p>
+<p>Subject Head/Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:raudzah_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudzah_osman@moe.edu.sg</a>
@@ -343,18 +331,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thiam_siong_oon_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thiam_siong_oon_daniel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Charlene Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head / Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_siew_hon_charlene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_hon_charlene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -520,18 +496,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Ain Zafirah Mohamed Said</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>
