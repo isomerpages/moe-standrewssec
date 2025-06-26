@@ -26,10 +26,10 @@ variant: markdown
 
 [**Chapel of the Resurrection**](http://www.cor.org.sg/)
 
-[Little Seeds Preschool (Church of the Ascension)](https://littleseeds.edu.sg/lsp-coa/   )
+**[Little Seeds Preschool (Church of the Ascension)](https://littleseeds.edu.sg/lsp-coa/   )**
 
 
-[**Ascension Kindergarten**](http://www.akg.edu.sg/)
+
 
 
 
