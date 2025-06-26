@@ -428,14 +428,13 @@ variant: tiptap
 <p>3 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kalaimathi Pandi Raj</p>
+<p>Mrs Kalaimathi d/o Marimuthu</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">kalaimathi_marimuthu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Terence Chee</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_wei_kit_terence@moe.edu.sg</a>
-</p>
+<p>Mr Poh Bee Yong</p>
+<p>sass@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
