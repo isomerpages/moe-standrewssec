@@ -115,6 +115,10 @@ variant: tiptap
 <p>Mr Ng Eu Khim</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_eu_khim@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Wang Luqiong</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -428,13 +432,13 @@ variant: tiptap
 <p>3 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kalaimathi Pandi Raj</p>
+<p>Mrs Kalaimathi d/o Marimuthu</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">kalaimathi_marimuthu@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Terence Chee</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">chee_wei_kit_terence@moe.edu.sg</a>
+<p>Ms Poh Bee Yong</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -446,7 +450,7 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yvonne Cheen</p>
+<p>Mrs Yvonne Tay</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_su-lin_yvonne@moe.edu.sg</a>
 </p>
 </td>
@@ -537,8 +541,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Charlene Tan</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_siew_hon_charlene@moe.edu.sg</a>
+<p>Mr Bryan Tan</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -584,6 +588,10 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Ms Theeba</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">theeba_pachaimuthu_thayala@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Yow Chen En</p>
+<p><a href="sass@moe.edu.sg" rel="noopener nofollow" target="_blank">sass@moe.edu.sg</a>
 </p>
 </td>
 </tr>
