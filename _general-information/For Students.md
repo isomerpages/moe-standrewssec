@@ -41,20 +41,17 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_1_WA_2_2025_updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 1 WA 2 2025 updated 4 Mar</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule__Term_3__Sec_1__updated_30_June.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessment Schedule Term 3 Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_2_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 2 WA 2 2025 updated 4 Mar</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_2_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessment Schedule Term 3 Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_3_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 3 WA 2 2025 updated 4 Mar</a>
+<p><a href="/files/2025_Weighted_Assessments_Schedule__Term_3_Sec_3__updated_30_June.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessment Schedule Term 3 Sec 3</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_4_5_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessments Schedule Sec 4_5 WA 2 2025 updated 4 Mar</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ul>
