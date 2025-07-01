@@ -237,13 +237,13 @@ variant: tiptap
 <p>2 Thanksgiving</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Sang Chai</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_sang_chai@moe.edu.sg</a>
+<p>Ms Sin Jing Ting</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">sin_jing_ting@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sin Jing Ting</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">sin_jing_ting@moe.edu.sg</a>
+<p>Mr Samuel Tay</p>
+<p><a href="mailto:Tay_Kay_Chuan_Samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_kay_chuan_samuel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
