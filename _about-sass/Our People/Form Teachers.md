@@ -450,7 +450,7 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yvonne Tay</p>
+<p>Mrs Yvonne Cheen</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">tay_su-lin_yvonne@moe.edu.sg</a>
 </p>
 </td>
