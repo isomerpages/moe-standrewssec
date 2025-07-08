@@ -20,15 +20,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Sec_1_Weighted_Assesment_Overview_updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview_updated 4 Mar</a>
+<p><a href="/files/2025_Sec_1_Weighted_Assesment_Overview_updated_4_Jul.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Weighted Assessment Overview (updated 4 July)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_2_Weighted_Assesment_Overview_updated_4_June.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview_updated 4 June</a>
+<p><a href="/files/2025_Sec_2_Weighted_Assesment_Overview_updated_3_Jul.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Weighted Assessment Overview (updated 3 July)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Sec_3_Weighted_Assesment_Overview_3_Apr.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview_updated 3 Apr</a>
+<p><a href="/files/2025_Sec_3_Weighted_Assesment_Overview_4_Jul.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Weighted Assessment Overview (updated 4 July)</a>
 </p>
 </li>
 <li>
@@ -41,15 +41,15 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule__Term_3__Sec_1__updated_30_June.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessment Schedule Term 3 Sec 1</a>
+<p><a href="/files/2025_WA3_Schedule__SEC_1__updated_8_July.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Schedule SEC 1 (updated 8 July)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule_Sec_2_WA_2_2025__updated_4_Mar.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessment Schedule Term 3 Sec 2</a>
+<p><a href="/files/2025_WA3_Schedule__SEC_2__updated_8_July__1_.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Schedule SEC 2 (updated 8 July)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2025_Weighted_Assessments_Schedule__Term_3_Sec_3__updated_30_June.pdf" rel="noopener nofollow" target="_blank">2025 Weighted Assessment Schedule Term 3 Sec 3</a>
+<p><a href="/files/2025_WA3_Schedule__SEC_3__updated_8_July.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Schedule SEC 3 (updated 8 July)</a>
 </p>
 <p></p>
 <p></p>
