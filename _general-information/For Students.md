@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2025_WA3_Schedule__SEC_3__updated_8_July.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Schedule SEC 3 (updated 8 July)</a>
+<p><a href="/files/2025_WA3_Schedule__SEC_3__updated_14_July.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Schedule SEC 3 (updated 8 July)file</a>
 </p>
 <p></p>
 </li>
