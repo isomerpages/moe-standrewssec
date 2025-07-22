@@ -52,6 +52,22 @@ variant: tiptap
 <p><a href="/files/2025_WA3_Schedule__SEC_3__updated_8_July.pdf" rel="noopener nofollow" target="_blank">2025 WA3 Schedule SEC 3 (updated 8 July)</a>
 </p>
 <p></p>
+</li>
+</ul>
+<p><strong>Sec 4 Preliminary Examination Timetables</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_4NT_Prelim_TT_9_July.pdf" rel="noopener nofollow" target="_blank">2025 4NT Prelim TT (9July)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_4NA_Prelim_2025_14_July.pdf" rel="noopener nofollow" target="_blank">2025 4NA Prelim TT (14 July)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_4E5N_Prelims_TT_9_July.pdf" rel="noopener nofollow" target="_blank">2025 4E5N Prelims TT (9July)</a>
+</p>
 <p></p>
 </li>
 </ul>
