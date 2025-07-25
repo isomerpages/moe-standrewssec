@@ -36,7 +36,7 @@ sections:
           link_text: Click Here!
           link_url: /sass-open-house-webinar-2025/
         - title: 2025 Weighted Assessment Overview and Schedule
-          date: 18 January 2025
+          date: 23 July 2025
           announcement: The 2025 Weighted Assessment Overview and Schedule is now
             available. Click on the link below to access the documents.
           link_text: Go to Page
