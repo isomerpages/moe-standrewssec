@@ -68,6 +68,11 @@ variant: tiptap
 <li>
 <p><a href="/files/2025_4E5N_Prelims_TT_9_July.pdf" rel="noopener nofollow" target="_blank">2025 4E5N Prelims TT (9July)</a>
 </p>
+</li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/sass-makeup-prelims-exams2025/home" rel="noopener nofollow" target="_blank">Information about Make-up Exams</a>
+</p>
+<p></p>
 <p></p>
 </li>
 </ul>
