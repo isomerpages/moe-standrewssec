@@ -10,7 +10,7 @@ sections:
       background: /images/FB2.png
       variant: center
   - infobar:
-      title: St Andrew's Secondary School
+      title: St Andrew's School (Secondary)
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - announcements:
@@ -24,12 +24,12 @@ sections:
             8 May 2025. To access the briefing slides, click on the link below.
           link_text: Go to page
           link_url: https://standrewssec.moe.edu.sg/sec-2-subject-selection-2025/
-        - title: 2025 SASS DSA(SEC) application is now open!
+        - title: 2025 SAS(S) DSA(Sec) application is now open!
           date: 07 May 2025
-          announcement: To find out more on SASS's DSA Areas and Processes,
+          announcement: To find out more on SAS(S)'s DSA Areas and Processes,
           link_text: please click here!
           link_url: https://standrewssec.moe.edu.sg/2025-sass-dsa-sec/
-        - title: SASS e-Open House Webinar 2025
+        - title: SAS(S) e-Open House Webinar 2025
           date: 23 April 2025
           announcement: Ready to find out more about the Saint's Experience? Click on the
             link below for more information!
@@ -49,7 +49,7 @@ sections:
       image: /images/Homepage/Prefect_photoshop__3__min.jpg
       alt: Image alt text
   - infopic:
-      title: SASS Facebook
+      title: SAS(S) Facebook
       subtitle: for more updates
       button: Follow us now
       url: https://www.facebook.com/standrewssec/
