@@ -25,7 +25,7 @@ and a deep sense of discipline, responsibility, and commitment to the nation.</p
 <p>Training Day(s): &nbsp; Thursday (Odd Week) and Friday (Even Week)</p>
 <p>Training Time: &nbsp; 3.30 - 5.00 PM (Odd Thurs), 2.30 - 5.30 PM (Even
 Fri)</p>
-<p>Training Venue: SASS Upper Court</p>
+<p>Training Venue: SAS(S) Upper Court</p>
 <hr>
 <p></p>
 <table style="minWidth: 50px">
