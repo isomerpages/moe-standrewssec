@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Hockey</h2>
-<p>Hockey isn’t just a sport at St Andrew’s Secondary School—it’s a passion,
+<p>Hockey isn’t just a sport at St Andrew’s School (Secondary) — it’s a passion,
 a tradition, and a way of life.</p>
 <h4>Why Play Hockey?</h4>
 <p>Hockey is more than just fast-paced action and thrilling goals. It builds
@@ -14,10 +14,10 @@ teamwork, resilience, and leadership skills that extend beyond the pitch.
 Players learn to push their limits, work together, and develop a winning
 mindset—on and off the hockey pitch.</p>
 <h4>Our Programe</h4>
-<p>At St Andrew’s Secondary, we take pride in our hockey teams, offering
-opportunities for all skill levels. From our beginner development squads
-to our competitive National School Games (NSG) teams, we focus on skill
-development, strategy, and sportsmanship. Our dedicated coaches provide
+<p>At St Andrew’s School (Secondary), we take pride in our hockey teams,
+offering opportunities for all skill levels. From our beginner development
+squads to our competitive National School Games (NSG) teams, we focus on
+skill development, strategy, and sportsmanship. Our dedicated coaches provide
 top-tier training, ensuring that each player reaches their full potential.</p>
 <h4>Facilities &amp; Training</h4>
 <p>We conduct training in our very own school field, Sengkang Hockey Pitch
@@ -32,7 +32,7 @@ part of the hockey program an incredible experience.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): &nbsp; Monday, Wednesday and Friday</p>
 <p>Training Time: &nbsp; 3.30 - 6.00 PM, 2.30 - 5.30 PM (Odd Fri)</p>
-<p>Training Venue: SASS Hockey Pitch</p>
+<p>Training Venue: SAS(S) Hockey Pitch</p>
 <h3>Teachers-in-Charge</h3>
 <ol>
 <li>
