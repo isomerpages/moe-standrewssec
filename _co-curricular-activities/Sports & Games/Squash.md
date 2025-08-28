@@ -6,14 +6,14 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Squash</h2>
-<p>Squash has remained a steadfast CCA in St. Andrew’s Secondary over the
-years. In the mid-1980s, the late Mr. Harry Tan, then Principal, expressed
-his intention to build a squash court in the new campus at Potong Pasir—now
-the site of SAJC. Though that vision did not come to fruition, Saints have
-continued to embrace and excel in the sport. Among our distinguished alumni,
-Dr. Woffles Wu once served as chairman of the Squash Association. Today,
-we take pride in having three boys training with the national squad. With
-dedication and hard work, any Saint can rise to excellence in squash.</p>
+<p>Squash has remained a steadfast CCA in St. Andrew’s School (Secondary)
+over the years. In the mid-1980s, the late Mr. Harry Tan, then Principal,
+expressed his intention to build a squash court in the new campus at Potong
+Pasir—now the site of SAJC. Though that vision did not come to fruition,
+Saints have continued to embrace and excel in the sport. Among our distinguished
+alumni, Dr. Woffles Wu once served as chairman of the Squash Association.
+Today, we take pride in having three boys training with the national squad.
+With dedication and hard work, any Saint can rise to excellence in squash.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): Monday, Wednesday and Friday</p>
 <p>Training Time: 4.00 - 6.00 PM (Mon &amp; Wed), 2.00 - 4.00 PM (Fri)</p>
