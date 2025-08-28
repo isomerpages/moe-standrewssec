@@ -13,7 +13,7 @@ spirit—playing with heart, integrity, and determination.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): &nbsp; &nbsp;Tuesday and Thursday</p>
 <p>Training Time: &nbsp; &nbsp;3.30 - 5.30 PM</p>
-<p>Training Venue: &nbsp; &nbsp;SASS Field</p>
+<p>Training Venue: &nbsp; &nbsp;SAS(S) Field</p>
 <h3>Training Programme</h3>
 <ul data-tight="true" class="tight">
 <li>
