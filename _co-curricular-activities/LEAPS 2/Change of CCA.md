@@ -3,14 +3,13 @@ title: Change of CCA
 permalink: /co-curricular-activities/LEAPS-2/Change-of-CCA/
 description: ""
 third_nav_title: LEAPS 2
+variant: markdown
 ---
-
-
 ## Change of CCA
 
 Students who are keen to experience a different CCA offered in school may opt for a change at the **beginning of each academic year**. In such cases, the number of years of participation in the previous CCA can be credited to the student's new CCA. 
 
-**In St Andrew's Secondary School, the CCA transfer window will be the whole of term 1.**
+**In St Andrew's School (Secondary), the CCA transfer window will be the whole of term 1.**
 
 **If any students want to change their CCAs in other terms, it will be done on case by case basis.**
 
