@@ -6,10 +6,10 @@ third_nav_title: Student Well Being
 variant: tiptap
 ---
 <h2>Education and Career Guidance (ECG)</h2>
-<p>Education and Career Guidance (ECG) programmes in St Andrew’s Secondary
-School aim to equip students with the knowledge, skills and values needed
-to make informed decisions at key education stages to successfully transit
-from school to further education or work.</p>
+<p>Education and Career Guidance (ECG) programmes in St Andrew’s School (Secondary)
+aim to equip students with the knowledge, skills and values needed to make
+informed decisions at key education stages to successfully transit from
+school to further education or work.</p>
 <p>Through the ECG lessons conducted in school, it is hoped that students</p>
 <ul>
 <li>
@@ -31,7 +31,7 @@ career influencers such as teachers, trusted&nbsp; of&nbsp; &nbsp; adults&nbsp;
 &nbsp; &nbsp; and industry experts.&nbsp;</p>
 </li>
 </ul>
-<p>For Tier 1 support in SASS, the ECG curriculum is enhanced through the
+<p>For Tier 1 support in SAS(S), the ECG curriculum is enhanced through the
 design of customised Student Development Experiences such as career talks/fairs,
 open house visits to post-secondary education institutions, etc. Students
 are also taught to utilise the MySkillsFuture Student Portal (https://go.gov.sg/MySFSec)

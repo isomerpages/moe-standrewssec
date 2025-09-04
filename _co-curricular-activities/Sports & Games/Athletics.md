@@ -6,13 +6,12 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Athletics</h2>
-<p>St Andrew’s Athletics offers students the opportunity to develop physical
-fitness, teamwork, and perseverance through a variety of competitive and
-recreational sports. Our athletics program encourages students of all abilities
-to push their limits, hone their running techniques, and experience the
-thrill of competitions. Students are supported by a dedicated coach and
-a positive, inclusive environment that fosters personal growth and school
-spirit.</p>
+<p>Athletics offers students the opportunity to develop physical fitness,
+teamwork, and perseverance through a variety of competitive and recreational
+sports. Our athletics program encourages students of all abilities to push
+their limits, hone their running techniques, and experience the thrill
+of competitions. Students are supported by a dedicated coach and a positive,
+inclusive environment that fosters personal growth and school spirit.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday,
 Wednesday and Friday</p>

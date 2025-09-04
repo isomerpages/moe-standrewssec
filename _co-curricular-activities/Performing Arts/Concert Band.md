@@ -18,7 +18,7 @@ making it a meaningful and enriching part of school life.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): &nbsp; Monday, Tuesday and Thursday</p>
 <p>Training Time: &nbsp; 3.50 PM - 6.00 PM</p>
-<p>Training Venue: SASS Band Room</p>
+<p>Training Venue: SAS(S) Band Room</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
@@ -167,7 +167,7 @@ of the Flaming Quaver.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Band4.jpg">
 </div>
-<p><strong>SASS-SAJC Year-End Combined Concert</strong>
+<p><strong>SAS(S)-SAJC Year-End Combined Concert</strong>
 </p>
 <p>To end the year on a high note, the Band performs in the SASS-SAJC Year-End
 Combined Concert, a collaboration with the SAJC Symphonic Band. Held just

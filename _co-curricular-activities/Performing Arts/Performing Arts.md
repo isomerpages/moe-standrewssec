@@ -49,7 +49,7 @@ variant: tiptap
 <p>3.50 pm – 6.30 pm</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>SASS Band Room</p>
+<p>SAS(S) Band Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Li Yan</p>

@@ -3,12 +3,11 @@ title: Philosophical Intent
 permalink: /co-curricular-activities/LEAPS-2/Philosophical-Intent/
 description: ""
 third_nav_title: LEAPS 2
+variant: markdown
 ---
-
-
 ## Philosophical Intent
 
-EAPS 2.0 is designed to ensure that all students, regardless of their socio-economic background, have the opportunities to learn and be developed through a student-centric and holistic co-curricular experience. It is framed by the following philosophical intent: 
+LEAPS 2.0 is designed to ensure that all students, regardless of their socio-economic background, have the opportunities to learn and be developed through a student-centric and holistic co-curricular experience. It is framed by the following philosophical intent: 
 
 **a. Motivating Holistic and Balanced Education**
 

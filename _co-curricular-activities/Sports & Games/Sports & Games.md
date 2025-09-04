@@ -138,7 +138,7 @@ Wave Mall</p>
 <p>3.30 pm – 5.30 pm</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>SASS Field</p>
+<p>SAS(S) Field</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yan Ho</p>
@@ -167,7 +167,7 @@ Wave Mall</p>
 <br>2.30 pm - 5.30 pm (Odd Fri)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>SASS Hockey Pitch</p>
+<p>SAS(S) Hockey Pitch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Roshnah Begum Mohd Abbas</p>
@@ -196,7 +196,7 @@ Wave Mall</p>
 <br>3.00 pm - 6.00 pm (Fri)</p>
 </td>
 <td rowspan="4" colspan="1">
-<p>SASS Field</p>
+<p>SAS(S) Field</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kong Hon Ein Aaron</p>

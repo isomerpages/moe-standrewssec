@@ -3,9 +3,8 @@ title: Recognition of Students’ Co Curricular Attainment
 permalink: /co-curricular-activities/LEAPS-2/Recognition-of-Students-Co-Curricular-Attainment/
 description: ""
 third_nav_title: LEAPS 2
+variant: markdown
 ---
-
-
 ## Recognition of Students’ Co Curricular Attainment
 
 At the end of the graduating year, the student’s co-curricular attainment will be recognised according to the table below. The co-curricular attainment will be translated to bonus point(s) which can be used for admission to Junior Colleges / Polytechnics / Institutes of Technical Education (JC/Poly/ITE)
@@ -27,4 +26,3 @@ For a Good co-curricular attainment, which is translated to one bonus point, 
 ·  At least Level 4 in one domain.
 
 A Fair co-curricular attainment will not translate into any bonus points as the student has not met the minimum criteria for a Good co-curricular attainment.
-

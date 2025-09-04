@@ -57,7 +57,7 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4><strong>Overview of St Andrew’s Secondary School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of St Andrew’s School (Secondary)'s Sexuality Education Programme for 2025</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -171,7 +171,7 @@ Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At St Andrew’s Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At St Andrew’s School (Secondary), the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/e_teens_programme.png">

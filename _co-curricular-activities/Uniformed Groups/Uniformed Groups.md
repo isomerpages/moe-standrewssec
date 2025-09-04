@@ -87,7 +87,7 @@ variant: tiptap
 <br>2.30 pm - 5.30 pm (Even Fri)</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>SASS Upper Court</p>
+<p>SAS(S) Upper Court</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Kevina Jerrine Ronald Joe</p>

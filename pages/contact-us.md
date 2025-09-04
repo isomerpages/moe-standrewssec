@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: St Andrew's Secondary School
+agency_name: St Andrew's School (Secondary)
 locations:
   - address:
       - 15 Francis Thomas Drive

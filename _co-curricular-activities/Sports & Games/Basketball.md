@@ -6,15 +6,15 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Basketball</h2>
-<p>The St Andrew’s Secondary School Basketball Team is a testament to perseverance,
-teamwork, and unwavering dedication. The team started with humble beginnings,
-driven by a shared passion for the sport and an unbreakable bond. Without
-the luxuries of an established programme, our Basketball Saints forged
-their own path through sheer hard work and determination, gradually transforming
-themselves into a cohesive unit on the court. Each training session, each
-game, and each setback has only strengthened our Basketball Saints’ resolve,
-shaping them into a team that thrives under pressure and embraces every
-challenge as an opportunity to grow.</p>
+<p>The Basketball Team is a testament to perseverance, teamwork, and unwavering
+dedication. The team started with humble beginnings, driven by a shared
+passion for the sport and an unbreakable bond. Without the luxuries of
+an established programme, our Basketball Saints forged their own path through
+sheer hard work and determination, gradually transforming themselves into
+a cohesive unit on the court. Each training session, each game, and each
+setback has only strengthened our Basketball Saints’ resolve, shaping them
+into a team that thrives under pressure and embraces every challenge as
+an opportunity to grow.</p>
 <p></p>
 <p>Known for their grit and resilience, the team has earned a reputation
 for never backing down, no matter the odds. Whether facing stronger or

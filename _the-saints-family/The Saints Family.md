@@ -33,7 +33,7 @@ variant: markdown
 
 
 
-[**St Andrew's Junior School**](http://www.saintandrewsjunior.moe.edu.sg/)
+[**St Andrew's School (Junior)**](http://www.saintandrewsjunior.moe.edu.sg/)
 
 
 

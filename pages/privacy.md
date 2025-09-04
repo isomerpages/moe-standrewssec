@@ -6,7 +6,7 @@ variant: tiptap
 <h3><strong>Government Agency Privacy Statement</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>This is a St Andrew's Secondary School website.
+<p>This is a St Andrew's School (Secondary) website.
 <br>
 </p>
 </li>
