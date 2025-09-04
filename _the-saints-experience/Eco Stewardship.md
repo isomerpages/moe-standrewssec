@@ -51,7 +51,7 @@ for edible gardening, dengue prevention, and clean toilets.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outreach programmes to students from St Andrew’s Junior School" src="/images/ECO2.jpg">
 </div>
-<p><em>Outreach programmes to students from St Andrew’s Junior School.</em>
+<p><em>Outreach programmes to students from St Andrew’s School (Junior).</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_working_together_on_Stridy_app.png">
