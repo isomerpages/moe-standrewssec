@@ -3,6 +3,7 @@ title: Feedback Form
 permalink: /contact-us/feedback-form/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 ## Feedback Form
 
@@ -24,7 +25,7 @@ Thank you. Up and On!
 
 Yours Sincerely,
 
-St Andrew’s Secondary School  
+St Andrew’s School (Secondary)
 General Office
 
 _You may read our privacy policy [here](https://staging.d1zt52mog84ljj.amplifyapp.com/about-sass/privacy/)._
