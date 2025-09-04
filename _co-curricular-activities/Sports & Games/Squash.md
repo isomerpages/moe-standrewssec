@@ -6,7 +6,7 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Squash</h2>
-<p>Squash has remained a steadfast CCA in St. Andrew’s School (Secondary)
+<p>Squash has remained a steadfast CCA in St Andrew’s School (Secondary)
 over the years. In the mid-1980s, the late Mr. Harry Tan, then Principal,
 expressed his intention to build a squash court in the new campus at Potong
 Pasir—now the site of SAJC. Though that vision did not come to fruition,
