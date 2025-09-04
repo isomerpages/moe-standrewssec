@@ -171,7 +171,7 @@ Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At St Andrew’s Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At St Andrew’s School (Secondary), the eTeens programme will be implemented as follows in 2025:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Saints Experience Page/2025 Sexuality Education/e_teens_programme.png">
