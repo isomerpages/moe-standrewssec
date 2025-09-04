@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-### Character & Citizenship Education(CCE)
+### Character & Citizenship Education (CCE)
 
 The CCE Department drives and supports the school’s strategic thrust two- Every Boy Serving and Aspiring by providing saints with opportunities to social emotional learning through a comprehensive structured formal and co-curricular programme. 
 
