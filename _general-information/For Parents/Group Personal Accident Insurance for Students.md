@@ -8,7 +8,7 @@ third_nav_title: For Parents
 <h3><strong><u>IMPORTANT NOTE FOR PARENTS</u></strong></h3>
 <h4><strong><u>Overview</u></strong></h4>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All students enrolled in St Andrew’s
-Secondary School will be automatically covered under the Group Personal
+School (Secondary) will be automatically covered under the Group Personal
 Accident (GPA) Insurance by NTUC Income. This is an insurance which covers
 death, permanent and total/partial disability and medical expenses due
 to an accident. The proximate or triggering causes of injuries must be
