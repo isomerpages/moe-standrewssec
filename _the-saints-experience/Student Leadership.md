@@ -7,7 +7,7 @@ description: ""
 <h1><strong>Serving And Leading Together</strong></h1>
 <h3><em>“Home of Servant Leaders Who Bring Life to the Nations”</em></h3>
 <p>Serving and Leading Together (SALT) is the Learning for Life (LLP) programme
-in St Andrew’s Secondary School. The programme focuses on community and
+in St Andrew’s School (Secondary). The programme focuses on community and
 youth leadership and aims to nurture students to be confident leaders who
 pay it forward to the community.</p>
 <p></p>
