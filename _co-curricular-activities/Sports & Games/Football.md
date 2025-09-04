@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>Football</h2>
 <p>Saints Football is built on a tradition of passion, discipline, and teamwork.
-More than just a sport, football at St. Andrew’s is a journey of character
+More than just a sport, football at St Andrew’s is a journey of character
 development, resilience, and camaraderie. Our players embody the Saints
 spirit—playing with heart, integrity, and determination.</p>
 <h3>CCA Schedule</h3>
