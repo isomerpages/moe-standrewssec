@@ -73,6 +73,27 @@ variant: tiptap
 <p><a href="https://sites.google.com/moe.edu.sg/sass-makeup-prelims-exams2025/home" rel="noopener nofollow" target="_blank">Information about Make-up Exams</a>
 </p>
 <p></p>
+</li>
+</ul>
+<p><strong>Sec 1 to 3 End-Of-Year Examination Timetables</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_4NT_Prelim_TT_9_July.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY TT </a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_4NA_Prelim_2025_14_July.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EOY TT</a>
+</p>
+</li>
+<li>
+<p>2025 Sec 3E EOY TT</p>
+</li>
+<li>
+<p>2025 Sec 3NA EOY TT</p>
+</li>
+<li>
+<p>2025 Sec 3NT EOY TT</p>
 <p></p>
 </li>
 </ul>
