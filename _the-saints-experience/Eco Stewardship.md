@@ -86,17 +86,17 @@ visit this year.</p>
 </div>
 <p><strong>Therapeutic Garden</strong>
 </p>
-<p>The Therapeutic Garden at St. Andrew’s Secondary School stands as a meaningful
-addition to our school environment, transforming an empty plot of land
-beside our heritage building, Woodsville House, into a space that nurtures
-both the mind and the love for learning. The journey of building this garden
-began in 2024. After months of planning and discussions, construction began
-in late 2024, and by March 2025, the Therapeutic Garden was finally completed.
-This project would not have been possible without the dedication and hard
-work of our alumnus Mr Ganesh and our Green Envoys who contributed to beautify
-the garden. As we step into this beautiful space, may it serve as a reminder
-of our collective efforts in creating a learning environment that inspires
-curiosity, well-being, and a deeper appreciation for nature.</p>
+<p>The Therapeutic Garden at St. Andrew’s School (Secondary) stands as a
+meaningful addition to our school environment, transforming an empty plot
+of land beside our heritage building, Woodsville House, into a space that
+nurtures both the mind and the love for learning. The journey of building
+this garden began in 2024. After months of planning and discussions, construction
+began in late 2024, and by March 2025, the Therapeutic Garden was finally
+completed. This project would not have been possible without the dedication
+and hard work of our alumnus Mr Ganesh and our Green Envoys who contributed
+to beautify the garden. As we step into this beautiful space, may it serve
+as a reminder of our collective efforts in creating a learning environment
+that inspires curiosity, well-being, and a deeper appreciation for nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECO_5.jpg">
 </div>
