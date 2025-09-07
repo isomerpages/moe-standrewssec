@@ -3,8 +3,9 @@ title: Character & Citizenship Education
 permalink: /general-information/For-Parents/permalink/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
-### Character & Citizenship Education(CCE)
+### Character & Citizenship Education (CCE)
 
 The CCE Department drives and supports the school’s strategic thrust two- Every Boy Serving and Aspiring by providing saints with opportunities to social emotional learning through a comprehensive structured formal and co-curricular programme. 
 
@@ -34,9 +35,9 @@ School-wide fund raising, community outreach and overseas CIP projects are also 
 
 Education and Career Guidance (ECG) aims to equip students with the knowledge, skills and values needed to make informed decisions at key education stages to successfully transit from school to further education or work. 
 
-##### Education and Career Guidance in St Andrew’s Secondary School
+##### Education and Career Guidance in St Andrew’s School (Secondary)
 
-Through the ECG programmes in St Andrew’s Secondary School, we hope to nurture every boy to be self-aware individuals who can make responsible decisions in their lives, and grow to become confident and resilient servant leaders in their areas of passion. 
+Through the ECG programmes in St Andrew’s School (Secondary), we hope to nurture every boy to be self-aware individuals who can make responsible decisions in their lives, and grow to become confident and resilient servant leaders in their areas of passion. 
 
 The ECG curriculum is developed with the following considerations in mind:
 
@@ -76,7 +77,7 @@ The ECG curriculum is developed with the following considerations in mind:
 
 ##### National Education
 
-The NE programme in St Andrew’s Sec School aims to provide our students with the knowledge, skills and values to understand Singapore's history, realities and challenges unique to our nation, appreciate our journey to nationhood, cultivate the instincts for survival as a nation, and have confidence in our nation's future.
+The NE programme in St Andrew’s School (Secondary) aims to provide our students with the knowledge, skills and values to understand Singapore's history, realities and challenges unique to our nation, appreciate our journey to nationhood, cultivate the instincts for survival as a nation, and have confidence in our nation's future.
  
 We do this by commemorating the the following **NE COMMEMORATIVE DAYS** :
 

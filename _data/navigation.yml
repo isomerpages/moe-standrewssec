@@ -1,6 +1,6 @@
 logo: /images/Homepage/SAS_LOGO_crest_jpg.jpg
 links:
-  - title: About SASS
+  - title: About SAS(S)
     collection: about-sass
   - title: The Saints Experience
     collection: the-saints-experience
@@ -19,7 +19,7 @@ links:
         url: https://www.cor.org.sg/
       - title: Ascension Kindergarten
         url: https://akg.edu.sg/
-      - title: St Andrew's Junior School
+      - title: St Andrew's School (Junior)
         url: https://www.saintandrewsjunior.moe.edu.sg/
       - title: St Andrew's Junior College
         url: https://standrewsjc.moe.edu.sg/
@@ -27,7 +27,7 @@ links:
         url: https://sapta.sg/
       - title: St Andrew's Alumni
         url: https://www.saints.org.sg/
-      - title: St Andrew's Secondary Facebook
+      - title: SAS(S) Facebook
         url: https://www.facebook.com/standrewssec
   - title: Co-Curricular Activities
     collection: co-curricular-activities

@@ -24,7 +24,7 @@ and passing down the rich rugby heritage to new generations of players.</p>
 <h3>CCA Schedule</h3>
 <p>Training Day(s): Monday, Wednesday and Friday</p>
 <p>Training Time: &nbsp;3.30 - 6.00 PM (Mon &amp; Wed), 3.00 - 6.00 PM (Fri)</p>
-<p>Training Venue: SASS Field</p>
+<p>Training Venue: SAS(S) Field</p>
 <h3>Teachers-in-Charge</h3>
 <ol>
 <li>

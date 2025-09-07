@@ -73,6 +73,30 @@ variant: tiptap
 <p><a href="https://sites.google.com/moe.edu.sg/sass-makeup-prelims-exams2025/home" rel="noopener nofollow" target="_blank">Information about Make-up Exams</a>
 </p>
 <p></p>
+</li>
+</ul>
+<p><strong>Sec 1 to 3 End-Of-Year Examination Timetables</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Sec_1_EOY_SCHEDULE_2025_xlsx___Sec_1_EOY_schedule_2025.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY TT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_2_EOY_SCHEDULE_2025_xlsx___Sec_2_EOY_schedule_2025.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EOY TT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_3Exp_EOY_SCHEDULE_2025_xlsx___Sec_3E_EOY_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 3E EOY TT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_3NA_EOY_SCHEDULE_2025_xlsx___Sec_3NA_EOY_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 3NA EOY TT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Sec_3NT_EOY_SCHEDULE_2025_xlsx___Sec_3NT_EOY_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Sec 3NT EOY TT</a>
+</p>
 <p></p>
 </li>
 </ul>
