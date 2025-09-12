@@ -13,6 +13,8 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_Term_3_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Letter to Parents</a>
 </p>
+<p><a href="/files/2025_Term_4_Letter_to_Parents___5_Sep_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Letter to Parents</a>
+</p>
 <p><strong>Developmental Matters</strong>
 </p>
 <ul>
