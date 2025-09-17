@@ -3,8 +3,9 @@ title: Our School Badge
 permalink: /about-sass/our-school-badge/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
-##### <center>********The official heraldic description of the School Badge is as follows:********<center>
+##### <center>********The School Badge is as follows:********<center>
 
 <img src="/images/badge.jpg" style="width:50%">
 
@@ -23,4 +24,4 @@ third_nav_title: Our School
 ###### <center> Symbol of Strength </center>
 
 ![](/images/School%20Badge/School%20Cross%202.png)
-###### <center> Cross of Saint Andrew </center>
+###### <center> Cross of Saint Andrew </center></center></center></center></center>
