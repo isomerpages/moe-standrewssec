@@ -2,11 +2,12 @@
 title: Privacy Policy
 permalink: /about-sass/privacy/
 description: ""
+variant: markdown
 ---
 ### Privacy Policy 
 
   
-1.   This is the St Andrew's Secondary School website.  
+1.   This is St Andrew's School (Secondary)'s website.  
   
 2.   We do not capture data that allows us to identify you individually.  
   
