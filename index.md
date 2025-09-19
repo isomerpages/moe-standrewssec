@@ -19,7 +19,7 @@ sections:
       subtitle: Latest news and updates
       announcement_items:
         - title: 2025 Assessment Overview and Schedule
-          date: 08 September 2025
+          date: 19 September 2025
           announcement: The 2025 Assessment Overview and Schedule is now updated with the
             End-of-Year Examination schedule. Click on the link below to access
             the documents.
