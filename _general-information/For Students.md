@@ -79,23 +79,23 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Sec_1_EOY_SCHEDULE_2025_Updated_16_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY Timetable (updated 16 Sept)</a>
+<p><a href="/files/Sec_1_EOY_SCHEDULE_2025_updated_19_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 EOY Timetable (updated 19 Sep)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_2_EOY_SCHEDULE_2025_Updated_16_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EOY Timetable (updated 16 Sept)</a>
+<p><a href="/files/Sec_2_EOY_SCHEDULE_2025_updated_19_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 EOY Timetable (updated 19 Sep)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3Exp_EOY_SCHEDULE_2025_Updated_16_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3G3 EOY Timetable (updated 16 Sept)</a>
+<p><a href="/files/Sec_3Exp_EOY_SCHEDULE_2025_updated_19_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3E EOY Timetable (updated 19 Sep)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3NA_EOY_SCHEDULE_2025_Updated_16_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3G2 EOY Timetable (updated 16 Sept)</a>
+<p><a href="/files/Sec_3NA_EOY_SCHEDULE_2025_updated_19_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NA EOY Timetable (updated 19 Sep)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3NT_EOY_SCHEDULE_2025_Updated_16_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3G1 EOY Timetable (updated 16 Sept)</a>
+<p><a href="/files/Sec_3NT_EOY_SCHEDULE_2025_updated_19_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT EOY Timetable (updated 19 Sep)</a>
 </p>
 <p></p>
 </li>
