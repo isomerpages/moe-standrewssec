@@ -95,11 +95,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Sec_3NT_EOY_SCHEDULE_2025_updated_19_Sept.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT EOY Timetable (updated 19 Sep)</a>
+<p><a href="/files/Sec_3NT_EOY_SCHEDULE_2025_xlsx.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT EOY Timetable (updated 22 Sep)</a>
 </p>
-<p></p>
 </li>
 </ul>
+<p></p>
 <p><strong>Developmental Matters</strong>
 </p>
 <ul data-tight="true" class="tight">
