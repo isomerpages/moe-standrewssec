@@ -98,6 +98,10 @@ variant: tiptap
 <p><a href="/files/Sec_3NT_EOY_SCHEDULE_2025_xlsx.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3NT EOY Timetable (updated 22 Sep)</a>
 </p>
 </li>
+<li>
+<p><a href="https://sites.google.com/moe.edu.sg/sass-end-of-year-examinations-?usp=sharing" rel="noopener nofollow" target="_blank">EOY Make-up Exams</a>
+</p>
+</li>
 </ul>
 <p></p>
 <p><strong>Developmental Matters</strong>
