@@ -6,27 +6,35 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Choir</h2>
-<p>Over the course of the past two years, the Saints Choir provides students
+<p>Over the course of the past two years, Saints Choir provides students
 with the opportunity to develop their vocal skills, enhance their musical
 knowledge, and participate in various performance opportunities. Under
-the guidance of our experienced instructors Ms Wynne Lee and Mr Jonathan
-Mark Macpherson, our choir members engage in a variety of musical activities
-that not only improve their singing abilities but also foster teamwork,
-discipline, and creativity.</p>
+the guidance of our experienced instructors, our choir members engage in
+a variety of musical activities that not only improve their singing abilities
+but also foster teamwork, discipline, and creativity.</p>
 <p>Saints Choir has been given many exciting opportunities to participate
 in a variety of prestigious and distinguished events. From performing for
 the Kodaly Academy of Music 10th anniversary concert, <em>A Choral Celebration II</em>,
 to our most recent upcoming performance, the <em>Lord of the Rings Symphony No.5: Return to Middle Earth</em>,
-our boys have truly displayed the values of Resilience and Unity.</p>
-<p>Besides, Saints Choir will be participating in the end of year <em>Saints Village Three Schools Combined concert</em> which
+our boys have truly displayed the values of Resilience and Unity. They
+also participated in the Singapore Youth Festival Arts Presentation and
+achieved a Certificate of Accomplishment.</p>
+<p>Besides, Saints Choir is honored to have been invited to perform by the
+Potong Pasir Constituency for the National Day Dinner performance. This
+special invitation reflects the choir’s growing reputation for musical
+excellence and community engagement. This opportunity not only allowed
+the choir to share their passion for music with a wider audience but also
+reinforced the important role that the arts play in bringing communities
+together.</p>
+<p>Saints Choir will be participating in the end of year <em>Saints Village Three Schools Combined concert</em> which
 reinforces the importance of <em>One Family Unbroken</em>. Through choir,
 our boys have not only gained musical experience, such as vocal projection
 and sight-reading skills, but have also grown to become servant leaders
 who bring life to the nations.</p>
 <h3>Schedule</h3>
-<p>Training Day(s): Monday and Thursday
+<p>Training Day(s): Tuesday and Thursday
 <br>Training Time: 3.30 - 6.00 PM
-<br>Training Venue: Beethoven Room</p>
+<br>Training Venue: Tuesday (Mozart Room) and Thursday (Beethoven Room)</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
