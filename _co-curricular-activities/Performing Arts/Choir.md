@@ -251,6 +251,16 @@ who bring life to the nations.</p>
 </tbody>
 </table>
 <h3>Achievements</h3>
+<p><strong>2025</strong>
+</p>
+<p><em>Lord of the Rings</em> Symphony No.5: Return to Middle Earth</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+<p>Prefects Commendation</p>
+<p>Founders Day Performance (Secondary)</p>
+<p>Founders Day Performance and Arts Festival (Junior School)</p>
+<p>National Day Dinner Performance</p>
+<p>Teacher’s Day Celebration</p>
+<p>Saints Village 3 Schools Combined Concert</p>
 <p><strong>2024</strong>
 </p>
 <p><em>Vivace</em>: Keep the flame burning brightly</p>
@@ -258,11 +268,7 @@ who bring life to the nations.</p>
 </p>
 <p>Prefects Commendation</p>
 <p>&nbsp;Founders Day Performance</p>
-<p><strong>2025</strong>
-</p>
-<p><em>Lord of the Rings</em> Symphony No.5: Return to Middle Earth</p>
-<p>Singapore Youth Festival Arts Presentation</p>
-<p>Saints Village 3 Schools Combined Concert</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/choir1.jpg">
