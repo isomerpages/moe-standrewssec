@@ -67,13 +67,52 @@ the students to be exempted from the school's CCA training sessions. Once
 the training stint with the organisation ends, the students will have to
 resume training with the school’s CCA.</p>
 <h2>Change of CCA</h2>
-<p>Students who are members of the mandatory CCA are strongly encouraged
-to remain with the CCA throughout secondary school as the National UG are
-strongly positioned to nurture national values and develop character, ruggedness
-and resilience.&nbsp;
-<br>School principals should assess requests for a change of CCA from students
-in the mandatory CCA on a case by case basis, and may allow for one change
-in CCA either at the end of Secondary One or Secondary Two.&nbsp;
-<br>For non-mandatory CCA, students who are keen to experience the different
-CCA in school may opt for a change at the beginning of each academic year.
-(For Sec 1 &amp; 2 only)</p>
+<p>Students who are keen to experience a different CCA offered in school
+may opt for a change at the&nbsp;<strong>beginning of each academic year</strong>.
+In such cases, the number of years of participation in the previous CCA
+can be credited to the student's new CCA.&nbsp;</p>
+<p><strong>In St Andrew's School (Secondary), the CCA transfer window will be the whole of term 1.</strong>
+</p>
+<p><strong>If any students want to change their CCAs in other terms, it will be done on case by case basis.</strong>
+</p>
+<p><strong>Change of CCA is applicable for lower secondary only.</strong>
+</p>
+<p>Continuous involvement in and commitment to the same CCA will be rewarded,
+and this is reflected through a higher level of attainment assigned to
+students who stay with the same CCA over the years. Continuous and regular
+participation in a CCA throughout the secondary school years is fundamental
+to contributing to the quality of school life and overall student development
+with the students deepening their knowledge and skills in a particular
+area.&nbsp;</p>
+<p>There could be several exceptional and valid reasons that may affect the
+continual participation of a student in his/her CCA, through no fault of
+the student. These include:</p>
+<p><strong>(i)</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>medical concerns;</strong>
+</p>
+<p>If a student is required to change his/her CCA due to medical reasons,
+the student will be considered as having been in the same CCA.&nbsp;</p>
+<p>For example, if a student in a Physical Sports CCA sustains an injury
+and is hence unable to continue in the CCA, the student will be considered
+as having been in the same CCA, even though he/she switches to a new CCA
+that replaces the original Physical Sports CCA.&nbsp;</p>
+<p><strong>(ii)</strong>&nbsp; &nbsp; &nbsp;&nbsp;<strong>the closure of a CCA;</strong>
+</p>
+<p>If a student is required to change his/her CCA due to the closure of their
+CCA (for reasons that are not within their control, such as school-based
+decisions), the student will be considered as having been in the same CCA.&nbsp;</p>
+<p><strong>(iii)</strong>&nbsp; &nbsp;&nbsp;<strong>no corresponding CCA for transfer students in their new school.</strong>
+</p>
+<p>In addition, if a student transfers to another secondary school which
+does not offer the CCA that he/she belonged to in his/her previous school,
+the student will be considered as having been in the same CCA. The same
+would apply if the student does not meet the criteria in the new school
+to join the CCA that he/she belonged to in his/her previous school.&nbsp;</p>
+<p>Similarly, if the student comes from an overseas school that does not
+have co-curricular activities, the student will be considered as having
+been in the same CCA.&nbsp;</p>
+<p>However, if a student transfers to another secondary school which offers
+the CCA that he/she belonged to in his/her previous school but the student
+chooses to participate in a different CCA in the new school, the student
+will not be considered as having been in the same CCA.</p>
+<p><strong>In such cases, the student would be considered as having been in the&nbsp;same&nbsp;CCA.</strong>
+</p>
