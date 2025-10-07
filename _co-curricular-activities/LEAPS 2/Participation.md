@@ -3,9 +3,8 @@ title: Participation
 permalink: /co-curricular-activities/LEAPS-2/Participation/
 description: ""
 third_nav_title: LEAPS 2
+variant: markdown
 ---
-
-
 ## Participation 
 
 The level of attainment in this domain is determined by the highest level attained in either of the rows of the table below.
