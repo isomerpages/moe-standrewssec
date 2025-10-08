@@ -32,7 +32,7 @@ inclusive environment that fosters personal growth and school spirit.</p>
 <p>Training Time: &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.00 - 6.00 p.m. (Mon &amp; Wed), 3.30 - 5.30 p.m. (Fri)</p>
+<p>4.00 - 6.00 pm (Mon &amp; Wed), 3.30 - 5.30 pm (Fri)</p>
 </td>
 </tr>
 <tr>
