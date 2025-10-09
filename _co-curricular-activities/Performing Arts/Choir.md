@@ -12,25 +12,29 @@ knowledge, and participate in various performance opportunities. Under
 the guidance of our experienced instructors, our choir members engage in
 a variety of musical activities that not only improve their singing abilities
 but also foster teamwork, discipline, and creativity.</p>
+<p></p>
 <p>Saints Choir has been given many exciting opportunities to participate
 in a variety of prestigious and distinguished events. From performing for
 the Kodaly Academy of Music 10th anniversary concert, <em>A Choral Celebration II</em>,
 to our most recent upcoming performance, the <em>Lord of the Rings Symphony No.5: Return to Middle Earth</em>,
 our boys have truly displayed the values of Resilience and Unity. They
 also participated in the Singapore Youth Festival Arts Presentation and
-achieved a Certificate of Accomplishment.</p>
-<p>Besides, Saints Choir is honored to have been invited to perform by the
+achieved a Certificate of Accomplishment.&nbsp;</p>
+<p>
+<br>Besides, Saints Choir is honored to have been invited to perform by the
 Potong Pasir Constituency for the National Day Dinner performance. This
 special invitation reflects the choir’s growing reputation for musical
 excellence and community engagement. This opportunity not only allowed
 the choir to share their passion for music with a wider audience but also
 reinforced the important role that the arts play in bringing communities
-together.</p>
+together.&nbsp;</p>
+<p></p>
 <p>Saints Choir will be participating in the end of year <em>Saints Village Three Schools Combined concert</em> which
 reinforces the importance of <em>One Family Unbroken</em>. Through choir,
 our boys have not only gained musical experience, such as vocal projection
 and sight-reading skills, but have also grown to become servant leaders
-who bring life to the nations.</p>
+who bring life to the nations.&nbsp;</p>
+<p></p>
 <h3>Schedule</h3>
 <p>Training Day(s): Tuesday and Thursday
 <br>Training Time: 3.30 - 6.00 PM
@@ -66,10 +70,10 @@ who bring life to the nations.</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mario Tan</p>
+<p>Goh Yu Feng Bryley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Em</p>
+<p>3R</p>
 </td>
 </tr>
 <tr>
@@ -77,10 +81,10 @@ who bring life to the nations.</p>
 <p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Evan Neo</p>
+<p>Yeo Jia Cheng Caleb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Em</p>
+<p>3W</p>
 </td>
 </tr>
 <tr>
@@ -88,32 +92,21 @@ who bring life to the nations.</p>
 <p>Student Conductor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Zhi Yuan Elston</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4W</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Pianist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nicholas Lo Jia Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4Em</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Student Conductor</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Tan Jie Xin Emmanuel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Ex</p>
+<p>3EX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Student Conductor &amp; Bass 1 Assistant Section</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayden See Jia Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2R</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +114,30 @@ who bring life to the nations.</p>
 <p>Head of Logistics/Media &amp; Publicity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elias Shawn Tan Kiat</p>
+<p>Karel Kiehl Chandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2EX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hegde Tanav</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Logistics/Media &amp; Publicity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Karel Kiehl Chandra, 2EX</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4R</p>
@@ -132,10 +148,10 @@ who bring life to the nations.</p>
 <p>Tenor 1 Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Choo Rong Jing Abram</p>
+<p>Kaashvin Karthik</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4T</p>
+<p>2EM</p>
 </td>
 </tr>
 <tr>
@@ -143,10 +159,10 @@ who bring life to the nations.</p>
 <p>Tenor 1 Assistant Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Goh Yu Feng Bryley</p>
+<p>Choy Yik Hei Veryl</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3R</p>
+<p>1W</p>
 </td>
 </tr>
 <tr>
@@ -154,48 +170,26 @@ who bring life to the nations.</p>
 <p>Tenor 2 Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yvan Ng Yi Fan</p>
+<p>Isaac Michael Chey Jia Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tenor 2 Assistant Section Leader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marcus Leong Yu Chyun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4R</p>
+<p>2R</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tenor 2 Assistant Section Leader</p>
+<p>Tenor 2 Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dalton Cayden Tan Yuherng</p>
+<p>Junien Ling Jun Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Ex</p>
+<p>3R</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Bass 1 Section Leader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Reuben Loh Tuck Whye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4W</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Bass 1 Assistant Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Daniel Yip Wei En</p>
@@ -209,10 +203,10 @@ who bring life to the nations.</p>
 <p>Bass 2 Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tang Yiren</p>
+<p>Pong Jun Ren</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4SD</p>
+<p>2EX</p>
 </td>
 </tr>
 <tr>
@@ -220,7 +214,18 @@ who bring life to the nations.</p>
 <p>Bass 2 Assistant Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Zhi Xing</p>
+<p>Leong Tak Yan Ezekiel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2EM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bass 2 Assistant Section Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Ee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4W</p>
@@ -231,25 +236,16 @@ who bring life to the nations.</p>
 <p>Bass 2 Assistant Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tin Yong Xin</p>
+<p>Jamiel Quek Jun En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4T</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yeo Jia Cheng Caleb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3W</p>
+<p>2U</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <h3>Achievements</h3>
 <p><strong>2025</strong>
 </p>
