@@ -45,7 +45,7 @@ Fri)</p>
 <p>Unit Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Matthew Tiang (4T)</p>
+<p>Trisshul Krishnamurthi (4W)</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ Fri)</p>
 <p>Assistant Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethan Lim (4R)</p>
+<p>Sudarshan Vijaykumar (4U)</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Fri)</p>
 <p>Cadet Leaders Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rehan Abdul Kareem (4I)</p>
+<p>Chan Say Hang, Gabriel (4W)</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ Fri)</p>
 <p>Cadet Leaders Assistant Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Matthew Lee (4SD)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ Fri)</p>
 <p>Senior Cadets Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kazuya Chew (4T)</p>
+<p>Ozan Teo Zhan Hao (4W)</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ Fri)</p>
 <p>Senior Cadets Assistant Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ashton Tan (4W)</p>
+<p>Morales Jericho Caballero (4R)</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ Fri)</p>
 <p>Junior Cadets Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Katsuki Chew (4EM)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ Fri)</p>
 <p>Junior Cadets Assistant Platoon Commander</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Braeden Foo (4SD)</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Fri)</p>
 <p>Physical Training Instructors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joshua Gill (4R) / Matthew Lee (4SD)</p>
+<p>Navani Darsh Mahesh (4T)/ Morales Jericho Caballero (4R)</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ Fri)</p>
 <p>Games Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beldon Choo (4I) / Daryl Aw (4W)</p>
+<p>Navani Darsh Mahesh (4T)/ Morales Jericho Caballero (4R)</p>
 </td>
 </tr>
 <tr>
@@ -125,23 +125,31 @@ Fri)</p>
 <p>Quarter Master&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Beldon Choo (4I) / Daryl Aw (4W)</p>
+<p>Chan Qifeng Ryker (4R)/ Jaron Ong Ying Ze (4W)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Welfare In-Charge</p>
+<p>Flag raising In Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Braeden Foo (4SD) / Joshua Gill (4R)</p>
+<p>Ozan Teo Zhan Hao (4W)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Precision Drill Squad Instructor</p>
+<p>Precision Drill Squad Instructors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ethan Lim (4R)</p>
+<p>Trisshul Krishnamurthi (4W)/ Sudarshan Vijaykumar (4U)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Photographer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Jing Jie, Alexus (3U)</p>
 </td>
 </tr>
 </tbody>
