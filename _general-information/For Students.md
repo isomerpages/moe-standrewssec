@@ -16,6 +16,15 @@ variant: tiptap
 <p><a href="/files/General Information/For Students/For_students_taking_majority_G3_subjects.pdf" rel="noopener nofollow" target="_blank">For Students taking majority G3 subjects</a>
 </p>
 <p></p>
+<p><strong>Developmental Matters</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Saints_Code_of_Conduct__revised_.pdf" rel="noopener nofollow" target="_blank">Saints Code of Conduct</a>
+</p>
+<p></p>
+</li>
+</ul>
 <p><strong>2025 Whole Year Assessment Plan</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -104,19 +113,6 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p><strong>Developmental Matters</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Saints_Code_of_Conduct__revised_.pdf" rel="noopener nofollow" target="_blank">Saints Code of Conduct (updated Oct 2025)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Student/Development%20Matter/wcy2me.pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Guidelines</a>
-</p>
-</li>
-</ul>
-<p></p>
 <p><strong>2025 TGIF Schedule</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -192,18 +188,7 @@ variant: tiptap
 <li>
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student Icon Login</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Student/ICT%20matter/Guide%20to%20back-up%20Google%20iCON.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to back-up student iCON</a>
-</p>
-</li>
-</ul>
-<p><strong>PLD</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Student/ICT%20matter/For%20Students%20Instructions%20for%20DMA%20Uninstallation%20iPad%20Device.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Uninstallation for iPad Device (For Graduating Students Only)</a>
-</p>
+<p></p>
 </li>
 </ul>
 <p></p>
