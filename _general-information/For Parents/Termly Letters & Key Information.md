@@ -15,27 +15,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_Term_4_Letter_to_Parents___5_Sep_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Letter to Parents</a>
 </p>
-<p><strong>Developmental Matters</strong>
-</p>
-<ul>
-<li>
-<p><a href="/files/Saints_Code_of_Conduct.pdf" rel="noopener nofollow" target="_blank">Saints Code of Conduct</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Social%20Media%20Guidelines%20for%20SASS%20(final).pdf" rel="noopener noreferrer nofollow" target="_blank">Social Media Guidelines</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Homework%20Policy%20revised%2031%20Mar%202021%20for%20School%20Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Homework Policy</a>
-</p>
-</li>
-<li>
-<p><a href="/files/leaps-2.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA LEAPS 2.0</a>
-</p>
 <p></p>
-</li>
-</ul>
 <p><strong>Useful Links</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -97,10 +77,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/Edusave%20Information%20for%20parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Edusave&nbsp;Information</a>
-</p>
-</li>
-<li>
-<p><a href="https://schoolibrary.moe.edu.sg/standrewssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">Access to School Library Catalogue</a>
 </p>
 </li>
 </ul>
