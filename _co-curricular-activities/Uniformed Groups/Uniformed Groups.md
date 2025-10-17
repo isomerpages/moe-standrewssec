@@ -90,7 +90,7 @@ variant: tiptap
 <p>SAS(S) Upper Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kevina Jerrine Ronald Joe</p>
+<p>Ms Kevina Jerrine</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mr Kenneth Ong Kheng Ngee</p>
+<p>Mr Kenneth Ong Kheng Ngee</p>
 </td>
 </tr>
 </tbody>
