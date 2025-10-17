@@ -13,4 +13,7 @@ description: ""
 <p><a href="/files/2025 Sec 2 Subject Selection/FAQ_S2_Subject_Selection_2025_G3.pdf" rel="noopener nofollow" target="_blank">For students taking majority G3 subjects</a>
 </p>
 <p></p>
+<p>Please see below for the finalised subject combinations for Secondary
+2 students.</p>
+<p>Subject combinations for students taking majority G1 subject</p>
 <p>For enquiries, feel free to email us at <a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>.</p>
