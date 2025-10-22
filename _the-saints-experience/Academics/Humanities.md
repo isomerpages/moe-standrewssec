@@ -51,52 +51,9 @@ population issues, economic challenges and social cohesion, students learn
 that Singapore's success requires constant effort. Real-world examples
 of overcoming these challenges teach students about pragmatic problem-solving
 and adaptation.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Geography students explore real-world issues faced by different stakeholders
-when planning transportation systems in cities.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>History comes alive for the Sec 2 students at National Museum</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
