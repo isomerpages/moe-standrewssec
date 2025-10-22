@@ -23,7 +23,7 @@ We offer Biology, Chemistry, Physics, Science (Phy/Chem), Science (Chem/Biology)
 
 Our special programmes for lower secondary students provide a strong foundation for self-directed learning and scientific inquiry.
 
-**1.**      **River Studies Programme**
+**1.**      **River Studies 2.0**
 
 ·       **Secondary 1:** Students participate in our **River Studies Project**, applying scientific knowledge to investigate the Kallang River from its source to its endpoint. They focus on monitoring water quality and studying the river’s ecosystem.
 
