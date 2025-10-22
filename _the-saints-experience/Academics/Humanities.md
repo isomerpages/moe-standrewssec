@@ -24,6 +24,7 @@ and make informed decisions.</p>
 <p>&nbsp;</p>
 <p><strong>Subjects Offered in St Andrew’s School (Secondary):</strong>
 </p>
+<p>Elements of Business Studies</p>
 <p>Humanities (Social Studies / Geography)</p>
 <p>Humanities (Social Studies / History)</p>
 <p>Humanities Exposure Modules</p>
@@ -40,7 +41,7 @@ to our shared heritage. This understanding strengthens their emotional
 rootedness to Singapore and their identity as Singaporeans.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A sense of belonging" src="/images/A_sense_of_belonging.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A sense of belonging" src="/images/A_sense_of_belonging_2.jpg">
 </div>
 <p>&nbsp;</p>
 <p><u>A Sense of Reality and Action</u>
@@ -51,16 +52,13 @@ population issues, economic challenges and social cohesion, students learn
 that Singapore's success requires constant effort. Real-world examples
 of overcoming these challenges teach students about pragmatic problem-solving
 and adaptation.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><u><br></u>
-</p>
-<p><u>&nbsp;</u>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A sense of action" src="/images/A_Sense_of_Reality_and_Action_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A sense of reality" src="/images/A_Sense_of_Reality_and_Action_2.jpg">
+</div>
 <p><u>A Sense of Hope</u>
 </p>
 <p>Humanities education fosters hope by showing how Singapore transforms
@@ -69,32 +67,8 @@ Students learn from historical triumphs over adversity, like surviving
 the Japanese Occupation and Separation. Geography and Social Studies demonstrate
 how Singapore's limitations become strengths through urban planning and
 community initiatives.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>The Secondary School delegation at the 2025 SAJC Model United Conference.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A sense of hope" src="/images/A_sense_of_hope.jpg">
+</div>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secondary School delegation preparing for their presentation at the 2025
-SAJC Model United Conference.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p></p>
-<p>Elements of Business Studies</p>
