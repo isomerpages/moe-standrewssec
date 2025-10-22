@@ -12,9 +12,9 @@ variant: markdown
 Our Science Department aims to equip students with the knowledge, skills, values, and attitudes essential to scientific inquiry and practice. Through our curriculum, we seek to:
 
 ###### 1. Cultivate a deep and lasting interest in Science, inspiring future learning and careers.
-###### 
+
 ###### 2. Develop scientifically literate citizens who think critically, innovate, and seize opportunities in the 21st century.
-###### 
+
 ###### 3. Foster an appreciation for the practical applications of Science in everyday life and the world around them.
 
 **Upper Secondary Science**
