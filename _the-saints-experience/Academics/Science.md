@@ -45,16 +45,16 @@ By connecting classroom learning to real-world applications, our students develo
 
 To apply their learning, our students participate in the following competition:
 
-·&nbsp;Junior Biology Olympiad
+· Junior Biology Olympiad
 
-·&nbsp;Junior Chemistry Olympiad
+· Junior Chemistry Olympiad
 
-·&nbsp;Junior Phsyics Olympiad
+· Junior Phsyics Olympiad
 
-·&nbsp;Biomedical quiz
+· Biomedical quiz
 
-·&nbsp;ICAS Science competition
+· ICAS Science competition
 
-·&nbsp;IgnITE Skills challenge
+· IgnITE Skills challenge
 
-·&nbsp;Singapore Science and Engineering
+· Singapore Science and Engineering
