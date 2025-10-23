@@ -59,4 +59,4 @@ To apply their learning, our students participate in the following competitions:
 
 · Singapore Science and Engineering
 
-![](/images/ScienceFair.png)![](/images/ScienceFair2.png)![](/images/ScienceFair3.png)
+![](/images/ScienceFair.png) ![](/images/ScienceFair3.png)
