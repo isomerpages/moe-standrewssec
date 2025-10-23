@@ -62,6 +62,7 @@ from 1965 – 1970s.</p>
 <p>Our Upper Secondary Saints embarking on The Cathedral Walk, where they
 shared their historical findings with a group of students from St Andrew’s
 School (Junior).</p>
+<p></p>
 <p><u>A Sense of Reality and Action</u>
 </p>
 <p>Geography and Social Studies help students understand Singapore's limitations
@@ -76,6 +77,10 @@ and adaptation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_a.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_b.jpg">
 </div>
 <p>History comes alive for the Sec 2 students at National Museum</p>
 <p></p>
@@ -104,4 +109,8 @@ community initiatives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_b.jpg">
 </div>
+<p>Secondary School delegation preparing for their presentation at the 2025
+SAJC Model United Conference.</p>
+<p></p>
+<p></p>
 <p></p>
