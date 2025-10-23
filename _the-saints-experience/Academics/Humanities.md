@@ -76,7 +76,7 @@ and adaptation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_b.jpg">
 </div>
-<p>History comes alive for the Sec 2 students at National Museum</p>
+<p>History comes alive for the Sec 2 students at National Museum.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
