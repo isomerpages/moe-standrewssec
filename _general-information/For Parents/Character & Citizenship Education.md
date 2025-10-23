@@ -11,25 +11,20 @@ The CCE Department drives and supports the school’s strategic thrust two- Ever
 
 In alignment with our school mission, it is our belief to develop Saints in character and in discipline so that they can be servant leaders who bring life to the nations. 
 
-· Character & Citizenship Education : Mrs Jacinta Leong and Ms Charlene Tan
+· Character & Citizenship Education : Mrs Jacinta Leong and Ms        Melissa Foo
 
-· National Education : Mr Koh Yong Mong
 
-· Sexuality Education: Mrs Daphne Ang
+· Sexuality Education: Mrs Yvonne Cheen
 
-· Counselling : Mr Roger Ng & Mdm Fadillah
+· Counselling : Mr Roger Ng 
 
-· Learning and Behavioural Support :Mr Kelvin Lim & Ms Kwan Shu Fen
+· Learning and Behavioural Support :Mr Kelvin Lim, Ms Kwan Shu Fen & Mr Suresh.  
 
-· Education & Career Guidance: Ms Nurkhadijah Mustafa Bamadhaj
+· Education & Career Guidance: Ms Sarah Ee
 
-· Student Welfare Officer: Mr Austin Oon
 
 The service learning approach is used and the class/level/CCA projects meets real needs with learning outcomes and students are prepared for service and does reflections thereafter. 
 
-School-wide fund raising, community outreach and overseas CIP projects are also organized by student government and under RKS Adams, Jacob’s Ladder and Marshall Plan programmes. 
-
-  
 
 ### Education and Career Guidance (ECG)
 
