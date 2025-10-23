@@ -49,11 +49,11 @@ To apply their learning, our students participate in the following competitions:
 
 · Junior Chemistry Olympiad
 
-· Junior Phsyics Olympiad
+· Junior Physics Olympiad
 
-· Biomedical quiz
+· Biomedical Quiz
 
-· ICAS Science competition
+· ICAS Science Competition
 
 · IgnITE Skills challenge
 
