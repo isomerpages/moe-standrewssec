@@ -55,7 +55,7 @@ To apply their learning, our students participate in the following competitions:
 
 · ICAS Science Competition
 
-· IgnITE Skills challenge
+· IgnITE Skills Challenge
 
 · Singapore Science and Engineering
 
