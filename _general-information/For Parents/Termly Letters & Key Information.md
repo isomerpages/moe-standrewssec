@@ -40,10 +40,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MSF Support For Singaporeans Affected by COVID-19</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.cdac.org.sg/get-assistance/" rel="noopener noreferrer nofollow" target="_blank">CDAC</a>
 </p>
 </li>
