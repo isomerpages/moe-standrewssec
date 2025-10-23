@@ -43,9 +43,6 @@ rootedness to Singapore and their identity as Singaporeans.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_b.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A sense of belonging" src="/images/A_sense_of_belonging_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_a.jpg">
 </div>
 <p>Our Lower Secondary Saints hosting the annual History Forum with seniors
@@ -71,9 +68,6 @@ population issues, economic challenges and social cohesion, students learn
 that Singapore's success requires constant effort. Real-world examples
 of overcoming these challenges teach students about pragmatic problem-solving
 and adaptation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A sense of action" src="/images/A_Sense_of_Reality_and_Action_.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_a.jpg">
