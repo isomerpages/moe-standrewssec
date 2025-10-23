@@ -75,6 +75,11 @@ and adaptation.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_a.jpg">
+</div>
+<p>History comes alive for the Sec 2 students at National Museum</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -82,6 +87,7 @@ and adaptation.</p>
 </div>
 <p>Geography students explore real-world issues faced by different stakeholders
 when planning transportation systems in cities.</p>
+<p></p>
 <p><u>A Sense of Hope</u>
 </p>
 <p>Humanities education fosters hope by showing how Singapore transforms
@@ -90,8 +96,12 @@ Students learn from historical triumphs over adversity, like surviving
 the Japanese Occupation and Separation. Geography and Social Studies demonstrate
 how Singapore's limitations become strengths through urban planning and
 community initiatives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_a.jpg">
+</div>
+<p>The Secondary School delegation at the 2025 SAJC Model United Conference.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A sense of hope" src="/images/A_sense_of_hope.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_b.jpg">
 </div>
 <p></p>
