@@ -19,7 +19,7 @@ Our Science Department aims to equip students with the knowledge, skills, values
 
 **Upper Secondary Science**
 
-We offer Biology, Chemistry, Physics, Science (Phy/Chem), Science (Chem/Biology) and Science.
+We offer Biology, Chemistry, Physics, Science (Physics/Chemistry), Science (Chemistry/Biology) and Science.
 
 Our special programmes for lower secondary students provide a strong foundation for self-directed learning and scientific inquiry.
 
@@ -49,13 +49,13 @@ To apply their learning, our students participate in the following competitions:
 
 · Junior Chemistry Olympiad
 
-· Junior Phsyics Olympiad
+· Junior Physics Olympiad
 
-· Biomedical quiz
+· Biomedical Quiz
 
-· ICAS Science competition
+· ICAS Science Competition
 
-· IgnITE Skills challenge
+· IgnITE Skills Challenge
 
 · Singapore Science and Engineering
 
