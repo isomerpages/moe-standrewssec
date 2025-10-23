@@ -39,7 +39,6 @@ and make informed decisions.</p>
 from a fishing village to a global city-state, fostering a deep connection
 to our shared heritage. This understanding strengthens their emotional
 rootedness to Singapore and their identity as Singaporeans.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_b.jpg">
 </div>
@@ -53,6 +52,16 @@ rootedness to Singapore and their identity as Singaporeans.</p>
 from the community, as well as fellow teachers on their lives growing up
 from 1965 – 1970s.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_c.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_d.jpg">
+</div>
+<p>Our Upper Secondary Saints embarking on The Cathedral Walk, where they
+shared their historical findings with a group of students from St Andrew’s
+School (Junior).</p>
 <p><u>A Sense of Reality and Action</u>
 </p>
 <p>Geography and Social Studies help students understand Singapore's limitations
@@ -66,8 +75,13 @@ and adaptation.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A sense of reality" src="/images/A_Sense_of_Reality_and_Action_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_d.jpg">
+</div>
+<p>Geography students explore real-world issues faced by different stakeholders
+when planning transportation systems in cities.</p>
 <p><u>A Sense of Hope</u>
 </p>
 <p>Humanities education fosters hope by showing how Singapore transforms
