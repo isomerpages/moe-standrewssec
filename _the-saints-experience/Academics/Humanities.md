@@ -6,7 +6,7 @@ third_nav_title: Academics
 variant: tiptap
 ---
 <h2>Humanities</h2>
-<p><strong>Department vision:</strong>
+<p><strong>Department Vision:</strong>
 </p>
 <p>A Humanities education that empowers our students to think critically,
 understand diverse perspectives, and engage meaningfully.</p>
@@ -45,9 +45,8 @@ rootedness to Singapore and their identity as Singaporeans.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_a.jpg">
 </div>
-<p>Our Lower Secondary Saints hosting the annual History Forum with seniors
-from the community, as well as fellow teachers on their lives growing up
-from 1965 – 1970s.</p>
+<p><em>Our Lower Secondary Saints hosting the annual History Forum with seniors from the community, as well as fellow teachers on their lives growing up from 1965 – 1970s.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_c.jpg">
@@ -56,9 +55,8 @@ from 1965 – 1970s.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_d.jpg">
 </div>
-<p>Our Upper Secondary Saints embarking on The Cathedral Walk, where they
-shared their historical findings with a group of students from St Andrew’s
-School (Junior).</p>
+<p><em>Our Upper Secondary Saints embarking on The Cathedral Walk, where they shared their historical findings with a group of students from St Andrew’s School (Junior).</em>
+</p>
 <p></p>
 <p><u>A Sense of Reality and Action</u>
 </p>
@@ -76,7 +74,8 @@ and adaptation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_b.jpg">
 </div>
-<p>History comes alive for the Sec 2 students at National Museum.</p>
+<p><em>History comes alive for the Sec 2 students at National Museum!</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
 </div>
@@ -86,8 +85,8 @@ and adaptation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_d.jpg">
 </div>
 <p></p>
-<p>Geography students explore real-world issues faced by different stakeholders
-when planning transportation systems in cities.</p>
+<p><em>Geography students explore real-world issues faced by different stakeholders when planning transportation systems in cities.</em>
+</p>
 <p></p>
 <p><u>A Sense of Hope</u>
 </p>
@@ -100,13 +99,14 @@ community initiatives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_a.jpg">
 </div>
-<p>The Secondary School delegation at the 2025 SAJC Model United Conference.</p>
+<p><em>Our Secondary School delegation at the 2025 SAJC Model United Conference.</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_b.jpg">
 </div>
-<p>Secondary School delegation preparing for their presentation at the 2025
-SAJC Model United Conference.</p>
+<p><em>Our Secondary School delegation preparing for their presentation at the 2025 SAJC Model United Conference.</em>
+</p>
 <p></p>
 <p></p>
 <p></p>
