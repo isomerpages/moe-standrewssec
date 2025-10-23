@@ -19,7 +19,7 @@ Our Science Department aims to equip students with the knowledge, skills, values
 
 **Upper Secondary Science**
 
-We offer Biology, Chemistry, Physics, Science (Phy/Chem), Science (Chem/Biology) and Science.
+We offer Biology, Chemistry, Physics, Science (Physics/Chemistry), Science (Chemistry/Biology) and Science.
 
 Our special programmes for lower secondary students provide a strong foundation for self-directed learning and scientific inquiry.
 
