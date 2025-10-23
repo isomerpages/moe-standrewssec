@@ -41,9 +41,18 @@ to our shared heritage. This understanding strengthens their emotional
 rootedness to Singapore and their identity as Singaporeans.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_b.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A sense of belonging" src="/images/A_sense_of_belonging_2.jpg">
 </div>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_a.jpg">
+</div>
+<p>Our Lower Secondary Saints hosting the annual History Forum with seniors
+from the community, as well as fellow teachers on their lives growing up
+from 1965 – 1970s.</p>
+<p></p>
 <p><u>A Sense of Reality and Action</u>
 </p>
 <p>Geography and Social Studies help students understand Singapore's limitations
