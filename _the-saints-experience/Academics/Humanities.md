@@ -77,13 +77,15 @@ and adaptation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_b.jpg">
 </div>
 <p>History comes alive for the Sec 2 students at National Museum.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_d.jpg">
 </div>
+<p></p>
 <p>Geography students explore real-world issues faced by different stakeholders
 when planning transportation systems in cities.</p>
 <p></p>
