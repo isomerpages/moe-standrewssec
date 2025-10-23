@@ -36,7 +36,7 @@ Through outdoor investigations, students examine how different surfaces absorb h
 
 By connecting classroom learning to real-world applications, our students develop a deeper appreciation for science—just like real scientists!
 
-![](/images/Science_Department_Photo_1.png)
+
 ![](/images/RiverStudies3.png)![](/images/RiverStudies.png)![](/images/RiverStudies2.png)
 
          
@@ -59,4 +59,4 @@ To apply their learning, our students participate in the following competitions:
 
 · Singapore Science and Engineering
 
-![](/images/ScienceFair.png)![](/images/ScienceFair2.png)![](/images/ScienceFair3.png)
+![](/images/ScienceFair.png) ![](/images/ScienceFair3.png)
