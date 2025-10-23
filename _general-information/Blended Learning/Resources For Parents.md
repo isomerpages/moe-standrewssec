@@ -27,7 +27,8 @@ variant: tiptap
 </p>
 <p><a href="https://www.youtube.com/watch?v=jJw1mdtYfOs" rel="noopener noreferrer nofollow" target="_blank">Tech-enabled Learning Scenarios in Schools - YouTube</a>
 </p>
-<p>[[4)DMA Parents Guide for Option A Guide 2025 (iPad)] <a href="/files/Blended Learning/iPad_DMA_Parent_Guide_for_Option_A_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
+<p><strong>4) DMA Parents Guide for Option A Guide 2025 (iPad)] </strong>
+<a href="/files/Blended Learning/iPad_DMA_Parent_Guide_for_Option_A_2025.pdf" rel="noopener nofollow" target="_blank">Download</a>
 </p>
 <p></p>
 <p></p>
