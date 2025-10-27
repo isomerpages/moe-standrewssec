@@ -42,18 +42,18 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Boys' Brigade</strong>
 </p>
 </td>
-<td rowspan="4" colspan="1">
-<p>Sat</p>
+<td rowspan="3" colspan="1">
+<p>Thu &amp; Selected Sat</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>8.30 am&nbsp; - 12.15 pm</p>
+<td rowspan="3" colspan="1">
+<p>3.30pm – 6pm (Thu), 9am – 12.30pm (Selected Sat)</p>
 </td>
-<td rowspan="4" colspan="1">
-<p>Chapel of the Holy Spirit (inside SAJC, 3 Sorby Adams Dr, S357690)</p>
+<td rowspan="3" colspan="1">
+<p>Charlie Chan Courtyard (beside Church of the Ascension, and School Canteen)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheong Chee Ngai Caleb</p>
@@ -62,11 +62,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Ho Wei An Jansen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Sang Chai</p>
 </td>
 </tr>
 <tr>
