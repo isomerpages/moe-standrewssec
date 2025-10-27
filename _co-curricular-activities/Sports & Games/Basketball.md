@@ -103,22 +103,22 @@ Round</p>
 <p>National School Games Basketball, ‘C’ Division, League 4</p>
 <p><strong>2024</strong>
 </p>
-<p>ParticipatedNational School Games Basketball, ‘B’ Division, South Zone</p>
+<p>Participated National School Games Basketball, ‘B’ Division, South Zone</p>
 <p>National School Games Basketball, ‘C’ Division, League 4</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_5.jpg">
 </div>
 <p></p>
