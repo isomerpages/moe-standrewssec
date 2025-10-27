@@ -125,14 +125,31 @@ With dedication and hard work, any Saint can rise to excellence in squash.</p>
 </tbody>
 </table>
 <h3>Achievements</h3>
-<p><strong>2023</strong>
+<p><strong>2025</strong>
 </p>
-<p>National Schools Games, Squash, C Division, 2<sup>nd</sup> position</p>
+<p>National School Games, Squash, ‘B’ Division, 2<sup>nd</sup> position</p>
+<p>National School Games, Squash, ‘C’ Division, 2<sup>nd</sup> position</p>
+<p>2025 Singapore Polytechnic Invitationals Men's Open, 3<sup>rd</sup> position</p>
+<p>U15 Oncocare Squash Championship, 3<sup>rd</sup> position</p>
+<p>Marigold Singapore Squash Championship, 2<sup>nd</sup> position</p>
 <p><strong>2024</strong>
 </p>
 <p>National Schools Games, Squash, B Division, 2<sup>nd</sup> position</p>
 <p>National Schools Games, Squash, C Division, 3<sup>rd</sup> position</p>
-<p></p>
+<p><strong>2023</strong>
+</p>
+<p>National Schools Games, Squash, C Division, 2<sup>nd</sup> position</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_Div_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B_DIv.jpg">
+</div>
+<p>2025 ‘B’ Division Squash Nationals School Games</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C_Div.jpg">
+</div>
+<p>2025 ‘C’ Division Squash Nationals School Games</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Squash_1.jpg">
 </div>
