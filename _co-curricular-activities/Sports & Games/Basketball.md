@@ -42,15 +42,69 @@ and On!</p>
 </li>
 </ol>
 <h3>Student Executive Committee (EXCO)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tyler Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Kai Jek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tonkla Niamsong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arthur Teo Joon Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Achievements</h3>
-<p><strong>2024</strong>
-</p>
-<p>Participated in National Schools Games, Basketball (League 4), C Division</p>
 <p><strong>2025</strong>
 </p>
-<p>Qualified for the Second Round in National Schools Games, Basketball,
-B Division</p>
+<p>National School Games Basketball, ‘B’ Division, South Zone Quarter-finals
+Round</p>
+<p>National School Games Basketball, ‘C’ Division, League 4</p>
+<p><strong>2024</strong>
+</p>
+<p>ParticipatedNational School Games Basketball, ‘B’ Division, South Zone</p>
+<p>National School Games Basketball, ‘C’ Division, League 4</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_1.jpg">
