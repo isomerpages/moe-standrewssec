@@ -23,18 +23,13 @@ To meet the language-learning needs of young men in the 21st Century by developi
 
 
 
+#### EL Curricular Approach 
 
+Aligned with the four areas of language learning stipulated in the EL Syllabus 2020, the approach at SASS develops Saints who are effective in each domain as shown:
 
+![](/images/Curricular_Approach.png)
 
+The SASS approach is informed by the belief that students learn best when they are aware of how they learn. The A-F Framework presents the rigour that undergirds the Saints EL experience:
 
-![](/images/Academics/EL%20and%20Literature/EL4.png)
+![](/images/AF_Framework.png)
 
-![](/images/Academics/EL%20and%20Literature/EL5.png)
-
-![](/images/Academics/EL%20and%20Literature/EL6.png)
-
-![](/images/Academics/EL%20and%20Literature/EL7.png)
-
-![](/images/Academics/EL%20and%20Literature/EL9.png)
-
-![](/images/Academics/EL%20and%20Literature/EL10.png)
