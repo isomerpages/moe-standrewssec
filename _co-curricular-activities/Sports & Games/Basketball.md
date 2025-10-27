@@ -40,34 +40,85 @@ and On!</p>
 <br><a href="mailto:mohamed_osman_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_osman_mohamed_noor@moe.edu.sg</a>
 </p>
 </li>
-<li>
-<p>Ms Tan Xin Ying</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_xin_ying@moe.edu.sg</a>
-</p>
-</li>
 </ol>
+<h3>Student Executive Committee (EXCO)</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tyler Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Kai Jek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tonkla Niamsong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arthur Teo Joon Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Ex</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Achievements</h3>
-<p><strong>2024</strong>
-</p>
-<p>Participated in National Schools Games, Basketball (League 4), C Division</p>
 <p><strong>2025</strong>
 </p>
-<p>Qualified for the Second Round in National Schools Games, Basketball,
-B Division</p>
+<p>National School Games Basketball, ‘B’ Division, South Zone Quarter-finals
+Round</p>
+<p>National School Games Basketball, ‘C’ Division, League 4</p>
+<p><strong>2024</strong>
+</p>
+<p>Participated National School Games Basketball, ‘B’ Division, South Zone</p>
+<p>National School Games Basketball, ‘C’ Division, League 4</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BBall_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Bball_5.jpg">
 </div>
 <p></p>

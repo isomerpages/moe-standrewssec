@@ -37,7 +37,7 @@ Through outdoor investigations, students examine how different surfaces absorb h
 By connecting classroom learning to real-world applications, our students develop a deeper appreciation for science—just like real scientists!
 
 
-![](/images/RiverStudies3.png)![](/images/RiverStudies.png)![](/images/RiverStudies2.png)
+![](/images/RiverStudies3.png)![](/images/RiverStudies.png)![](/images/RiverStudies2.png)![](/images/Making_Science_Alive___temperature_of_soil_in_diff_pots.jpg)![](/images/River_Studies_2025___water_collection_1.jpg)![](/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity_1.jpg)
 
          
 

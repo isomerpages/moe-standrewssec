@@ -12,7 +12,6 @@ knowledge, and participate in various performance opportunities. Under
 the guidance of our experienced instructors, our choir members engage in
 a variety of musical activities that not only improve their singing abilities
 but also foster teamwork, discipline, and creativity.</p>
-<p></p>
 <p>Saints Choir has been given many exciting opportunities to participate
 in a variety of prestigious and distinguished events. From performing for
 the Kodaly Academy of Music 10th anniversary concert, <em>A Choral Celebration II</em>,
@@ -20,20 +19,19 @@ to our most recent upcoming performance, the <em>Lord of the Rings Symphony No.5
 our boys have truly displayed the values of Resilience and Unity. They
 also participated in the Singapore Youth Festival Arts Presentation and
 achieved a Certificate of Accomplishment.&nbsp;</p>
-<p>
-<br>Besides, Saints Choir is honored to have been invited to perform by the
+<p>Besides, Saints Choir is honored to have been invited to perform by the
 Potong Pasir Constituency for the National Day Dinner performance. This
 special invitation reflects the choir’s growing reputation for musical
 excellence and community engagement. This opportunity not only allowed
 the choir to share their passion for music with a wider audience but also
 reinforced the important role that the arts play in bringing communities
 together.&nbsp;</p>
-<p></p>
-<p>Saints Choir will be participating in the end of year <em>Saints Village Three Schools Combined concert</em> which
+<p>
+<br>Saints Choir will be participating in the end of year <em>Saints Village Three Schools Combined concert</em> which
 reinforces the importance of <em>One Family Unbroken</em>. Through choir,
 our boys have not only gained musical experience, such as vocal projection
 and sight-reading skills, but have also grown to become servant leaders
-who bring life to the nations.&nbsp;</p>
+who bring life to the nations.</p>
 <p></p>
 <h3>Schedule</h3>
 <p>Training Day(s): Tuesday and Thursday
@@ -134,17 +132,6 @@ who bring life to the nations.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Head of Logistics/Media &amp; Publicity</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Karel Kiehl Chandra, 2EX</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4R</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Tenor 1 Section Leader</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -228,7 +215,7 @@ who bring life to the nations.&nbsp;</p>
 <p>Ang Ee Hao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4W</p>
+<p>2T</p>
 </td>
 </tr>
 <tr>
