@@ -33,3 +33,16 @@ The SASS approach is informed by the belief that students learn best when they a
 
 ![](/images/AF_Framework.png)
 
+#### Saints Read Programme
+
+A cornerstone of the SASS English curriculum, the Saints Read Programme nurtures discerning, informed, and reflective learners. Run fortnightly during EL lessons, the programme engages students in topics of relevance. Students respond by producing artefacts of various modes such as journal writing, sharing reflections on Padlet, or delivering speeches. The process harnesses students’ interest in different topics, broadens their perspective, and invites them to delve into rich discourse on complex issues.
+
+### Literature
+
+![](/images/Literature1.png)
+
+![](/images/Literature2.png)
+
+![](/images/Literature3.png)
+
+![](/images/Literature4.png)
