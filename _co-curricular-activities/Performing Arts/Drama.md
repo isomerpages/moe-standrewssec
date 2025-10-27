@@ -65,10 +65,10 @@ perfection in every performance we create!</p>
 <p>President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zacchaeus Tay</p>
+<p>Wong Tian Liang Elijah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4SD</p>
+<p>3SD</p>
 </td>
 </tr>
 <tr>
@@ -76,10 +76,10 @@ perfection in every performance we create!</p>
 <p>Vice-President</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tejas Jaidev Mohan</p>
+<p>Tang Lok-Yu Ignatius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4I</p>
+<p>3U</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +87,10 @@ perfection in every performance we create!</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Skyler Yong</p>
+<p>Janaardhana Viseshan Sivanesan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4SD</p>
+<p>3R</p>
 </td>
 </tr>
 <tr>
@@ -98,10 +98,10 @@ perfection in every performance we create!</p>
 <p>Logistics IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chong Jun Hao</p>
+<p>Oh Zheng Jie Herman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4I</p>
+<p>3T</p>
 </td>
 </tr>
 <tr>
@@ -109,15 +109,18 @@ perfection in every performance we create!</p>
 <p>Welfare IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khoh Yong How &nbsp;</p>
+<p>Lim Shao Ming Jeff &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4T</p>
+<p>3Ex</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Achievements</h3>
+<p><strong>2025</strong>
+</p>
+<p>Singapore Youth Festival (SYF), Distinction</p>
 <p><strong>2023</strong>
 </p>
 <p>Singapore Youth Festival (SYF), Distinction</p>
