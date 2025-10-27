@@ -40,12 +40,9 @@ and On!</p>
 <br><a href="mailto:mohamed_osman_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_osman_mohamed_noor@moe.edu.sg</a>
 </p>
 </li>
-<li>
-<p>Ms Tan Xin Ying</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_xin_ying@moe.edu.sg</a>
-</p>
-</li>
 </ol>
+<h3>Student Executive Committee (EXCO)</h3>
+<p></p>
 <h3>Achievements</h3>
 <p><strong>2024</strong>
 </p>
