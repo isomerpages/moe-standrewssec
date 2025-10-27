@@ -19,10 +19,10 @@ and Shield: Sure and Stedfast in character building, while moving Up and
 On for the honour of God.</p>
 <p>Follow us on IG: @bb7thcoy</p>
 <h4>CCA Schedule</h4>
-<p>Training Day(s): Saturday*</p>
-<p>Training Time: 8.30 AM - 12.15 PM</p>
-<p>Training Venue: Chapel of the Holy Spirit (inside SAJC, 3 Sorby Adams
-Dr, S357690)</p>
+<p>Training Day(s): Thursdays, Selected Saturdays</p>
+<p>Parade Timing: 3.30pm – 6pm (Thursdays), 9am – 12.30pm (Selected Saturdays)</p>
+<p>Training Venue: Gather at the Charlie Chan Courtyard (beside Church of
+the Ascension, and School Canteen)</p>
 <p><em>*Special projects will require Boys to attend training sessions outside of the usual training day.</em>
 </p>
 <h3>Teachers-in-Charge</h3>
@@ -35,11 +35,6 @@ Dr, S357690)</p>
 <li>
 <p>Mr Ho Wei An Jansen
 <br><a href="mailto:ho_wei_an_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_an_jansen@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Mdm Tan Sang Chai
-<br><a href="mailto:tan_sang_chai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sang_chai@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -151,6 +146,22 @@ July, October)</p>
 BB Exchange (November, on alternate years)</p>
 <p>9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BB Share-a-Gift (December)</p>
 <h3>Achievements</h3>
+<p><strong>2025</strong>
+</p>
+<p>James Milner Fraser Award, High Distinction</p>
+<p>Founders' Men Awardees:</p>
+<p>WO Harold Tan</p>
+<p>SSG Davyon Lau</p>
+<p><strong>2024</strong>
+</p>
+<p>James Milner Fraser Award, High Distinction</p>
+<p><strong>2023</strong>
+</p>
+<p>James Milner Fraser Award, Gold</p>
+<p>Founders' Men Awardees:</p>
+<p>WO Aaron Soh Weilun</p>
+<p>SSG Ekklesia Koh</p>
+<p>SSG Magnus Lim</p>
 <p><strong>2022</strong>
 </p>
 <p>James Milner Fraser Award, Silver</p>
@@ -160,16 +171,6 @@ BB Exchange (November, on alternate years)</p>
 <p>SSG Karthikeyan Vikhram</p>
 <p>SSG Caleb Wong Ler</p>
 <p>SSG Josiah Loh Yi</p>
-<p><strong>2023</strong>
-</p>
-<p>James Milner Fraser Award, Gold</p>
-<p>Founders' Men Awardees:</p>
-<p>WO Aaron Soh Weilun</p>
-<p>SSG Ekklesia Koh</p>
-<p>SSG Magnus Lim</p>
-<p><strong>2024</strong>
-</p>
-<p>James Milner Fraser Award, High Distinction</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/BB1.jpg">
