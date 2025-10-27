@@ -43,8 +43,8 @@ and passing down the rich rugby heritage to new generations of players.</p>
 </p>
 </li>
 <li>
-<p>Ms Tan Xin Ying</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_xin_ying@moe.edu.sg</a>
+<p>Mr Muhammad Zulhaqqim Awaruddin</p>
+<p><a href="mailto:muhammad_zulhaqqim_awaruddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_zulhaqqim_awaruddin@moe.edu.sg</a>
 </p>
 </li>
 </ol>
@@ -128,17 +128,6 @@ and passing down the rich rugby heritage to new generations of players.</p>
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Elijah Lim Rui Ze</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2SD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Isaac Caleb Yeo En Kai</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,26 +145,17 @@ and passing down the rich rugby heritage to new generations of players.</p>
 <p>2R</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Axel Chen Ke Xu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2U</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h3>Achievements</h3>
-<p><strong>2023</strong>
+<p><strong>2025</strong>
 </p>
-<p>National Schools Games, Rugby, B division, 1<sup>st</sup> position</p>
-<p>National Schools Games, Rugby, C division, 2<sup>nd</sup> position</p>
+<p>National Schools Game, Rugby, B division 2<sup>nd</sup> position</p>
+<p>National Schools Game, Rugby, C division Champion</p>
+<p>Saints 7s U14 Cup Champion</p>
+<p>Saints 7s U16 Cup Champion</p>
+<p>Singapore Rugby Union U14 7s 2<sup>nd</sup> Positions</p>
 <p>Kiwi Cup C division, Champions</p>
-<p>Singapore Rugby Union U14 7s, 2<sup>nd </sup>position</p>
 <p><strong>2024</strong>
 </p>
 <p>National Schools Games, Rugby, B division, 2<sup>nd</sup> position</p>
@@ -184,21 +164,38 @@ and passing down the rich rugby heritage to new generations of players.</p>
 <p>Saints 7s U16, 1<sup>st</sup> position</p>
 <p>Singapore Rugby Union U14 7s, 2<sup>nd </sup>position</p>
 <p>Singapore Cricket Club 7s, Top 4</p>
+<p><strong>2023</strong>
+</p>
+<p>National Schools Games, Rugby, B division, 1<sup>st</sup> position</p>
+<p>National Schools Games, Rugby, C division, 2<sup>nd</sup> position</p>
+<p>Kiwi Cup C division, Champions</p>
+<p>Singapore Rugby Union U14 7s, 2<sup>nd </sup>position</p>
+<h3>Events</h3>
 <p><strong>2025</strong>
 </p>
-<p>Kiwi Cup C division, Champions</p>
-<h3>Events</h3>
+<p>Rugby B and C Division Overseas Tours</p>
+<p>Exchange program: U14 with Australian School</p>
+<p>Exchange program: Past vs Present</p>
+<p>Exchange program: All Blacks</p>
 <p><strong>2024</strong>
 </p>
 <p>Rugby C division Overseas Tour</p>
 <p>Exchange program: Past vs Present</p>
-<p><strong>2025</strong>
-</p>
-<p>Rugby B and C Division Overseas Tours</p>
-<p>Exchange program: U13 and U14 vs Taiwanese schools</p>
-<p>Exchange program: Past vs Present</p>
-<p>Exchange program: All Blacks</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/54704470437_c2439a59c9_o.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/WhatsApp_Image_2023_04_16_at_08_30_29.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/image.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/image__1_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/image__2_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Rugby_1.jpg">
 </div>
