@@ -99,17 +99,17 @@ Wave Mall</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Basketball</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Tue &amp; Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3.30 pm – 6.00 pm</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Indoor Sports Hall</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,11 +119,6 @@ Wave Mall</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Osman Mohamed Noor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Xin Ying</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +209,7 @@ Wave Mall</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Xin Ying</p>
+<p>Mr Muhammad Zulhaqqim Awaruddin</p>
 </td>
 </tr>
 <tr>
@@ -247,17 +242,17 @@ Wave Mall</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Swimming</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Tue &amp; Thu</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3.30 pm – 5.30 pm</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SAV Pool</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,11 +262,6 @@ Wave Mall</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Zaid</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
