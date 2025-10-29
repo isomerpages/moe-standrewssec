@@ -30,7 +30,7 @@ organisations that make this programme possible. Please click <a href="https://f
 you would like to partner us for the next WEP, or scan the QR code below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/qr_code_wep.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/qr_code_wep.jpg">
 </div>
 <p><strong><u>Our Organisation Partners for WEP 2025</u></strong>
 </p>
@@ -117,7 +117,7 @@ a lot of research, preparation, and teamwork involved as well.</p>
 Design, students prepared a formal marketing deck and learnt the importance
 of preparedness in pitching their proposals to others.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/wep5.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wep5.jpg">
 </div>
 <p>Our boys with an interest in Transportation were attached to <strong>Tada Mobility</strong>,
 where they gained an understanding of the ride-hailing ecosystem and saw
