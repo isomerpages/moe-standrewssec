@@ -93,21 +93,34 @@ Yishun)
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wep1.jpg">
 </div>
-<p></p>
+<p>Kawin, who signed up with <strong>Aether</strong> – a collaboration between <strong>SUTD</strong> &amp; <strong>RSAF</strong>,
+learnt about 3D modelling and coding and observed how engineers tested
+and improved their ideas. &nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/wep2.jpg">
 </div>
-<p></p>
+<p>Mr Sidney Kumar, General Manager of the <strong>Singapore Rugby Union</strong>,
+an <strong>Old Boy</strong> and former staff of the school, supported the
+WEP and thus the boys had an opportunity to be a part of the All Blacks
+Clinic, learning the importance of communication and leadership, on and
+off the field as well as teamwork, discipline and planning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/wep3.jpg">
 </div>
-<p></p>
+<p>Puneet understudied an experienced and versatile corporate lawyer from <strong>PK Wong &amp; Nair</strong> and
+learnt that being a lawyer isn’t just about arguing in court. There is
+a lot of research, preparation, and teamwork involved as well.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/wep4.jpg">
 </div>
-<p></p>
-<p></p>
+<p>At <strong>Knock Knock Studio</strong>, apart from learning about Interior
+Design, students prepared a formal marketing deck and learnt the importance
+of preparedness in pitching their proposals to others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/wep5.jpg">
 </div>
+<p>Our boys with an interest in Transportation were attached to <strong>Tada Mobility</strong>,
+where they gained an understanding of the ride-hailing ecosystem and saw
+how data analytics, algorithms, and mobile app design drive the efficiency
+of ride-hailing operations.</p>
 <p></p>
