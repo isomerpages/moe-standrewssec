@@ -19,6 +19,10 @@ variant: markdown
 
 ![](/images/Academics/Aesthetic%20and%20Design/Art1.png)
 
+![Digital photography exploring dynamic poses](/images/Digital_Photography.jpg)
+
+*Digital photography exploring dynamic poses*
+
 ![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
 
 **Design &amp; Technology (D&amp;T)**
