@@ -33,6 +33,14 @@ variant: markdown
 
 ![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
 
+![](/images/Amazing_Race.jpg)
+
+*Amazing Race Art activity*
+
+![](/images/Artist_of_the_Year.jpg)
+
+*UOB Artist of the Year talk*
+
 **Design &amp; Technology (D&amp;T)**
 -----------------------------
 
