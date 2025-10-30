@@ -13,6 +13,10 @@ variant: markdown
 
 ![](/images/Academics/Aesthetic%20and%20Design/Art%202.png)
 
+![](/images/Lower_Sec_Art.jpg)
+
+![](/images/Lower_Sec_Art_2.jpg)
+
 ![](/images/Academics/Aesthetic%20and%20Design/Art1.png)
 
 ![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
