@@ -23,6 +23,14 @@ variant: markdown
 
 *Digital photography exploring dynamic poses*
 
+![](/images/Digital_imaging.png)
+
+*Digital imaging*
+
+![](/images/Acrylic.jpg)
+
+*Acrylic painting &amp; digital imaging*
+
 ![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
 
 **Design &amp; Technology (D&amp;T)**
