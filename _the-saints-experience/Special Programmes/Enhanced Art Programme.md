@@ -11,6 +11,6 @@ variant: markdown
 
 ![](/images/EAP/EAP3.png)
 
-Check out our site to find out more.
+Click on the link below to find out more.
 
 [Enhanced Art Programme](https://sites.google.com/moe.edu.sg/saints-eap/home)
