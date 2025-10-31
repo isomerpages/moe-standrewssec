@@ -24,10 +24,10 @@ and make informed decisions.</p>
 <p>&nbsp;</p>
 <p><strong>Subjects Offered in St Andrew’s School (Secondary):</strong>
 </p>
-<p>Elements of Business Studies</p>
-<p>Humanities (Social Studies / Geography)</p>
-<p>Humanities (Social Studies / History)</p>
-<p>Humanities Exposure Modules</p>
+<p>G1 Elements of Business Studies</p>
+<p>G2/G3 Humanities (Social Studies / Geography)</p>
+<p>G2/G3 Humanities (Social Studies / History)</p>
+<p>G1 Humanities Exposure Modules</p>
 <p>History</p>
 <p>Geography</p>
 <p></p>
@@ -66,27 +66,20 @@ population issues, economic challenges and social cohesion, students learn
 that Singapore's success requires constant effort. Real-world examples
 of overcoming these challenges teach students about pragmatic problem-solving
 and adaptation.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_a.jpg">
-</div>
-<p></p>
+<p><em>History comes alive for the Sec 2 students at National Museum!</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_b.jpg">
 </div>
-<p><em>History comes alive for the Sec 2 students at National Museum!</em>
+<p><em>Geography students explore real-world issues faced by different stakeholders when planning transportation systems in cities.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_d.jpg">
 </div>
-<p></p>
-<p><em>Geography students explore real-world issues faced by different stakeholders when planning transportation systems in cities.</em>
-</p>
 <p></p>
 <p><u>A Sense of Hope</u>
 </p>
@@ -101,7 +94,6 @@ community initiatives.</p>
 </div>
 <p><em>Our Secondary School delegation at the 2025 SAJC Model United Conference.</em>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_b.jpg">
 </div>
