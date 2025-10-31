@@ -13,9 +13,33 @@ variant: markdown
 
 ![](/images/Academics/Aesthetic%20and%20Design/Art%202.png)
 
+![](/images/Lower_Sec_Art.jpg)
+
+![](/images/Lower_Sec_Art_2.jpg)
+
 ![](/images/Academics/Aesthetic%20and%20Design/Art1.png)
 
+![Digital photography exploring dynamic poses](/images/Digital_Photography.jpg)
+
+*Digital photography exploring dynamic poses*
+
+![](/images/Digital_imaging.png)
+
+*Digital imaging*
+
+![](/images/Acrylic.jpg)
+
+*Acrylic painting &amp; digital imaging*
+
 ![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
+
+![](/images/Amazing_Race.jpg)
+
+*Amazing Race Art activity*
+
+![](/images/Artist_of_the_Year.jpg)
+
+*UOB Artist of the Year talk*
 
 **Design &amp; Technology (D&amp;T)**
 -----------------------------
