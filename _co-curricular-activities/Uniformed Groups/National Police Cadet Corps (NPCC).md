@@ -18,8 +18,8 @@ visits to the Home Team Academy (HTA), and hands-on activities like .22
 revolver live shooting. Through these activities, cadets develop leadership
 skills, teamwork, and a strong sense of duty to the community.</p>
 <h3>CCA Schedule</h3>
-<p>Training Day(s): &nbsp; Wednesday (Odd Week) &amp; Friday (Even Week)</p>
-<p>Training Time: &nbsp; 3.30 - 6.00 PM (Odd Wed), 2.30 - 5.30 PM (Even Fri)</p>
+<p>Training Day(s): Thursday</p>
+<p>Training Time: &nbsp; 3.30 - 6.00 PM</p>
 <p>Training Venue: Classrooms C4-03 - C4-05</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
@@ -51,10 +51,10 @@ skills, teamwork, and a strong sense of duty to the community.</p>
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SI Etzel</p>
+<p>SSGT Luke Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>3I</p>
 </td>
 </tr>
 <tr>
@@ -62,10 +62,10 @@ skills, teamwork, and a strong sense of duty to the community.</p>
 <p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SI Ethan</p>
+<p>SSGT Muhammad Harraz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4I</p>
+<p>3SD</p>
 </td>
 </tr>
 <tr>
@@ -73,197 +73,35 @@ skills, teamwork, and a strong sense of duty to the community.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSGT Jithesh</p>
+<p>SSGT Dylan Kee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Em</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discipline IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Jithesh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4Em</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Drill/Parade Master</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SI Etzel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4Ex</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SI Ethan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Training IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Jonas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4SD</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Storemaster</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Max</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4T</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Media IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Nathaniel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4T</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Medics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Adam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4W</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Security IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Adam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4W</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SI Etzel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4Ex</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Max</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4T</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Jonas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4Ex</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SI Ethan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Srihari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4Em</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSGT Nathaniel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4T</p>
+<p>3SD</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h3>Events</h3>
-<p>Annual Camp</p>
-<p>Ubin Camp (Sec 2s)</p>
-<p>NPAP (NPCC Annual Parade)</p>
 <h3>Achievements</h3>
 <p><strong>2024/2025</strong>
 </p>
-<p>Distinction in unit overall proficiency award</p>
+<p>Distinction in Unit Overall Proficiency Award (UOPA)</p>
 <p>Station Inspecter Rank achieved: SI Etzel(4Ex) &amp; SI Ethan(4I)</p>
 <p>SPF NPCC award: SI Etzel(4Ex)</p>
 <p>Best Unit Cadet Award: SI Etzel(4Ex) &amp; SI Ethan(4I)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/NPCC1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Picture1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/NPCC2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/NPCC5.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/NPCC3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/NPCC4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Picture2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/NPCC5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Updates (Oct 2025)/Picture3.jpg">
 </div>
 <p></p>
