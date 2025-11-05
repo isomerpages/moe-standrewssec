@@ -6,9 +6,8 @@ description: ""
 third_nav_title: For Parents
 ---
 <p>Dear Parents/Guardians,</p>
-<h5><strong>2026 Booklist</strong></h5>
-<p>The 2026 booklists for G1, G2 and G3 subjects are attached below for your
-information.</p>
+<h5><strong>2026 Booklist and School Uniform Sales Information</strong></h5>
+<p>Please click the links below for the 2026 booklists for Sec 2 to 5 students.</p>
 <p><a href="/files/SAS__Sec__Infosheet__All_Levels_.pdf" rel="noopener nofollow" target="_blank">SAS (Sec) Infosheet All Levels</a>
 </p>
 <p><a href="/files/2026_Sec_2_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Booklist</a>
@@ -23,13 +22,12 @@ information.</p>
 </p>
 <p><a href="/files/2026_Sec_5NA_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 5 NA Booklist</a>
 </p>
-<p></p>
 <p>For online ordering and self-collection at the school bookshop, please
 ensure that collection is done at least three (3) working days after your
-online order has been placed. Online ordering starts 23 November 9am.</p>
+online order has been placed. <strong>Online ordering starts 23 November 9am.</strong>
+</p>
 <p>Website for online ordering: <a href="http://www.printpak.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.printpak.com.sg</u></a>
 </p>
-<p>&nbsp;</p>
 <p>Dates for Walk-in Purchase / Self-collection / FAS collection at school
 bookshop:</p>
 <p>November: 24, 25, 26, 27</p>
@@ -44,10 +42,3 @@ home delivery.</p>
 <p>November: 24, 25, 26, 27</p>
 <p>December: 2, 3, 4, 5, 8, 9, 10, 11, 26, 29, 30</p>
 <p>Time: 9am – 3pm</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h5></h5>
-<p>Thank you.<a href="/files/2026_Sec_5NA_Booklist.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
