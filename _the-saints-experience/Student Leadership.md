@@ -28,13 +28,11 @@ the school community, neighbourhood and wider community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prefects_Commendation2.jpg">
 </div>
-<p><em>Prefects' Commendation</em>
-</p>
+<p>Prefects' Commendation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prefects_hosting_visitors2.jpg">
 </div>
-<p><em>Prefects hosting visitors</em>
-</p>
+<p>Prefects hosting visitors</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Prefects_led_Focused_Group_Discussions.jpg">
 </div>
