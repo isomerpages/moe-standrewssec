@@ -18,13 +18,6 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
-        - title: 2025 Assessment Overview and Schedule
-          date: 19 September 2025
-          announcement: The 2025 Assessment Overview and Schedule is now updated with the
-            End-of-Year Examination schedule. Click on the link below to access
-            the documents.
-          link_text: Go to Page
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
         - title: Sec 2 Subject Selection
           date: 09 May 2025
           announcement: Thank you for joining us at the Engagement Session held online on
@@ -37,6 +30,11 @@ sections:
             link below for more information!
           link_text: Click Here!
           link_url: /sass-open-house-webinar-2025/
+        - title: 2026 Booklist and Information on School Uniform Purchase
+          date: 05 November 2025
+          announcement: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2025booklist/
+          link_text: ""
+          link_url: ""
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
