@@ -18,11 +18,11 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
-        - title: 2026 Booklist and Information on School Uniform Purchase
+        - title: Latest!
           date: 05 November 2025
-          announcement: https://standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
-          link_text: ""
-          link_url: ""
+          announcement: 2026 Booklist and Information on School Uniform Purchase
+          link_text: Click here for details
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
