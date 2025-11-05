@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/FB2.png
+      background: /images/IMG_9831.jpg
       variant: center
   - infobar:
       title: St Andrew's School (Secondary)
@@ -42,5 +42,5 @@ sections:
       button: Follow us now
       url: https://www.facebook.com/standrewssec/
       alt: Image alt text
-      image: /images/2018_07Jul12_SASS_Fce-9.jpeg
+      image: /images/IMG_5362.jpg
 ---
