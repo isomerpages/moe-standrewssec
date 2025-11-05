@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3>2025 CCA Achievements</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/achievements_2025.png">
+</div>
 <h3>2024 CCA Achievements</h3>
 <p></p>
 <div class="isomer-image-wrapper">
