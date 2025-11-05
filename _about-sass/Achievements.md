@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <h3>2025 CCA Achievements</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/achievements_2025.png">
-</div>
 <h3>2024 CCA Achievements</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -32,8 +29,8 @@ Nov 2025)
 </p>
 </li>
 </ol>
-<h4>Founder's Day Prize Winners 2024</h4>
+<h4>Founder's Day Prize Winners 2025</h4>
 <hr>
 <p>We congratulate the following students and staff for being conferred awards
-and/or scholarships at our 2024 Founder's Day celebration.&nbsp;<a href="/files/Founders Day Report/2024_FD_E_Programme_Booklet_22Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>&nbsp;for
+and/or scholarships at our 2025 Founder's Day celebration.&nbsp;<a href="/files/2025_Founders_Day.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>&nbsp;for
 the list of prizes and awardees.</p>
