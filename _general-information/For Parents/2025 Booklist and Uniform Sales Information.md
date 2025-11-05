@@ -17,7 +17,7 @@ information.</p>
 </p>
 <p><a href="/files/2026_Sec_4Exp_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 EXP Booklist</a>
 </p>
-<p><a href="/files/2026_Sec_4NA_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 NA Booklist </a>
+<p><a href="/files/2026_Sec_4NA_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 NA Booklist</a>
 </p>
 <p><a href="/files/2026_Sec_4NT_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 NT Booklist</a>
 </p>
