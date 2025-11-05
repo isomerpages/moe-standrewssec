@@ -21,7 +21,7 @@ information.</p>
 </p>
 <p><a href="/files/2026_Sec_4NT_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 NT Booklist</a>
 </p>
-<p><a href="/files/2025 Booklist_Uniform Sales/25_SASS_Booklist_2025_Sec_4_NT.pdf" rel="noopener nofollow" target="_blank">2026 Sec 5 NA Booklist</a>
+<p><a href="/files/2026_Sec_5NA_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 5 NA Booklist</a>
 </p>
 <p></p>
 <p>For online ordering and self-collection at the school bookshop, please
@@ -49,4 +49,5 @@ home delivery.</p>
 <p></p>
 <p></p>
 <h5></h5>
-<p>Thank you.</p>
+<p>Thank you.<a href="/files/2026_Sec_5NA_Booklist.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
