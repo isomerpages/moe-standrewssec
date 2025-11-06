@@ -130,6 +130,13 @@ Hall</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>Achievements</h3>
+<p><strong>2025</strong>
+</p>
+<p>NSG 'B' Division South Zone - Quarter Finals</p>
+<p>NSG 'C' Division League 2 - Quarter Finals</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Our Saint Badminton Team" src="/images/CCA Update (March 2025)/Badminton_Team.jpg">
 </div>
