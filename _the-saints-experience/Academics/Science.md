@@ -31,6 +31,8 @@ Our special programmes for lower secondary students provide a strong foundation 
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Secondary 2:** Students extend their exploration to the **Kallang Park Connector**, conducting ecological surveys and fieldwork. They learn to analyze biodiversity and take ownership of their environment.
 
+Find out more about River Studies [here](https://www.standrewssec.moe.edu.sg/the-saints-experience/special-programmes/river-studies/)
+
 **2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Making Science Alive!**  
 &nbsp;At St. Andrew’s Secondary, we believe in making science an engaging, hands-on experience. Our **Therapeutic Garden** offers students opportunities to explore scientific concepts beyond the classroom.
 
