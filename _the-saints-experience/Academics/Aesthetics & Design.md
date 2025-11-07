@@ -48,7 +48,14 @@ A student who appreciates art will be able to recognise the relevance of art and
 
 *Acrylic painting &amp; digital imaging*
 
-![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
+
+
+#### Co-curriculum
+
+*   Amazing Race for Sec 2 students
+    
+*   Artist talks for DSA Art students
+    
 
 ![](/images/Amazing_Race.jpg)
 
