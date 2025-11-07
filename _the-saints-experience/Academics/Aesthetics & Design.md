@@ -30,22 +30,17 @@ A student who appreciates art will be able to recognise the relevance of art and
     
 * Acrylic Painting
     
-* Digital photography &amp; imaging
+* Digital photography imaging
     
 * Visible thinking routines
     
-
-
-![Digital photography exploring dynamic poses](/images/Digital_Photography.jpg)
-
+![](/images/Digital_Photography_2.jpg)
 *Digital photography exploring dynamic poses*
 
-![](/images/Digital_imaging.png)
-
+![](/images/Digital_imaging_2.png)
 *Digital imaging*
 
-![](/images/Acrylic.jpg)
-
+![](/images/Acrylic_2.jpg)
 *Acrylic painting &amp; digital imaging*
 
 
