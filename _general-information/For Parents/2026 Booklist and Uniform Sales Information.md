@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p>Dear Parents/Guardians,</p>
-<h5><strong>2026 Booklist and School Uniform Sales Information</strong></h5>
-<p>Please click the links below for the 2026 booklists for Sec 2 to 5 students.</p>
-<p><a href="/files/SAS__Sec__Infosheet__All_Levels_.pdf" rel="noopener nofollow" target="_blank">SAS (Sec) Infosheet All Levels</a>
-</p>
+<h5><strong>2026 Booklists</strong></h5>
 <p><a href="/files/2026_Sec_2_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 2 Booklist</a>
 </p>
 <p><a href="/files/2026_Sec_3_Booklist.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 Booklist</a>
@@ -34,7 +30,8 @@ bookshop:</p>
 <p>December: 2, 3, 4, 5, 8, 9, 10, 11, 26, 29, 30</p>
 <p>Time: 9am to 12pm, 1pm to 3pm</p>
 <p>&nbsp;</p>
-<p><strong>Sale of School Uniforms</strong>
+<h5><strong>Sale of School Uniforms</strong></h5>
+<p><a href="/files/SAS__Sec__Infosheet__All_Levels_.pdf" rel="noopener noreferrer nofollow" target="_blank">SAS (Sec) Infosheet All Levels</a>
 </p>
 <p>Place your order online and select either self-collection in school or
 home delivery.</p>
