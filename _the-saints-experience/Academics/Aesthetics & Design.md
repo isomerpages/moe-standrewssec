@@ -11,7 +11,13 @@ variant: markdown
 
 ## **ART**
 
-![](/images/Academics/Aesthetic%20and%20Design/Art%202.png)
+General Art Programme for Lower Secondary
+
+The curriculum aims to cultivate visual literacy and an appreciation for art and design.
+
+A visually literate student will be able to observe, understand and make meaning of the world he is in. He will also be able to communicate his ideas through visuals.
+
+A student who appreciates art will be able to recognise the relevance of art and find art valuable in his life.
 
 ![](/images/Lower_Sec_Art.jpg)
 
