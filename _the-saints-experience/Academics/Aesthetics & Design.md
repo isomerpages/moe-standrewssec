@@ -11,27 +11,45 @@ variant: markdown
 
 ## **ART**
 
-![](/images/Academics/Aesthetic%20and%20Design/Art%202.png)
+#### General Art Programme for Lower Secondary
 
-![](/images/Lower_Sec_Art.jpg)
+The curriculum aims to cultivate visual literacy and an appreciation for art and design.
 
-![](/images/Lower_Sec_Art_2.jpg)
+A visually literate student will be able to observe, understand and make meaning of the world he is in. He will also be able to communicate his ideas through visuals.
 
-![](/images/Academics/Aesthetic%20and%20Design/Art1.png)
+A student who appreciates art will be able to recognise the relevance of art and find art valuable in his life.
 
-![Digital photography exploring dynamic poses](/images/Digital_Photography.jpg)
+![](/images/Lower_Sec_Art_Resize_2.jpg)
 
+![](/images/Lower_Sec_Art_2_Resize_2.jpg)
+
+
+#### Lower Secondary Curriculum
+
+* Drawing &amp; Rendering
+    
+* Acrylic Painting
+    
+* Digital photography imaging
+    
+* Visible thinking routines
+    
+![](/images/Digital_Photography_2.jpg)
 *Digital photography exploring dynamic poses*
 
-![](/images/Digital_imaging.png)
-
+![](/images/Digital_imaging_2.png)
 *Digital imaging*
 
-![](/images/Acrylic.jpg)
-
+![](/images/Acrylic_2.jpg)
 *Acrylic painting &amp; digital imaging*
 
-![](/images/Academics/Aesthetic%20and%20Design/Art%203.png)
+
+#### Co-curriculum
+
+*   Amazing Race for Sec 2 students
+    
+*   Artist talks for DSA Art students
+    
 
 ![](/images/Amazing_Race.jpg)
 

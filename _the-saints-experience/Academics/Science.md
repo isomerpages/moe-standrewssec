@@ -23,11 +23,15 @@ We offer Biology, Chemistry, Physics, Science (Physics/Chemistry), Science (Chem
 
 Our special programmes for lower secondary students provide a strong foundation for self-directed learning and scientific inquiry.
 
+**Lower Secondary Science**
+
 **1.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **River Studies 2.0**
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Secondary 1:** Students apply their scientific knowledge to investigate the Kallang River from its source to its endpoint. They focus on monitoring water quality and studying the river’s ecosystem.
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Secondary 2:** Students extend their exploration to the **Kallang Park Connector**, conducting ecological surveys and fieldwork. They learn to analyze biodiversity and take ownership of their environment.
+
+Find out more about River Studies [here](https://www.standrewssec.moe.edu.sg/the-saints-experience/special-programmes/river-studies/)
 
 **2.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Making Science Alive!**  
 &nbsp;At St. Andrew’s Secondary, we believe in making science an engaging, hands-on experience. Our **Therapeutic Garden** offers students opportunities to explore scientific concepts beyond the classroom.
