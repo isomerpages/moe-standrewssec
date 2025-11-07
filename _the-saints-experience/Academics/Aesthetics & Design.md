@@ -19,14 +19,14 @@ A visually literate student will be able to observe, understand and make meaning
 
 A student who appreciates art will be able to recognise the relevance of art and find art valuable in his life.
 
-![](/images/Lower_Sec_Art.jpg)
+![](/images/Lower_Sec_Art_Resize_2.jpg)
 
-![](/images/Lower_Sec_Art_2.jpg)
+![](/images/Lower_Sec_Art_2_Resize_2.jpg)
 
 
 #### Lower Secondary Curriculum
 
-* Drawing &amp; rendering
+* Drawing &amp; Rendering
     
 * Acrylic Painting
     
@@ -47,7 +47,6 @@ A student who appreciates art will be able to recognise the relevance of art and
 ![](/images/Acrylic.jpg)
 
 *Acrylic painting &amp; digital imaging*
-
 
 
 #### Co-curriculum
