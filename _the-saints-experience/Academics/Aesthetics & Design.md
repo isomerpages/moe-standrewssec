@@ -11,7 +11,7 @@ variant: markdown
 
 ## **ART**
 
-General Art Programme for Lower Secondary
+#### General Art Programme for Lower Secondary
 
 The curriculum aims to cultivate visual literacy and an appreciation for art and design.
 
@@ -23,7 +23,18 @@ A student who appreciates art will be able to recognise the relevance of art and
 
 ![](/images/Lower_Sec_Art_2.jpg)
 
-![](/images/Academics/Aesthetic%20and%20Design/Art1.png)
+
+#### Lower Secondary Curriculum
+
+* Drawing &amp; rendering
+    
+* Acrylic Painting
+    
+* Digital photography &amp; imaging
+    
+* Visible thinking routines
+    
+
 
 ![Digital photography exploring dynamic poses](/images/Digital_Photography.jpg)
 
