@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - 2025 Sec 2 Subject Selection Information.md
       - SAS(S) Open House Webinar 2025.md
       - For Parents/.keep
       - For Parents/Termly Letters & Key Information.md
