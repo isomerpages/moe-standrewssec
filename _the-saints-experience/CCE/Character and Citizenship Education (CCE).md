@@ -37,13 +37,13 @@ leaders in their areas of passion.&nbsp;</p>
 <p>1. Lessons (Tier 1)</p>
 <p>2.Programmes (Tier 2)</p>
 <p></p>
-<p><strong>Coherent and consistent messaging&nbsp;  </strong>
+<p><strong>Coherent and consistent messaging&nbsp;</strong>
 </p>
 <p>1. Staff conviction and competency (Staff training)</p>
 <p>2. Close working relationship with ECGC</p>
 <p>3. Reliable and knowledgeable partners</p>
 <p></p>
-<p><strong>Close partnerships&nbsp;    </strong>
+<p><strong>Close partnerships&nbsp;</strong>
 </p>
 <p>1. Parents (SAPTA)&nbsp;</p>
 <p>2. IHLs/PSEIs (SAJC, Poly, ITE)</p>
@@ -59,7 +59,7 @@ history, realities and challenges unique to our nation, appreciate our
 journey to nationhood, cultivate the instincts for survival as a nation,
 and have confidence in our nation's future.</p>
 <p></p>
-<p>We do this by commemorating the the following NE Commemorative days :</p>
+<p>We do this by commemorating the the following NE Commemorative Days :</p>
 <p>* Total Defence Day</p>
 <p>* International Friendship Day</p>
 <p>* Racial Harmony Day</p>
