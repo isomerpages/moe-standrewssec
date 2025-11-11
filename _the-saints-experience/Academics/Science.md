@@ -50,7 +50,19 @@ By connecting classroom learning to real-world applications, our students develo
 *River Studies - Water Collection*
 
 ![](/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity_1__1_.jpg)
-River Studies - Building Filtration Devices and Testing for Turbidity
+*River Studies - Building Filtration Devices and Testing for Turbidity*
+
+![](/images/Making_Science_Alive___temperature_of_water_tank__2_.jpg)
+*Making Science Alive! - Temperature of Water Tank*
+
+![](/images/Making_Science_Alive___temperature_of_water_tank_1__1_.jpg)
+*Making Science Alive! - Temperature of Water Tank*
+
+![](/images/Making_Science_Alive___temperature_of_soil_in_diff_pots_1__1_.jpg)
+*Making Science Alive! - Temperature of soil in different pots*
+
+![](/images/Making_Science_Alive___temperature_of_soil_in_diff_pots__1_.jpg)
+*Making Science Alive! - Temperature of soil in different pots*
 
 **Competitions**
 
