@@ -3,12 +3,30 @@ title: Mathematics
 permalink: /the-saints-experience/Mathematics/
 description: ""
 third_nav_title: Academics
+variant: markdown
 ---
 ## Mathematics
-###### Our Mathematics programme enables Saints to acquire and develop essential thinking skills and concepts for continuous learning in Mathematics, as well as to apply their learning in a variety of business situations via Principle of Accounts. The school offers Mathematics, Additional Mathematics, Principles of Accounts and Computer Applications to our students. 
 
-###### We have designed learning experiences that enable students to develop the abilities to reason logically, to communicate mathematically and to learn cooperatively and independently. Our programme also aims to provide opportunities for the students to use these skills to formulate and undertake problems with confidence, enjoyment and success.
+**Vision**  
 
-![](/images/Academics/Mathematics/Math%201.png)
+To nurture analytical, adaptable, and future-ready learners who think critically and make informed decisions.
 
-![](/images/Academics/Mathematics/Math%202.png)
+**Mission**
+
+To develop resilient problem-solvers with strong mathematical, accounting, and computational skills who apply learning effectively and use technology responsibly.
+
+![](/images/Maths1.jpg)
+![](/images/Maths2.jpg)
+![](/images/Maths3.jpg)
+![](/images/Maths4.jpg)
+![](/images/Maths5.jpg)
+
+**Our Programme**  
+Our programme enables our students to develop essential thinking skills and concepts for continuous learning, while applying their knowledge in real-world contexts. We offer Mathematics, Additional Mathematics, Principles of Accounts, Computer Applications and Computing (G1).
+
+![](/images/Maths6.jpg)
+![](/images/Maths7.jpg)
+
+Students are guided to reason logically, communicate effectively, and learn independently and collaboratively. Through varied learning experiences, they develop confidence and creativity in problem-solving, participate in activities and competitions, and explore their interests beyond the classroom, fostering enjoyment and growth in learning.
+
+![](/images/Maths8.jpg)
