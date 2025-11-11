@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /the-saints-experience/Student-Well-Being/Sexuality-Education/
 description: ""
-third_nav_title: Student Well Being
+third_nav_title: CCE
 variant: tiptap
 ---
 <h2><strong>Sexuality Education</strong></h2>

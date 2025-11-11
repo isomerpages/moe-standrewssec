@@ -40,10 +40,29 @@ Through outdoor investigations, students examine how different surfaces absorb h
 
 By connecting classroom learning to real-world applications, our students develop a deeper appreciation for science—just like real scientists!
 
+![](/images/River_Studies_2025___setting_up_for_collection_of_water__1_.jpg)
+*River Studies - Setting up for Water Collection*
 
-![](/images/RiverStudies3.png)![](/images/RiverStudies.png)![](/images/RiverStudies2.png)![](/images/Making_Science_Alive___temperature_of_soil_in_diff_pots.jpg)![](/images/River_Studies_2025___water_collection_1.jpg)![](/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity_1.jpg)
+![](/images/River_Studies_2025___water_collection_1__1_.jpg)
+*River Studies - Water Collection* 
 
-         
+![](/images/River_Studies_2025___water_collection_2__1_.jpg)
+*River Studies - Water Collection*
+
+![](/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity_1__1_.jpg)
+*River Studies - Building Filtration Devices and Testing for Turbidity*
+
+![](/images/Making_Science_Alive___temperature_of_water_tank__2_.jpg)
+*Making Science Alive! - Temperature of Water Tank*
+
+![](/images/Making_Science_Alive___temperature_of_water_tank_1__1_.jpg)
+*Making Science Alive! - Temperature of Water Tank*
+
+![](/images/Making_Science_Alive___temperature_of_soil_in_diff_pots_1__1_.jpg)
+*Making Science Alive! - Temperature of soil in different pots*
+
+![](/images/Making_Science_Alive___temperature_of_soil_in_diff_pots__1_.jpg)
+*Making Science Alive! - Temperature of soil in different pots*
 
 **Competitions**
 
