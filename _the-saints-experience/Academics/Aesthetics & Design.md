@@ -19,7 +19,7 @@ A visually literate student will be able to observe, understand and make meaning
 
 A student who appreciates art will be able to recognise the relevance of art and find art valuable in his life.
 
-![](/images/Lower_Sec_Art_Resize_2.jpg)
+![](/images/Lower_Sec_Art_Resize_4.jpg)
 
 ![](/images/Lower_Sec_Art_2_Resize_2.jpg)
 
