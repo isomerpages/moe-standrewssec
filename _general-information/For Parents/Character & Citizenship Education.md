@@ -90,7 +90,7 @@ These commemorative days are linked to important points in Singapore’s history
 
   
 
-**Racial harmony Day**
+**Racial Harmony Day**
 ![](https://lh6.googleusercontent.com/hMt5tinMb3zYdq5E4EYdCwxQeMTUA2puwHmHUvtrtFBqNMg5QTMPjrfPMmjT2r_7ZLet9U2nwJ4UP35-yxCLfAi5vJ-SlW4W3RAKqG9EoQygZZ8OgW2KR4hRTTy_m9fxkqKVHNY3W3NJzmVSAayuVw)   ![](https://lh5.googleusercontent.com/IyCV5jqsj7Aajv9J_8vhBvQY1bn0TO8pxlvnC_fqHoCVi5BDukgGZRjV2LFX780-_SyRU6gVfTrzB59GppDz6GvJQpoA5hfatRrk1hi33EEEdN7KcesQHe77AXg5iyIumuQyebYVohR0l8Bukf2kzg)
 
 
