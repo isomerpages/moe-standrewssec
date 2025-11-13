@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Special Programmes
 variant: tiptap
 ---
+<h2>River Studies 2.0</h2>
 <p>Aligned with the Singapore Green Plan 2030, all students participate in
 River Studies, a two-year science signature program that fosters environmental
 stewardship. Secondary 1 students explore ‘The Scientific Endeavor’ and
