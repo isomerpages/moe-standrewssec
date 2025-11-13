@@ -115,13 +115,16 @@ and well-being.</p>
 <p>Other events and projects:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>Preparing recipes for NE Commemorative Days</p>
+</li>
+<li>
 <p>Health Promotion outreach at SAS(J)</p>
 </li>
 <li>
 <p>Culinary Workshop with Temasek Polytechnic</p>
 </li>
 <li>
-<p>Enrichment workshop</p>
+<p>Enrichment workshop(s)</p>
 <p></p>
 <h4>Music Education</h4>
 </li>
