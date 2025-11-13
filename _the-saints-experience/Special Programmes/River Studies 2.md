@@ -27,11 +27,9 @@ about local biodiversity, fostering a love for nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity_1__1_.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity__1_.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___water_collection_2__1_.jpg">
 </div>
