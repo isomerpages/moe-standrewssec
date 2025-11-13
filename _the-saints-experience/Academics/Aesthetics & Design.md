@@ -158,7 +158,7 @@ musical understandings from those experiences. Thereafter, the boys get
 to practise the learnt concepts through applying and expressing the ideas,
 creating and experimenting.</p>
 <p>Yearly events:</p>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Cultural Arts Appreciation Performing Arts Workshops for all Secondary
 1 students</p>
@@ -180,7 +180,7 @@ O and N(T)- Level Music Elective students</p>
 </li>
 <li>
 <p>School Concert performed by Saints musical talents for all levels of students</p>
+<p></p>
 </li>
-</ol>
-<h4></h4>
+</ul>
 <p></p>
