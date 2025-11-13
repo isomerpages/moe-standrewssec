@@ -8,8 +8,7 @@ variant: tiptap
 <h2>Aesthetics &amp; Design</h2>
 <p>The Aesthetics and Design Department offers Art, Design &amp; Technology,
 Food and Consumer Education, Nutrition and Food Science and Music at Lower
-and Upper Secondary levels.<strong>RT</strong>
-</p>
+and Upper Secondary levels.</p>
 <h4>General Art Programme for Lower Secondary</h4>
 <p>The curriculum aims to cultivate visual literacy and an appreciation for
 art and design.</p>
