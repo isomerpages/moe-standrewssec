@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h2>River Studies 2.0</h2>
 <p>Aligned with the Singapore Green Plan 2030, all students participate in
-River Studies, a two-year science signature program that fosters environmental
+River Studies, a two-year science signature programme that fosters environmental
 stewardship. Secondary 1 students explore ‘The Scientific Endeavor’ and
 ‘Separation Techniques’ through practical studies of the Kallang River,
 using data loggers and DIY water purification devices to assess water quality.
@@ -21,20 +21,21 @@ reports.</p>
 and NUS lecturer Mr. Sivasothi to educate students and inspire students
 about local biodiversity, fostering a love for nature.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___water_collection__2_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity_1__1_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity__1_.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___water_collection_2__1_.jpg">
 </div>
-<p>Through the River Studies program, students research the role of gabions
+<p>Through the River Studies programme, students research the role of gabions
 along the Kallang River and observe various nature park networks that integrate
 urban areas with greenery. This fosters awareness and commitment to promoting
 a “City in Nature.” Enhancements to the aquaponics area and the construction
