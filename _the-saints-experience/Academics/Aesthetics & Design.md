@@ -17,9 +17,6 @@ meaning of the world he is in. He will also be able to communicate his
 ideas through visuals.</p>
 <p>A student who appreciates art will be able to recognise the relevance
 of art and find art valuable in his life.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Lower_Sec_Art_2_Resize_2.jpg">
-</div>
 <h4>Lower Secondary Curriculum</h4>
 <ul>
 <li>
