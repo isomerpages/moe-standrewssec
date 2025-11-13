@@ -127,10 +127,10 @@ and well-being.</p>
 </li>
 <li>
 <p>Enrichment workshop(s)</p>
-<p></p>
-<h4>Music Education</h4>
 </li>
 </ul>
+<p></p>
+<h4>Music Education</h4>
 <p>We believe that every Saint possesses innate musical qualities that could
 be developed. Here at St Andrew’s, we offer them varied opportunities to
 discover their interests and strengths through a variety of musicking activities
