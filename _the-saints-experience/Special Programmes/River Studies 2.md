@@ -1,5 +1,5 @@
 ---
-title: River Studies
+title: River Studies 2
 permalink: /the-saints-experience/special-programmes/river-studies/
 description: ""
 third_nav_title: Special Programmes
@@ -22,37 +22,21 @@ about local biodiversity, fostering a love for nature.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___water_collection__2_.jpg">
 </div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity_1__1_.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___Building_Filtration_Device_and_Testing_for_Turbidity__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/River_Studies_2025___water_collection_2__1_.jpg">
+</div>
 <p>Through the River Studies program, students research the role of gabions
 along the Kallang River and observe various nature park networks that integrate
 urban areas with greenery. This fosters awareness and commitment to promoting
 a “City in Nature.” Enhancements to the aquaponics area and the construction
 of a therapeutic garden also help restore nature within our school's urban
 landscape, supporting Singapore's goal of being a City in Nature.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture13.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 68%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture14.png">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 66%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture15.png">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/River Studies/2024 River Studies/Picture16.png">
-</div>
 <p></p>
