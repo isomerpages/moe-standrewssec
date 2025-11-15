@@ -26,27 +26,24 @@ Eternity</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/school_values.jpg">
 </div>
 <p></p>
-<h3>Strategic Thrusts</h3>
+<h3>Our Strategic Thrusts</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/DSC_1237.jpg">
 </div>
-<blockquote>
-<h4>Strategic Thrust 1: Future-Ready Servant Leaders</h4>
-<p></p>
-</blockquote>
+<p><strong>Strategic Thrust 1: Future-Ready Servant Leaders</strong>
+</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/WhatsApp_Image_2025_10_14_at_19_24_31.jpg">
 </div>
-<blockquote>
-<h4>Strategic Thrust 2: Thriving Staff</h4>
+<p><strong>Strategic Thrust 2: Thriving Staff</strong>
+</p>
 <p></p>
-</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/DSC_9771.jpg">
 </div>
-<blockquote>
-<h4>Strategic Thrust 3: Organisational Excellence</h4>
+<p><strong>Strategic Thrust 3: Organisational Excellence</strong>
+</p>
 <p></p>
-</blockquote>
 <p></p>
