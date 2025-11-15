@@ -32,8 +32,8 @@ making it a meaningful and enriching part of school life.</p>
 </p>
 </li>
 <li>
-<p>Ms Poh Bee Yong</p>
-<p><a href="mailto:poh_bee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_bee_yong@moe.edu.sg</a>
+<p>Ms Poh Bee Yong
+<br><a href="mailto:poh_bee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_bee_yong@moe.edu.sg</a>
 </p>
 <p></p>
 </li>
@@ -239,7 +239,7 @@ making it a meaningful and enriching part of school life.</p>
 <p>Euphonium</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LAI YU EN NOAH (3 THANKSGIVING)</p>
+<p>Lai Yu En Noah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3T</p>
