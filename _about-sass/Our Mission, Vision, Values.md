@@ -4,7 +4,7 @@ permalink: /about-sass/Mission-Vision-Values/
 description: ""
 variant: tiptap
 ---
-<h3>Our Vision: </h3>
+<h3>Our Vision:</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/DSC_6255__1_.jpg">
 </div>
@@ -13,7 +13,7 @@ variant: tiptap
 <br>
 </p>
 </blockquote>
-<h3>Our Mission: </h3>
+<h3>Our Mission:</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/DSC_0061.jpg">
 </div>
@@ -40,6 +40,7 @@ Eternity</p>
 </div>
 <blockquote>
 <h4>Strategic Thrust 2: Thriving Staff</h4>
+<p></p>
 </blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/DSC_9771.jpg">
