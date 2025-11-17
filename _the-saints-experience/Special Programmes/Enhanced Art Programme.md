@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><em>For Secondary 3 students looking to enrol in G3 Art</em>
 </p>
-<p>The EAP in St. Andrew's School (Secondary) is offered to Secondary 3 students
+<p>The EAP in St Andrew's School (Secondary) is offered to Secondary 3 students
 who are interested in furthering their love for art and design after experiencing
 the foundational lower secondary art curriculum. EAP students are exposed
 to different art practices to help them build a strong foundation for art
