@@ -24,7 +24,7 @@ and make informed decisions.</p>
 <p>&nbsp;</p>
 <p><strong>Subjects Offered in St Andrew’s School (Secondary):</strong>
 </p>
-<p>G1 Elements of Business Studies</p>
+<p>G1 Elements of Business Skills</p>
 <p>G2/G3 Humanities (Social Studies / Geography)</p>
 <p>G2/G3 Humanities (Social Studies / History)</p>
 <p>G1 Humanities Exposure Modules</p>
@@ -40,20 +40,20 @@ from a fishing village to a global city-state, fostering a deep connection
 to our shared heritage. This understanding strengthens their emotional
 rootedness to Singapore and their identity as Singaporeans.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_b.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_b.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_a.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_a.jpg">
 </div>
 <p><em>Our Lower Secondary Saints hosting the annual History Forum with seniors from the community, as well as fellow teachers on their lives growing up from 1965 – 1970s.</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_c.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_c.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_d.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Belonging_d.jpg">
 </div>
 <p><em>Our Upper Secondary Saints embarking on The Cathedral Walk, where they shared their historical findings with a group of students from St Andrew’s School (Junior).</em>
 </p>
@@ -69,16 +69,16 @@ and adaptation.</p>
 <p><em>History comes alive for the Sec 2 students at National Museum!</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_b.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Action_b.jpg">
 </div>
 <p><em>Geography students explore real-world issues faced by different stakeholders when planning transportation systems in cities.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Action_c.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Action_d.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Action_d.jpg">
 </div>
 <p></p>
 <p><u>A Sense of Hope</u>
@@ -90,12 +90,12 @@ the Japanese Occupation and Separation. Geography and Social Studies demonstrate
 how Singapore's limitations become strengths through urban planning and
 community initiatives.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_a.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_a.jpg">
 </div>
 <p><em>Our Secondary School delegation at the 2025 SAJC Model United Conference.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_b.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Sense_of_Hope_b.jpg">
 </div>
 <p><em>Our Secondary School delegation preparing for their presentation at the 2025 SAJC Model United Conference.</em>
 </p>
