@@ -5,19 +5,21 @@ description: ""
 variant: tiptap
 ---
 <h3>Our Vision:</h3>
-<p><strong>Home of Servant Leaders who Bring Life to the Nations</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/DSC_6255__1_.jpg">
 </div>
+<blockquote>
+<p>Home of Servant Leaders who Bring Life to the Nations</p>
 <p></p>
+</blockquote>
 <h3>Our Mission:</h3>
-<p><strong>Making Lives, Waking Hearts to Serve the Coming Days — Family, Society, Eternity</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/DSC_0061.jpg">
 </div>
-<p></p>
+<blockquote>
+<p>Making Lives, Waking Hearts to Serve the Coming Days — Family, Society,
+Eternity</p>
+</blockquote>
 <h3>Our School Values</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/school_values.jpg">
