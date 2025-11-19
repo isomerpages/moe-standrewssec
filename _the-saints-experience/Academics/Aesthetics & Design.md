@@ -66,6 +66,8 @@ of art and find art valuable in his life.</p>
 </div>
 <p><em>UOB Artist of the Year talk</em>
 </p>
+<p><a href="https://www.standrewssec.moe.edu.sg/the-saints-experience/special-programmes/enhanced-art-programme/" rel="noopener nofollow" target="_blank">Upper Secondary Art Curriculum (Enhanced Art Programme)</a>
+</p>
 <h4>Design &amp; Technology (D&amp;T)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academics/Aesthetic%20and%20Design/DT1.png">
