@@ -44,7 +44,7 @@ in each domain as shown:</p>
 when they are aware of how they learn. The A-F Framework presents the rigour
 that undergirds the Saints EL experience:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/AF_Framework.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025 School Photos/SASS_Writing_Speaking_Framework.jpg">
 </div>
 <h4>Saints Read Programme</h4>
 <p>A cornerstone of the SAS(S) English curriculum, the Saints Read Programme
