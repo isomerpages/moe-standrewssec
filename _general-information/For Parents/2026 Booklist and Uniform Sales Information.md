@@ -27,7 +27,7 @@ online order has been placed. <strong>Online ordering starts 23 November 9am.</s
 <p>Dates for Walk-in Purchase / Self-collection / FAS collection at school
 bookshop:</p>
 <p>November: 24, 25, 26, 27</p>
-<p>December: 2, 3, 4, 5, 8, 9, 10, 11, 26, 29, 30</p>
+<p>December: 2, 3, 4, 8, 9, 10, 11, 26, 29, 30</p>
 <p>Time: 9am to 12pm, 1pm to 3pm</p>
 <p>&nbsp;</p>
 <h5><strong>Sale of School Uniforms</strong></h5>
@@ -37,5 +37,5 @@ bookshop:</p>
 home delivery.</p>
 <p>Dates for Walk-in Purchase / FAS collection at sales booth in school:</p>
 <p>November: 24, 25, 26, 27</p>
-<p>December: 2, 3, 4, 5, 8, 9, 10, 11, 26, 29, 30</p>
+<p>December: 2, 3, 4, 8, 9, 10, 11, 26, 29, 30</p>
 <p>Time: 9am – 3pm</p>

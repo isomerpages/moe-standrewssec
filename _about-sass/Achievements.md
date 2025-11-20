@@ -27,9 +27,11 @@ Nov 2025)</p>
 </li>
 <li>
 <p><a href="https://www.straitstimes.com/singapore/parenting-education/getting-a-glimpse-of-work-life-st-andrews-boys-head-out-to-54-organisations-after-exams" rel="noopener nofollow" target="_blank">Getting a glimpse of work life: St Andrew’s boys head out to 54 organisations after exams </a>(3
-Nov 2025)
-<br>
-</p>
+Nov 2025)</p>
+</li>
+<li>
+<p><a href="https://www.straitstimes.com/singapore/parenting-education/five-schools-in-singapore-install-smart-plug-system-that-trims-electricity-use-by-up-to-20" rel="noopener nofollow" target="_blank">Five schools in Singapore install smart plug system that trims electricity use by up to 20% </a>(16
+Nov 2025)</p>
 </li>
 </ol>
 <h4>Founder's Day Prize Winners 2025</h4>
