@@ -19,9 +19,9 @@ sections:
       subtitle: Latest news and updates
       announcement_items:
         - title: 2026 Booklist and School Uniform Purchase
-          date: 05 November 2025
-          announcement: 2026 Booklist and Information on School Uniform Purchase (Sec 2 to 5)
-          link_text: Click here for details
+          date: 12 December 2025
+          announcement: 2026 Booklist and Information on School Uniform Purchase
+          link_text: Click here for details (updated with Sec 1 booklist)
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
         - title: Sec 3 Work Experience Programme (WEP)
           date: 03 November 2025
