@@ -20,7 +20,11 @@ sections:
       announcement_items:
         - title: Sec 1 Registration Information
           date: 12 December 2025
-          announcement: Watch this space for details
+          announcement: The Secondary 1 posting results will be released on Friday, 19
+            December 2025, at 9 a.m. Students do not need to report to the
+            school upon receiving their posting results. Registration for all
+            Secondary 1 students will be done electronically.   Please check our
+            website on 19 Dec for more information.
           link_text: ""
           link_url: ""
         - title: 2026 Booklist and School Uniform Purchase
