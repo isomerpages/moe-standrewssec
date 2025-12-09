@@ -45,8 +45,8 @@ home delivery. Self-collection is recommended as home delivery may take
 <p>Parents who have applied for FAS, please do not order any uniform before
 receiving the FAS approval letter. You are required to make an appointment
 booking at <a href="https://khuniform.com/appointments-sas/for" rel="noopener noreferrer nofollow" target="_blank">https://khuniform.com/appointments-sas/</a> for
-your collection</p>
-<p>and purchase of school uniforms at school.</p>
-<p><strong><u>For Sec 1 uniform purchase at school</u> </strong>
-<br>19 Dec, 22 Dec, 23 Dec, 26 Dec</p>
-<p>All levels</p>
+your collection and purchase of school uniforms at school.</p>
+<p><strong><u>Uniform Sales Dates at School (Operation hours: 9am to 3pm)</u></strong>
+<br><u>For Secondary 1 (2026)</u>
+<br>December: 19, 22, 23, 26
+<br>December: 29, 30 (All Levels)</p>
