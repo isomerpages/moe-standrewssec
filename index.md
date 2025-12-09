@@ -18,6 +18,11 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: Sec 1 Registration Information
+          date: 12 December 2025
+          announcement: Watch this space for details
+          link_text: ""
+          link_url: ""
         - title: 2026 Booklist and School Uniform Purchase
           date: 12 December 2025
           announcement: 2026 Booklist and Information on School Uniform Purchase
