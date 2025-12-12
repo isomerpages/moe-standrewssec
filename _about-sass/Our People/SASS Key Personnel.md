@@ -39,10 +39,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Agnes Teo</p>
+<p>Ms Guinieve Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal 1</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>
@@ -51,10 +51,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Guinieve Yeo</p>
+<p>Ms Agnes Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal 2</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>
@@ -351,7 +351,7 @@ variant: tiptap
 <p>Ms Shanthini Rathakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head / Sec 1 and Sec 5</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shanthini_rathakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shanthini_rathakrishnan@moe.edu.sg</a>
@@ -363,7 +363,7 @@ variant: tiptap
 <p>Mr Foo Qihui Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Covering) / Sec 2</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_qihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_qihui@moe.edu.sg</a>
@@ -375,7 +375,7 @@ variant: tiptap
 <p>Mrs Esther Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/Sec 3</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_chun_lian_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chun_lian_esther@moe.edu.sg</a>
@@ -387,7 +387,7 @@ variant: tiptap
 <p>Mr Prinya Lovajana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head/ Sec 4</p>
+<p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:prinya_lovajana@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prinya_lovajana@moe.edu.sg</a>
