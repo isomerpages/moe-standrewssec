@@ -51,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Agnes Teo</p>
+<p>Ms Kang Poh Geok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
