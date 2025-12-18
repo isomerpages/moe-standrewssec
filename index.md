@@ -14,16 +14,16 @@ sections:
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - announcements:
-      title: 2026 Secondary One Registration
+      title: 2026 Secondary One Registration and Information
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
-        - title: Sec 1 Registration Information
+        - title: Sec 1 Registration and Information
           date: 19 December 2025
           announcement: The details for e-registration and class allocation will be sent
             to parents via Parents Gateway on 19 December 2025, by 5 p.m.
-          link_text: ""
-          link_url: ""
+          link_text: Click here for more information
+          link_url: /2026-secondary-one-registration/
         - title: 2026 Booklist and School Uniform Purchase
           date: 19 December 2025
           announcement: 2026 Booklist and Information on School Uniform Purchase
