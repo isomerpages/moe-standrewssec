@@ -135,7 +135,7 @@ variant: tiptap
 <p>Mrs Fiona Qiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ English Language and Literature(Covering)</p>
+<p>Head of Department / English Language and Literature (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_xuewei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_xuewei_fiona@moe.edu.sg</a>
@@ -147,7 +147,7 @@ variant: tiptap
 <p>Mr Kwok Sheng Da</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head Of Department/Food and Design</p>
+<p>Head Of Department / Food and Design</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwok_sheng_da@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwok_sheng_da@moe.edu.sg</a>
@@ -171,7 +171,7 @@ variant: tiptap
 <p>Mr Gene Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ICT</p>
+<p>Head of Department / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_haig_gene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_haig_gene@moe.edu.sg</a>
@@ -255,7 +255,7 @@ variant: tiptap
 <p>Ms Melissa Foo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/CCE (Covering)</p>
+<p>Subject Head / CCE (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:melissa_foo_xing_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melissa_foo_xing_wen@moe.edu.sg</a>
@@ -267,7 +267,7 @@ variant: tiptap
 <p>Mdm Raudzah Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Discipline</p>
+<p>Subject Head / Discipline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:raudzah_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudzah_osman@moe.edu.sg</a>
@@ -291,7 +291,7 @@ variant: tiptap
 <p>Mdm Josephine Phua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head / Information and Communications Technology</p>
+<p>Subject Head / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phua_poi_yeok@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_poi_yeok@moe.edu.sg</a>
@@ -339,7 +339,7 @@ variant: tiptap
 <p>Mrs Priscilla Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Science</p>
+<p>Subject Head / Science</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yu_mei_yi_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_mei_yi_priscilla@moe.edu.sg</a>
@@ -423,7 +423,7 @@ variant: tiptap
 <p>Mrs Yvonne Cheen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher/&nbsp;Character &amp; Citizenship Education</p>
+<p>Senior Teacher /&nbsp;Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_su-lin_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_su-lin_yvonne@moe.edu.sg</a>
