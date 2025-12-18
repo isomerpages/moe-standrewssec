@@ -14,30 +14,28 @@ sections:
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - announcements:
-      title: Announcements
+      title: 2026 Secondary One Registration and Information
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
-        - title: Sec 1 Registration Information
-          date: 12 December 2025
-          announcement: The Secondary 1 posting results will be released on Friday, 19
-            December 2025, at 9 a.m. Students do not need to report to the
-            school upon receiving their posting results. Registration for all
-            Secondary 1 students will be done electronically.   Please check our
-            website on 19 Dec for more information.
-          link_text: ""
-          link_url: ""
+        - title: Sec 1 Registration and Information
+          date: 19 December 2025
+          announcement: The details for e-registration and class allocation will be sent
+            to parents via Parents Gateway on 19 December 2025, by 5 p.m.
+          link_text: Click here for more information
+          link_url: /2026-secondary-one-registration/
         - title: 2026 Booklist and School Uniform Purchase
-          date: 12 December 2025
+          date: 19 December 2025
           announcement: 2026 Booklist and Information on School Uniform Purchase
-          link_text: Click here for details (updated with Sec 1 booklist)
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
-        - title: Sec 3 Work Experience Programme (WEP)
-          date: 03 November 2025
-          announcement: Our Sec 3s took part in a 4-day WEP in October 2025. We're looking
-            for partners to join us for WEP 2026.
           link_text: Click here for details
-          link_url: https://www.standrewssec.moe.edu.sg/secondary-3-work-experience-programme/
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
+        - title: Secondary 1 Transfer Appeals to SAS(S)
+          date: 19 December 2025
+          announcement: Only students whose PSLE score meets our school’s cut-off point
+            will be considered, and acceptance is subject to available
+            vacancies.
+          link_text: Click here for the Transfer Appeals form
+          link_url: https://form.gov.sg/69296004d2f8c8642f00b239
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters

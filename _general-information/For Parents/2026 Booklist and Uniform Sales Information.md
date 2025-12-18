@@ -32,7 +32,7 @@ bookshop:</p>
 <p>December: 2, 3, 4, 8, 9, 10, 11, 26, 29, 30</p>
 <p>Time: 9am to 12pm, 1pm to 3pm</p>
 <p>&nbsp;</p>
-<p>*For Sec 1 Walk-in Purchase: 18, 19, 22, 23, 26, 30 Dec</p>
+<p>*For Sec 1 Walk-in Purchase: 19, 22, 23, 26, 30 Dec</p>
 <p></p>
 <h5><strong>Sale of School Uniforms</strong></h5>
 <p><a href="/files/SAS__Sec__Infosheet_Sec_1.pdf" rel="noopener nofollow" target="_blank">SAS (Sec) Infosheet - Sec 1</a>
