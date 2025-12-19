@@ -29,7 +29,7 @@ sections:
           announcement: 2026 Booklist and Information on School Uniform Purchase
           link_text: Click here for details
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
-        - title: Secondary 1 Transfer Appeals to SAS(S)
+        - title: Secondary One Transfer Appeals to SAS(S)
           date: 19 December 2025
           announcement: Secondary One Transfer Appeals to SAS(S)
           link_text: Click here for more information
