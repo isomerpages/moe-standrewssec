@@ -70,5 +70,6 @@ below shows the cut-off points for the <strong>2026 Secondary One</strong> Cohor
 </tbody>
 </table>
 <p>For more information on transfer appeals, you may refer to the MOE website
-at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
+at <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer</a>
 </p>
+<p></p>
