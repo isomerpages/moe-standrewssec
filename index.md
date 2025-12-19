@@ -29,13 +29,11 @@ sections:
           announcement: 2026 Booklist and Information on School Uniform Purchase
           link_text: Click here for details
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
-        - title: Secondary 1 Transfer Appeals to SAS(S)
+        - title: Secondary One Transfer Appeals to SAS(S)
           date: 19 December 2025
-          announcement: Only students whose PSLE score meets our school’s cut-off point
-            will be considered, and acceptance is subject to available
-            vacancies.
-          link_text: Click here for the Transfer Appeals form
-          link_url: https://form.gov.sg/69296004d2f8c8642f00b239
+          announcement: Secondary One Transfer Appeals to SAS(S)
+          link_text: Click here for more information
+          link_url: /2026-secondary-one-transfer-appeals-to-sas-s/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
