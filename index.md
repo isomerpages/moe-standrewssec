@@ -33,7 +33,7 @@ sections:
           date: 19 December 2025
           announcement: Secondary One Transfer Appeals to SAS(S)
           link_text: Click here for more information
-          link_url: https://form.gov.sg/69296004d2f8c8642f00b239
+          link_url: /2026-secondary-one-transfer-appeals-to-sas-s/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
