@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://sapta.sg/" rel="noopener noreferrer nofollow" target="_blank">St Andrew's&nbsp; Parent-Teacher Association (SAPTA)</a>
+<p><a href="https://sapta.sg/" rel="noopener noreferrer nofollow" target="_blank">St Andrew's&nbsp;Parent-Teacher Association (SAPTA)</a>
 </p>
 </li>
 </ul>
@@ -48,7 +48,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.sinda.org.sg/services/assistance/" rel="noopener noreferrer nofollow" target="_blank">SINDA</a>
+<p><a href="https://www.sinda.org.sg/programme/sindabursary/" rel="noopener noreferrer nofollow" target="_blank">SINDA</a>
 </p>
 </li>
 <li>
@@ -60,11 +60,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Resource%20Kit%20-%20Parent%20Kit%20-%20My%20Independent%20Learner.pdf" rel="noopener noreferrer nofollow" target="_blank">My Independent Learner Resource Kit</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Parent%20Kit_%20Starting%20School%20Right%20Jan%202021.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit (Starting School Right)</a>
+<p><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener nofollow" target="_blank">Parenting for Wellness - Toolbox for Parents</a>
 </p>
 </li>
 <li>
