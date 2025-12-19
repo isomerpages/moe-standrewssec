@@ -31,10 +31,8 @@ sections:
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
         - title: Secondary 1 Transfer Appeals to SAS(S)
           date: 19 December 2025
-          announcement: Only students whose PSLE score meets our school’s cut-off point
-            will be considered, and acceptance is subject to available
-            vacancies.
-          link_text: Click here for the Transfer Appeals form
+          announcement: Secondary One Transfer Appeals to SAS(S)
+          link_text: Click here for more information
           link_url: https://form.gov.sg/69296004d2f8c8642f00b239
   - infopic:
       title: News of the Term
