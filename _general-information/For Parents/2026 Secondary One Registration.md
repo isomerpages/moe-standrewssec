@@ -5,31 +5,32 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<h2>2026 Secondary One E-Registration</h2>
+<h2>2026 Secondary One Registration</h2>
 <p>The Secondary One posting results will be released on Friday, 19 December
 2025, at 9 a.m. Students do not need to report to the school upon receiving
 their posting results. Registration for all Secondary One students will
 be done electronically.</p>
 <p>The details for e-registration and class allocation will be sent to parents
 via Parents Gateway on 19 December 2025, by 5 p.m. &nbsp;&nbsp;</p>
-<p>A virtual briefing will be conducted for parents of students eligible
-to offer subjects at a more demanding level. The students will receive
-an Offer Letter from the school. Parents of these students will be notified
-via Parents Gateway to attend the briefing before accepting the offer.
-Details of the briefing are as follows:</p>
-<p><strong>22 December 2025, Monday</strong>
+<p><strong><em>**</em>New**</strong>
+</p>
+<p><strong>A virtual briefing was conducted on 22 December 2025 for parents of students eligible to offer subjects at a more demanding level.</strong>
+</p>
+<p><strong>Please click on the following links for the slides covered during the briefing.</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10am, for students offered subjects at G3 (more demanding level)</p>
+<p><a href="/files/2026_Sec_1_Registration___Briefing_only_to_SBB_Eligible_Students__PG2__22_Dec_10_am.pdf" rel="noopener nofollow" target="_blank">FSBB Briefing for Parents of Eligible Students (Predominantly G2 Subjects)</a>
+</p>
 </li>
 <li>
-<p>11am, for students offered subjects at G2 (more demanding level)</p>
+<p><a href="/files/2026_Sec_1_Registration___Briefing_only_to_SBB_Eligible_Students__PG1__22_Dec_11_am.pdf" rel="noopener nofollow" target="_blank">FSBB Briefing for Parents of Eligible Students (Predominantly G1 Subjects)</a>
+</p>
 <p></p>
-</li>
-</ul>
 <p><strong><u>FAQs for parents/guardians</u></strong>
 </p>
+</li>
+</ul>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>How do I obtain the details for the Sec 1 registration if I am not on-board Parents Gateway?</u>
 </p>
 <p>The link for e-registration will be sent to parents via email. We strongly
