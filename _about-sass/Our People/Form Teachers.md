@@ -56,7 +56,7 @@ variant: tiptap
 <p>Ms Kong Lai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Thiam</p>
+<p>Mr Winston Soo</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: tiptap
 <p>Ms Vanessa Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Winston Soo</p>
+<p></p>
 </td>
 </tr>
 <tr>
