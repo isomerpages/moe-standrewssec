@@ -12,9 +12,9 @@ their posting results. Registration for all Secondary One students will
 be done electronically.</p>
 <p>The details for e-registration and class allocation will be sent to parents
 via Parents Gateway on 19 December 2025, by 5 p.m. &nbsp;&nbsp;</p>
-<p><strong><em>**</em>New** </strong>
+<p><strong><em>**</em>New**</strong>
 </p>
-<p><strong>A virtual briefing was conducted on 22 December 2025 for parents of students eligible to offer subjects at a more demanding level. </strong>
+<p><strong>A virtual briefing was conducted on 22 December 2025 for parents of students eligible to offer subjects at a more demanding level.</strong>
 </p>
 <p><strong>Please click on the following links for the slides covered during the briefing.</strong>
 </p>
