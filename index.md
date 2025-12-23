@@ -18,6 +18,13 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: Briefing for parents (22 Dec 2025)
+          date: 23 December 2025
+          announcement: A virtual briefing was conducted on 22 Dec for parents of Sec 1
+            students eligible to offer subjects at a more demanding level.
+            Please refer to the link below for the slides.
+          link_text: Click here for more information
+          link_url: https://www.standrewssec.moe.edu.sg/2026-secondary-one-registration/
         - title: Sec 1 Registration and Information
           date: 19 December 2025
           announcement: The details for e-registration and class allocation will be sent
