@@ -36,11 +36,12 @@ sections:
           announcement: 2026 Booklist and Information on School Uniform Purchase
           link_text: Click here for details
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
-        - title: Secondary One Transfer Appeals to SAS(S)
-          date: 19 December 2025
-          announcement: Secondary One Transfer Appeals to SAS(S)
-          link_text: Click here for more information
-          link_url: /2026-secondary-one-transfer-appeals-to-sas-s/
+        - title: Term 1 Letter to Parents
+          date: 26 December 2025
+          announcement: Please click on the link below to read our Principal's letter to
+            parents.
+          link_text: Click here for Term 1 (2026) Letter to Parents
+          link_url: https://www.standrewssec.moe.edu.sg/files/General%20Information/For%20Parents/2025_Term_1_Letter_to_Parents.pdf
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
