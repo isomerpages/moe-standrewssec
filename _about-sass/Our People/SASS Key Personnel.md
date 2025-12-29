@@ -96,18 +96,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Yong Tze Woon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yong_tze_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_tze_woon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Irene Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,10 +108,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Dr Yong Tze Woon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yong_tze_woon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_tze_woon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Jacinta Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Character &amp; Citizenship Education</p>
+<p>HOD/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ee_ling_jacinta@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ee_ling_jacinta@moe.edu.sg</a>
