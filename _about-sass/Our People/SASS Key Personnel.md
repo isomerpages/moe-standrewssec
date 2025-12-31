@@ -243,7 +243,7 @@ variant: tiptap
 <p>Mr Chuah Chongxian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (Lower Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chuah_chongxian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chuah_chongxian@moe.edu.sg</a>
@@ -255,7 +255,7 @@ variant: tiptap
 <p>Mr Mark Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mark_li_wen_qiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mark_li_wen_qiang@moe.edu.sg</a>
@@ -423,7 +423,7 @@ variant: tiptap
 <p>Mrs Esther Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 4 &amp; 5)</p>
+<p>Assistant Year Head (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_chun_lian_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chun_lian_esther@moe.edu.sg</a>
