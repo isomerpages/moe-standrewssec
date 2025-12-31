@@ -363,7 +363,7 @@ variant: tiptap
 <p>Mr Liu Liming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Chinese Language (covering)</p>
+<p>Subject Head/ Chinese Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_liming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_liming@moe.edu.sg</a>
