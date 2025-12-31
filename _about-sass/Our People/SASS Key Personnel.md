@@ -363,7 +363,7 @@ variant: tiptap
 <p>Mr Liu Liming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Chinese Language</p>
+<p>Subject Head/ Chinese Language (covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:liu_liming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_liming@moe.edu.sg</a>
@@ -384,10 +384,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ng Pei Shing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 1)(Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_pei_shing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_shing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Shanthini Rathakrishnan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shanthini_rathakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shanthini_rathakrishnan@moe.edu.sg</a>
@@ -399,7 +411,7 @@ variant: tiptap
 <p>Mr Foo Qihui Jonathan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:foo_qihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">foo_qihui@moe.edu.sg</a>
@@ -411,22 +423,10 @@ variant: tiptap
 <p>Mrs Esther Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Sec 4 &amp; 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_chun_lian_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_chun_lian_esther@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Pei Shing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_pei_shing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_shing@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -532,18 +532,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cheong Pei Qi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>
