@@ -76,7 +76,7 @@ PM</p>
 <p>Abdul Malik Shahul Hameed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ PM</p>
 <p>Titus Ezekiel Toh Hong Rei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 </tbody>
