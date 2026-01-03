@@ -46,27 +46,26 @@ do.</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Mr Tan Yan Ho</p>
-<p><a href="mailto:tan_yan_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yan_ho@moe.edu.sg</u></a>
+<p>Mr Tan Yan Ho
+<br><a href="mailto:tan_yan_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yan_ho@moe.edu.sg</u></a>
 </p>
 </li>
 <li>
-<p>&nbsp;Mr Yeow YongQi Jeremy</p>
-<p><a href="mailto:yeow_yongqi_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_yongqi_jeremy@moe.edu.sg</a>
+<p>Mr Yeow Yongqi Jeremy
+<br><a href="mailto:yeow_yongqi_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeow_yongqi_jeremy@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Mr Zaid</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamed_zaid_mohamed_ishak_c@moe.edu.sg</a>
-</p>
+<p>Mr Mohamed Zaid Bin Mohamed</p>
 </li>
 </ol>
 <h3>Achievements</h3>
-<p>2024</p>
+<p><strong>2024</strong>
+</p>
 <p>C Division advanced to League 2, B Division advanced to League 4 of the
 National Schools Games, Football</p>
-<p>2022
-<br>Participated in National Schools Games, Football, B Division</p>
+<p><strong>2022 <br></strong>Participated in National Schools Games, Football,
+B Division</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/Football_1.jpg">
