@@ -30,17 +30,13 @@ to be a part of this legacy of excellence!</p>
 </p>
 </li>
 <li>
-<p>Ms Lye Shi-mei Veronica
-<br><a href="mailto:lye_shi-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_shi-mei@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Mr Ratish Balakrishnan
-<br><a href="mailto:ratish_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ratish_balakrishnan@moe.edu.sg</u></a>
+<p>Ms Joanna Chew
+<br><a href="mailto:chew_cher_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_cher_joanna@moe.edu.sg</a>
+<br>
 </p>
 </li>
 </ol>
-<h3>Student Executives Commitee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO)</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -67,7 +63,7 @@ to be a part of this legacy of excellence!</p>
 <p>Zachary Koh Ji Xiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4SD</p>
+<p>4S</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +108,7 @@ to be a part of this legacy of excellence!</p>
 <p>Eidan Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2Ex</p>
+<p>2E</p>
 </td>
 </tr>
 <tr>
@@ -128,18 +124,20 @@ to be a part of this legacy of excellence!</p>
 </tr>
 </tbody>
 </table>
-<h3>Achievements</h3>
-<p><strong>2023 </strong>
-<br>National Schools Games, C Division, 2nd</p>
+<h3>Achievements<br></h3>
+<p><strong>2025</strong>
+</p>
+<p>National Schools Games, B Division, 3rd</p>
+<p>National Schools Games, C Division, 4th, League 1</p>
+<p></p>
 <p><strong>2024</strong>
 </p>
 <p>3rd Kuching Invitational Water Polo Championship, 3rd</p>
 <p>National Schools Games, B Division, 2nd, League 2</p>
 <p>National Schools Games, C Division, 3rd, League 2</p>
-<p><strong>2025</strong>
-</p>
-<p>National Schools Games, B Division, 3rd</p>
-<p>National Schools Games, C Division, 4th, League 1</p>
+<p></p>
+<p><strong>2023 </strong>
+<br>National Schools Games, C Division, 2nd</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/WP1.png">

@@ -18,7 +18,7 @@ Andrew. We therefore draw inspiration from the strength of both Anchor
 and Shield: Sure and Stedfast in character building, while moving Up and
 On for the honour of God.</p>
 <p>Follow us on IG: @bb7thcoy</p>
-<h4>CCA Schedule</h4>
+<h3>CCA Schedule</h3>
 <p>Training Day(s): Thursdays, Selected Saturdays</p>
 <p>Parade Timing: 3.30pm – 6pm (Thursdays), 9am – 12.30pm (Selected Saturdays)</p>
 <p>Training Venue: Gather at the Charlie Chan Courtyard (beside Church of
@@ -33,13 +33,13 @@ the Ascension, and School Canteen)</p>
 </p>
 </li>
 <li>
-<p>Mr Ho Wei An Jansen
-<br><a href="mailto:ho_wei_an_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_an_jansen@moe.edu.sg</a>
+<p>Ms Eileen Ong Ah Buan
+<br><a href="mailto:eileen_ong_ah_buan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_ong_ah_buan@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Ms Eileen Ong Ah Buan
-<br><a href="mailto:eileen_ong_ah_buan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eileen_ong_ah_buan@moe.edu.sg</a>
+<p>Mr Daniel Neo
+<br><a href="mailto:neo_chong_shern_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_chong_shern_daniel@moe.edu.sg</a> 
 </p>
 </li>
 </ol>

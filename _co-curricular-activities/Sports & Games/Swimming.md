@@ -6,13 +6,13 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Swimming</h2>
-<p>The St Andrew's School (Secondary) Swim Team is founded in 2006 with the
-construction of the swimming pool. The CCA provides students with a platform
-to improve their swimming skills, build strong bonds with teammates, and
-grow in character. The program focuses on improving stroke techniques and
-cardiovascular endurance. We have a group of dedicated swimmers who have
-consistently excelled at National Schools competitions, as well as local
-and overseas meets.</p>
+<p>The St Andrew's School (Secondary) Swim Team was founded in 2006 with
+the construction of the swimming pool. The CCA provides students with a
+platform to improve their swimming skills, build strong bonds with teammates,
+and grow in character. The programme focuses on improving stroke techniques
+and cardiovascular endurance. We have a group of dedicated swimmers who
+have consistently excelled at National Schools competitions, as well as
+local and overseas meets.</p>
 <p>Swimming as a sport is designed to foster school spirit, instils values
 and other benefits such as</p>
 <p><strong>Physical Benefits:</strong>
@@ -53,7 +53,7 @@ Pool</p>
 </p>
 </li>
 <li>
-<p>Mr Zaid</p>
+<p>Mrs Loke Guek Huang</p>
 </li>
 </ol>
 <h3>Achievements</h3>

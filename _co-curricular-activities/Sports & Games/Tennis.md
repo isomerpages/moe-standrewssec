@@ -30,11 +30,11 @@ against others.</p>
 </li>
 <li>
 <p>Mr Koh Tze Ping Jimmy
-<br><a href="mailto:koh_tze_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_tze_ping@moe.edu.sg</a>
+<br>
 </p>
 </li>
 </ol>
-<h3>Student Executives Committee</h3>
+<h3>Student Executives Committee 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -61,7 +61,7 @@ against others.</p>
 <p>Chua Jun Teng Erwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>

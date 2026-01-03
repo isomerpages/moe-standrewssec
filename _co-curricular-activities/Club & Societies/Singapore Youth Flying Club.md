@@ -49,7 +49,7 @@ PM</p>
 </p>
 </li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -76,7 +76,7 @@ PM</p>
 <p>Abdul Malik Shahul Hameed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ PM</p>
 <p>Titus Ezekiel Toh Hong Rei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 </tbody>

@@ -21,8 +21,8 @@ With dedication and hard work, any Saint can rise to excellence in squash.</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Ms Ng Pei Shing
-<br><a href="mailto:ng_pei_shing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_pei_shing@moe.edu.sg</a>
+<p>Ms Wang Kai Qi
+<br><a href="mailto:ng_pei_shing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_kai_qi@moe.edu.sg</a>
 </p>
 </li>
 <li>
@@ -31,9 +31,7 @@ With dedication and hard work, any Saint can rise to excellence in squash.</p>
 </p>
 </li>
 <li>
-<p>Mdm Alifa Ismail
-<br><a href="mailto:alifa_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alifa_ismail@moe.edu.sg</a>
-</p>
+<p>Mr Koh Tze Ping Jimmy</p>
 </li>
 </ol>
 <h3>Student Executives Committee (EXCO)</h3>

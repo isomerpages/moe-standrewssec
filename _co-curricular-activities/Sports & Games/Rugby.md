@@ -48,7 +48,7 @@ and passing down the rich rugby heritage to new generations of players.</p>
 </p>
 </li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -75,7 +75,7 @@ and passing down the rich rugby heritage to new generations of players.</p>
 <p>Liu Brendan Brian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ and passing down the rich rugby heritage to new generations of players.</p>
 <p>Kayven Lim Yu Zhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4SD</p>
+<p>4S</p>
 </td>
 </tr>
 <tr>

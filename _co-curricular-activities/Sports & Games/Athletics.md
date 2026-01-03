@@ -46,21 +46,15 @@ inclusive environment that fosters personal growth and school spirit.</p>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
+<p></p>
 <ol data-tight="true" class="tight">
-<li>
-<p>Ms Wee Hui Ern Abigail
-<br><a href="mailto:wee_hui_ern_abigail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wee_hui_ern_abigail@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>Ms Wang Kai Qi
-<br><a href="mailto:wang_kai_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_kai_qi@moe.edu.sg</a>
-</p>
-</li>
 <li>
 <p>Ms Wong Liling
 <br><a href="mailto:wong_liling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_liling@moe.edu.sg</u></a>
 </p>
+</li>
+<li>
+<p>Mr Mohamed Zaid Bin Mohamed Ishak</p>
 </li>
 </ol>
 <h3>Student Executive Committee (EXCO) 2025</h3>

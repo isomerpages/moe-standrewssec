@@ -45,17 +45,17 @@ who bring life to the nations.</p>
 </p>
 </li>
 <li>
-<p>Mrs Francina Jeyanthi Victor
-<br><a href="mailto:francina_jeyanthi_victor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">francina_jeyanthi_victor@moe.edu.sg</a>
-</p>
-</li>
-<li>
 <p>Mr Soo Lik Lern Winston
 <br><a href="mailto:soo_lik_lern_winston@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soo_lik_lern_winston@moe.edu.sg</u></a>
 </p>
 </li>
+<li>
+<p>Ms Poh Bee Yong
+<br><a href="mailto:poh_bee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>poh_bee_yong@moe.edu.sg</u></a>
+</p>
+</li>
 </ol>
-<h3>Student Executives Committee</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -93,7 +93,7 @@ who bring life to the nations.</p>
 <p>Tan Jie Xin Emmanuel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3EX</p>
+<p>3E</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ who bring life to the nations.</p>
 <p>Karel Kiehl Chandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2EX</p>
+<p>2E</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ who bring life to the nations.</p>
 <p>Pong Jun Ren</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2EX</p>
+<p>2E</p>
 </td>
 </tr>
 <tr>
