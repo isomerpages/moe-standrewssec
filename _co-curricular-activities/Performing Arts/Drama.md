@@ -47,12 +47,12 @@ perfection in every performance we create!</p>
 </p>
 </li>
 <li>
-<p>Ms Chan Jia Min Carmen
-<br><a href="mailto:chan_jiamin_carmen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jiamin_carmen@moe.edu.sg</a>
+<p>Ms Maizura Binte Zulkiflie
+<br><a href="mailto:maizura_zulkiflie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maizura_zulkiflie@moe.edu.sg</a>
 </p>
 </li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -68,7 +68,7 @@ perfection in every performance we create!</p>
 <p>Wong Tian Liang Elijah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3SD</p>
+<p>3S</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ perfection in every performance we create!</p>
 <p>Lim Shao Ming Jeff &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3Ex</p>
+<p>3E</p>
 </td>
 </tr>
 </tbody>
