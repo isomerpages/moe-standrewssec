@@ -6,12 +6,12 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Hockey</h2>
-<p>Hockey isn’t just a sport at St Andrew’s School (Secondary); it’s a passion,
-a tradition, and a healthy way of life. It builds teamwork, resilience,
-and leadership skills that extend beyond the pitch. Players learn to push
-their limits, work together, and develop a winning mindset, both on and
-off the hockey pitch.</p>
-<h4>Our Programe</h4>
+<p>Hockey isn’t just a sport at St Andrew’s; it’s a passion, a tradition,
+and a healthy way of life. It builds teamwork, resilience, and leadership
+skills that extend beyond the pitch. Players learn to push their limits,
+work together, and develop a winning mindset, both on and off the hockey
+pitch.</p>
+<h4>Our Programme</h4>
 <p>At St Andrew’s School (Secondary), we take pride in our hockey programme,
 offering opportunities for all skill levels. From our beginner development
 squads to our competitive National School Games (NSG) teams, we focus on
@@ -40,8 +40,13 @@ Pitch</p>
 <br><a href="mailto:ratna_illyas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ratna_illyas@moe.edu.sg</a>
 </p>
 </li>
+<li>
+<p>Mr Ratish Balakrishnan
+<br><a href="mailto:ratish_balakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ratish_balakrishnan@moe.edu.sg</a>
+</p>
+</li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
