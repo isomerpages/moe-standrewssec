@@ -31,7 +31,11 @@ and On!</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>&nbsp;Mr Lai Dingsheng Vincent
+<p>Ms Carmen Chan Jiamin
+<br><a href="mailto:chan_jiamin_carmen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_jiamin_carmen@moe.edu.sg</a>&nbsp;</p>
+</li>
+<li>
+<p>Mr Lai Dingsheng Vincent
 <br>&nbsp;<a href="mailto:lai_dingsheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_dingsheng@moe.edu.sg</a>
 </p>
 </li>
@@ -41,7 +45,7 @@ and On!</p>
 </p>
 </li>
 </ol>
-<h3>Student Executive Committee (EXCO)</h3>
+<h3>Student Executive Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -57,7 +61,7 @@ and On!</p>
 <p>Tyler Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +72,7 @@ and On!</p>
 <p>Wong Kai Jek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -79,7 +83,7 @@ and On!</p>
 <p>Tonkla Niamsong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +94,7 @@ and On!</p>
 <p>Arthur Teo Joon Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 </tbody>
