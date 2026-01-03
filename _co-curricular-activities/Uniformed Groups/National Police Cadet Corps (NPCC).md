@@ -38,7 +38,7 @@ skills, teamwork, and a strong sense of duty to the community.</p>
 </p>
 </li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -65,7 +65,7 @@ skills, teamwork, and a strong sense of duty to the community.</p>
 <p>SSGT Muhammad Harraz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3SD</p>
+<p>3S</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ skills, teamwork, and a strong sense of duty to the community.</p>
 <p>SSGT Dylan Kee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3SD</p>
+<p>3S</p>
 </td>
 </tr>
 </tbody>
