@@ -22,7 +22,7 @@ making it a meaningful and enriching part of school life.</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>&nbsp;Mdm Ng Li Yan
+<p>Ms Ng Li Yan
 <br><a href="mailto:ng_li_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_li_yan@moe.edu.sg</u></a>
 </p>
 </li>
@@ -32,13 +32,12 @@ making it a meaningful and enriching part of school life.</p>
 </p>
 </li>
 <li>
-<p>Ms Poh Bee Yong
-<br><a href="mailto:poh_bee_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_bee_yong@moe.edu.sg</a>
+<p>Ms Lye Shi-Mei Veronica
+<br><a href="mailto:lye_shi-mei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_shi-mei@moe.edu.sg</a>
 </p>
-<p></p>
 </li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
