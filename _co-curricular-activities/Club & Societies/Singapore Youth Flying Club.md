@@ -49,7 +49,7 @@ PM</p>
 </p>
 </li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
