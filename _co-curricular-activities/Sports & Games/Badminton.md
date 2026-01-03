@@ -28,22 +28,22 @@ Hall</p>
 <h3>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>&nbsp;Mdm Lim Su Chen Joy
+<p>Mdm Lim Su Chen Joy
 <br><a href="mailto:lim_su_chen_joy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su__chen_joy@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>&nbsp;Ms Wong Limin
+<p>Ms Wong Limin
 <br><a href="mailto:wong_limin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_limin@moe.edu.sg</a>
 </p>
 </li>
 <li>
-<p>Mr Jimmy Koh
-<br><a href="mailto:koh_tze_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_tze_ping@moe.edu.sg</a>
+<p>Ms Francina Gibson
+<br><a href="mailto:francina_jeyanthi_victor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">francina_jeyanthi_victor@moe.edu.sg</a>
 </p>
 </li>
 </ol>
-<h3>Students Executive Committee (EXCO)</h3>
+<h3>Students Executive Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
