@@ -6,7 +6,8 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>Scouts</h2>
-<p><strong>St. Andrew's Star Scout Group </strong>has scouts age ranged 12-17.</p>
+<p><strong>St. Andrew's Star Scout Group </strong>has scouts aged ranging
+from 12 to 17 years old.</p>
 <p>These are some of the things that we scouts do.</p>
 <p><strong>1. Outdoor/Indoor cooking</strong>
 </p>
@@ -53,17 +54,17 @@ when he or she goes to the work force.</p>
 </p>
 </li>
 <li>
-<p>Ms Chew Cher Joanna
-<br><a href="mailto:chew_cher_joanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_cher_joanna@moe.edu.sg</a>
-</p>
-</li>
-<li>
-<p>&nbsp;Mr Kenneth Ong Kheng Ngee
+<p>Mr Kenneth Ong Kheng Ngee
 <br><a href="mailto:kenneth_ong_kheng_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_ong_kheng_ngee@moe.edu.sg</a>
 </p>
 </li>
+<li>
+<p>Mr Kwan Jian Ming
+<br><a href="mailto:kwan_jing_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kwan_jing_ming@moe.edu.sg</a>
+</p>
+</li>
 </ol>
-<h3>Student Executives Committee (EXCO)</h3>
+<h3>Student Executives Committee (EXCO) 2025</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -79,7 +80,7 @@ when he or she goes to the work force.</p>
 <p>Goh Xuan Yu Jarrett</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +113,7 @@ when he or she goes to the work force.</p>
 <p>Lim Yi Zhong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4SD</p>
+<p>4S</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +124,7 @@ when he or she goes to the work force.</p>
 <p>Chen Jianru</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4Ex</p>
+<p>4E</p>
 </td>
 </tr>
 <tr>
@@ -186,12 +187,13 @@ songs, skits, stories, and cheers.<strong>&nbsp;</strong>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/s4.jpg">
 </div>
 <h3>Achievements</h3>
-<p><strong>2024</strong>
-</p>
-<p>Frank Cooper Sands Award Recipient</p>
 <p><strong>2025</strong>
 </p>
 <p>Chief Commissioner Scouts Award: Goh Xuan Yu Jarrett (4 Excellence)</p>
+<p><strong>2024</strong>
+</p>
+<p>Frank Cooper Sands Award Recipient</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA Update (March 2025)/s5.jpg">
 </div>
