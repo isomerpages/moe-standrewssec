@@ -20,7 +20,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Saints_Code_of_Conduct__revised_.pdf" rel="noopener nofollow" target="_blank">Saints Code of Conduct</a>
+<p><a href="/files/2026_01_06__Saints_Code_of_Conduct.pdf" rel="noopener nofollow" target="_blank">Saints Code of Conduct</a>
 </p>
 <p></p>
 </li>
