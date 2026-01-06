@@ -14,7 +14,7 @@ sections:
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
   - announcements:
-      title: 2026 Secondary One Registration and Information
+      title: Announcements
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
@@ -31,12 +31,6 @@ sections:
             Please refer to the link below for the slides.
           link_text: Click here for more information
           link_url: https://www.standrewssec.moe.edu.sg/2026-secondary-one-registration/
-        - title: Sec 1 Registration and Information
-          date: 19 December 2025
-          announcement: The details for e-registration and class allocation will be sent
-            to parents via Parents Gateway on 19 December 2025, by 5 p.m.
-          link_text: Click here for more information
-          link_url: /2026-secondary-one-registration/
         - title: 2026 Booklist and School Uniform Purchase
           date: 19 December 2025
           announcement: 2026 Booklist and Information on School Uniform Purchase
