@@ -11,5 +11,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Information%20of%20DMA%20Annexes.pdf" rel="noopener noreferrer nofollow" target="_blank">Information On DMA</a>
 </p>
-<p><a href="/files/Blended Learning/2025 PLPD Engagement Slides/PLD_Initiative_Parents_Engagement_deck_for_upload.pdf" rel="noopener nofollow" target="_blank">2025 PLD Initiative Parents Engagement Slides</a>
+<p><a href="/files/2026_SASS_PDLP_Parent_Engagement_Slides_forDissemination.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 PDLP Parents Engagement Slides</a>
 </p>
