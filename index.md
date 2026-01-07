@@ -18,6 +18,12 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: PDLP Parents Engagement Slides
+          date: 07 January 2026
+          announcement: A briefing was conducted for Sec 1 parents on PDLP. Please refer
+            to the link below for the slides.
+          link_text: Click here for details
+          link_url: https://www.standrewssec.moe.edu.sg/files/2026_SASS_PDLP_Parent_Engagement_Slides_forDissemination.pdf
         - title: Term 1 Letter to Parents
           date: 26 December 2025
           announcement: Please click on the link below to read our Principal's letter to
@@ -31,11 +37,6 @@ sections:
             Please refer to the link below for the slides.
           link_text: Click here for more information
           link_url: https://www.standrewssec.moe.edu.sg/2026-secondary-one-registration/
-        - title: 2026 Booklist and School Uniform Purchase
-          date: 19 December 2025
-          announcement: 2026 Booklist and Information on School Uniform Purchase
-          link_text: Click here for details
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/2026booklist/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
