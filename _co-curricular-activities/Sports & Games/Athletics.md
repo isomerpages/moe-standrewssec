@@ -28,7 +28,6 @@ every student reach their full potential.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays and Wednesdays</p>
-<p>&nbsp;</p>
 <p>*Note: Fridays are set aside for students to complete assigned runs in
 their own time, based on coach’s training plan</p>
 </td>
