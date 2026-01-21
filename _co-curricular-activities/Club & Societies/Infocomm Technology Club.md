@@ -36,7 +36,7 @@ adaptable users of technology.</p>
 <p>Training Time:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3.30 - 5.30
 PM</p>
 <p>Training Venue:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Robotics Lab (pre-existing
-Saints Robotics students);&nbsp; Computer Lab (pre-existing Saints Media
+Saints Robotics students);&nbsp; A504 and A504A (pre-existing Saints Media
 students)</p>
 <h3><br>Teachers-in-Charge</h3>
 <ol data-tight="true" class="tight">
