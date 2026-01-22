@@ -6,12 +6,15 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h2>Athletics</h2>
-<p>Athletics offers students the opportunity to develop physical fitness,
-teamwork, and perseverance through a mix of competitive and recreational
-running. Our athletics programme encourages students of all abilities to
-push their limits, hone their running techniques, and experience the thrill
-of competitions. Students are supported by a dedicated coach and a positive,
-inclusive environment that fosters personal growth and school spirit.</p>
+<p>The Athletics Club provides students with a dynamic platform to build
+physical fitness, teamwork, and perseverance through both competitive and
+recreational running. Open to students of all abilities, the programme
+encourages participants to challenge themselves, refine their running techniques,
+and experience the excitement of competitions. Through regular training
+and events, students develop discipline, resilience, and confidence.</p>
+<p>Our athletes are guided by our dedicated PE teacher, who serves as both
+the teacher-in-charge and coach, offering guidance and support to help
+every student reach their full potential.</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -24,7 +27,9 @@ inclusive environment that fosters personal growth and school spirit.</p>
 <p>Training Day(s):</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday and Friday</p>
+<p>Mondays and Wednesdays</p>
+<p>*Note: Fridays are set aside for students to complete assigned runs in
+their own time, based on coach’s training plan</p>
 </td>
 </tr>
 <tr>
@@ -32,7 +37,7 @@ inclusive environment that fosters personal growth and school spirit.</p>
 <p>Training Time: &nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.00 - 6.00 pm (Mon &amp; Wed), 3.30 - 5.30 pm (Fri)</p>
+<p>4.00 – 5.30 p.m. (Mon &amp; Wed)</p>
 </td>
 </tr>
 <tr>
@@ -40,13 +45,12 @@ inclusive environment that fosters personal growth and school spirit.</p>
 <p>Training Venue:&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kallang Practice Track, Kallang Wave Mall</p>
+<p>St. Andrew’s Junior College Track and Field</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Teachers-in-Charge</h3>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Ms Wong Liling
