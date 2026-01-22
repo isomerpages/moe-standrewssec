@@ -10,7 +10,52 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_1____26_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents </a>(updated:
 26/12/25)</p>
+<p><strong>Assessment Matters</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/SAS_S__2026_Weighted_Assessment_Schedule_1_Secondary_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 WA1 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__2026_Weighted_Assessment_Schedule_1_Secondary_2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 WA1 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__WA_1_2026_Assessment_Timetable_Sec_3_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 WA1 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__WA_1_2026_Assessment_Timetable_Sec_4___5_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 WA1 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Overall Assessment Plan</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Overall Assessment Plan</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_3_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_4_and_5_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 Overall Assessment Plan</a>
+</p>
+</li>
+</ul>
 <p></p>
+<p><strong>2026 TGIF &amp; Flexi Day Schedule</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/SAS_S____2026_TGIF___Flexi_Day_xlsx___TGIF_for_Sem_1__1_.pdf" rel="noopener nofollow" target="_blank">TGIF and Flexi Day Schedule (Sem 1 )</a>
+</p>
+<p></p>
+</li>
+</ul>
 <p><strong>2025 Letter to Parents</strong>
 </p>
 <p><a href="/files/General Information/For Parents/SASS_2025_Term_2_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Letter to Parents</a>
@@ -19,7 +64,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_Term_4_Letter_to_Parents___5_Sep_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Letter to Parents</a>
 </p>
-<p></p>
 <p><strong>Useful Links</strong>
 </p>
 <ul data-tight="true" class="tight">
