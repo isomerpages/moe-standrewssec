@@ -8,12 +8,28 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/For%20student/SASS-D1A-3.jpg">
 </div>
 <p></p>
-<h4>Secondary 2 Subject Selection Cohort Engagement Slides</h4>
-<p><a href="/files/General Information/For Students/For_students_taking_majority_G1_subjects.pdf" rel="noopener nofollow" target="_blank">For Students taking majority G1 Subjects</a>
+<p><strong>Assessment Matters</strong>
 </p>
-<p><a href="/files/General Information/For Students/For_students_taking_majority_G2_subjects.pdf" rel="noopener nofollow" target="_blank">For Students taking majority G2 subjects</a>
+<p><a href="/files/SAS_S__2026_Weighted_Assessment_Schedule_1_Secondary_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 WA1 Schedule</a>
 </p>
-<p><a href="/files/General Information/For Students/For_students_taking_majority_G3_subjects.pdf" rel="noopener nofollow" target="_blank">For Students taking majority G3 subjects</a>
+<p><a href="/files/SAS_S__2026_Weighted_Assessment_Schedule_1_Secondary_2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 WA1 Schedule</a>
+</p>
+<p><a href="/files/SAS_S__WA_1_2026_Assessment_Timetable_Sec_3_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 WA1 Schedule</a>
+</p>
+<p><a href="/files/SAS_S__WA_1_2026_Assessment_Timetable_Sec_4___5_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 WA1 Schedule</a>
+</p>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Overall Assessment Plan</a>
+</p>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Overall Assessment Plan</a>
+</p>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_3_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
+</p>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_4_and_5_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 Overall Assessment Plan</a>
+</p>
+<p></p>
+<p><strong>2026 TGIF &amp; Flexi Day Schedule</strong>
+</p>
+<p><a href="/files/SAS_S____2026_TGIF___Flexi_Day_xlsx___TGIF_for_Sem_1__1_.pdf" rel="noopener nofollow" target="_blank">TGIF and Flexi Day Schedule (Sem 1 )</a>
 </p>
 <p></p>
 <p><strong>Developmental Matters</strong>
@@ -25,19 +41,6 @@ variant: tiptap
 <p></p>
 </li>
 </ul>
-<p><strong>2025 TGIF Schedule</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/TGIF_Term_1.pdf" rel="noopener nofollow" target="_blank">TGIF Term 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/TGIF_Term_2.pdf" rel="noopener nofollow" target="_blank">TGIF Term 2</a>
-</p>
-</li>
-</ul>
-<p></p>
 <p><strong>Learning Tools</strong>
 </p>
 <ul>
