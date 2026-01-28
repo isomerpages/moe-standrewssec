@@ -34,11 +34,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Overall Assessment Plan</a>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_2_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 Overall Assessment Plan</a>
 </p>
 </li>
 <li>
-<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_3_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
+<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_3_V3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
 </p>
 </li>
 <li>
