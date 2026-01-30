@@ -20,50 +20,55 @@ The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 <p>&nbsp;</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Goals</strong> of Sexuality
-Education are to:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
+</li>
+<li>
+<p>The <strong>Goals</strong> of Sexuality Education are to:
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support
 students in managing their physiological, social and emotional changes
-as they grow up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
+as they grow up and develop safe and healthy relationships.
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide
 students to make wise, informed and responsible decisions on sexuality
-matters.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
+matters.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
 develop a moral compass and respect for themselves and others by having
 positive mainstream values and attitudes about sexuality that are premised
 on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
-Sexuality Education are:</p>
-<p>&nbsp;</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
-respect yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
+<p></p>
+</li>
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:
+<br>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and
+respect yourself as you love and respect others;
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build
 positive relationships based on love and respect (which are the foundation
-for strong families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
+for strong families);
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+decisions for yourself, your family and society; and
+<br>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence
 before marriage is the best protection against STIs/HIV and unintended
 pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p></p>
-</li>
-</ol>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
+</li>
+</ol>
 <p></p>
 <h4><strong>Overview of ST ANDREW’S SCHOOL (SECONDARY)’s Sexuality Education Programme for 2026</strong></h4>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
-in a holistic manner through the school curriculum. The content for Sexuality
-Education is grouped into five main themes: Human Development, Interpersonal
-Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and
-Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for more
-information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate topics
-on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
+</li>
+<li>
+<p>The subjects that incorporate topics on sexuality include:
+<br>a. Science
+<br>b. Character and Citizenship Education (CCE)</p>
+</li>
+</ol>
 <h4><strong><u>Sexuality Education Lessons</u></strong>:</h4>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -81,12 +86,12 @@ ability to act responsibly.&nbsp; Given the pressures faced by the middle
 adolescent from within themselves and from peers, it is important to build
 a strong sense of self-worth, personal conviction and an understanding
 of the possible consequences of sexual behaviour.</p>
-<p>&nbsp;</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education
-lessons, secondary students will have the opportunity to develop a positive
-self-esteem, develop their character, and expand their understanding and
-repertoire of skills to deal with various issues related to sexuality,
-which are of prime concern at this age.</p>
+</li>
+<li>
+<p>Through the Sexuality Education lessons, secondary students will have
+the opportunity to develop a positive self-esteem, develop their character,
+and expand their understanding and repertoire of skills to deal with various
+issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>&nbsp;</strong>
 </p>
 </li>
@@ -102,6 +107,9 @@ which are of prime concern at this age.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_30_095250.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_30_095305.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_30_095317.png">
@@ -155,37 +163,26 @@ Abstinence and upholding family values are the key messages.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_30_100059.png">
 </div>
 <h4><strong>Information for Parents</strong></h4>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
-the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
-education programmes by MOE-approved external providers.</p>
-<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong>Sexuality Education lessons</strong> need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is also available <a href="https://form.gov.sg/6958b5544bec325d5d0805a2" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also available <a href="https://form.gov.sg/6958b5544bec325d5d0805a2" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed
 form is to be submitted by 27/02/2026.</p>
-<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the <strong><em>eTeens</em> programme</strong> need to complete an
-opt-out form. This form will be communicated to parents at the start of
-the year and is also available <a href="https://form.gov.sg/6958bb75c46d293db660f9a2" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The
-completed form is to be submitted by 27/02/2026.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
-<a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>for discussion or to seek clarification about the school’s
-Sexuality Education programme.</p>
-<p></p>
-<ol start="12" data-tight="true" class="tight">
+</li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="https://form.gov.sg/67933cfb24054a3112815350" rel="noopener nofollow" target="_blank">here</a> .</p>
+at the start of the year and is also available <a href="https://form.gov.sg/6958bb75c46d293db660f9a2" rel="noopener noreferrer nofollow" target="_blank">here</a>. &nbsp;The
+completed form is to be submitted by 27/02/2026.</p>
 </li>
-</ol>
-<p><strong>The completed form is to be submitted by 7/02/2025.</strong>
-</p>
-<p></p>
-<ol start="13" data-tight="true" class="tight">
 <li>
-<p>Parents can contact the school at sass@moe.edu.sg for discussion or to
-seek clarification about the school’s Sexuality Education programme.</p>
+<p>Parents can contact the school at <a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a> for discussion or to seek
+clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <p></p>
