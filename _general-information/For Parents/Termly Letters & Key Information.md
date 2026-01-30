@@ -65,7 +65,7 @@ variant: tiptap
 <p><a href="/files/2025_Term_4_Letter_to_Parents___5_Sep_2025.pdf" rel="noopener nofollow" target="_blank">2025 Term 4 Letter to Parents</a>
 </p>
 <p></p>
-<p><strong>MOE-OBS 2026 Information</strong>
+<p><strong>MOE-OBS Challenge 2026 Information</strong>
 </p>
 <p><a href="/files/MOC2026_eRegistration_Guide_for_Parents.pdf" rel="noopener nofollow" target="_blank">eRegistration Guide for Parents</a>
 </p>
