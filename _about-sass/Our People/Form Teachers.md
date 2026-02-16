@@ -265,9 +265,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jansen Ho</p>
-<p><a href="mailto:ho_wei_an_jansen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_an_jansen@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
