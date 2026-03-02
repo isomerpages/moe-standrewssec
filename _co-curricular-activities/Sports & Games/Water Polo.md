@@ -60,7 +60,18 @@ to be a part of this legacy of excellence!</p>
 <p>Captain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zachary Koh Ji Xiang</p>
+<p>Xing Ruiye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4Em</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tristan Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4S</p>
@@ -68,13 +79,15 @@ to be a part of this legacy of excellence!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>EXCO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gabriel Ruiren Willim</p>
+<p>Clarence Lim</p>
+<p>Eidan Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4I</p>
+<p>3S</p>
+<p>3E</p>
 </td>
 </tr>
 <tr>
@@ -91,35 +104,28 @@ to be a part of this legacy of excellence!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Captain</p>
+<p>Captains</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Clarence Lim</p>
+<p>Angus Yuan</p>
+<p>Sim Rui Jie</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2Em</p>
 <p>2I</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
+<p>EXCO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Eidan Lim</p>
+<p>Lucius Kang</p>
+<p>Darius Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Isaac Luke-Kai Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2U</p>
+<p>2I</p>
+<p>1T</p>
 </td>
 </tr>
 </tbody>
