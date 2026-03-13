@@ -18,6 +18,11 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: Term 2 Letter to Parents
+          date: 13 March 2026
+          announcement: Please read our Term 2 Letter to Parents in the link below.
+          link_text: Click here for more information
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
         - title: Overall Assessment Plan & WA1 schedule
           date: 22 January 2026
           announcement: Please click on the link below for the Overall Assessment Plans
@@ -29,18 +34,6 @@ sections:
           announcement: Please click on the link below for the TGIF and Flexi Day Schedule.
           link_text: Click here for details
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
-        - title: Term 1 Letter to Parents
-          date: 26 December 2025
-          announcement: Please click on the link below to read our Principal's letter to
-            parents.
-          link_text: Click here for Term 1 (2026) Letter to Parents
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
-        - title: PDLP Parents Engagement Slides
-          date: 07 January 2026
-          announcement: A briefing was conducted for Sec 1 parents on PDLP. Please refer
-            to the link below for the slides.
-          link_text: Click here for details
-          link_url: https://www.standrewssec.moe.edu.sg/files/2026_SASS_PDLP_Parent_Engagement_Slides_forDissemination.pdf
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
@@ -49,10 +42,9 @@ sections:
       image: /images/Homepage/Prefect_photoshop__3__min.jpg
       alt: Image alt text
   - infopic:
-      title: SAS(S) Facebook
+      title: Follow us on
       subtitle: for more updates
-      button: Follow us now
-      url: https://www.facebook.com/standrewssec/
       alt: Image alt text
       image: /images/IMG_5362.jpg
+      description: "Facebook/ Instagram: @standrewssec"
 ---
