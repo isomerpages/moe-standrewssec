@@ -5,11 +5,12 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<p></p>
 <p><strong>Letter to Parents</strong>
 </p>
-<p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_1____26_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents </a>(updated:
-26/12/25)</p>
+<p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_2____Final.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Letter to Parents</a>
+</p>
+<p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_1____26_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents </a>
+</p>
 <p><strong>Assessment Matters</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -57,8 +58,6 @@ variant: tiptap
 </li>
 </ul>
 <p><strong>2025 Letter to Parents</strong>
-</p>
-<p><a href="/files/General Information/For Parents/SASS_2025_Term_2_Letter_to_Parents_.pdf" rel="noopener nofollow" target="_blank">2025 Term 2 Letter to Parents</a>
 </p>
 <p><a href="/files/2025_Term_3_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">2025 Term 3 Letter to Parents</a>
 </p>
