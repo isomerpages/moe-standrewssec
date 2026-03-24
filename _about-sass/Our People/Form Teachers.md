@@ -80,7 +80,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Sai Lin</p>
+<p><a href="mailto:sai_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sai_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -415,8 +417,8 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Ler</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ler_ming_shan_angeline@moe.edu.sg</a>
+<p>Ms Jenny Loong</p>
+<p><a href="mailto:jenny_loong_choo_juan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jenny_loong_choo_juan_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
