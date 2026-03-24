@@ -81,7 +81,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sai Lin</p>
-<p></p>
+<p><a href="mailto:sai_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sai_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
