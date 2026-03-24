@@ -417,7 +417,7 @@ variant: tiptap
 <p>3 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jenny Loong</p>
+<p>Ms Jenny Loong</p>
 <p><a href="mailto:jenny_loong_choo_juan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jenny_loong_choo_juan_a@moe.edu.sg</a>
 </p>
 </td>
