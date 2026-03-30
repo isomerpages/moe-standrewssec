@@ -9,7 +9,7 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_2____Final.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Letter to Parents</a>
 </p>
-<p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_1____26_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents </a>
+<p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_1____26_December_2025.pdf" rel="noopener nofollow" target="_blank">2026 Term 1 Letter to Parents</a>
 </p>
 <p><strong>Assessment Matters</strong>
 </p>
@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_3_V3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
+<p><a href="/files/2026_Secondary_3_Overall_Assessment_Plan_V5.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
 </p>
 </li>
 <li>
