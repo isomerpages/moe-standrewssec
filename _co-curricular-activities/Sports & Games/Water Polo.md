@@ -68,17 +68,6 @@ to be a part of this legacy of excellence!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Captain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tristan Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4S</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>EXCO</p>
 </td>
 <td rowspan="1" colspan="1">
