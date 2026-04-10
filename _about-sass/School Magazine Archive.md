@@ -11,3 +11,4 @@ Due to regulations under [Personal Data Protection Act (PDPA)](https://www.pdpc.
 From 2023, the school magazine is in the form of animated media:
 * [2023 SASS Video E-Magazine](https://youtu.be/KAZNEz3mkTs?si=S-Ag7t1Gv5m7wPXR)
 * [2024 SASS Video E-Magazine](https://youtu.be/MnvMmJL8USs?si=fj0w8s7Ni1Kp6kyA)
+* [2025 SAS(S) Video E-Magazine](https://www.youtube.com/watch?v=nzXPjWXu6o8)
