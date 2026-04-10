@@ -12,6 +12,23 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/SAS_S__WA_2_2026_Assessment_Timetable_Sec_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 WA2 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__WA_2_2026_Assessment_Timetable_Sec_2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 2 WA2 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__WA_2_2026_Assessment_Timetable_Sec_3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 WA2 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/SAS_S__WA_2_2026_Assessment_Timetable_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 WA2 Schedule</a>
+</p>
+<p></p>
+</li>
+<li>
 <p><a href="/files/SAS_S__2026_Weighted_Assessment_Schedule_1_Secondary_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 WA1 Schedule</a>
 </p>
 </li>
@@ -26,6 +43,7 @@ variant: tiptap
 <li>
 <p><a href="/files/SAS_S__WA_1_2026_Assessment_Timetable_Sec_4___5_V2.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 WA1 Schedule</a>
 </p>
+<p></p>
 </li>
 <li>
 <p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_1.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 1 Overall Assessment Plan</a>
@@ -40,7 +58,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SAS_S__2026_Overall_Assessment_Plan_Secondary_4_and_5_V3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 Overall Assessment Plan</a>
+<p><a href="/files/2026_Sec_4_and_5_Overall_Assessment_Plan_2026.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 Overall Assessment Plan</a>
 </p>
 </li>
 </ul>
