@@ -18,7 +18,7 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
-        - title: WA2 schedule
+        - title: WA2 Schedules
           date: 10 April 2026
           announcement: Please click on the link below for the Weighted Assessment 2 (WA2)
             schedules.
