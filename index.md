@@ -18,22 +18,17 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: Overall Assessment Plan & WA1 schedule
+          date: 10 April 2026
+          announcement: Please click on the link below for the Weighted Assessment 2 (WA2)
+            schedules.
+          link_text: Click here for details
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
         - title: Term 2 Letter to Parents
           date: 13 March 2026
           announcement: Please read our Term 2 Letter to Parents in the link below.
           link_text: Click here for more information
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
-        - title: Overall Assessment Plan & WA1 schedule
-          date: 22 January 2026
-          announcement: Please click on the link below for the Overall Assessment Plans
-            for 2026 and Weighted Assessment 1 (WA1) schedules.
-          link_text: Click here for details
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
-        - title: TGIF and Flexi Day Schedule
-          date: 22 January 2026
-          announcement: Please click on the link below for the TGIF and Flexi Day Schedule.
-          link_text: Click here for details
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
