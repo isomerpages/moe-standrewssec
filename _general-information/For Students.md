@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Sec_4_and_5_Overall_Assessment_Plan_2026.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 Overall Assessment Plan</a>
+<p><a href="/files/2026_Sec_4_and_5_Overall_Assessment_Plan.pdf" rel="noopener nofollow" target="_blank">2026 Sec 4 &amp; 5 Overall Assessment Plan</a>
 </p>
 </li>
 </ul>
