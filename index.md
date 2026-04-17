@@ -57,4 +57,5 @@ sections:
       description: Please click on the following link for more information on St
         Andrew's School (Secondary)'s admission and selection criteria for the
         DSA-Sec Exercise.
+      url: https://www.standrewssec.moe.edu.sg/files/St_Andrews_School_Secondary_
 ---
