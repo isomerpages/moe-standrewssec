@@ -51,4 +51,10 @@ sections:
       alt: Image alt text
       image: /images/IMG_5362.jpg
       description: "Facebook/ Instagram: @standrewssec"
+  - infobar:
+      title: DSA-Sec Exercise
+      id: infobar
+      description: Please click on the following link for more information on St
+        Andrew's School (Secondary)'s admission and selection criteria for the
+        DSA-Sec Exercise.
 ---
