@@ -13,6 +13,15 @@ sections:
       title: St Andrew's School (Secondary)
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
+  - infopic:
+      title: E-Open House Webinar 2026
+      id: infopic
+      description: Join us at our E-Open House Webinar 2026.  Register by 11 May 2026
+        at the link below.
+      button: Click here to register
+      url: https://forms.moe.edu.sg/forms/J49OdW
+      image: /images/WhatsApp_Image_2026_04_17_at_13_18_44.jpg
+      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
@@ -42,13 +51,4 @@ sections:
       alt: Image alt text
       image: /images/IMG_5362.jpg
       description: "Facebook/ Instagram: @standrewssec"
-  - infopic:
-      title: E-Open House Webinar 2026
-      id: infopic
-      description: Join us at our E-Open House Webinar 2026.  Register by 11 May 2026
-        at the link below.
-      button: Click here to register
-      url: https://forms.moe.edu.sg/forms/J49OdW
-      image: /images/WhatsApp_Image_2026_04_17_at_13_18_44.jpg
-      alt: Image alt text
 ---
