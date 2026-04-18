@@ -13,6 +13,14 @@ sections:
       title: St Andrew's School (Secondary)
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
+  - infobar:
+      title: DSA-Sec Exercise
+      id: infobar
+      description: Please click on the following link for information on St Andrew's
+        School (Secondary)'s admission and selection criteria for the DSA-Sec
+        Exercise.
+      url: https://www.standrewssec.moe.edu.sg/files/St_Andrews_School__Secondary__2026_DSA_SEC_Exercise.pdf
+      button: Click here for details
   - infopic:
       title: E-Open House Webinar 2026
       id: infopic
