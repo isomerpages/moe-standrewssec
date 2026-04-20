@@ -35,6 +35,13 @@ sections:
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: Sec 2 Subject Selection Exercise
+          date: 20 April 2026
+          announcement: Please click on the link below for slides from the online
+            conferences on 16 April. Please note that the subject combinations
+            are TENTATIVE, with updated combinations to be released in October.
+          link_text: Click here for more information
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
         - title: WA2 Schedules
           date: 10 April 2026
           announcement: Please click on the link below for the Weighted Assessment 2 (WA2)
