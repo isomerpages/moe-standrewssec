@@ -5,6 +5,17 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
+<p><strong>Sec 2 Subject Selection Exercise <br>Slides from Conference with Parents on 16 April 2026</strong>
+</p>
+<p><em>Please note that</em> s<em>ubject combinations are </em><strong><em>TENTATIVE</em></strong><em>, with updated combinations to be released in October.</em>
+</p>
+<p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G3_subjects_16_Apr_School_Website.pdf" rel="noopener nofollow" target="_blank">For students taking majority G3 subjects</a>
+</p>
+<p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G2_subjects_16_Apr_School_Website.pdf" rel="noopener nofollow" target="_blank">For students taking majority G2 subjects</a>
+</p>
+<p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G1_subjects_16_Apr_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">For students taking majority G1 subjects</a>
+</p>
+<p></p>
 <p><strong>Letter to Parents</strong>
 </p>
 <p><a href="/files/2026_SAS_S__Letter_to_Parents__Term_2____Final.pdf" rel="noopener nofollow" target="_blank">2026 Term 2 Letter to Parents</a>
