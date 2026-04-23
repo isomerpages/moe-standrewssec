@@ -38,7 +38,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/SAS_S__WA_2_2026_Assessment_Timetable_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 WA2 Schedule</a>
+<p><a href="/files/SAS_S__WA_2_2026_Assessment_Timetable_Sec_4___5_V3.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 4 &amp; 5 WA2 Schedule</a>
 </p>
 <p></p>
 </li>
