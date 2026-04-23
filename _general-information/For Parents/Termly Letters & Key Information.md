@@ -9,9 +9,9 @@ variant: tiptap
 </p>
 <p><em>Please note that</em> s<em>ubject combinations are </em><strong><em>TENTATIVE</em></strong><em>, with updated combinations to be released in October.</em>
 </p>
-<p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G3_subjects_16_Apr_School_Website.pdf" rel="noopener nofollow" target="_blank">For students taking majority G3 subjects</a>
+<p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G3_subjects_16_Apr_School_Website__1_.pdf" rel="noopener nofollow" target="_blank">For students taking majority G3 subjects</a>
 </p>
-<p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G2_subjects_16_Apr_School_Website.pdf" rel="noopener nofollow" target="_blank">For students taking majority G2 subjects</a>
+<p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G2_subjects_16_Apr_School_Website__1_.pdf" rel="noopener nofollow" target="_blank">For students taking majority G2 subjects</a>
 </p>
 <p><a href="/files/Secondary_2_Subject_Selection_2026_For_students_taking_majority_G1_subjects_16_Apr_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">For students taking majority G1 subjects</a>
 </p>
