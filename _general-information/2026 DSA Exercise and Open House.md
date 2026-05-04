@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Please click on the following link for more information on our school's
 admission and selection criteria for the 2026 DSA-Sec Exercise:</p>
-<p><a href="/files/St_Andrews_School__Secondary__2026_DSA_SEC_Exercise.pdf" rel="noopener nofollow" target="_blank">St Andrew's School (Secondary) DSA-Sec Exercise</a>
+<p><a href="/files/St_Andrews_School__Secondary__2026_DSA_SEC_Exercise_For_website_upload_updated_4_May_2026.pdf" rel="noopener nofollow" target="_blank">St Andrew's School (Secondary) DSA-Sec Exercise</a>
 </p>
 <p></p>
 <p>We also welcome you to attend our E-Open House Webinar. Register by 11
