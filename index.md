@@ -22,7 +22,7 @@ sections:
           date: 22 June 2026
           announcement: Please read our Term 3 Letter to Parents in the link below.
           link_text: Click here for more information
-          link_url: https://www.standrewssec.moe.edu.sg/
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
         - title: Sec 2 Subject Selection Exercise
           date: 20 April 2026
           announcement: Please click on the link below for slides from the online
