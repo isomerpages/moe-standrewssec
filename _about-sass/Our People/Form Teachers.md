@@ -125,9 +125,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gary Ding</p>
-<p><a href="mailto:ding_chi_ying_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding_chi_ying_gary@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>

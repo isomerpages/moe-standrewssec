@@ -13,28 +13,16 @@ sections:
       title: St Andrew's School (Secondary)
       subtitle: Welcome to
       description: Home of Servant Leaders who bring life to the nations
-  - infobar:
-      title: DSA-Sec Exercise
-      id: infobar
-      description: Please click on the following link for information on St Andrew's
-        School (Secondary)'s admission and selection criteria for the DSA-Sec
-        Exercise.
-      url: https://www.standrewssec.moe.edu.sg/files/St_Andrews_School__Secondary__2026_DSA_SEC_Exercise_For_website_upload_updated_4_May_2026.pdf
-      button: Click here for details
-  - infopic:
-      title: E-Open House Webinar 2026
-      id: infopic
-      description: Join us at our E-Open House Webinar 2026.  Register by 11 May 2026
-        at the link below.
-      button: Click here to register
-      url: https://forms.moe.edu.sg/forms/J49OdW
-      image: /images/WhatsApp_Image_2026_04_17_at_13_18_44.jpg
-      alt: Image alt text
   - announcements:
       title: Announcements
       id: announcements
       subtitle: Latest news and updates
       announcement_items:
+        - title: Term 3 Letter to Parents
+          date: 22 June 2026
+          announcement: Please read our Term 3 Letter to Parents in the link below.
+          link_text: Click here for more information
+          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
         - title: Sec 2 Subject Selection Exercise
           date: 20 April 2026
           announcement: Please click on the link below for slides from the online
@@ -48,11 +36,6 @@ sections:
             schedules.
           link_text: Click here for details
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
-        - title: Term 2 Letter to Parents
-          date: 13 March 2026
-          announcement: Please read our Term 2 Letter to Parents in the link below.
-          link_text: Click here for more information
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
