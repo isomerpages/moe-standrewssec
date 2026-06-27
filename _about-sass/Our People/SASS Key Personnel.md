@@ -159,7 +159,7 @@ variant: tiptap
 <p>Mrs Fiona Qiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language &amp; Literature (Covering)</p>
+<p>HOD/ English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_xuewei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_xuewei_fiona@moe.edu.sg</a>
