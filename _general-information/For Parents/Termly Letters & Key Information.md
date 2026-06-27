@@ -70,7 +70,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Secondary_3_Overall_Assessment_Plan_V5.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
+<p><a href="/files/Sec_3_Assessment_template_to_be_uploaded_on_school_website_updated_on_25_June_2026.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Overall Assessment Plan</a>
 </p>
 </li>
 <li>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h2>SASS Key Personnel</h2>
+<h2>SAS(S) Key Personnel</h2>
 <h4>School Leaders</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -159,7 +159,7 @@ variant: tiptap
 <p>Mrs Fiona Qiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language &amp; Literature (Covering)</p>
+<p>HOD/ English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_xuewei_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_xuewei_fiona@moe.edu.sg</a>
@@ -532,6 +532,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheong Pei Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sass@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sass@moe.edu.sg</a>

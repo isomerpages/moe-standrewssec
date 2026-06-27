@@ -38,6 +38,9 @@ variant: tiptap
 <p>Mr Daniel Neo</p>
 <p><a href="mailto:daniel_neo_chong_shern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_neo_chong_shern@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Leow Mei Hui</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -125,7 +128,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms K Shantini</p>
+<p><a href="mailto:shanthini_karunagaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shanthini_karunagaran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +138,6 @@ variant: tiptap
 <p>1 Empathy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Ms Wang Kai Qi</p>
 <p><a href="mailto:wang_kai_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_kai_qi@moe.edu.sg</a>
 </p>
@@ -191,9 +195,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryan Tan</p>
-<p><a href="mailto:tan_jun_jie_bryan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_jie_bryan@moe.edu.sg</a>
+<p>Ms Dawn Ng</p>
+<p><a href="mailto:dawn_ng_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawn_ng_li_li@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -247,12 +252,14 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Eu Khim</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_eu_khim@moe.edu.sg</a>
+<p>Mr Coleman Tong</p>
+<p><a href="mailto:tong_coleman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tong_coleman@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Eu Khim</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ng_eu_khim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -265,6 +272,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Jerrod Lo</p>
+<p><a href="mailto:lo_chong_chiah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lo_chong_chiah@moe.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
