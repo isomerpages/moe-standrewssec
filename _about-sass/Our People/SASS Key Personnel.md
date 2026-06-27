@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h2>SASS Key Personnel</h2>
+<h2>SAS(S) Key Personnel</h2>
 <h4>School Leaders</h4>
 <table style="minWidth: 75px">
 <colgroup>
