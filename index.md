@@ -21,13 +21,13 @@ sections:
         - title: Term 3 Letter to Parents
           date: 22 June 2026
           announcement: Please read our Term 3 Letter to Parents in the link below.
-          link_text: Click here for more information
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
+          link_text: Term 3 Letter to Parents
+          link_url: https://www.standrewssec.moe.edu.sg/files/2026_Letter_to_Parents__Term_3_.pdf
         - title: DSA (Sec) Exercise
           date: 04 May 2026
           announcement: Please click on the link below for information on the DSA (Sec)
             Exercise
-          link_text: Click here for details
+          link_text: DSA (Sec) Exercise
           link_url: https://www.standrewssec.moe.edu.sg/files/St_Andrews_School__Secondary__2026_DSA_SEC_Exercise_For_website_upload_updated_4_May_2026.pdf
         - title: Sec 2 Subject Selection Exercise
           date: 20 April 2026
