@@ -23,6 +23,12 @@ sections:
           announcement: Please read our Term 3 Letter to Parents in the link below.
           link_text: Click here for more information
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
+        - title: DSA (Sec) Exercise
+          date: 04 May 2026
+          announcement: Please click on the link below for information on the DSA (Sec)
+            Exercise
+          link_text: Click here for details
+          link_url: https://www.standrewssec.moe.edu.sg/files/St_Andrews_School__Secondary__2026_DSA_SEC_Exercise_For_website_upload_updated_4_May_2026.pdf
         - title: Sec 2 Subject Selection Exercise
           date: 20 April 2026
           announcement: Please click on the link below for slides from the online
@@ -30,12 +36,6 @@ sections:
             are TENTATIVE, with updated combinations to be released in October.
           link_text: Click here for more information
           link_url: https://www.standrewssec.moe.edu.sg/general-information/for-parents/
-        - title: WA2 Schedules
-          date: 10 April 2026
-          announcement: Please click on the link below for the Weighted Assessment 2 (WA2)
-            schedules.
-          link_text: Click here for details
-          link_url: https://www.standrewssec.moe.edu.sg/general-information/for-students/
   - infopic:
       title: News of the Term
       description: Download Principal's Termly Letters
