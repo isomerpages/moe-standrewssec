@@ -15,9 +15,9 @@ Likewise, our curriculum and activities have been developed and refined to bring
 
 St Andrew’s School has a long tradition of achievement and excellence in sports. In 2004, we were recognised as a rugby niche school. In view of the school’s sound sports programme, the school was accorded the Learning for Life Programme (LLP): Sports for Life in 2014. In 2023, the school's LLP shifted to Community and Youth Leadership, in alignment with our school's vision.
 
-In 2015, the school was accorded Applied Learning Programme (ALP) in engineering and robotics. Through ALP, our boys applied logical reasoning and design thinking in their projects, and sharpened their critical and creative thinking abilities in the process. 
+In 2015, the school was accorded Applied Learning Programme (ALP) in engineering and robotics. Through ALP, our boys applied logical reasoning and design thinking in their projects, and sharpened their critical and creative thinking abilities in the process. Our boys today actively apply the Design Thinking process in their cross-disciplinary Project Work and Values-in-Action projects serving the community. 
 
-The arts has always been an integral part of the Saints’ experience. The school introduces programmes to excite and engage our students in developing their appreciation towards the arts, such as via the biennial Performing Arts concerts and Hall Assembly programmes.   
+The arts has always been an integral part of the Saints’ experience. The school introduces programmes to excite and engage our students in developing their appreciation towards the arts, such as via the biennial Performing Arts school productions, National Education and Hall Assembly programmes.   
 
 At St Andrew’s, we offer a holistic education that nurtures all-rounded Saints: Servant Leaders who bring life to the nations.  
 
