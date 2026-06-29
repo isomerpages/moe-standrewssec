@@ -13,9 +13,9 @@ Our school has moved 5 times to better provide for the growing number of student
 
 Likewise, our curriculum and activities have been developed and refined to bring out the best in our boys. They include customised courses and approaches: tailored to students’ learning needs and preferences in the various streams. Leveraging on our location by the Kallang River, one of our key programmes – River Studies – supports learning beyond the classroom and authentically teaches the importance of environmental conservation.   
 
-St Andrew’s School has a long tradition of achievement and excellence in sports. In 2004, we were recognised as a rugby niche school. In view of the school’s sound sports programme, the school was accorded the Learning for Life Programme (LLP): Sports for Life in 2014. In 2020, the school's LLP shifted to Community and Youth Leadership, in alignment to our school's vision.
+St Andrew’s School has a long tradition of achievement and excellence in sports. In 2004, we were recognised as a rugby niche school. In view of the school’s sound sports programme, the school was accorded the Learning for Life Programme (LLP): Sports for Life in 2014. In 2023, the school's LLP shifted to Community and Youth Leadership, in alignment with our school's vision.
 
-In 2015, the school was accorded Applied Learning Programme (ALP) in engineering and robotics. Through ALP, our boys apply logical reasoning and design thinking in their projects, and sharpen their critical and creative thinking abilities in the process. 
+In 2015, the school was accorded Applied Learning Programme (ALP) in engineering and robotics. Through ALP, our boys applied logical reasoning and design thinking in their projects, and sharpened their critical and creative thinking abilities in the process. 
 
 The arts has always been an integral part of the Saints’ experience. The school introduces programmes to excite and engage our students in developing their appreciation towards the arts, such as via the biennial Performing Arts concerts and Hall Assembly programmes.   
 
